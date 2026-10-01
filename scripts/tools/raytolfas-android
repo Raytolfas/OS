@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+if ! lsmod 2>/dev/null | grep -q binder_linux; then
+    modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
+fi
+
+STATUS=$(waydroid status 2>/dev/null)
+if ! echo "${STATUS}" | grep -q "RUNNING"; then
+    sudo waydroid container start &
+    for i in $(seq 1 15); do
+        sleep 1
+        waydroid status 2>/dev/null | grep -q "RUNNING" && break
+    done
+fi
+
+if [ -z "$WAYLAND_DISPLAY" ]; then
+    if which weston >/dev/null 2>&1; then
+        if ! pgrep -x weston >/dev/null 2>&1; then
+            weston --width=1280 --height=720 &
+            sleep 2
+        fi
+        export WAYLAND_DISPLAY="wayland-1"
+    fi
+fi
+
+if ! waydroid status 2>/dev/null | grep -q "Session.*RUNNING"; then
+    waydroid session start &
+    sleep 2
+fi
+
+waydroid show-full-ui

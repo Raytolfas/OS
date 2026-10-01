@@ -1,0 +1,90 @@
+#!/usr/bin/env bash
+if [ -z "$1" ]; then
+    notify-send -u critical "Raytolfas Android" "Specify a .apk file to install!" 2>/dev/null || true
+    exit 1
+fi
+
+APK_PATH="$(realpath "$1")"
+APK_NAME="$(basename "$APK_PATH")"
+
+if ! [ -f "$APK_PATH" ]; then
+    notify-send -u critical "Raytolfas Android" "File not found: $APK_NAME" 2>/dev/null || true
+    exit 1
+fi
+
+notify-send "Raytolfas Android" "Preparing Android Subsystem to install $APK_NAME..." 2>/dev/null || true
+
+if ! lsmod 2>/dev/null | grep -q binder_linux; then
+    modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
+fi
+
+if ! waydroid status 2>/dev/null | grep -q "RUNNING"; then
+    systemctl start waydroid-container 2>/dev/null || sudo waydroid container start &
+    for i in $(seq 1 15); do
+        sleep 1
+        waydroid status 2>/dev/null | grep -q "RUNNING" && break
+    done
+fi
+
+if [ -z "$WAYLAND_DISPLAY" ]; then
+    if which weston >/dev/null 2>&1; then
+        if ! pgrep -x weston >/dev/null 2>&1; then
+            weston --width=1280 --height=720 &
+            sleep 2
+        fi
+        export WAYLAND_DISPLAY="wayland-1"
+    fi
+fi
+
+if ! waydroid status 2>/dev/null | grep -q "Session.*RUNNING"; then
+    waydroid session start &
+    for s in $(seq 1 10); do
+        sleep 1
+        waydroid status 2>/dev/null | grep -q "Session.*RUNNING" && break
+    done
+fi
+
+for w in $(seq 1 25); do
+    BOOT_OK="$(waydroid shell getprop sys.boot_completed 2>/dev/null | tr -d '\r\n')"
+    if [ "$BOOT_OK" = "1" ]; then
+        break
+    fi
+    sleep 1
+done
+
+PKG_NAME=""
+if which aapt >/dev/null 2>&1; then
+    PKG_NAME="$(aapt dump badging "$APK_PATH" 2>/dev/null | grep "package: name=" | awk -F"'" '{print $2}')"
+fi
+
+notify-send "Raytolfas Android" "Installing $APK_NAME into Waydroid..." 2>/dev/null || true
+
+INSTALLED=0
+if waydroid app install "$APK_PATH" 2>/dev/null; then
+    INSTALLED=1
+else
+    CONTAINER_SHARED="/var/lib/waydroid/data/media/0/Download"
+    mkdir -p "$CONTAINER_SHARED" 2>/dev/null || true
+    TMP_APK="${CONTAINER_SHARED}/raytolfas_install.apk"
+    cp -f "$APK_PATH" "$TMP_APK" 2>/dev/null || true
+    chmod 666 "$TMP_APK" 2>/dev/null || true
+    PM_OUT="$(waydroid shell pm install -r -g /sdcard/Download/raytolfas_install.apk 2>&1)"
+    rm -f "$TMP_APK" 2>/dev/null || true
+    if echo "$PM_OUT" | grep -qi "success"; then
+        INSTALLED=1
+    fi
+fi
+
+if [ "$INSTALLED" = "1" ]; then
+    notify-send "Raytolfas Android" "Installed $APK_NAME! Launching..." 2>/dev/null || true
+    if [ -n "$PKG_NAME" ]; then
+        waydroid app launch "$PKG_NAME" 2>/dev/null &
+    else
+        NEW_APP=$(ls -t ~/.local/share/applications/waydroid.*.desktop 2>/dev/null | head -n 1)
+        if [ -n "$NEW_APP" ] && [ -f "$NEW_APP" ]; then
+            gtk-launch "$(basename "$NEW_APP" .desktop)" 2>/dev/null || true
+        fi
+    fi
+else
+    notify-send -u critical "Raytolfas Android" "Failed to install $APK_NAME" 2>/dev/null || true
+fi

@@ -1,0 +1,74 @@
+#!/usr/bin/env bash
+PROTON_GE="/opt/GE-Proton"
+export WINEPREFIX="${WINEPREFIX:-${HOME}/.proton-ge-prefix}"
+export WINEDEBUG="${WINEDEBUG:--all}"
+export DXVK_LOG_LEVEL="${DXVK_LOG_LEVEL:-none}"
+export DXVK_HUD="${DXVK_HUD:-0}"
+export PROTON_FORCE_LARGE_ADDRESS_AWARE=1
+export WINEESYNC=1
+export WINEFSYNC=1
+
+WINE_BIN=""
+WINE64_BIN=""
+WINESERVER_BIN=""
+WINE_LIB_DIR=""
+
+if [ -f "${PROTON_GE}/files/bin/wine" ]; then
+    WINE_BIN="${PROTON_GE}/files/bin/wine"
+    WINE64_BIN="${PROTON_GE}/files/bin/wine"
+    WINESERVER_BIN="${PROTON_GE}/files/bin/wineserver"
+    WINE_LIB_DIR="${PROTON_GE}/files/lib/x86_64-linux-gnu:${PROTON_GE}/files/lib/i386-linux-gnu:${PROTON_GE}/files/lib"
+elif [ -f "${PROTON_GE}/dist/bin/wine" ]; then
+    WINE_BIN="${PROTON_GE}/dist/bin/wine"
+    WINE64_BIN="${PROTON_GE}/dist/bin/wine"
+    WINESERVER_BIN="${PROTON_GE}/files/bin/wineserver"
+    WINE_LIB_DIR="${PROTON_GE}/dist/lib/x86_64-linux-gnu:${PROTON_GE}/dist/lib/i386-linux-gnu:${PROTON_GE}/dist/lib"
+elif [ -f "${PROTON_GE}/bin/wine" ]; then
+    WINE_BIN="${PROTON_GE}/bin/wine"
+    WINE64_BIN="${PROTON_GE}/bin/wine"
+    WINESERVER_BIN="${PROTON_GE}/bin/wineserver"
+    WINE_LIB_DIR="${PROTON_GE}/lib/x86_64-linux-gnu:${PROTON_GE}/lib/i386-linux-gnu:${PROTON_GE}/lib"
+fi
+
+if [ -z "$1" ]; then
+    echo "Usage: raytolfas-proton app.exe"
+    exit 1
+fi
+
+TARGET="$(realpath "$1")"
+APPDIR="$(dirname "${TARGET}")"
+cd "${APPDIR}" 2>/dev/null || true
+
+export WINEDLLOVERRIDES="mscoree,mshtml="
+
+if [ -n "${WINE_BIN}" ] && [ -x "${WINE_BIN}" ]; then
+    export PATH="$(dirname "${WINE_BIN}"):${PATH}"
+    export LD_LIBRARY_PATH="${WINE_LIB_DIR}:${LD_LIBRARY_PATH:-}"
+    export WINESERVER="${WINESERVER_BIN}"
+
+    mkdir -p "${WINEPREFIX}"
+    if [ ! -f "${WINEPREFIX}/system.reg" ]; then
+        echo "[raytolfas-proton] Initializing Wine prefix at ${WINEPREFIX}..."
+        WINEARCH=win64 "${WINE64_BIN}" wineboot --init 2>/dev/null || true
+    fi
+
+    if [ ! -f "${WINEPREFIX}/.fonts_tuned" ]; then
+        "${WINE_BIN}" reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothing /t REG_SZ /d 2 /f 2>/dev/null || true
+        "${WINE_BIN}" reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothingType /t REG_DWORD /d 2 /f 2>/dev/null || true
+        "${WINE_BIN}" reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothingGamma /t REG_DWORD /d 1400 /f 2>/dev/null || true
+        "${WINE_BIN}" reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothingOrientation /t REG_DWORD /d 1 /f 2>/dev/null || true
+        touch "${WINEPREFIX}/.fonts_tuned" 2>/dev/null || true
+    fi
+
+    exec "${WINE_BIN}" "${TARGET}" "${@:2}"
+else
+    echo "[raytolfas-proton] Proton-GE not found, falling back to system wine..."
+    if [ ! -f "${WINEPREFIX}/.fonts_tuned" ]; then
+        wine reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothing /t REG_SZ /d 2 /f 2>/dev/null || true
+        wine reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothingType /t REG_DWORD /d 2 /f 2>/dev/null || true
+        wine reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothingGamma /t REG_DWORD /d 1400 /f 2>/dev/null || true
+        wine reg add "HKCU\\Control Panel\\Desktop" /v FontSmoothingOrientation /t REG_DWORD /d 1 /f 2>/dev/null || true
+        touch "${WINEPREFIX}/.fonts_tuned" 2>/dev/null || true
+    fi
+    exec wine "${TARGET}" "${@:2}"
+fi

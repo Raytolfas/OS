@@ -1,0 +1,18 @@
+polkit.addRule(function(action, subject) {
+    if (action.id.indexOf("org.freedesktop.NetworkManager.") === 0 ||
+        action.id.indexOf("org.freedesktop.login1.") === 0 ||
+        action.id.indexOf("org.freedesktop.power-management.") === 0 ||
+        action.id.indexOf("org.freedesktop.upower.") === 0 ||
+        action.id.indexOf("org.freedesktop.consolekit.") === 0 ||
+        action.id.indexOf("org.freedesktop.udisks2.") === 0 ||
+        action.id.indexOf("org.kde.kpmcore.") === 0 ||
+        action.id.indexOf("org.kde.powerdevil.") === 0 ||
+        action.id.indexOf("com.github.calamares.") === 0 ||
+        action.id.indexOf("org.kde.calamares.") === 0 ||
+        action.id.indexOf("org.freedesktop.policykit.exec") === 0 ||
+        subject.user === "admin" ||
+        subject.isInGroup("sudo") ||
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
