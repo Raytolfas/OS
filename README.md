@@ -11,6 +11,9 @@
 
 Desktop Linux distribution built with KDE Plasma on Wayland, featuring out-of-the-box Windows (`.exe`) and Android (`.apk`) runtime support, powered by the Limine bootloader.
 
+## Download:
+[Releases](https://github.com/Raytolfas/OS/releases)
+
 ## Key Features
 
 - **Compatibility:** Integrated Proton-GE and pre-configured Waydroid container.
