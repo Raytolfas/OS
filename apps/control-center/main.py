@@ -6,7 +6,7 @@ from PyQt6.QtGui import QGuiApplication, QIcon
 from PyQt6.QtQml import QQmlApplicationEngine
 
 CURRENT_VERSION = "v26.10.0"
-CURRENT_PATCH_VERSION = "v26.10.0"
+CURRENT_PATCH_VERSION = "v26.10.2"
 UPDATE_ENDPOINT = "https://os.raytolfas.cc/update"
 
 class ControlCenterBackend(QObject):
@@ -24,6 +24,7 @@ class ControlCenterBackend(QObject):
         self._update_available = False
         self._update_checking = False
         self._download_url = ""
+        self._update_progress = 0
 
         self._patch_status = "Select this tab to check for available system hotfixes"
         self._patch_changelog = ""
@@ -34,6 +35,18 @@ class ControlCenterBackend(QObject):
         self._patch_agreed = False
 
         self._waydroid_status = self._get_waydroid_status()
+        self._current_theme = "dark"
+        self._accent_color = "#0078D4"
+        self._gamemode_active = self._check_gamemode()
+        self._mangohud_active = self._check_mangohud()
+        self._power_profile = self._get_power_profile()
+
+    def _get_power_profile(self):
+        try:
+            out = subprocess.check_output(["powerprofilesctl", "get"], stderr=subprocess.DEVNULL, text=True)
+            return out.strip()
+        except Exception:
+            return "balanced"
 
     def _get_cpu(self):
         try:
@@ -65,6 +78,23 @@ class ControlCenterBackend(QObject):
         except Exception:
             return "Ready to use"
 
+    def _check_gamemode(self):
+        try:
+            out = subprocess.check_output(["gamemoded", "-s"], stderr=subprocess.DEVNULL, text=True)
+            return "active" in out.lower()
+        except Exception:
+            return False
+
+    def _check_mangohud(self):
+        env_file = Path.home() / ".config" / "environment.d" / "99-raytolfas-gaming.conf"
+        if env_file.exists():
+            try:
+                content = env_file.read_text()
+                return "MANGOHUD=1" in content
+            except Exception:
+                pass
+        return False
+
     @pyqtProperty(str, notify=stateChanged)
     def os_version(self): return self._os_version
 
@@ -95,6 +125,9 @@ class ControlCenterBackend(QObject):
     @pyqtProperty(bool, notify=stateChanged)
     def update_checking(self): return self._update_checking
 
+    @pyqtProperty(int, notify=stateChanged)
+    def update_progress(self): return self._update_progress
+
     @pyqtProperty(str, notify=stateChanged)
     def patch_status(self): return self._patch_status
 
@@ -107,46 +140,58 @@ class ControlCenterBackend(QObject):
     @pyqtProperty(bool, notify=stateChanged)
     def patch_checking(self): return self._patch_checking
 
+    @pyqtProperty(str, notify=stateChanged)
+    def patch_version(self): return self._patch_version
+
     @pyqtProperty(bool, notify=stateChanged)
     def patch_agreed(self): return self._patch_agreed
 
     @pyqtProperty(str, notify=stateChanged)
     def waydroid_status(self): return self._waydroid_status
 
+    @pyqtProperty(str, notify=stateChanged)
+    def current_theme(self): return self._current_theme
+
+    @pyqtProperty(str, notify=stateChanged)
+    def accent_color(self): return self._accent_color
+
+    @pyqtProperty(bool, notify=stateChanged)
+    def gamemode_active(self): return self._gamemode_active
+
+    @pyqtProperty(bool, notify=stateChanged)
+    def mangohud_active(self): return self._mangohud_active
+
+    @pyqtProperty(str, notify=stateChanged)
+    def current_power_profile(self): return self._power_profile
+
     @pyqtSlot(bool)
     def set_patch_agreed(self, agreed):
         self._patch_agreed = agreed
         self.stateChanged.emit()
-        if agreed:
-            self.check_for_patches()
 
     @pyqtSlot()
     def check_for_updates(self):
+        if self._update_checking:
+            return
         self._update_checking = True
-        self._update_status = "Connecting to os.raytolfas.cc/update..."
-        self._update_changelog = ""
-        self._update_available = False
+        self._update_status = "Connecting to update server..."
         self.stateChanged.emit()
-
-        threading.Thread(target=self._fetch_updates, daemon=True).start()
+        threading.Thread(target=self._fetch_manifest, daemon=True).start()
 
     @pyqtSlot()
     def check_for_patches(self):
-        if not self._patch_agreed:
+        if self._patch_checking:
             return
         self._patch_checking = True
-        self._patch_status = "Searching for patches on os.raytolfas.cc/update..."
-        self._patch_changelog = ""
-        self._patch_available = False
+        self._patch_status = "Scanning for available patches..."
         self.stateChanged.emit()
+        threading.Thread(target=self._fetch_manifest, daemon=True).start()
 
-        threading.Thread(target=self._fetch_updates, daemon=True).start()
-
-    def _fetch_updates(self):
+    def _fetch_manifest(self):
         try:
             req = urllib.request.Request(
                 UPDATE_ENDPOINT,
-                headers={"User-Agent": f"RaytolfasOS/{CURRENT_VERSION}"}
+                headers={"User-Agent": f"RaytolfasOS/{CURRENT_VERSION} ({platform.machine()})"}
             )
             with urllib.request.urlopen(req, timeout=4) as response:
                 data = json.loads(response.read().decode("utf-8"))
@@ -194,13 +239,204 @@ class ControlCenterBackend(QObject):
 
     @pyqtSlot()
     def download_update(self):
-        url = self._download_url or "https://raytolfas.com"
+        url = self._download_url or "https://os.raytolfas.cc"
         subprocess.Popen(["xdg-open", url])
 
     @pyqtSlot()
+    def choose_and_apply_iso(self):
+        if self._update_checking:
+            return
+        iso_file = self._pick_iso_file()
+        if iso_file and os.path.isfile(iso_file):
+            self._update_checking = True
+            self._update_progress = 0
+            self._update_status = f"Upgrading system from {os.path.basename(iso_file)}..."
+            self.stateChanged.emit()
+            threading.Thread(target=self._perform_iso_upgrade, args=(iso_file,), daemon=True).start()
+
+    def _pick_iso_file(self):
+        try:
+            proc = subprocess.run(
+                ["kdialog", "--getopenfilename", str(Path.home()), "*.iso | ISO Images (*.iso)"],
+                stdout=subprocess.PIPE,
+                text=True
+            )
+            if proc.returncode == 0 and proc.stdout.strip():
+                return proc.stdout.strip()
+        except Exception:
+            pass
+        try:
+            from PyQt6.QtWidgets import QFileDialog
+            fn, _ = QFileDialog.getOpenFileName(None, "Select Raytolfas OS ISO Image", str(Path.home()), "ISO Images (*.iso)")
+            if fn:
+                return fn
+        except Exception:
+            pass
+        return None
+
+    @pyqtSlot()
+    def download_and_apply_iso(self):
+        if self._update_checking:
+            return
+        url = self._download_url
+        if not url:
+            return
+        self._update_checking = True
+        self._update_progress = 0
+        self._update_status = "Connecting to download release ISO..."
+        self.stateChanged.emit()
+        threading.Thread(target=self._perform_download_and_upgrade, args=(url,), daemon=True).start()
+
+    def _perform_download_and_upgrade(self, url):
+        try:
+            target_dir = Path.home() / "Downloads"
+            target_dir.mkdir(parents=True, exist_ok=True)
+            iso_name = url.split("/")[-1] if "/" in url else "raytolfas-release.iso"
+            if not iso_name.endswith(".iso"):
+                iso_name = "raytolfas-release.iso"
+            target_iso = target_dir / iso_name
+
+            def reporthook(blocknum, blocksize, totalsize):
+                if totalsize > 0:
+                    percent = min(100, int(blocknum * blocksize * 100 / totalsize))
+                    mb_down = round(blocknum * blocksize / (1024 * 1024), 1)
+                    mb_total = round(totalsize / (1024 * 1024), 1)
+                    self._update_status = f"Downloading release ISO: {percent}% ({mb_down} / {mb_total} MB)..."
+                    self._update_progress = percent
+                    self.stateChanged.emit()
+
+            urllib.request.urlretrieve(url, str(target_iso), reporthook=reporthook)
+            self._perform_iso_upgrade(str(target_iso))
+        except Exception as e:
+            self._update_status = f"Download error: {e}"
+            self._update_checking = False
+            self.stateChanged.emit()
+
+    def _perform_iso_upgrade(self, iso_path):
+        try:
+            self._update_status = "Applying system upgrade from ISO... Please do not power off."
+            self._update_progress = 100
+            self.stateChanged.emit()
+            proc = subprocess.run(
+                ["pkexec", "raytolfas-upgrade-iso", iso_path],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True
+            )
+            if proc.returncode == 0:
+                self._update_status = "System upgraded successfully from ISO! Please reboot your PC."
+                self._update_available = False
+            else:
+                out = proc.stdout.strip() if proc.stdout else ""
+                self._update_status = f"Upgrade failed: {out[-120:] if len(out) > 120 else out}"
+        except Exception as e:
+            self._update_status = f"Error during upgrade: {e}"
+        self._update_checking = False
+        self.stateChanged.emit()
+
+    @pyqtSlot()
     def download_patch(self):
-        url = self._patch_url or "https://raytolfas.com"
-        subprocess.Popen(["xdg-open", url])
+        url = self._patch_url or "https://os.raytolfas.cc"
+        if url.endswith(".deb"):
+            if self._patch_checking:
+                return
+            self._patch_checking = True
+            self._patch_status = "Downloading patch..."
+            self.stateChanged.emit()
+            threading.Thread(target=self._perform_patch_install, args=(url,), daemon=True).start()
+        else:
+            subprocess.Popen(["xdg-open", url])
+
+    def _perform_patch_install(self, url):
+        try:
+            target_deb = "/tmp/raytolfas_patch.deb"
+            urllib.request.urlretrieve(url, target_deb)
+            self._patch_status = "Installing patch into system..."
+            self.stateChanged.emit()
+            proc = subprocess.run(
+                ["pkexec", "apt-get", "install", "-y", "--allow-downgrades", target_deb],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True
+            )
+            if proc.returncode == 0:
+                self._patch_status = f"Patch {self._patch_version} installed successfully! Please reboot."
+                self._patch_available = False
+            else:
+                self._patch_status = f"Installation error (code {proc.returncode})"
+        except Exception as e:
+            self._patch_status = f"Error installing patch: {e}"
+        self._patch_checking = False
+        self.stateChanged.emit()
+
+    @pyqtSlot(str)
+    def set_power_profile(self, profile):
+        self._power_profile = profile
+        subprocess.Popen(["powerprofilesctl", "set", profile], stderr=subprocess.DEVNULL)
+        self.stateChanged.emit()
+
+    @pyqtSlot(str)
+    def apply_theme(self, theme_name):
+        self._current_theme = theme_name
+        if theme_name == "dark":
+            scheme = "FluentDark"
+            look = "org.raytolfas.desktop"
+        else:
+            scheme = "FluentLight"
+            look = "org.raytolfas.light"
+
+        subprocess.Popen(["plasma-apply-colorscheme", scheme], stderr=subprocess.DEVNULL)
+        subprocess.Popen(["plasma-apply-lookandfeel", "-a", look], stderr=subprocess.DEVNULL)
+        self.stateChanged.emit()
+
+    @pyqtSlot(str)
+    def apply_accent_color(self, hex_color):
+        self._accent_color = hex_color
+        hex_clean = hex_color.lstrip("#")
+        if len(hex_clean) == 6:
+            r = int(hex_clean[0:2], 16)
+            g = int(hex_clean[2:4], 16)
+            b = int(hex_clean[4:6], 16)
+            rgb_str = f"{r},{g},{b}"
+            for cmd in [
+                ["kwriteconfig6", "--file", "kdeglobals", "--group", "General", "--key", "AccentColor", rgb_str],
+                ["kwriteconfig5", "--file", "kdeglobals", "--group", "General", "--key", "AccentColor", rgb_str]
+            ]:
+                subprocess.Popen(cmd, stderr=subprocess.DEVNULL)
+            subprocess.Popen(["qdbus", "org.kde.KWin", "/KWin", "reconfigure"], stderr=subprocess.DEVNULL)
+        self.stateChanged.emit()
+
+    @pyqtSlot()
+    def toggle_mangohud(self):
+        self._mangohud_active = not self._mangohud_active
+        env_dir = Path.home() / ".config" / "environment.d"
+        env_dir.mkdir(parents=True, exist_ok=True)
+        env_file = env_dir / "99-raytolfas-gaming.conf"
+        val = "1" if self._mangohud_active else "0"
+        env_file.write_text(f"MANGOHUD={val}\n")
+        self.stateChanged.emit()
+
+    @pyqtSlot()
+    def toggle_gamemode(self):
+        self._gamemode_active = not self._gamemode_active
+        if self._gamemode_active:
+            subprocess.Popen(["gamemoded", "-r"], stderr=subprocess.DEVNULL)
+        self.stateChanged.emit()
+
+    @pyqtSlot()
+    def launch_spectacle(self):
+        subprocess.Popen(["spectacle", "-r"], stderr=subprocess.DEVNULL)
+
+    @pyqtSlot()
+    def launch_spectacle_record(self):
+        if Path("/usr/bin/vokoscreenNG").exists():
+            subprocess.Popen(["vokoscreenNG"], stderr=subprocess.DEVNULL)
+        else:
+            subprocess.Popen(["spectacle"], stderr=subprocess.DEVNULL)
+
+    @pyqtSlot()
+    def setup_android_libndk(self):
+        subprocess.Popen(["pkexec", "raytolfas-waydroid-setup"], stderr=subprocess.DEVNULL)
 
 def main():
     app = QGuiApplication(sys.argv)

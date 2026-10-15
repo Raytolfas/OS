@@ -1,0 +1,115 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ "$#" -lt 1 ]; then
+    echo "Usage: raytolfas-upgrade-iso <path-to-iso>"
+    exit 1
+fi
+
+ISO_PATH="$1"
+
+if [ ! -f "${ISO_PATH}" ]; then
+    echo "ERROR: ISO file not found: ${ISO_PATH}"
+    exit 1
+fi
+
+if [ "$(id -u)" -ne 0 ]; then
+    echo "ERROR: Root privileges required. Re-running with pkexec..."
+    exec pkexec "$0" "$@"
+fi
+
+ISO_MNT="/run/raytolfas/iso_mnt"
+SQFS_MNT="/run/raytolfas/sqfs_mnt"
+
+cleanup() {
+    sync || true
+    if mountpoint -q "${SQFS_MNT}" 2>/dev/null; then
+        umount -l "${SQFS_MNT}" 2>/dev/null || true
+    fi
+    if mountpoint -q "${ISO_MNT}" 2>/dev/null; then
+        umount -l "${ISO_MNT}" 2>/dev/null || true
+    fi
+    rm -rf /run/raytolfas 2>/dev/null || true
+}
+trap cleanup EXIT INT TERM
+
+mkdir -p "${ISO_MNT}" "${SQFS_MNT}"
+
+mount -o loop,ro "${ISO_PATH}" "${ISO_MNT}"
+
+SQUASHFS_FILE=""
+if [ -f "${ISO_MNT}/live/filesystem.squashfs" ]; then
+    SQUASHFS_FILE="${ISO_MNT}/live/filesystem.squashfs"
+elif [ -f "${ISO_MNT}/casper/filesystem.squashfs" ]; then
+    SQUASHFS_FILE="${ISO_MNT}/casper/filesystem.squashfs"
+fi
+
+if [ -z "${SQUASHFS_FILE}" ] || [ ! -f "${SQUASHFS_FILE}" ]; then
+    echo "ERROR: filesystem.squashfs not found in ISO image"
+    exit 1
+fi
+
+mount -o loop,ro "${SQUASHFS_FILE}" "${SQFS_MNT}"
+
+rsync -aHAX --delete \
+    --exclude=/home \
+    --exclude=/root \
+    --exclude=/boot/efi \
+    --exclude=/boot/grub \
+    --exclude=/etc/fstab \
+    --exclude=/etc/crypttab \
+    --exclude=/etc/hostname \
+    --exclude=/etc/hosts \
+    --exclude=/etc/machine-id \
+    --exclude=/etc/shadow* \
+    --exclude=/etc/passwd* \
+    --exclude=/etc/group* \
+    --exclude=/etc/gshadow* \
+    --exclude=/etc/subuid* \
+    --exclude=/etc/subgid* \
+    --exclude=/etc/sudoers \
+    --exclude=/etc/sudoers.d \
+    --exclude=/etc/NetworkManager/system-connections \
+    --exclude=/etc/netplan \
+    --exclude=/etc/network \
+    --exclude=/dev \
+    --exclude=/proc \
+    --exclude=/sys \
+    --exclude=/tmp \
+    --exclude=/run \
+    --exclude=/mnt \
+    --exclude=/media \
+    --exclude=/lost+found \
+    --exclude=/var/log \
+    --exclude=/var/tmp \
+    --exclude=/var/lib/raytolfas \
+    --exclude=/swapfile \
+    "${SQFS_MNT}/" /
+
+GENERIC_VMLINUZ="$(ls -1t /boot/vmlinuz-*-generic 2>/dev/null | head -n 1 || true)"
+if [ -n "${GENERIC_VMLINUZ}" ] && [ -f "${GENERIC_VMLINUZ}" ]; then
+    GENERIC_NAME="$(basename "${GENERIC_VMLINUZ}")"
+    VERSION_SUFFIX="${GENERIC_NAME#vmlinuz-}"
+    ln -sf "${GENERIC_NAME}" /boot/vmlinuz
+    ln -sf "boot/${GENERIC_NAME}" /vmlinuz 2>/dev/null || true
+    if [ -f "/boot/initrd.img-${VERSION_SUFFIX}" ]; then
+        ln -sf "initrd.img-${VERSION_SUFFIX}" /boot/initrd.img
+        ln -sf "boot/initrd.img-${VERSION_SUFFIX}" /initrd.img 2>/dev/null || true
+    fi
+fi
+
+if [ -f /etc/xdg/plasmashellrc ]; then
+    rm -f /etc/xdg/plasmashellrc 2>/dev/null || true
+fi
+for u in /etc/skel /home/*; do
+    if [ -d "$u/.config" ]; then
+        rm -f "$u/.config/plasmashellrc" 2>/dev/null || true
+    fi
+done
+
+ldconfig 2>/dev/null || true
+update-desktop-database /usr/share/applications 2>/dev/null || true
+update-mime-database /usr/share/mime 2>/dev/null || true
+systemd-hwdb update 2>/dev/null || true
+
+echo "SUCCESS: Raytolfas OS successfully upgraded from ISO image!"

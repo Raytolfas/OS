@@ -44,3 +44,5 @@ venv/
 
 .cargo/registry/
 .cargo/git/
+
+assets/rqio/

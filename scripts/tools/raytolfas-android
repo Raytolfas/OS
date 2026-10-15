@@ -1,12 +1,19 @@
 #!/usr/bin/env bash
+set -e
+
 if ! lsmod 2>/dev/null | grep -q binder_linux; then
-    modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
+    sudo modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
 fi
 
-STATUS=$(waydroid status 2>/dev/null)
+if ! [ -d /var/lib/waydroid/images ] || ! [ -f /var/lib/waydroid/images/system.img ]; then
+    notify-send "Raytolfas Android" "First time setup: Initializing Android container..." 2>/dev/null || true
+    sudo waydroid init 2>/dev/null || true
+fi
+
+STATUS=$(waydroid status 2>/dev/null || true)
 if ! echo "${STATUS}" | grep -q "RUNNING"; then
-    sudo waydroid container start &
-    for i in $(seq 1 15); do
+    sudo systemctl start waydroid-container 2>/dev/null || sudo waydroid container start &
+    for i in $(seq 1 20); do
         sleep 1
         waydroid status 2>/dev/null | grep -q "RUNNING" && break
     done
@@ -24,7 +31,37 @@ fi
 
 if ! waydroid status 2>/dev/null | grep -q "Session.*RUNNING"; then
     waydroid session start &
-    sleep 2
+    for s in $(seq 1 15); do
+        sleep 1
+        waydroid status 2>/dev/null | grep -q "Session.*RUNNING" && break
+    done
 fi
+
+for w in $(seq 1 30); do
+    BOOT_OK="$(waydroid shell getprop sys.boot_completed 2>/dev/null | tr -d '\r\n')"
+    if [ "$BOOT_OK" = "1" ]; then
+        break
+    fi
+    sleep 1
+done
+
+CPU_ABIS="$(waydroid shell getprop ro.product.cpu.abilist 2>/dev/null | tr -d '\r\n')"
+if ! echo "$CPU_ABIS" | grep -qi "arm"; then
+    if [ ! -d /opt/waydroid-extras ]; then
+        sudo git clone --depth=1 https://github.com/casualsnek/waydroid_script.git /opt/waydroid-extras 2>/dev/null || true
+    fi
+    if [ -f /opt/waydroid-extras/main.py ]; then
+        notify-send "Raytolfas Android" "Configuring ARM translation (libndk)..." 2>/dev/null || true
+        sudo python3 /opt/waydroid-extras/main.py install libndk 2>/dev/null || echo "y" | sudo python3 /opt/waydroid-extras/main.py install libndk 2>/dev/null || true
+        sudo systemctl restart waydroid-container 2>/dev/null || true
+        sleep 3
+        if ! waydroid status 2>/dev/null | grep -q "Session.*RUNNING"; then
+            waydroid session start &
+            sleep 3
+        fi
+    fi
+fi
+
+raytolfas-waydroid-net-fix 2>/dev/null || true
 
 waydroid show-full-ui

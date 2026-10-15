@@ -95,6 +95,20 @@ ApplicationWindow {
                         }
                     }
                 }
+
+                NavButton {
+                    text: "Personalization"
+                    iconText: "\u2728"
+                    active: stackLayout.currentIndex === 4
+                    onClicked: stackLayout.currentIndex = 4
+                }
+
+                NavButton {
+                    text: "Gaming & Tools"
+                    iconText: "\u25b6"
+                    active: stackLayout.currentIndex === 5
+                    onClicked: stackLayout.currentIndex = 5
+                }
             }
         }
 
@@ -152,14 +166,14 @@ ApplicationWindow {
                             spacing: 8
                             Text { text: "Official Website:"; color: "#94a3b8"; font.pixelSize: 13 }
                             Text {
-                                text: "https://raytolfas.com"
+                                text: "https://os.raytolfas.cc"
                                 color: "#0078D4"
                                 font.pixelSize: 13
                                 font.bold: true
                                 MouseArea {
                                     anchors.fill: parent
                                     cursorShape: Qt.PointingHandCursor
-                                    onClicked: Qt.openUrlExternally("https://raytolfas.com")
+                                    onClicked: Qt.openUrlExternally("https://os.raytolfas.cc")
                                 }
                             }
                         }
@@ -182,13 +196,16 @@ ApplicationWindow {
 
                     Rectangle {
                         width: parent.width
-                        height: 260
+                        height: Math.max(260, updateCol.implicitHeight + 48)
                         color: "#0f172a"
                         radius: 12
                         border.color: "#1e293b"
 
                         Column {
-                            anchors.fill: parent
+                            id: updateCol
+                            anchors.left: parent.left
+                            anchors.right: parent.right
+                            anchors.top: parent.top
                             anchors.margins: 24
                             spacing: 16
 
@@ -225,6 +242,21 @@ ApplicationWindow {
                                 }
                             }
 
+                            Rectangle {
+                                width: parent.width
+                                height: 6
+                                radius: 3
+                                color: "#1e293b"
+                                visible: backend.update_checking && backend.update_progress > 0
+
+                                Rectangle {
+                                    width: parent.width * (backend.update_progress / 100.0)
+                                    height: parent.height
+                                    radius: 3
+                                    color: "#0078D4"
+                                }
+                            }
+
                             Text {
                                 text: backend.update_changelog
                                 color: "#94a3b8"
@@ -237,10 +269,10 @@ ApplicationWindow {
                     }
 
                     Row {
-                        spacing: 16
+                        spacing: 12
 
                         Rectangle {
-                            width: 190
+                            width: 170
                             height: 42
                             radius: 8
                             color: checkMouse.containsMouse ? "#334155" : "#1e293b"
@@ -266,15 +298,63 @@ ApplicationWindow {
                             width: 200
                             height: 42
                             radius: 8
-                            color: dlMouse.containsMouse ? "#1084d8" : "#0078D4"
+                            color: dlUpgradeMouse.containsMouse ? "#1084d8" : "#0078D4"
                             visible: backend.update_available
 
                             Text {
                                 anchors.centerIn: parent
-                                text: "Download Update"
+                                text: backend.update_checking ? "Upgrading..." : "Download & Upgrade"
                                 color: "#ffffff"
                                 font.pixelSize: 14
                                 font.bold: true
+                            }
+                            MouseArea {
+                                id: dlUpgradeMouse
+                                anchors.fill: parent
+                                hoverEnabled: true
+                                enabled: !backend.update_checking
+                                cursorShape: Qt.PointingHandCursor
+                                onClicked: backend.download_and_apply_iso()
+                            }
+                        }
+
+                        Rectangle {
+                            width: 210
+                            height: 42
+                            radius: 8
+                            color: localIsoMouse.containsMouse ? "#334155" : "#1e293b"
+                            border.color: "#475569"
+
+                            Text {
+                                anchors.centerIn: parent
+                                text: "Upgrade from Local ISO..."
+                                color: "#ffffff"
+                                font.pixelSize: 14
+                                font.bold: true
+                            }
+                            MouseArea {
+                                id: localIsoMouse
+                                anchors.fill: parent
+                                hoverEnabled: true
+                                enabled: !backend.update_checking
+                                cursorShape: Qt.PointingHandCursor
+                                onClicked: backend.choose_and_apply_iso()
+                            }
+                        }
+
+                        Rectangle {
+                            width: 150
+                            height: 42
+                            radius: 8
+                            color: dlMouse.containsMouse ? "#334155" : "#1e293b"
+                            border.color: "#475569"
+                            visible: backend.update_available
+
+                            Text {
+                                anchors.centerIn: parent
+                                text: "Open in Browser"
+                                color: "#94a3b8"
+                                font.pixelSize: 13
                             }
                             MouseArea {
                                 id: dlMouse
@@ -533,7 +613,7 @@ ApplicationWindow {
 
                             Text {
                                 anchors.centerIn: parent
-                                text: "Install Patch"
+                                text: backend.patch_checking ? "Installing..." : "Install Patch"
                                 color: "#ffffff"
                                 font.pixelSize: 14
                                 font.bold: true
@@ -542,8 +622,413 @@ ApplicationWindow {
                                 id: patchDlMouse
                                 anchors.fill: parent
                                 hoverEnabled: true
+                                enabled: !backend.patch_checking
                                 cursorShape: Qt.PointingHandCursor
                                 onClicked: backend.download_patch()
+                            }
+                        }
+                    }
+                }
+            }
+
+            Item {
+                Column {
+                    anchors.fill: parent
+                    anchors.margins: 36
+                    spacing: 20
+
+                    Text {
+                        text: "Personalization & Themes"
+                        color: "#ffffff"
+                        font.pixelSize: 24
+                        font.bold: true
+                    }
+
+                    Rectangle {
+                        width: parent.width
+                        height: 120
+                        color: "#0f172a"
+                        radius: 12
+                        border.color: "#1e293b"
+
+                        Column {
+                            anchors.fill: parent
+                            anchors.margins: 20
+                            spacing: 12
+
+                            Text {
+                                text: "Desktop Style"
+                                color: "#ffffff"
+                                font.pixelSize: 15
+                                font.bold: true
+                            }
+
+                            Row {
+                                spacing: 14
+
+                                Rectangle {
+                                    width: 140
+                                    height: 38
+                                    radius: 8
+                                    color: backend.current_theme === "dark" ? "#0078D4" : "#1e293b"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Fluent Dark"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.apply_theme("dark")
+                                    }
+                                }
+
+                                Rectangle {
+                                    width: 140
+                                    height: 38
+                                    radius: 8
+                                    color: backend.current_theme === "light" ? "#0078D4" : "#1e293b"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Fluent Light"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.apply_theme("light")
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    Rectangle {
+                        width: parent.width
+                        height: 110
+                        color: "#0f172a"
+                        radius: 12
+                        border.color: "#1e293b"
+
+                        Column {
+                            anchors.fill: parent
+                            anchors.margins: 20
+                            spacing: 12
+
+                            Text {
+                                text: "Accent Color"
+                                color: "#ffffff"
+                                font.pixelSize: 15
+                                font.bold: true
+                            }
+
+                            Row {
+                                spacing: 14
+
+                                Repeater {
+                                    model: ["#0078D4", "#8b5cf6", "#10b981", "#ef4444", "#f59e0b"]
+                                    Rectangle {
+                                        width: 34
+                                        height: 34
+                                        radius: 17
+                                        color: modelData
+                                        border.color: backend.accent_color === modelData ? "#ffffff" : "transparent"
+                                        border.width: 2
+                                        MouseArea {
+                                            anchors.fill: parent
+                                            cursorShape: Qt.PointingHandCursor
+                                            onClicked: backend.apply_accent_color(modelData)
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    Rectangle {
+                        width: parent.width
+                        height: 100
+                        color: "#0f172a"
+                        radius: 12
+                        border.color: "#1e293b"
+
+                        Column {
+                            anchors.fill: parent
+                            anchors.margins: 20
+                            spacing: 12
+
+                            Text {
+                                text: "Capture & Recording"
+                                color: "#ffffff"
+                                font.pixelSize: 15
+                                font.bold: true
+                            }
+
+                            Row {
+                                spacing: 14
+
+                                Rectangle {
+                                    width: 170
+                                    height: 38
+                                    radius: 8
+                                    color: "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Take Screenshot"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.launch_spectacle()
+                                    }
+                                }
+
+                                Rectangle {
+                                    width: 170
+                                    height: 38
+                                    radius: 8
+                                    color: "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Record Screen"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.launch_spectacle_record()
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            Item {
+                Column {
+                    anchors.fill: parent
+                    anchors.margins: 36
+                    spacing: 20
+
+                    Text {
+                        text: "Gaming & Performance"
+                        color: "#ffffff"
+                        font.pixelSize: 24
+                        font.bold: true
+                    }
+
+                    Rectangle {
+                        width: parent.width
+                        height: 140
+                        color: "#0f172a"
+                        radius: 12
+                        border.color: "#1e293b"
+
+                        Column {
+                            anchors.fill: parent
+                            anchors.margins: 20
+                            spacing: 12
+
+                            Text {
+                                text: "Gaming Optimizations"
+                                color: "#ffffff"
+                                font.pixelSize: 15
+                                font.bold: true
+                            }
+
+                            Row {
+                                spacing: 14
+
+                                Rectangle {
+                                    width: 180
+                                    height: 38
+                                    radius: 8
+                                    color: backend.gamemode_active ? "#10b981" : "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: backend.gamemode_active ? "GameMode Active" : "Enable GameMode"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.toggle_gamemode()
+                                    }
+                                }
+
+                                Rectangle {
+                                    width: 180
+                                    height: 38
+                                    radius: 8
+                                    color: backend.mangohud_active ? "#10b981" : "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: backend.mangohud_active ? "MangoHUD On" : "Enable MangoHUD"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.toggle_mangohud()
+                                    }
+                                }
+                            }
+
+                            Text {
+                                text: "Supports gamescope, GameMode governor and MangoHUD FPS/frametime overlay."
+                                color: "#94a3b8"
+                                font.pixelSize: 12
+                            }
+                        }
+                    }
+
+                    Rectangle {
+                        width: parent.width
+                        height: 120
+                        color: "#0f172a"
+                        radius: 12
+                        border.color: "#1e293b"
+
+                        Column {
+                            anchors.fill: parent
+                            anchors.margins: 20
+                            spacing: 12
+
+                            Text {
+                                text: "Power & Battery Profile"
+                                color: "#ffffff"
+                                font.pixelSize: 15
+                                font.bold: true
+                            }
+
+                            Row {
+                                spacing: 14
+
+                                Rectangle {
+                                    width: 140
+                                    height: 38
+                                    radius: 8
+                                    color: backend.current_power_profile === "power-saver" ? "#10b981" : "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Power Saver"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.set_power_profile("power-saver")
+                                    }
+                                }
+
+                                Rectangle {
+                                    width: 140
+                                    height: 38
+                                    radius: 8
+                                    color: backend.current_power_profile === "balanced" ? "#0078D4" : "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Balanced"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.set_power_profile("balanced")
+                                    }
+                                }
+
+                                Rectangle {
+                                    width: 140
+                                    height: 38
+                                    radius: 8
+                                    color: backend.current_power_profile === "performance" ? "#ef4444" : "#1e293b"
+                                    border.color: "#475569"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Performance"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.set_power_profile("performance")
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    Rectangle {
+                        width: parent.width
+                        height: 140
+                        color: "#0f172a"
+                        radius: 12
+                        border.color: "#1e293b"
+
+                        Column {
+                            anchors.fill: parent
+                            anchors.margins: 20
+                            spacing: 12
+
+                            Text {
+                                text: "Subsystems & Input"
+                                color: "#ffffff"
+                                font.pixelSize: 15
+                                font.bold: true
+                            }
+
+                            Row {
+                                spacing: 14
+
+                                Rectangle {
+                                    width: 220
+                                    height: 38
+                                    radius: 8
+                                    color: "#0078D4"
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "Configure ARM (libndk)"
+                                        color: "#ffffff"
+                                        font.pixelSize: 13
+                                        font.bold: true
+                                    }
+                                    MouseArea {
+                                        anchors.fill: parent
+                                        cursorShape: Qt.PointingHandCursor
+                                        onClicked: backend.setup_android_libndk()
+                                    }
+                                }
+                            }
+
+                            Text {
+                                text: "Mouse side buttons (Mouse 4 & 5) mapped to Back/Forward navigation."
+                                color: "#94a3b8"
+                                font.pixelSize: 12
                             }
                         }
                     }

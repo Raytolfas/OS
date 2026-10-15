@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=RayQuiro Application Runner
+Exec=/usr/local/bin/raytolfas-rqb-runner %f
+Terminal=false
+NoDisplay=false
+MimeType=application/x-rqb;
+Categories=Utility;Development;

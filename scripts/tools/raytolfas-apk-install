@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+set -e
+
 if [ -z "$1" ]; then
     notify-send -u critical "Raytolfas Android" "Specify a .apk file to install!" 2>/dev/null || true
     exit 1
@@ -15,12 +17,17 @@ fi
 notify-send "Raytolfas Android" "Preparing Android Subsystem to install $APK_NAME..." 2>/dev/null || true
 
 if ! lsmod 2>/dev/null | grep -q binder_linux; then
-    modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
+    sudo modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
+fi
+
+if ! [ -d /var/lib/waydroid/images ] || ! [ -f /var/lib/waydroid/images/system.img ]; then
+    notify-send "Raytolfas Android" "First time setup: Initializing Android container..." 2>/dev/null || true
+    sudo waydroid init 2>/dev/null || true
 fi
 
 if ! waydroid status 2>/dev/null | grep -q "RUNNING"; then
-    systemctl start waydroid-container 2>/dev/null || sudo waydroid container start &
-    for i in $(seq 1 15); do
+    sudo systemctl start waydroid-container 2>/dev/null || sudo waydroid container start &
+    for i in $(seq 1 20); do
         sleep 1
         waydroid status 2>/dev/null | grep -q "RUNNING" && break
     done
@@ -38,19 +45,38 @@ fi
 
 if ! waydroid status 2>/dev/null | grep -q "Session.*RUNNING"; then
     waydroid session start &
-    for s in $(seq 1 10); do
+    for s in $(seq 1 15); do
         sleep 1
         waydroid status 2>/dev/null | grep -q "Session.*RUNNING" && break
     done
 fi
 
-for w in $(seq 1 25); do
+for w in $(seq 1 30); do
     BOOT_OK="$(waydroid shell getprop sys.boot_completed 2>/dev/null | tr -d '\r\n')"
     if [ "$BOOT_OK" = "1" ]; then
         break
     fi
     sleep 1
 done
+
+CPU_ABIS="$(waydroid shell getprop ro.product.cpu.abilist 2>/dev/null | tr -d '\r\n')"
+if ! echo "$CPU_ABIS" | grep -qi "arm"; then
+    notify-send "Raytolfas Android" "Configuring ARM translation (libndk) for APK compatibility..." 2>/dev/null || true
+    if [ ! -d /opt/waydroid-extras ]; then
+        sudo git clone --depth=1 https://github.com/casualsnek/waydroid_script.git /opt/waydroid-extras 2>/dev/null || true
+    fi
+    if [ -f /opt/waydroid-extras/main.py ]; then
+        sudo python3 /opt/waydroid-extras/main.py install libndk 2>/dev/null || echo "y" | sudo python3 /opt/waydroid-extras/main.py install libndk 2>/dev/null || true
+        sudo systemctl restart waydroid-container 2>/dev/null || true
+        sleep 3
+        if ! waydroid status 2>/dev/null | grep -q "Session.*RUNNING"; then
+            waydroid session start &
+            sleep 3
+        fi
+    fi
+fi
+
+raytolfas-waydroid-net-fix 2>/dev/null || true
 
 PKG_NAME=""
 if which aapt >/dev/null 2>&1; then
@@ -64,12 +90,12 @@ if waydroid app install "$APK_PATH" 2>/dev/null; then
     INSTALLED=1
 else
     CONTAINER_SHARED="/var/lib/waydroid/data/media/0/Download"
-    mkdir -p "$CONTAINER_SHARED" 2>/dev/null || true
+    sudo mkdir -p "$CONTAINER_SHARED" 2>/dev/null || true
     TMP_APK="${CONTAINER_SHARED}/raytolfas_install.apk"
-    cp -f "$APK_PATH" "$TMP_APK" 2>/dev/null || true
-    chmod 666 "$TMP_APK" 2>/dev/null || true
+    sudo cp -f "$APK_PATH" "$TMP_APK" 2>/dev/null || true
+    sudo chmod 666 "$TMP_APK" 2>/dev/null || true
     PM_OUT="$(waydroid shell pm install -r -g /sdcard/Download/raytolfas_install.apk 2>&1)"
-    rm -f "$TMP_APK" 2>/dev/null || true
+    sudo rm -f "$TMP_APK" 2>/dev/null || true
     if echo "$PM_OUT" | grep -qi "success"; then
         INSTALLED=1
     fi

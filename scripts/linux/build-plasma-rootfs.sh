@@ -202,6 +202,17 @@ apt-get install -y --no-install-recommends \
     intel-microcode \
     amd64-microcode \
     kamoso \
+    kde-spectacle \
+    vokoscreen-ng \
+    gstreamer1.0-vaapi \
+    mangohud \
+    gamemode \
+    power-profiles-daemon \
+    vkbasalt \
+    goverlay \
+    nano \
+    python3-evdev \
+    libinput-tools \
     qml-qt6 \
     qmlscene-qt6 \
     python3-pyqt6 \
@@ -773,6 +784,7 @@ panel.addWidget("org.kde.plasma.pager");
 var icontasks = panel.addWidget("org.kde.plasma.icontasks");
 icontasks.currentConfigGroup = ["General"];
 icontasks.writeConfig("launchers", [
+    "applications:firefox.desktop",
     "applications:org.kde.dolphin.desktop",
     "applications:org.kde.konsole.desktop",
     "applications:org.kde.plasma-systemmonitor.desktop",
@@ -1100,6 +1112,12 @@ WAYDROIDDESK
 
 sudo cp -f "${REPO_ROOT}/scripts/tools/raytolfas-apk-install" "${BUILD_DIR}/usr/local/bin/raytolfas-apk-install"
 sudo chmod 0755 "${BUILD_DIR}/usr/local/bin/raytolfas-apk-install"
+
+if [ -f "${REPO_ROOT}/scripts/tools/raytolfas-upgrade-iso" ]; then
+    sudo cp -f "${REPO_ROOT}/scripts/tools/raytolfas-upgrade-iso" "${BUILD_DIR}/usr/local/bin/raytolfas-upgrade-iso"
+    sudo cp -f "${REPO_ROOT}/scripts/tools/raytolfas-upgrade-iso" "${BUILD_DIR}/usr/bin/raytolfas-upgrade-iso"
+    sudo chmod 0755 "${BUILD_DIR}/usr/local/bin/raytolfas-upgrade-iso" "${BUILD_DIR}/usr/bin/raytolfas-upgrade-iso"
+fi
 
 cat << 'APKDESK' | sudo tee "${BUILD_DIR}/usr/share/applications/raytolfas-apk.desktop" > /dev/null
 [Desktop Entry]

@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -e
+
+notify-send "Raytolfas Android" "Setting up Android Subsystem with ARM libndk support..." 2>/dev/null || true
+
+sudo modprobe binder_linux devices="binder,hwbinder,vndbinder" 2>/dev/null || true
+
+if ! [ -d /var/lib/waydroid/images ] || ! [ -f /var/lib/waydroid/images/system.img ]; then
+    sudo waydroid init 2>/dev/null || true
+fi
+
+sudo systemctl start waydroid-container 2>/dev/null || sudo waydroid container start &
+for i in $(seq 1 20); do
+    sleep 1
+    waydroid status 2>/dev/null | grep -q "RUNNING" && break
+done
+
+if [ ! -d /opt/waydroid-extras ]; then
+    sudo git clone --depth=1 https://github.com/casualsnek/waydroid_script.git /opt/waydroid-extras 2>/dev/null || true
+fi
+
+if [ -f /opt/waydroid-extras/main.py ]; then
+    sudo python3 /opt/waydroid-extras/main.py install libndk 2>/dev/null || echo "y" | sudo python3 /opt/waydroid-extras/main.py install libndk 2>/dev/null || true
+fi
+
+sudo systemctl restart waydroid-container 2>/dev/null || true
+raytolfas-waydroid-net-fix 2>/dev/null || true
+notify-send "Raytolfas Android" "Android ARM compatibility setup completed!" 2>/dev/null || true

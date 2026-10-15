@@ -1,0 +1,51 @@
+#!/bin/sh
+if [ $# -eq 0 ]; then
+    exit 1
+fi
+
+TARGET="$1"
+if [ ! -f "$TARGET" ]; then
+    if [ ! -t 1 ] && command -v kdialog >/dev/null 2>&1; then
+        kdialog --title "Raytolfas OS" --error "File not found: $TARGET" 2>/dev/null || true
+    else
+        echo "Raytolfas OS: File not found: $TARGET" >&2
+    fi
+    exit 1
+fi
+
+MAGIC="$(head -c 4 "$TARGET" 2>/dev/null || true)"
+if [ "$MAGIC" = "$(printf '\x7fELF')" ]; then
+    chmod +x "$TARGET" 2>/dev/null || true
+    exec "$TARGET" "$@"
+fi
+
+RQIO_BIN="/usr/bin/rqio"
+if [ ! -x "$RQIO_BIN" ]; then
+    RQIO_BIN="$(command -v rqio 2>/dev/null || echo "/usr/bin/rqio")"
+fi
+
+if [ -t 1 ]; then
+    exec "$RQIO_BIN" run "$@"
+fi
+
+TMP_LOG="$(mktemp /tmp/rqio-run-XXXXXX.log 2>/dev/null || echo "/tmp/rqio-run.log")"
+"$RQIO_BIN" run "$@" >"$TMP_LOG" 2>&1 &
+RUN_PID=$!
+
+sleep 0.3
+if ! kill -0 "$RUN_PID" 2>/dev/null; then
+    wait "$RUN_PID"
+    STATUS=$?
+    if [ $STATUS -ne 0 ]; then
+        ERR_MSG="$(head -n 20 "$TMP_LOG" 2>/dev/null || true)"
+        rm -f "$TMP_LOG" 2>/dev/null || true
+        if command -v kdialog >/dev/null 2>&1; then
+            kdialog --title "RayQuiro Runner" --error "Failed to execute $(basename "$TARGET") (code $STATUS):\n\n$ERR_MSG" 2>/dev/null || true
+        fi
+        exit $STATUS
+    fi
+fi
+
+cat "$TMP_LOG" 2>/dev/null || true
+rm -f "$TMP_LOG" 2>/dev/null || true
+wait "$RUN_PID" 2>/dev/null || true

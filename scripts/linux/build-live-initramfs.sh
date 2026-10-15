@@ -13,14 +13,34 @@ cleanup() {
 trap cleanup EXIT
 
 mkdir -p "${OUTPUT_DIR}"
-mkdir -p "${STAGE_DIR}"/{bin,sbin,dev,proc,sys,run,tmp,mnt,rofs,cow,rootfs}
+mkdir -p "${STAGE_DIR}"/{bin,sbin,dev,proc,sys,run,tmp,mnt,rofs,cow,rootfs,lib/modules}
 
 cp -L /usr/bin/busybox "${STAGE_DIR}/bin/busybox"
 chmod 0755 "${STAGE_DIR}/bin/busybox"
 
-for tool in sh mount umount mkdir switch_root ls cat sleep mknod blkid losetup grep sed awk modprobe cut find; do
+for tool in sh mount umount mkdir switch_root ls cat sleep mknod blkid losetup grep sed awk modprobe insmod mdev cut find; do
     ln -sf busybox "${STAGE_DIR}/bin/$tool"
 done
+
+MOD_SRC=""
+for cand in "/var/lib/raytolfas/plasma-rootfs/lib/modules/6.8.0-146-generic" "/var/lib/raytolfas/plasma-rootfs/lib/modules"/*; do
+    if [[ -d "${cand}/kernel" ]]; then
+        MOD_SRC="${cand}"
+        break
+    fi
+done
+
+if [[ -n "${MOD_SRC}" && -d "${MOD_SRC}" ]]; then
+    for name in nls_utf8 nls_iso8859-1 isofs overlay libahci ahci nvme-core nvme-auth nvme xhci-pci-renesas xhci-pci usb-storage uas mmc_block; do
+        matched="$(find "${MOD_SRC}" -name "${name}.ko*" | head -n 1 || true)"
+        if [[ -n "${matched}" && -f "${matched}" ]]; then
+            cp -f "${matched}" "${STAGE_DIR}/lib/modules/"
+        fi
+    done
+    if compgen -G "${STAGE_DIR}/lib/modules/*.zst" > /dev/null; then
+        zstd -d --rm "${STAGE_DIR}/lib/modules/"*.zst 2>/dev/null || true
+    fi
+fi
 
 cat << 'EOF' > "${STAGE_DIR}/init"
 #!/bin/sh
@@ -37,8 +57,32 @@ echo "================================================"
 
 echo 1 > /proc/sys/kernel/printk 2>/dev/null || true
 
+for mod in \
+    nls_utf8.ko \
+    nls_iso8859-1.ko \
+    isofs.ko \
+    overlay.ko \
+    libahci.ko \
+    ahci.ko \
+    nvme-core.ko \
+    nvme-auth.ko \
+    nvme.ko \
+    xhci-pci-renesas.ko \
+    xhci-pci.ko \
+    usb-storage.ko \
+    uas.ko \
+    mmc_block.ko
+do
+    if [ -f "/lib/modules/$mod" ]; then
+        insmod "/lib/modules/$mod" 2>/dev/null || true
+    fi
+done
+
+mdev -s 2>/dev/null || true
+
 SQUASHFS_FOUND=""
-for attempt in $(seq 1 10); do
+for attempt in $(seq 1 15); do
+    mdev -s 2>/dev/null || true
     for dev in /dev/sr* /dev/sd* /dev/nvme*n*p* /dev/nvme* /dev/vd* /dev/mmcblk*p*; do
         if [ -b "$dev" ]; then
             mkdir -p /mnt/live_media

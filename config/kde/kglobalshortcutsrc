@@ -1,0 +1,25 @@
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print
+CurrentMonitorScreenShot=
+FullScreenScreenShot=Shift+Print
+OpenWithoutScreenshot=
+RectangularRegionScreenShot=Print\tMeta+Shift+S
+RecordRegion=Meta+Alt+R
+RecordScreen=Meta+Ctrl+R
+RecordWindow=
+WindowUnderCursorScreenShot=Meta+Ctrl+Print
+_k_friendly_name=Spectacle
+_launch=Print
+
+[kwin]
+Window Quick Tile Bottom=Meta+Down
+Window Quick Tile Left=Meta+Left
+Window Quick Tile Right=Meta+Right
+Window Quick Tile Top=Meta+Up
+Window Close=Alt+F4
+Window Maximize=Meta+PgUp
+Window Minimize=Meta+PgDown
+Overview=Meta+W
+Show Desktop=Meta+D
+Walk Through Windows=Alt+Tab
+Walk Through Windows (Reverse)=Alt+Shift+Tab

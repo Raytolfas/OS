@@ -1,0 +1,21 @@
+#!/bin/sh
+NVIDIA_READY=0
+if [ -d /proc/driver/nvidia ] || lsmod 2>/dev/null | grep -q "^nvidia "; then
+    NVIDIA_READY=1
+elif command -v nvidia-smi >/dev/null 2>&1 && nvidia-smi >/dev/null 2>&1; then
+    NVIDIA_READY=1
+fi
+
+if [ "$NVIDIA_READY" = "1" ]; then
+    export __NV_PRIME_RENDER_OFFLOAD=1
+    export __GLX_VENDOR_LIBRARY_NAME=nvidia
+    export __VK_LAYER_NV_optimus=NVIDIA_only
+    exec "$@"
+fi
+
+if lsmod 2>/dev/null | grep -q "^nouveau "; then
+    export DRI_PRIME=1
+    exec "$@"
+fi
+
+exec "$@"

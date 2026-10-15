@@ -26,10 +26,10 @@ require_tool xorriso "xorriso"
 require_tool curl    "curl"
 
 resolve_kernel_image() {
-    local custom="${REPO_ROOT}/build/kernel/arch/x86/boot/bzImage"
-    if [[ -f "${custom}" ]]; then
-        echo "[iso] using custom kernel: ${custom}" >&2
-        printf '%s\n' "${custom}"
+    local rootfs_kernel="${PLASMA_ROOTFS}/boot/vmlinuz"
+    if [[ -e "${rootfs_kernel}" ]]; then
+        echo "[iso] using rootfs kernel: ${rootfs_kernel}" >&2
+        printf '%s\n' "${rootfs_kernel}"
         return 0
     fi
 
@@ -38,6 +38,13 @@ resolve_kernel_image() {
     if [[ -n "${sys}" && -f "${sys}" ]]; then
         echo "[iso] using system kernel: ${sys}" >&2
         printf '%s\n' "${sys}"
+        return 0
+    fi
+
+    local custom="${REPO_ROOT}/build/kernel/arch/x86/boot/bzImage"
+    if [[ -f "${custom}" ]]; then
+        echo "[iso] using custom kernel: ${custom}" >&2
+        printf '%s\n' "${custom}"
         return 0
     fi
 
@@ -65,18 +72,18 @@ mkdir -p \
     "${STAGING_DIR}/live"
 
 if [[ -d "${PLASMA_ROOTFS}" && -f "${REPO_ROOT}/build/.plasma_rootfs_ready" ]]; then
-    if [[ -d "${REPO_ROOT}/build/kernel/modules/lib/modules" ]]; then
-        echo "[iso] syncing kernel modules into plasma-rootfs..."
-        sudo mkdir -p "${PLASMA_ROOTFS}/lib/modules"
-        sudo cp -a "${REPO_ROOT}/build/kernel/modules/lib/modules/." "${PLASMA_ROOTFS}/lib/modules/"
+    if [[ -f "${STAGING_DIR}/live/filesystem.squashfs" && "${SKIP_MKSQUASHFS:-0}" == "1" ]]; then
+        echo "[iso] using existing filesystem.squashfs in staging..."
+    else
+        echo "[iso] packing filesystem.squashfs from plasma-rootfs..."
+        sudo rm -f "${STAGING_DIR}/live/filesystem.squashfs" "/var/lib/raytolfas/filesystem.squashfs"
+        sudo mksquashfs "${PLASMA_ROOTFS}" "/var/lib/raytolfas/filesystem.squashfs" -comp zstd -Xcompression-level 10 -b 256K -no-xattrs -noappend -processors 4 -mem 3G
+        sudo mv -f "/var/lib/raytolfas/filesystem.squashfs" "${STAGING_DIR}/live/filesystem.squashfs"
     fi
-
-    echo "[iso] packing filesystem.squashfs from plasma-rootfs..."
-    sudo rm -f "${STAGING_DIR}/live/filesystem.squashfs"
-    sudo mksquashfs "${PLASMA_ROOTFS}" "${STAGING_DIR}/live/filesystem.squashfs" -comp zstd -Xcompression-level 15 -b 256K -no-xattrs -noappend
 fi
 
-cp -f "${KERNEL_IMAGE}"    "${STAGING_DIR}/boot/vmlinuz"
+sudo cp -fL "${KERNEL_IMAGE}"    "${STAGING_DIR}/boot/vmlinuz"
+sudo chmod 0644 "${STAGING_DIR}/boot/vmlinuz"
 cp -f "${INITRAMFS_IMAGE}" "${STAGING_DIR}/boot/initramfs.cpio.gz"
 
 cp -f "${LIMINE_CONF}" "${STAGING_DIR}/boot/limine/limine.conf"
@@ -100,6 +107,7 @@ echo "[iso] building ${ISO_TMP} (Limine / xorriso)"
 
 XORRISO_ARGS=(
     -as mkisofs
+    -iso-level 3
     -b boot/limine/limine-bios-cd.bin
     -no-emul-boot
     -boot-load-size 4
@@ -139,7 +147,9 @@ else
 fi
 
 if mv -f "${ISO_TMP}" "${ISO_FILE}" 2>/dev/null; then
+    cp -f "${ISO_FILE}" "${ISO_ROOT}/raytolfas-os-d1-v26.10.2.iso" 2>/dev/null || true
     echo "[iso] ready: ${ISO_FILE}"
+    echo "[iso] versioned: ${ISO_ROOT}/raytolfas-os-d1-v26.10.2.iso"
 else
     echo "[iso] NOTE: ${ISO_FILE} is locked (VirtualBox?). New ISO saved as:"
     echo "[iso]   ${ISO_TMP}"
