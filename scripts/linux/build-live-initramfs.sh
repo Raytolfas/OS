@@ -18,12 +18,12 @@ mkdir -p "${STAGE_DIR}"/{bin,sbin,dev,proc,sys,run,tmp,mnt,rofs,cow,rootfs,lib/m
 cp -L /usr/bin/busybox "${STAGE_DIR}/bin/busybox"
 chmod 0755 "${STAGE_DIR}/bin/busybox"
 
-for tool in sh mount umount mkdir switch_root ls cat sleep mknod blkid losetup grep sed awk modprobe insmod mdev cut find; do
+for tool in sh mount umount mkdir switch_root ls cat sleep mknod blkid losetup grep sed awk modprobe insmod depmod mdev cut find uname; do
     ln -sf busybox "${STAGE_DIR}/bin/$tool"
 done
 
 MOD_SRC=""
-for cand in "/var/lib/raytolfas/plasma-rootfs/lib/modules/6.8.0-146-generic" "/var/lib/raytolfas/plasma-rootfs/lib/modules"/*; do
+for cand in /var/lib/raytolfas/plasma-rootfs/usr/lib/modules/*cachyos* /var/lib/raytolfas/plasma-rootfs/lib/modules/*; do
     if [[ -d "${cand}/kernel" ]]; then
         MOD_SRC="${cand}"
         break
@@ -31,15 +31,39 @@ for cand in "/var/lib/raytolfas/plasma-rootfs/lib/modules/6.8.0-146-generic" "/v
 done
 
 if [[ -n "${MOD_SRC}" && -d "${MOD_SRC}" ]]; then
-    for name in nls_utf8 nls_iso8859-1 isofs overlay libahci ahci nvme-core nvme-auth nvme xhci-pci-renesas xhci-pci usb-storage uas mmc_block; do
-        matched="$(find "${MOD_SRC}" -name "${name}.ko*" | head -n 1 || true)"
-        if [[ -n "${matched}" && -f "${matched}" ]]; then
-            cp -f "${matched}" "${STAGE_DIR}/lib/modules/"
+    KVER="$(basename "${MOD_SRC}")"
+    DEST_MOD="${STAGE_DIR}/lib/modules/${KVER}"
+    mkdir -p "${DEST_MOD}"
+    cp -f "${MOD_SRC}"/modules.* "${DEST_MOD}/" 2>/dev/null || true
+
+    for sub in \
+        kernel/fs/isofs \
+        kernel/fs/squashfs \
+        kernel/fs/overlayfs \
+        kernel/fs/nls \
+        kernel/drivers/block \
+        kernel/drivers/cdrom \
+        kernel/drivers/ata \
+        kernel/drivers/scsi \
+        kernel/drivers/nvme \
+        kernel/drivers/virtio \
+        kernel/drivers/usb/host \
+        kernel/drivers/usb/storage \
+        kernel/drivers/usb/core \
+        kernel/drivers/usb/common \
+        kernel/drivers/mmc \
+        kernel/drivers/hid \
+        kernel/lib \
+        kernel/crypto
+    do
+        if [[ -d "${MOD_SRC}/${sub}" ]]; then
+            mkdir -p "${DEST_MOD}/$(dirname "${sub}")"
+            cp -rf "${MOD_SRC}/${sub}" "${DEST_MOD}/$(dirname "${sub}")/"
         fi
     done
-    if compgen -G "${STAGE_DIR}/lib/modules/*.zst" > /dev/null; then
-        zstd -d --rm "${STAGE_DIR}/lib/modules/"*.zst 2>/dev/null || true
-    fi
+
+    find "${DEST_MOD}" -name '*.ko.zst' -exec zstd -d --rm -q {} + 2>/dev/null || true
+    depmod -b "${STAGE_DIR}" "${KVER}" 2>/dev/null || true
 fi
 
 cat << 'EOF' > "${STAGE_DIR}/init"
@@ -52,30 +76,46 @@ mount -t sysfs sysfs /sys
 mount -t tmpfs -o mode=0755 tmpfs /run
 
 echo "================================================"
-echo "    Starting Raytolfas OS (KDE Plasma Live)     "
+echo "    Starting Raytolfas OS (CachyOS Kernel)      "
 echo "================================================"
 
 echo 1 > /proc/sys/kernel/printk 2>/dev/null || true
 
 for mod in \
-    nls_utf8.ko \
-    nls_iso8859-1.ko \
-    isofs.ko \
-    overlay.ko \
-    libahci.ko \
-    ahci.ko \
-    nvme-core.ko \
-    nvme-auth.ko \
-    nvme.ko \
-    xhci-pci-renesas.ko \
-    xhci-pci.ko \
-    usb-storage.ko \
-    uas.ko \
-    mmc_block.ko
+    loop \
+    squashfs \
+    isofs \
+    overlay \
+    nls_utf8 \
+    nls_iso8859-1 \
+    nls_cp437 \
+    cdrom \
+    sr_mod \
+    sd_mod \
+    libata \
+    libahci \
+    ahci \
+    ata_piix \
+    ata_generic \
+    virtio \
+    virtio_ring \
+    virtio_pci \
+    virtio_blk \
+    virtio_scsi \
+    nvme-core \
+    nvme-auth \
+    nvme \
+    xhci-pci \
+    xhci-pci-renesas \
+    ehci-pci \
+    ohci-pci \
+    usb-storage \
+    uas \
+    mmc_block \
+    usbhid \
+    hid-generic
 do
-    if [ -f "/lib/modules/$mod" ]; then
-        insmod "/lib/modules/$mod" 2>/dev/null || true
-    fi
+    modprobe "$mod" 2>/dev/null || true
 done
 
 mdev -s 2>/dev/null || true

@@ -1,0 +1,82 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+FSTYPE="$(findmnt -n -o FSTYPE / 2>/dev/null || true)"
+if [ "${FSTYPE}" != "btrfs" ]; then
+    exit 0
+fi
+
+SNAP_DIR="/.snapshots"
+if [ ! -d "${SNAP_DIR}" ]; then
+    exit 0
+fi
+
+ROOT_UUID="$(findmnt -n -o UUID / 2>/dev/null || true)"
+LIMINE_CONF=""
+for candidate in /boot/limine/limine.conf /boot/limine.conf /boot/efi/EFI/limine/limine.conf /efi/EFI/limine/limine.conf; do
+    if [ -f "${candidate}" ]; then
+        LIMINE_CONF="${candidate}"
+        break
+    fi
+done
+
+mapfile -t SNAPS < <(
+    find "${SNAP_DIR}" -maxdepth 2 \( -name "snap-*" -o -name "snapshot" \) 2>/dev/null | sort -r | head -n 10 || true
+)
+
+if [ -n "${LIMINE_CONF}" ]; then
+    TMP_CONF="$(mktemp)"
+    awk '/^\/Raytolfas OS Snapshots/{exit} {print}' "${LIMINE_CONF}" > "${TMP_CONF}"
+
+    if [ "${#SNAPS[@]}" -gt 0 ]; then
+        echo "" >> "${TMP_CONF}"
+        echo "/Raytolfas OS Snapshots" >> "${TMP_CONF}"
+        for sp in "${SNAPS[@]}"; do
+            if [ -d "${sp}" ]; then
+                REL_SUBVOL="${sp#/}"
+                LABEL="$(basename "${sp}")"
+                if [ "${LABEL}" = "snapshot" ]; then
+                    LABEL="snapper-$(basename "$(dirname "${sp}")")"
+                fi
+                echo "    //${LABEL}" >> "${TMP_CONF}"
+                echo "    protocol: linux" >> "${TMP_CONF}"
+                echo "    path: boot():/boot/vmlinuz" >> "${TMP_CONF}"
+                echo "    module_path: boot():/boot/initrd.img" >> "${TMP_CONF}"
+                if [ -n "${ROOT_UUID}" ]; then
+                    echo "    cmdline: root=UUID=${ROOT_UUID} rootflags=subvol=${REL_SUBVOL} rw quiet splash" >> "${TMP_CONF}"
+                else
+                    echo "    cmdline: rootflags=subvol=${REL_SUBVOL} rw quiet splash" >> "${TMP_CONF}"
+                fi
+            fi
+        done
+    fi
+
+    mv -f "${TMP_CONF}" "${LIMINE_CONF}"
+    chmod 0644 "${LIMINE_CONF}"
+fi
+
+if [ -d /etc/grub.d ] && command -v update-grub >/dev/null 2>&1; then
+    GRUB_SNAP="/etc/grub.d/41_snapshots-btrfs"
+    cat << 'GRUBEOF' > "${GRUB_SNAP}"
+#!/bin/sh
+set -e
+if [ -d /.snapshots ]; then
+    for s in $(ls -1d /.snapshots/snap-* 2>/dev/null | sort -r | head -n 5); do
+        sname="$(basename "$s")"
+        subvol="${s#/}"
+        u="$(findmnt -n -o UUID / 2>/dev/null || true)"
+        if [ -n "$u" ]; then
+            cat << ENTRY
+menuentry "Raytolfas OS Snapshot (${sname})" {
+    search --no-floppy --fs-uuid --set=root ${u}
+    linux /boot/vmlinuz root=UUID=${u} rootflags=subvol=${subvol} rw quiet splash
+    initrd /boot/initrd.img
+}
+ENTRY
+        fi
+    done
+fi
+GRUBEOF
+    chmod 0755 "${GRUB_SNAP}"
+    update-grub >/dev/null 2>&1 || true
+fi

@@ -1,0 +1,1372 @@
+
+{ "name": "33Immortals.exe", "type": "Game" }
+
+{ "name": "3DMark.exe", "type": "Game" }
+
+{ "name": "9Kings.exe", "type": "Game" }
+
+{ "name": "AC3SP.exe", "type": "Game" }
+
+{ "name": "aces.exe", "type": "Game" }
+
+{ "name": "Achilles.exe", "type": "BG_CPUIO" }
+
+{ "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Adobe Substance 3D Designer.exe", "type": "Game" }
+
+{ "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
+
+{ "name": "ADVStarter.exe", "type": "Game" }
+
+{ "name": "Aethermancer.exe", "type": "Game" }
+
+{ "name": "Airfoil Maker.exe", "type": "Game" }
+
+{ "name": "Airport Security Sucks!.exe", "type": "Game" }
+
+{ "name": "Airships.exe", "type": "Game" }
+
+{ "name": "alabaster_dawn.exe", "type": "Game" }
+
+{ "name": "Ale and Tale Tavern.exe", "type": "Game" }
+
+{ "name": "AlienShooter.exe", "type": "Game" }
+
+{ "name": "amtrucks.exe", "type": "Game" }
+
+{ "name": "Anno4.exe", "type": "Game" }
+
+{ "name": "AnomalyZone.exe", "type": "Game" }
+
+{ "name": "AoW.exe", "type": "Game" }
+
+{ "name": "app.exe", "type": "Game" }
+
+{ "name": "Arcade.exe", "type": "Game" }
+
+{ "name": "arma2.exe", "type": "Game" }
+
+{ "name": "ArmaReforger_BE.exe", "type": "Game" }
+
+{ "name": "ArmaReforgerSteam.exe", "type": "Game" }
+
+{ "name": "artesnaut.exe", "type": "Game" }
+
+{ "name": "ASB.exe", "type": "Game" }
+
+{ "name": "ASBR.exe", "type": "Game" }
+
+{ "name": "AscendtoZERO.exe", "type": "BG_CPUIO" }
+
+{ "name": "AscendtoZERO-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ASC.exe", "type": "BG_CPUIO" }
+
+{ "name": "ASC-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "AT.exe", "type": "Game" }
+
+{ "name": "AtlanticaRun.exe", "type": "Game" }
+
+{ "name": "atom-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "AutoDungeon.exe", "type": "Game" }
+
+{ "name": "Awaken.exe", "type": "Game" }
+
+{ "name": "Azure.exe", "type": "BG_CPUIO" }
+
+{ "name": "Azure-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "BackpackBattles.exe", "type": "Game" }
+
+{ "name": "Backpack-Dungeon.exe", "type": "Game" }
+
+{ "name": "Backpack Hero.exe", "type": "Game" }
+
+{ "name": "Backrooms.exe", "type": "BG_CPUIO" }
+
+{ "name": "BackroomsLostRunners.exe", "type": "BG_CPUIO" }
+
+{ "name": "BackroomsLostRunners-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "BALDI.exe", "type": "Game" }
+
+{ "name": "Baldur.exe", "type": "Game" }
+
+{ "name": "Balls.exe", "type": "Game" }
+
+{ "name": "BatmanAC.exe", "type": "Game" }
+
+{ "name": "BeamEyeTracker.exe", "type": "Game" }
+
+{ "name": "Benchmark.exe", "type": "Game" }
+
+{ "name": "Berkelium.exe", "type": "Game" }
+
+{ "name": "BGI.exe", "type": "Game" }
+
+{ "name": "BH3.exe", "type": "Game" }
+
+{ "name": "Birdwatching Notebook.exe", "type": "Game" }
+
+{ "name": "BlackOpsMP.exe", "type": "Game" }
+
+{ "name": "blackshot_BE.exe", "type": "Game" }
+
+{ "name": "BladesOfFire.exe", "type": "Game" }
+
+{ "name": "bloodofold32.exe", "type": "Game" }
+
+{ "name": "BoplBattle.exe", "type": "Game" }
+
+{ "name": "Borderlands2.exe", "type": "Game" }
+
+{ "name": "Borderlands.exe", "type": "Game" }
+
+{ "name": "Bread&Fred.exe", "type": "Game" }
+
+{ "name": "Brothers.exe", "type": "Game" }
+
+{ "name": "build.exe", "type": "Game" }
+
+{ "name": "Burger.exe", "type": "Game" }
+
+{ "name": "Burning Skies Neon.exe", "type": "Game" }
+
+{ "name": "Cairn.exe", "type": "Game" }
+
+{ "name": "call_to_arms_ed.exe", "type": "Game" }
+
+{ "name": "call_to_arms.exe", "type": "Game" }
+
+{ "name": "call_to_arms_server.exe", "type": "Service" }
+
+{ "name": "CarDealerSim.exe", "type": "BG_CPUIO" }
+
+{ "name": "CarDealerSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Carpet.exe", "type": "Game" }
+
+{ "name": "Castle.exe", "type": "Game" }
+
+{ "name": "CatMailCo.exe", "type": "Game" }
+
+{ "name": "Catto Pew Pew!.exe", "type": "Game" }
+
+{ "name": "CelebrityPoker.exe", "type": "Game" }
+
+{ "name": "ChainedBeasts.exe", "type": "Game" }
+
+{ "name": "ChoppingTrees.exe", "type": "BG_CPUIO" }
+
+{ "name": "ChoppingTrees-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Client.exe", "type": "Game" }
+
+{ "name": "ClientG64.exe", "type": "Game" }
+
+{ "name": "Client_tos.exe", "type": "Game" }
+
+{ "name": "Client_tos_x64.exe", "type": "Game" }
+
+{ "name": "CloverPit.exe", "type": "Game" }
+
+{ "name": "Coconut.exe", "type": "Game" }
+
+{ "name": "ConanSandbox_BE.exe", "type": "Game" }
+
+{ "name": "Config.exe", "type": "Game" }
+
+{ "name": "ContrabandPolice.exe", "type": "Game"}
+
+{ "name": "CreationKit.exe", "type": "Game" }
+
+{ "name": "CricketCaptain.exe", "type": "Game" }
+
+{ "name": "CrimeCleaner.exe", "type": "Game"}
+
+{ "name": "crysis.exe", "type": "Game" }
+
+{ "name": "cs2.exe", "type": "Game" }
+
+{ "name": "cs.exe", "type": "Game" }
+
+{ "name": "Cursemark.exe", "type": "Game" }
+
+{ "name": "Dagon.exe", "type": "Game" }
+
+{ "name": "Dangan3Win.exe", "type": "Game" }
+
+{ "name": "DAOrigins.exe", "type": "Game" }
+
+{ "name": "Darkest.exe", "type": "Game" }
+
+{ "name": "Dark Hours.exe", "type": "BG_CPUIO" }
+
+{ "name": "darkhours-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DarkSoulsII.exe", "type": "Game" }
+
+{ "name": "Date.exe", "type": "BG_CPUIO" }
+
+{ "name": "Date-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DayZ_BE.exe", "type": "Game" }
+
+{ "name": "DayZLauncher.exe", "type": "Game" }
+
+{ "name": "DayZ_x64.exe", "type": "Game" }
+
+{ "name": "DeadIslandGame.exe", "type": "Game" }
+
+{ "name": "Dead Space.exe", "type": "Game" }
+
+{ "name": "Dead_weight.exe", "type": "Game" }
+
+{ "name": "Decktamer.exe", "type": "Game" }
+
+{ "name": "DeconstructionSim.exe", "type": "BG_CPUIO" }
+
+{ "name": "DeconstructionSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "defiance.exe", "type": "Game" }
+
+{ "name": "DELTARUNE.exe", "type": "Game" }
+
+{ "name": "Demon Bluff.exe", "type": "Game" }
+
+{ "name": "Demonologist.exe", "type": "BG_CPUIO" }
+
+{ "name": "deponia.exe", "type": "Game" }
+
+{ "name": "Desk Space.exe", "type": "Game" }
+
+{ "name": "Detect.exe", "type": "Game" }
+
+{ "name": "DetroitBecomeHuman.exe", "type": "Game" }
+
+{ "name": "DFUBG.exe", "type": "Game" }
+
+{ "name": "DFUFG.exe", "type": "Game" }
+
+{ "name": "DH.exe", "type": "BG_CPUIO" }
+
+{ "name": "DH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Digger.exe", "type": "Game" }
+
+{ "name": "Digimon Story Time Stranger.exe", "type": "Game" }
+
+{ "name": "dirt3_game.exe", "type": "Game" }
+
+{ "name": "Disc Golf Masters.exe", "type": "Game" }
+
+{ "name": "discipl2.exe", "type": "Game" }
+
+{ "name": "Dishonored.exe", "type": "Game" }
+
+{ "name": "Dispatch.exe", "type": "BG_CPUIO" }
+
+{ "name": "dmcr.exe", "type": "Game" }
+
+{ "name": "Dog.exe", "type": "Game" }
+
+{ "name": "domekeeper.exe", "type": "Game" }
+
+{ "name": "DOMO.exe", "type": "Game" }
+
+{ "name": "DOMO_Steam.exe", "type": "Game" }
+
+{ "name": "dontstarve_steam.exe", "type": "Game" }
+
+{ "name": "dontstarve_steam_x64.exe", "type": "Game" }
+
+{ "name": "DOOM2.EXE", "type": "Game" }
+
+{ "name": "dosbox.exe", "type": "Game" }
+
+{ "name": "DOSBox.exe", "type": "Game" }
+
+{ "name": "dow2.exe", "type": "Game" }
+
+{ "name": "DOW2.exe", "type": "Game" }
+
+{ "name": "Down with the Ship.exe", "type": "Game" }
+
+{ "name": "dowser.exe", "type": "BG_CPUIO" }
+
+{ "name": "dps.exe", "type": "Game" }
+
+{ "name": "Dragons.exe", "type": "BG_CPUIO" }
+
+{ "name": "Dragons-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DrainSim.exe", "type": "BG_CPUIO" }
+
+{ "name": "DrainSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DriveBeyondHorizons.exe", "type": "BG_CPUIO" }
+
+{ "name": "DriveBeyondHorizons-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ds.exe", "type": "Game" }
+
+{ "name": "DunDefGame.exe", "type": "Game" }
+
+{ "name": "DuneSandbox_BE.exe", "type": "BG_CPUIO" }
+
+{ "name": "DuneSandbox.exe", "type": "BG_CPUIO" }
+
+{ "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dusk.exe", "type": "Game" }
+
+{ "name": "Dwarfs.exe", "type": "Game" }
+
+{ "name": "EchoesofAincrad.exe", "type": "BG_CPUIO" }
+
+{ "name": "EchoesofAincrad-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ed8_3_PC.exe", "type": "Game" }
+
+{ "name": "ed9.exe", "type": "Game" }
+
+{ "name": "EdenCrafters32.exe", "type": "Game" }
+
+{ "name": "EdenCrafters.exe", "type": "Game" }
+
+{ "name": "editor.exe", "type": "Game" }
+
+{ "name": "edna.exe", "type": "Game" }
+
+{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
+
+{ "name": "Elliot.exe", "type": "BG_CPUIO" }
+
+{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "elsword.exe", "type": "Game" }
+
+{ "name": "Empire.exe", "type": "Game" }
+
+{ "name": "Enderal Launcher.exe", "type": "Game" }
+
+{ "name": "engine.exe", "type": "Game" }
+
+{ "name": "Engine.exe", "type": "Game" }
+
+{ "name": "EnvSetting.exe", "type": "Game" }
+
+{ "name": "EoCApp.exe", "type": "Game" }
+
+{ "name": "EQLauncher.exe", "type": "Game" }
+
+{ "name": "EsportsManager.exe", "type": "Game" }
+
+{ "name": "eurotrucks2.exe", "type": "Game" }
+
+{ "name": "Evoland.exe", "type": "Game" }
+
+{ "name": "Exit8-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Exorcist.exe", "type": "Game" }
+
+{ "name": "Factorio.exe", "type": "Game" }
+
+{ "name": "FactoryGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "Fall of Avalon.exe", "type": "Game" }
+
+{ "name": "Fallout3.exe", "type": "Game" }
+
+{ "name": "Fallout3 - Garden of Eden Creation Kit.exe", "type": "Game" }
+
+{ "name": "FalloutNV.exe", "type": "Game" }
+
+{ "name": "farm2.exe", "type": "Game" }
+
+{ "name": "FatalFrameII.exe", "type": "Game" }
+
+{ "name": "FC25.exe", "type": "Game" }
+
+{ "name": "FC25_Trial.exe", "type": "Game" }
+
+{ "name": "FC26.exe", "type": "Game" }
+
+{ "name": "FC26_Showcase.exe", "type": "Game" }
+
+{ "name": "FC26_Trial.exe", "type": "Game" }
+
+{ "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "FGUSteamLauncher.exe", "type": "Game" }
+
+{ "name": "Fiesta.exe", "type": "Game" }
+
+{ "name": "Fish.exe", "type": "Game" }
+
+{ "name": "fm.exe", "type": "Game" }
+
+{ "name": "FM.exe", "type": "Game" }
+
+{ "name": "FreshWomen.exe", "type": "Game" }
+
+{ "name": "Frog Sqwad.exe", "type": "Game" }
+
+{ "name": "Frontiers.exe", "type": "Game" }
+
+{ "name": "FUMES.exe", "type": "Game" }
+
+{ "name": "FuncomLauncher.exe", "type": "Game" }
+
+{ "name": "G1R-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "gamblers-table.exe", "type": "Game" }
+
+{ "name": "game32.exe", "type": "Game" }
+
+{ "name": "game.exe", "type": "Game" }
+
+{ "name": "Game.exe", "type": "Game" }
+
+{ "name": "GameLauncher.exe", "type": "Game" }
+
+{ "name": "GameMaker.exe", "type": "Game" }
+
+{ "name": "GameOfThrones-Kingsroad.exe", "type": "BG_CPUIO" }
+
+{ "name": "Game_original.exe", "type": "Game" }
+
+{ "name": "Game_Win.exe", "type": "Game" }
+
+{ "name": "GBVSR.exe", "type": "BG_CPUIO" }
+
+{ "name": "GBVSR-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "gc.exe", "type": "Game" }
+
+{ "name": "Generals.exe", "type": "Game" }
+
+{ "name": "Geri.exe", "type": "BG_CPUIO" }
+
+{ "name": "Geri-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GF2_Exilium.exe", "type": "Game" }
+
+{ "name": "GGT.exe", "type": "Game" }
+
+{ "name": "GH.exe", "type": "Game" }
+
+{ "name": "ghost.exe", "type": "Game" }
+
+{ "name": "Ghost.exe", "type": "Game" }
+
+{ "name": "Ghost Janitors.exe", "type": "Game" }
+
+{ "name": "Ghostrunner.exe", "type": "BG_CPUIO" }
+
+{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Gladio Mori.exe", "type": "Game" }
+
+{ "name": "GLVanHelsing_x86.exe", "type": "Game" }
+
+{ "name": "Gnomium.exe", "type": "Game" }
+
+{ "name": "GoldFever.exe", "type": "BG_CPUIO" }
+
+{ "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "golf.exe", "type": "Game" }
+
+{ "name": "Gothic2.exe", "type": "Game" }
+
+{ "name": "Granny.exe", "type": "Game" }
+
+{ "name": "GSS2.exe", "type": "BG_CPUIO" }
+
+{ "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GuiltyGearXrd.exe", "type": "Game" }
+
+{ "name": "GunsOfIcarusOnline.exe", "type": "Game" }
+
+{ "name": "Gw.exe", "type": "Game" }
+
+{ "name": "H5_Game.exe", "type": "Game" }
+
+{ "name": "H5_MapEditor.exe", "type": "Game" }
+
+{ "name": "Hackhub.exe", "type": "Game" }
+
+{ "name": "HalfSwordUE5.exe", "type": "BG_CPUIO" }
+
+{ "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "hammer.exe", "type": "Game" }
+
+{ "name": "Hamster.exe", "type": "Game" }
+
+{ "name": "Happy Endings.exe", "type": "Game" }
+
+{ "name": "Haste.exe", "type": "Game" }
+
+{ "name": "HelloNeighbor2.exe", "type": "BG_CPUIO" }
+
+{ "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HelloNeighborReborn.exe", "type": "Game" }
+
+{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HERETIC.EXE", "type": "Game" }
+
+{ "name": "HITMAN3.exe", "type": "Game" }
+
+{ "name": "hl2.exe", "type": "Game" }
+
+{ "name": "hlds.exe", "type": "Game" }
+
+{ "name": "hl.exe", "type": "Game" }
+
+{ "name": "hltv.exe", "type": "Game" }
+
+{ "name": "Horripilant.exe", "type": "Game" }
+
+{ "name": "HouseFlipper.exe", "type": "Game" }
+
+{ "name": "hunt.exe", "type": "Game" }
+
+{ "name": "HuntGame.exe", "type": "Game" }
+
+{ "name": "HW2.exe", "type": "Game" }
+
+{ "name": "ICBM.exe", "type": "Game" }
+
+{ "name": "IdleDiablo.exe", "type": "Game" }
+
+{ "name": "Infestation.exe", "type": "Game" }
+
+{ "name": "InfestationLauncher.exe", "type": "Game" }
+
+{ "name": "ItTakesTwo.exe", "type": "Game" }
+
+{ "name": "iw4mp.exe", "type": "Game" }
+
+{ "name": "iw5sp.exe", "type": "Game" }
+
+{ "name": "Jantama_MahjongSoul.exe", "type": "Game" }
+
+{ "name": "java.exe", "type": "Game" }
+
+{ "name": "javaw.exe", "type": "Game" }
+
+{ "name": "javaws.exe", "type": "Game" }
+
+{ "name": "Jigsaw.exe", "type": "Game" }
+
+{ "name": "KairoGames.exe", "type": "Game" }
+
+{ "name": "KalypsoLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "Kani.exe", "type": "BG_CPUIO" }
+
+{ "name": "Kani-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "KB.exe", "type": "Game" }
+
+{ "name": "kicksalot.exe", "type": "Game" }
+
+{ "name": "KingdomCome.exe", "type": "Game" }
+
+{ "name": "Kingdom.exe", "type": "Game" }
+
+{ "name": "KISS.exe", "type": "Game" }
+
+{ "name": "LastCloudia.exe", "type": "Game" }
+
+{ "name": "LastFlagClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "LastFlagClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "launcher.exe", "type": "Game" }
+
+{ "name": "Launcher.exe", "type": "Game" }
+
+{ "name": "launcher-ia32.exe", "type": "Game" }
+
+{ "name": "launcher-x64.exe", "type": "Game" }
+
+{ "name": "launch.exe", "type": "Game" }
+
+{ "name": "Launch.exe", "type": "Game" }
+
+{ "name": "LaunchPad.exe", "type": "BG_CPUIO" }
+
+{ "name": "LaunchSango.exe", "type": "Game" }
+
+{ "name": "left4dead.exe", "type": "Game" }
+
+{ "name": "Legacy of Defense.exe", "type": "Game" }
+
+{ "name": "LetsSchool.exe", "type": "Game" }
+
+{ "name": "LifeBelow.exe", "type": "Game" }
+
+{ "name": "Life is Strange - Before the Storm.exe", "type": "Game" }
+
+{ "name": "Long Drive North.exe", "type": "Game" }
+
+{ "name": "LookPilot.exe", "type": "Game" }
+
+{ "name": "LumenTale Memories of Trey.exe", "type": "Game" }
+
+{ "name": "Lust-Academy.exe", "type": "Game" }
+
+{ "name": "M2Editor.exe", "type": "Game" }
+
+{ "name": "Machinefall.exe", "type": "Game" }
+
+{ "name": "Magicraft.exe", "type": "Game" }
+
+{ "name": "Mahjong.exe", "type": "Game" }
+
+{ "name": "Majesty2.exe", "type": "Game" }
+
+{ "name": "ManiaPlanet32.exe", "type": "Game" }
+
+{ "name": "ManiaPlanet.exe", "type": "Game" }
+
+{ "name": "Map Map.exe", "type": "Game" }
+
+{ "name": "Marvel.exe", "type": "Game" }
+
+{ "name": "MassEffect2.exe", "type": "Game" }
+
+{ "name": "MasterHealerKale.exe", "type": "Game" }
+
+{ "name": "Master Of Command.exe", "type": "Game" }
+
+{ "name": "Mecharashi.exe", "type": "Game" }
+
+{ "name": "MechWarrior.exe", "type": "BG_CPUIO" }
+
+{ "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "METAPHOR.exe", "type": "Game" }
+
+{ "name": "metro_benchmark.exe", "type": "Game" }
+
+{ "name": "metro.exe", "type": "Game" }
+
+{ "name": "MetroExodus.exe", "type": "Game" }
+
+{ "name": "Midnight.exe", "type": "BG_CPUIO" }
+
+{ "name": "Midnight-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "MilkGame.exe", "type": "Game" }
+
+{ "name": "MineMogul.exe", "type": "Game" }
+
+{ "name": "MineVar.exe", "type": "Game" }
+
+{ "name": "MiniCozyRoom.exe", "type": "Game" }
+
+{ "name": "Mining.exe", "type": "Game" }
+
+{ "name": "MM.exe", "type": "Game" }
+
+{ "name": "MOE.exe", "type": "Game" }
+
+{ "name": "Monsters.exe", "type": "Game" }
+
+{ "name": "Moonlight Peaks.exe", "type": "Game" }
+
+{ "name": "MoonshinerSimulator.exe", "type": "Game" }
+
+{ "name": "Morimens.exe", "type": "Game" }
+
+{ "name": "MorphVOXPro.exe", "type": "Game" }
+
+{ "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "MWOClient.exe", "type": "Game" }
+
+{ "name": "MXGP.exe", "type": "Game" }
+
+{ "name": "MyDorm.exe", "type": "Game" }
+
+{ "name": "MyMotel.exe", "type": "BG_CPUIO" }
+
+{ "name": "MyMotel-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "MyProject-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "N14PKLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "NarakaBladepoint.exe", "type": "Game" }
+
+{ "name": "NBA THE RUN.exe", "type": "Game" }
+
+{ "name": "NeacClient.exe", "type": "Game" }
+
+{ "name": "Necromunda.exe", "type": "BG_CPUIO"}
+
+{ "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "Neverway.exe", "type": "Game" }
+
+{ "name": "NewColossus_x64vk.exe", "type": "Game" }
+
+{ "name": "Nioh3.exe", "type": "Game" }
+
+{ "name": "NOBU14PK.exe", "type": "Game" }
+
+{ "name": "NotesOfSoul.exe", "type": "BG_CPUIO" }
+
+{ "name": "NotesOfSoul-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NovaRoma.exe", "type": "Game" }
+
+{ "name": "nw.exe", "type": "Game" }
+
+{ "name": "nxsteam.exe", "type": "Game" }
+
+{ "name": "OblivionLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "obs64.exe", "type": "Game" }
+
+{ "name": "Obscure.exe", "type": "Game" }
+
+{ "name": "obse_loader.exe", "type": "BG_CPUIO" }
+
+{ "name": "Octopath_Traveler0.exe", "type": "BG_CPUIO" }
+
+{ "name": "Octopath_Traveler0-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "OpenSaveFolder.exe", "type": "Game" }
+
+{ "name": "Operation Tango.exe", "type": "Game" }
+
+{ "name": "OPERATOR.exe", "type": "Game" }
+
+{ "name": "Outpath.exe", "type": "Game" }
+
+{ "name": "OUTRIDERS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Overlord.exe", "type": "Game" }
+
+{ "name": "P3R.exe", "type": "Game" }
+
+{ "name": "P5X.exe", "type": "Game" }
+
+{ "name": "PAC-MAN.exe", "type": "Game" }
+
+{ "name": "Pagoda.exe", "type": "Game" }
+
+{ "name": "Panicore.exe", "type": "BG_CPUIO" }
+
+{ "name": "Panicore-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pantheon.exe", "type": "Game" }
+
+{ "name": "Patcher.exe", "type": "Game" }
+
+{ "name": "PathOfExile.exe", "type": "Game" }
+
+{ "name": "PathOfExileSteam.exe", "type": "Game" }
+
+{ "name": "PathOfExile_x64.exe", "type": "Game" }
+
+{ "name": "PathOfExile_x64Steam.exe", "type": "Game" }
+
+{ "name": "pathogenic.exe", "type": "Game" }
+
+{ "name": "Pat The Cat.exe", "type": "Game" }
+
+{ "name": "PC-Launcher.exe", "type": "Game" }
+
+{ "name": "PCM64.exe", "type": "Game" }
+
+{ "name": "PCM.exe", "type": "BG_CPUIO" }
+
+{ "name": "PCM-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Penumbra.exe", "type": "Game" }
+
+{ "name": "PES2016.exe", "type": "Game" }
+
+{ "name": "Pharaoh.exe", "type": "Game" }
+
+{ "name": "pico_park.exe", "type": "Game" }
+
+{ "name": "Pixel Starships.exe", "type": "Game" }
+
+{ "name": "Plane Maker.exe", "type": "Game" }
+
+{ "name": "Planet Crafter.exe", "type": "Game" }
+
+{ "name": "player.exe", "type": "Game" }
+
+{ "name": "PlayGTAV.exe", "type": "Game" }
+
+{ "name": "Pluto.exe", "type": "Game" }
+
+{ "name": "Pool.exe", "type": "Game" }
+
+{ "name": "Poolians.exe", "type": "Game" }
+
+{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "portal2.exe", "type": "Game" }
+
+{ "name": "Powder.exe", "type": "Game" }
+
+{ "name": "PowerWashSimulator.exe", "type": "Game" }
+
+{ "name": "PrimalCarnageGame.exe", "type": "Game" }
+
+{ "name": "primordialis.exe", "type": "Game" }
+
+{ "name": "Prison Escape Simulator.exe", "type": "Game" }
+
+{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
+
+{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Project_F.exe", "type": "BG_CPUIO" }
+
+{ "name": "Project_F-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProjectT-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProjektPassion.exe", "type": "Game" }
+
+{ "name": "prospi.exe", "type": "BG_CPUIO" }
+
+{ "name": "prospi-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Proteus.exe", "type": "Game" }
+
+{ "name": "Pure Badminton.exe", "type": "Game" }
+
+{ "name": "Ragnarok X.exe", "type": "Game" }
+
+{ "name": "RainbowSix_BE.exe", "type": "Game" }
+
+{ "name": "RainbowSix.exe", "type": "Game" }
+
+{ "name": "RDR2.exe", "type": "Game" }
+
+{ "name": "re2.exe", "type": "Game" }
+
+{ "name": "re7.exe", "type": "Game" }
+
+{ "name": "re8.exe", "type": "Game" }
+
+{ "name": "REANIMAL.exe", "type": "Game" }
+
+{ "name": "REDprelauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "RedSoul.exe", "type": "BG_CPUIO" }
+
+{ "name": "RedSoul-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RelicCOH.exe", "type": "Game"}
+
+{ "name": "Replaced.exe", "type": "Game" }
+
+{ "name": "requiem.exe", "type": "Game" }
+
+{ "name": "Requiem.exe", "type": "Game" }
+
+{ "name": "Restory.exe", "type": "Game" }
+
+{ "name": "RetroRewind.exe", "type": "BG_CPUIO" }
+
+{ "name": "RetroRewind-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Ride.exe", "type": "Game" }
+
+{ "name": "riftbreaker_win_release.exe", "type": "Game" }
+
+{ "name": "Rocket Rats.exe", "type": "Game" }
+
+{ "name": "Ronin.exe", "type": "Game" }
+
+{ "name": "rox.exe", "type": "Game" }
+
+{ "name": "RPG_RT.exe", "type": "Game" }
+
+{ "name": "RTV.exe", "type": "Game" }
+
+{ "name": "RuinsOfDawn.exe", "type": "BG_CPUIO" }
+
+{ "name": "RuinsOfDawn-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "runme.exe", "type": "BG_CPUIO" }
+
+{ "name": "s2_mp64_ship.exe", "type": "Game" }
+
+{ "name": "SabbatOfTheWitch.exe", "type": "Game" }
+
+{ "name": "sacred2.exe", "type": "Game" }
+
+{ "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Sand.exe", "type": "Game" }
+
+{ "name": "SAN_HADOU.exe", "type": "Game" }
+
+{ "name": "SAN_HADOU_Launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "Saturn.exe", "type": "Game" }
+
+{ "name": "SB.exe", "type": "BG_CPUIO" }
+
+{ "name": "SB-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Scale The Depths.exe", "type": "Game" }
+
+{ "name": "Scapewatch.exe", "type": "Game" }
+
+{ "name": "SC Jogos Launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "SCPSL.exe", "type": "Game" }
+
+{ "name": "Scribble.exe", "type": "Game" }
+
+{ "name": "scummvm.exe", "type": "Game" }
+
+{ "name": "SejmTheGame.exe", "type": "Game" }
+
+{ "name": "Sen3Launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "SenrenBanka.exe", "type": "Game" }
+
+{ "name": "Sephiria.exe", "type": "Game" }
+
+{ "name": "SeriousSam.exe", "type": "Game" }
+
+{ "name": "SF3Client.exe", "type": "Game" }
+
+{ "name": "SF3ClientFinal.exe", "type": "Game" }
+
+{ "name": "Shadow Tactics.exe", "type": "Game" }
+
+{ "name": "ShantaeHero64.exe", "type": "Game" }
+
+{ "name": "ShantaeHero.exe", "type": "Game" }
+
+{ "name": "shapez 2.exe", "type": "Game" }
+
+{ "name": "Shelter.exe", "type": "Game" }
+
+{ "name": "Sherlock.exe", "type": "Game" }
+
+{ "name": "SH.exe", "type": "Game" }
+
+{ "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "shogun2.exe", "type": "Game" }
+
+{ "name": "ShooterGame_BE.exe", "type": "Game" }
+
+{ "name": "ShooterGame.exe", "type": "Game" }
+
+{ "name": "SiglusEngine_Steam.exe", "type": "Game" }
+
+{ "name": "SineusArena.exe", "type": "Game" }
+
+{ "name": "SkillLegendsRoyale.exe", "type": "Game" }
+
+{ "name": "skse64_loader.exe", "type": "BG_CPUIO" }
+
+{ "name": "skse_loader.exe", "type": "Game" }
+
+{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
+
+{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "SongsOfSyx.exe", "type": "Game" }
+
+{ "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
+
+{ "name": "sop.exe", "type": "Game" }
+
+{ "name": "sora_1st.exe", "type": "Game" }
+
+{ "name": "Soulworker.exe", "type": "Game" }
+
+{ "name": "Soulworker_Launcher.exe", "type": "Game" }
+
+{ "name": "Soundpad.exe", "type": "Game" }
+
+{ "name": "SoundpadService.exe", "type": "BG_CPUIO" }
+
+{ "name": "SpaceCraft.exe", "type": "Game" }
+
+{ "name": "SpaceMarine.exe", "type": "Game" }
+
+{ "name": "SpeciesUnknown.exe", "type": "BG_CPUIO" }
+
+{ "name": "SpeciesUnknown-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "SpiritVale.exe", "type": "Game" }
+
+{ "name": "SporeApp.exe", "type": "Game" }
+
+{ "name": "Squirrel.exe", "type": "Game" }
+
+{ "name": "srcds.exe", "type": "Service" }
+
+{ "name": "stanley.exe", "type": "Game" }
+
+{ "name": "StardockLauncher.exe", "type": "Game" }
+
+{ "name": "_start.exe", "type": "Game" }
+
+{ "name": "start.exe", "type": "Game" }
+
+{ "name": "START.exe", "type": "Game" }
+
+{ "name": "StartGame.exe", "type": "Game" }
+
+{ "name": "startup.exe", "type": "Game" }
+
+{ "name": "Starvester.exe", "type": "Game" }
+
+{ "name": "StateOfDecay.exe", "type": "Game" }
+
+{ "name": "SteamGame.exe", "type": "Game" }
+
+{ "name": "Stonemachia.exe", "type": "BG_CPUIO" }
+
+{ "name": "Stonemachia-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "StorageHunter.exe", "type": "BG_CPUIO" }
+
+{ "name": "StorageHunter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "StormWorkshopTool.exe", "type": "Game" }
+
+{ "name": "StreetFighter6.exe", "type": "Game" }
+
+{ "name": "Subnautica32.exe", "type": "Game" }
+
+{ "name": "Substance Painter.exe", "type": "Game" }
+
+{ "name": "Succubus.exe", "type": "BG_CPUIO" }
+
+{ "name": "Succubus-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "SuchArt.exe", "type": "Game" }
+
+{ "name": "SUPERHOT-Launcher.exe", "type": "Game" }
+
+{ "name": "supermegabaseball.exe", "type": "Game" }
+
+{ "name": "SupremeCommander.exe", "type": "Game" }
+
+{ "name": "SurvivalMachine.exe", "type": "Game" }
+
+{ "name": "SWLoading.exe", "type": "Game" }
+
+{ "name": "SyxWithout.exe", "type": "Game" }
+
+{ "name": "t6mp.exe", "type": "Game" }
+
+{ "name": "t6zm.exe", "type": "Game" }
+
+{ "name": "TabletopTavern.exe", "type": "Game" }
+
+{ "name": "TaleSpire.exe", "type": "Game" }
+
+{ "name": "Tamer.exe", "type": "BG_CPUIO" }
+
+{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TANK-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TDF.exe", "type": "BG_CPUIO" }
+
+{ "name": "TDF-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Tempest.exe", "type": "Game" }
+
+{ "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TemtemSwarm.exe", "type": "Game" }
+
+{ "name": "testapp.exe", "type": "Game" }
+
+{ "name": "The Chef's Shift.exe", "type": "Game" }
+
+{ "name": "TheFirstMillion.exe", "type": "Game" }
+
+{ "name": "TheLastSurvivor.exe", "type": "Game" }
+
+{ "name": "The Message From Deep Space.exe", "type": "Game" }
+
+{ "name": "TheMound.exe", "type": "BG_CPUIO" }
+
+{ "name": "TheMound-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheScouring.exe", "type": "Game" }
+
+{ "name": "TheSevenRealms-32.exe", "type": "Game" }
+
+{ "name": "TheSevenRealms.exe", "type": "Game" }
+
+{ "name": "TheSpellBrigade.exe", "type": "Game" }
+
+{ "name": "THMHJ.exe", "type": "Game" }
+
+{ "name": "ThreeKingdom.exe", "type": "Game" }
+
+{ "name": "tiny-glade.exe", "type": "Game" }
+
+{ "name": "Tiny Terraces.exe", "type": "Game" }
+
+{ "name": "tk.exe", "type": "Game" }
+
+{ "name": "TMDP.exe", "type": "BG_CPUIO" }
+
+{ "name": "TMDP-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TmForever.exe", "type": "Game" }
+
+{ "name": "TmForeverLauncher.exe", "type": "Game" }
+
+{ "name": "TobaccoShopSim.exe", "type": "BG_CPUIO" }
+
+{ "name": "TobaccoShopSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "torchlight_infinite.exe", "type": "Game" }
+
+{ "name": "tos.exe", "type": "Game" }
+
+{ "name": "Tower.exe", "type": "Game" }
+
+{ "name": "Towers.exe", "type": "BG_CPUIO" }
+
+{ "name": "Towers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Train.exe", "type": "BG_CPUIO" }
+
+{ "name": "TrainSimWorld.exe", "type": "Game" }
+
+{ "name": "Train-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
+
+{ "name": "TrashLover.exe", "type": "Game" }
+
+{ "name": "TRS22.exe", "type": "Game" }
+
+{ "name": "TS2Prototype.exe", "type": "BG_CPUIO" }
+
+{ "name": "TS2Prototype-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Turnbound.exe", "type": "Game" }
+
+{ "name": "TWD.exe", "type": "BG_CPUIO" }
+
+{ "name": "TWD-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "twilightModernity.exe", "type": "BG_CPUIO" }
+
+{ "name": "twilightModernity-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Typing Farmer.exe", "type": "Game" }
+
+{ "name": "UDK.exe", "type": "Game" }
+
+{ "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ULTRAKILL.exe", "type": "Game" }
+
+{ "name": "UNDECEMBER-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Unreal.exe", "type": "Game" }
+
+{ "name": "Unturned.exe", "type": "Service" }
+
+{ "name": "ValkyrieConnect.exe", "type": "Game" }
+
+{ "name": "Vampire Crawlers.exe", "type": "Game" }
+
+{ "name": "VanHelsing.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x64_11.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x64_11_win10.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x64.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x64_win10.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x86_11.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x86_11_win10.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x86.exe", "type": "Game" }
+
+{ "name": "VanHelsing_x86_win10.exe", "type": "Game" }
+
+{ "name": "Victory.exe", "type": "Game" }
+
+{ "name": "VideoEditor.exe", "type": "Game" }
+
+{ "name": "VideoEditorPlus.exe", "type": "Game" }
+
+{ "name": "VoiceAttack.exe", "type": "BG_CPUIO" }
+
+{ "name": "VoidlingWrangler.exe", "type": "BG_CPUIO" }
+
+{ "name": "VoidlingWrangler-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Voodoo Fishin'.exe", "type": "Game" }
+
+{ "name": "Voyage.exe", "type": "BG_CPUIO" }
+
+{ "name": "VoyageSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "W40k.exe", "type": "Game" }
+
+{ "name": "WA.exe", "type": "Game" }
+
+{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
+
+{ "name": "Warhammer.exe", "type": "Game" }
+
+{ "name": "Watermelon.exe", "type": "Game" }
+
+{ "name": "WaterparkSimulator.exe", "type": "Game" }
+
+{ "name": "Whisper Mountain Outbreak.exe", "type": "Game" }
+
+{ "name": "White Knuckle.exe", "type": "Game" }
+
+{ "name": "WickedIsland.exe", "type": "BG_CPUIO" }
+
+{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WindroseServer.exe", "type": "Service" }
+
+{ "name": "WindroseServer-Win64-Shipping.exe", "type": "Service" }
+
+{ "name": "WL2.exe", "type": "Game" }
+
+{ "name": "WolfNewOrder_x64.exe", "type": "Game" }
+
+{ "name": "Workshop.exe", "type": "Game" }
+
+{ "name": "WorldBuilder.exe", "type": "Game" }
+
+{ "name": "WPLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "WrapHouseSimulator.exe", "type": "BG_CPUIO" }
+
+{ "name": "WrapHouseSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "X3TC.exe", "type": "Game" }
+
+{ "name": "XCom2.exe", "type": "Game" }
+
+{ "name": "X-Plane.exe", "type": "Game" }
+
+{ "name": "xrEngine.exe", "type": "Game" }
+
+{ "name": "yakuzakiwami3.exe", "type": "Game" }
+
+{ "name": "YuGiOh.exe", "type": "Game" }
+
+{ "name": "Zaapi.exe", "type": "Game" }
+
+{ "name": "ZenlessZoneZero.exe", "type": "Game" }
+
+{ "name": "zula.exe", "type": "Game" }
+
+{ "name": "zula_launcher.exe", "type": "Game" }
+
+
+{ "name": "bootstrapper.exe", "type": "BG_CPUIO" }
+
+{ "name": "oalinst.exe", "type": "BG_CPUIO" }
+
+{ "name": "SystemInfoGetter.exe", "type": "BG_CPUIO" }
+
+{ "name": "hlmv.exe", "type": "Doc-View" }
+
+{ "name": "GodotWorkshopUtility.exe", "type": "BG_CPUIO" }
+
+{ "name": "binkplay.exe", "type": "BG_CPUIO" }
+
+{ "name": "autorun.exe", "type": "BG_CPUIO" }
+
+{ "name": "CaptiveAppEntry.exe", "type": "BG_CPUIO" }
+
+{ "name": "vconsole2.exe", "type": "BG_CPUIO" }
+
+{ "name": "avicodec.exe", "type": "BG_CPUIO" }
+
+{ "name": "SteamWorksExample.exe", "type": "Service" }
+
+{ "name": "notification_helper.exe", "type": "BG_CPUIO" }
+
+{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
+{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
+{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "CrashLogsGenerator.exe", "type": "BG_CPUIO" }
+{ "name": "codCrashHandler.exe", "type": "BG_CPUIO" }
+{ "name": "bootstrapperCrashHandler.exe", "type": "BG_CPUIO" }
+{ "name": "UnityCrashHandler64.exe", "type": "BG_CPUIO" }
+{ "name": "UnityCrashHandler32.exe", "type": "BG_CPUIO" }
+{ "name": "createdump.exe", "type": "BG_CPUIO" }
+
+{ "name": "start_protected_game.exe", "type": "BG_CPUIO" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "BG_CPUIO" }
+{ "name": "EAAntiCheat.GameServiceLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "BEService_x64.exe", "type": "BG_CPUIO" }
+{ "name": "BEService.exe", "type": "BG_CPUIO" }
+{ "name": "SGuard64.exe", "type": "BG_CPUIO" }
+{ "name": "ACE-Setup64.exe", "type": "BG_CPUIO" }
+{ "name": "ACE-Service64.exe", "type": "BG_CPUIO" }
+{ "name": "SGuardUpdate64.exe", "type": "BG_CPUIO" }
+{ "name": "ACE-Helper.exe", "type": "BG_CPUIO" }
+{ "name": "SGuardSvc64.exe", "type": "BG_CPUIO" }
+
+{ "name": "UnrealCEFSubProcess.exe", "type": "BG_CPUIO" }
+{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
+{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
+{ "name": "ZFGameBrowser.exe", "type": "BG_CPUIO" }
+{ "name": "CoherentUI_Host.exe", "type": "BG_CPUIO" }
+{ "name": "awesomium_process.exe", "type": "BG_CPUIO" }
+{ "name": "EOSBootstrapper.exe", "type": "BG_CPUIO" }
+
+{ "name": "CCVideoPlayer.exe", "type": "BG_CPUIO" }
+{ "name": "MLiveCCPlayerApp.exe", "type": "BG_CPUIO" }
+{ "name": "CCMini.exe", "type": "BG_CPUIO" }
+
+{ "name": "UEPrereqSetup_x64.exe", "type": "BG_CPUIO" }
+{ "name": "DXSETUP.exe", "type": "BG_CPUIO" }
+{ "name": "D3D11Install.exe", "type": "BG_CPUIO" }
+{ "name": "vcredist_x64.exe", "type": "BG_CPUIO" }
+{ "name": "vcredist_x86.exe", "type": "BG_CPUIO" }
+{ "name": "VC_redist.x64.exe", "type": "BG_CPUIO" }
+{ "name": "VC_redist.x86.exe", "type": "BG_CPUIO" }
+{ "name": "Touchup.exe", "type": "BG_CPUIO" }
+{ "name": "PrereqsBundle.exe", "type": "BG_CPUIO" }
+{ "name": "UE4PrereqSetup_x64.exe", "type": "BG_CPUIO" }
+{ "name": "vc_redist.arm64.exe", "type": "BG_CPUIO" }
+{ "name": "EpicOnlineServicesInstaller.exe", "type": "BG_CPUIO" }
+{ "name": "UE3Redist.exe", "type": "BG_CPUIO" }
+

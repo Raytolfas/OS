@@ -1,0 +1,2 @@
+{ "name": "syncthing", "type": "BG_CPUIO" }
+{ "name": "syncthing-gtk", "type": "BG_CPUIO" }

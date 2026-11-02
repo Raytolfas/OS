@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Console Mode
+Comment=Gamepad-oriented fullscreen session
+Exec=/usr/bin/raytolfas-console-mode session
+Type=Application
+DesktopNames=KDE

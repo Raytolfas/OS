@@ -1,0 +1,8 @@
+
+{ "name": "tabtip.exe", "type": "BG_CPUIO" }
+
+{ "name": "explorer.exe", "type": "BG_CPUIO" }
+
+{ "name": "plugplay.exe", "type": "BG_CPUIO" }
+
+{ "name": "services.exe", "type": "BG_CPUIO" }

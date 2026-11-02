@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+MEM_BEFORE="$(awk '/MemAvailable/ {print $2}' /proc/meminfo 2>/dev/null || echo 0)"
+DISK_BEFORE="$(df -k / | awk 'NR==2 {print $4}' 2>/dev/null || echo 0)"
+
+rm -rf "${HOME}/.cache/thumbnails/"* 2>/dev/null || true
+rm -rf /tmp/rqio-run-* /tmp/appimage-* /tmp/bench-* 2>/dev/null || true
+
+if [ "$(id -u)" -eq 0 ]; then
+    sync
+    echo 3 > /proc/sys/vm/drop_caches 2>/dev/null || true
+    journalctl --vacuum-time=3d >/dev/null 2>&1 || true
+    apt-get clean >/dev/null 2>&1 || true
+else
+    sync
+fi
+
+MEM_AFTER="$(awk '/MemAvailable/ {print $2}' /proc/meminfo 2>/dev/null || echo 0)"
+DISK_AFTER="$(df -k / | awk 'NR==2 {print $4}' 2>/dev/null || echo 0)"
+
+MEM_DIFF_MB=$(( (MEM_AFTER - MEM_BEFORE) / 1024 ))
+if [ "${MEM_DIFF_MB}" -lt 0 ]; then
+    MEM_DIFF_MB=0
+fi
+
+DISK_DIFF_MB=$(( (DISK_AFTER - DISK_BEFORE) / 1024 ))
+if [ "${DISK_DIFF_MB}" -lt 0 ]; then
+    DISK_DIFF_MB=0
+fi
+
+echo "Optimized: Freed ${MEM_DIFF_MB} MB RAM & ${DISK_DIFF_MB} MB disk cache"

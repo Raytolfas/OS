@@ -1,23 +1,23 @@
 var desktopsArray = desktopsForActivity(currentActivity());
 for (var j = 0; j < desktopsArray.length; j++) {
-    desktopsArray[j].wallpaperPlugin = 'org.kde.image';
+    desktopsArray[j].wallpaperPlugin = "org.kde.image";
     desktopsArray[j].currentConfigGroup = ["Wallpaper", "org.kde.image", "General"];
     desktopsArray[j].writeConfig("Image", "/usr/share/wallpapers/Raytolfas/wallpaper.png");
     desktopsArray[j].writeConfig("FillMode", 2);
+    desktopsArray[j].currentConfigGroup = ["General"];
+    desktopsArray[j].writeConfig("iconSize", 3);
 }
 
 var panel = new Panel;
 var panelScreen = panel.screen;
 
 panel.location = "bottom";
-panel.height = 46;
+panel.height = 48;
 panel.floating = false;
 
 var kickoff = panel.addWidget("org.kde.plasma.kickoff");
 kickoff.currentConfigGroup = ["General"];
 kickoff.writeConfig("icon", "start-here-raytolfas");
-kickoff.writeConfig("useCustomButtonImage", true);
-kickoff.writeConfig("customButtonImage", "/usr/share/icons/hicolor/scalable/apps/start-here-raytolfas.svg");
 
 kickoff.currentConfigGroup = ["Shortcuts"];
 kickoff.writeConfig("global", "Alt+F1");
@@ -30,6 +30,7 @@ icontasks.writeConfig("launchers", [
     "applications:firefox.desktop",
     "applications:org.kde.dolphin.desktop",
     "applications:org.kde.konsole.desktop",
+    "applications:raytolfas-control-center.desktop",
     "applications:org.kde.plasma-systemmonitor.desktop",
     "applications:systemsettings.desktop",
     "applications:raytolfas-android.desktop"

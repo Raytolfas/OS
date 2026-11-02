@@ -1,0 +1,2 @@
+{ "name": "xmobar", "type": "Service" }
+{ "name": "xmonad-x86_64-linux", "type": "LowLatency_RT" }

@@ -1,0 +1,3 @@
+{ "name": "asusd", "type": "BG_CPUIO" }
+{ "name": "asusd-user", "type": "BG_CPUIO" }
+

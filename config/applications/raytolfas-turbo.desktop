@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Turbo Mode
+Name[ru]=Турбо-режим
+Comment=Toggle peak system and gaming performance
+Exec=raytolfas-turbo toggle
+Icon=speedometer
+Categories=System;Game;
+Terminal=false

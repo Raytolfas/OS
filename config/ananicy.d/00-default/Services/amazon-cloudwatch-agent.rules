@@ -1,0 +1,1 @@
+{ "name": "amazon-cloudwatch-agent", "type": "LowLatency_RT" }

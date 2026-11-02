@@ -1,0 +1,3 @@
+{ "name": "gpu-screen-recorder", "type": "LowLatency_RT" } 
+{ "name": "gsr-ui", "type": "IN_DIFF" }
+{ "name": "gsr-game-tracker", "type": "BG_CPUIO" }

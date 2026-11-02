@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+MimeType=application/x-executable;application/x-shellscript;application/x-desktop;
+Actions=runOnDgpu;
+X-KDE-Priority=TopLevel
+
+[Desktop Action runOnDgpu]
+Name=Run on Discrete GPU
+Name[ru]=Запустить на дискретной видеокарте
+Icon=video-display
+Exec=prime-run %f

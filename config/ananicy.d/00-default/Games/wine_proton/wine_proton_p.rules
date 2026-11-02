@@ -1,0 +1,1059 @@
+
+
+{ "name": "PenDriverPro.exe", "type": "BG_CPUIO" }
+{ "name": "PenDriverPro-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pacify.exe", "type": "Game" }
+
+{ "name": "Packing Life.exe", "type": "Game" }
+
+{ "name": "PAC-MAN256.exe", "type": "Game" }
+
+{ "name": "PCE2.exe", "type": "Game" }
+
+{ "name": "PAC-MAN MUSEUM+.exe", "type": "Game" }
+
+{ "name": "PAC-MAN WORLD 2 Re-PAC.exe", "type": "Game" }
+
+{ "name": "PAC-MAN WORLD Re-PAC.exe", "type": "Game" }
+
+{ "name": "Pacremental.exe", "type": "Game" }
+
+{ "name": "Paddle Paddle Paddle.exe", "type": "Game" }
+
+{ "name": "Painkiller-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Painkiller.exe", "type": "Game" }
+
+{ "name": "PKHDGame-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Overdose.exe", "type": "Game" }
+
+{ "name": "RecurringEvil.exe", "type": "Game" }
+
+{ "name": "Redemption.exe", "type": "Game" }
+
+{ "name": "Resurrection.exe", "type": "Game" }
+
+{ "name": "PaintTheTownRed.exe", "type": "Game" }
+{ "name": "PaintTheTownRedVR.exe", "type": "Game" }
+
+{ "name": "PaladinsEAC.exe", "type": "BG_CPUIO" }
+{ "name": "Paladins.exe", "type": "Game" }
+{ "name": "ShippingPC-ChaosGame.exe", "type": "Game" }
+
+{ "name": "Paleo Pines.exe", "type": "Game" }
+
+{ "name": "PaliaClientSteam.exe", "type": "BG_CPUIO" }
+{ "name": "PaliaClientSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Palworld.exe", "type": "BG_CPUIO" }
+
+{ "name": "PalServer.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping.exe", "type": "Service" }
+
+{ "name": "Pandora's Toybox.exe", "type": "Game" }
+
+{ "name": "PanelkiProject-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PanelkiProject.exe", "type": "BG_CPUIO" }
+
+{ "name": "pankapu.exe", "type": "Game" }
+
+{ "name": "Panoptyca.exe", "type": "Game" }
+
+{ "name": "PanOrama.exe", "type": "Game" }
+
+{ "name": "PnzSteamLauncher.exe", "type": "Game" }
+{ "name": "PnzCl.exe", "type": "Game" }
+
+{ "name": "PanzerCorps2.exe", "type": "Game" }
+
+{ "name": "PanzerCorps.exe", "type": "Game" }
+
+{ "name": "PanzerStrike.exe", "type": "Game" }
+
+{ "name": "PanzerWar-DE.exe", "type": "Game" }
+{ "name": "PanzerWar.exe", "type": "Game" }
+{ "name": "CryofWar.exe", "type": "Game" }
+{ "name": "Waroftanks.exe", "type": "Game" }
+{ "name": "WindyVerseHub.exe", "type": "Game" }
+
+{ "name": "PaoPao Playtest 2.exe", "type": "Game" }
+
+{ "name": "Papa's Freezeria Deluxe.exe", "type": "Game" }
+
+{ "name": "Papa's Mocharia Deluxe.exe", "type": "Game" }
+
+{ "name": "Papa's Pizzeria Deluxe.exe", "type": "Game" }
+
+{ "name": "PD2.exe", "type": "BG_CPUIO" }
+{ "name": "PD2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PaperDollsOriginal.exe", "type": "BG_CPUIO" }
+{ "name": "PDS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PLAY PAPERHEAD.exe", "type": "Game" }
+
+{ "name": "PaperLilyCh1.exe", "type": "Game" }
+
+{ "name": "PapersPlease.exe", "type": "Game" }
+
+{ "name": "Paper Trail.exe", "type": "Game" }
+
+{ "name": "PYGame-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Paquerette Down the Bunburrows.exe", "type": "Game" }
+
+{ "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ParadiseKiller.exe", "type": "Game" }
+
+{ "name": "Paradise Lust.exe", "type": "Game" }
+
+{ "name": "Paragnosia.exe", "type": "Game" }
+
+{ "name": "Paralives.exe", "type": "Game" }
+
+{ "name": "Parallel Experiment.exe", "type": "Game" }
+
+{ "name": "Paranautical Activity.exe", "type": "Game" }
+
+{ "name": "PARANOIA.exe", "type": "Game" }
+
+{ "name": "Paranoia Place.exe", "type": "Game" }
+
+{ "name": "aCleaningHorror.exe", "type": "BG_CPUIO" }
+{ "name": "aCleaningHorror-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PuzzleGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "PARANORMASIGHT_2.exe", "type": "Game" }
+
+{ "name": "PPARANORMASIGHT.exe", "type": "Game" }
+
+{ "name": "ParasiteBlack.exe", "type": "Game" }
+
+{ "name": "parcel.exe", "type": "BG_CPUIO" }
+{ "name": "parcel-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "BrasserieSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "BrasserieSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Parkasaurus.exe", "type": "Game" }
+
+{ "name": "ParkBeyond.exe", "type": "BG_CPUIO" }
+{ "name": "ParkBeyond-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "garagerally.exe", "type": "Game" }
+
+{ "name": "Parkitect.exe", "type": "Game" }
+
+{ "name": "ParticleFleet.exe", "type": "Game" }
+
+{ "name": "particul.exe", "type": "Game" }
+
+{ "name": "Particula.exe", "type": "Game" }
+
+{ "name": "Partisans.exe", "type": "Game" }
+
+{ "name": "PartTimeWitch.exe", "type": "Game" }
+
+{ "name": "PartyAnimals.exe", "type": "Game" }
+
+{ "name": "PartyClub.exe", "type": "Game" }
+
+{ "name": "PartyHardGame.exe", "type": "Game" }
+
+{ "name": "PartyHard2Game.exe", "type": "Game" }
+{ "name": "ph2.exe", "type": "Game" }
+
+{ "name": "PartyPanic.exe", "type": "Game" }
+
+{ "name": "Party Quiz.exe", "type": "Game" }
+
+{ "name": "PassionIndustry.exe", "type": "Game" }
+
+{ "name": "PassionRift.exe", "type": "Game" }
+
+{ "name": "Passpartout2.exe", "type": "Game" }
+
+{ "name": "Passpartout.exe", "type": "Game" }
+
+{ "name": "PATAPON12_REPLAY.exe", "type": "Game" }
+
+{ "name": "Patch Quest.exe", "type": "Game" }
+
+{ "name": "Kingmaker.exe", "type": "Game" }
+
+{ "name": "Wrath.exe", "type": "Game" }
+
+{ "name": "PathofAchra.exe", "type": "Game" }
+
+{ "name": "Path of Building.exe", "type": "Heavy_CPU" }
+
+{ "name": "daojianjianghulu.exe", "type": "Game" }
+
+{ "name": "PathOfIdle.exe", "type": "Game" }
+
+{ "name": "Pathogenesis.exe", "type": "BG_CPUIO" }
+{ "name": "Pathogenesis-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pathologic.exe", "type": "Game" }
+
+{ "name": "Pathologic3.exe", "type": "Game" }
+
+{ "name": "Patrician3.exe", "type": "Game" }
+
+{ "name": "Patrician4_addon.exe", "type": "Game" }
+
+{ "name": "Patrician4.exe", "type": "Game" }
+
+{ "name": "Patrick's Parabox.exe", "type": "Game" }
+
+{ "name": "Patron.exe", "type": "Game" }
+
+{ "name": "Paunch.exe", "type": "Game" }
+
+{ "name": "Pavlov.exe", "type": "BG_CPUIO" }
+{ "name": "Pavlov-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pawnbroker Simulator.exe", "type": "Game" }
+
+{ "name": "Pawns OF WAR.exe", "type": "Game" }
+
+{ "name": "PPA.exe", "type": "BG_CPUIO" }
+{ "name": "PPA-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PawsAndWhiskers.exe", "type": "Game" }
+
+{ "name": "Pawsome Resort.exe", "type": "Game" }
+
+{ "name": "PaxAugusta.exe", "type": "Game" }
+
+{ "name": "PaxDei.exe", "type": "BG_CPUIO" }
+{ "name": "PaxDeiClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "payday2_win32_release.exe", "type": "Game" }
+{ "name": "payday2_win32_release_vr.exe", "type": "Game" }
+
+{ "name": "PAYDAY3Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PAYDAY3Client.exe", "type": "BG_CPUIO" }
+
+{ "name": "payday_win32_release.exe", "type": "Game" }
+
+{ "name": "PBABowling4.exe", "type": "BG_CPUIO" }
+{ "name": "PBABowling4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PCBox.exe", "type": "Game" }
+
+{ "name": "PCBS.exe", "type": "Game" }
+
+{ "name": "PCBS2.EXE", "type": "Game" }
+
+{ "name": "Peach.exe", "type": "Game" }
+
+{ "name": "Peach Clicker.exe", "type": "Game" }
+
+{ "name": "PEAK.exe", "type": "Game" }
+
+{ "name": "Peaks of Yore.exe", "type": "Game" }
+
+{ "name": "Pebble Knights.exe", "type": "Game" }
+
+{ "name": "Pedro clicker.exe", "type": "Game" }
+
+{ "name": "Peekaboo.exe", "type": "BG_CPUIO" }
+{ "name": "Peekaboo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Peeping Dorm Manager.exe", "type": "Game" }
+
+{ "name": "Peggle.exe", "type": "Game" }
+
+{ "name": "PeggleExtreme.exe", "type": "Game" }
+
+{ "name": "PeggleNights.exe", "type": "Game" }
+
+{ "name": "PegIdle.exe", "type": "Game" }
+
+{ "name": "Peglin.exe", "type": "Game" }
+
+{ "name": "PengPong.exe", "type": "Game" }
+
+{ "name": "PenguinsArena.exe", "type": "Game" }
+
+{ "name": "Pentiment.exe", "type": "Game" }
+
+{ "name": "penumbra.exe", "type": "Game" }
+
+{ "name": "PeopleOfNote.exe", "type": "BG_CPUIO" }
+{ "name": "PeopleOfNote-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "People Playground.exe", "type": "Game" }
+
+{ "name": "PepperGrinder.exe", "type": "Game" }
+
+{ "name": "Per Aspera.exe", "type": "Game" }
+
+{ "name": "Perceptum.exe", "type": "BG_CPUIO" }
+{ "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Peregrino.exe", "type": "BG_CPUIO" }
+{ "name": "Peregrino-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Perfect Golf.exe", "type": "Game" }
+
+{ "name": "PerfectHeist2.exe", "type": "BG_CPUIO" }
+{ "name": "PerfectHeist2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Perfume Atelier.exe", "type": "Game" }
+
+{ "name": "Peripeteia.exe", "type": "Game" }
+
+{ "name": "P3P.exe", "type": "Game" }
+
+{ "name": "P4U2.exe", "type": "Game" }
+
+{ "name": "P4G.exe", "type": "Game" }
+
+{ "name": "P5R.exe", "type": "Game" }
+
+{ "name": "Persona 5 Strikers Bonus Content.exe", "type": "Game" }
+
+{ "name": "Persona 5 Tactica.exe", "type": "Game" }
+
+{ "name": "PetLands.exe", "type": "Game" }
+
+{ "name": "PGATOUR2K23.exe", "type": "Game" }
+
+{ "name": "PGATOUR2K25.exe", "type": "Game" }
+
+{ "name": "pso2.exe", "type": "Game" }
+
+{ "name": "Phantom Brave PC.exe", "type": "Game" }
+
+{ "name": "pbbg_win32.exe", "type": "Game" }
+
+{ "name": "PhantomBrigade.exe", "type": "Game" }
+
+{ "name": "IWTB.exe", "type": "BG_CPUIO" }
+{ "name": "IWTB-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PhantomSquad.exe", "type": "Game" }
+
+{ "name": "Phasmophobia.exe", "type": "Game" }
+
+{ "name": "Phobies.exe", "type": "Game" }
+
+{ "name": "Phoenix2.exe", "type": "Game" }
+
+{ "name": "PhoenixPointWin64.exe", "type": "Game" }
+
+{ "name": "PWAAT.exe", "type": "Game" }
+
+{ "name": "PhoenotopiaAwakening.exe", "type": "Game" }
+
+{ "name": "PHOGS.exe", "type": "Game" }
+
+{ "name": "Phonopolis.exe", "type": "Game" }
+
+{ "name": "PianoGlow.exe", "type": "Game" }
+
+{ "name": "PICAYUNEDREAMS.exe", "type": "Game" }
+
+{ "name": "PickCrafter.exe", "type": "Game" }
+
+{ "name": "Pickle.exe", "type": "Game" }
+
+{ "name": "pico_park_2.exe", "type": "Game" }
+
+{ "name": "picross.exe", "type": "Game" }
+
+{ "name": "Pictopix.exe", "type": "Game" }
+
+{ "name": "Pid.exe", "type": "Game" }
+
+{ "name": "Pieceful Gallery.exe", "type": "Game" }
+
+{ "name": "pshd.exe", "type": "Game" }
+
+{ "name": "Pigface.exe", "type": "Game" }
+
+{ "name": "VRExpPluginExample-Win64-Shipping.exe", "type": "Game" }
+{ "name": "VRExpPluginExample.exe", "type": "BG_CPUIO" }
+
+{ "name": "Pikuniku.exe", "type": "Game" }
+
+{ "name": "Pilgrims.exe", "type": "Game" }
+
+{ "name": "Pillar.exe", "type": "Game" }
+
+{ "name": "PillarsOfEternity.exe", "type": "Game" }
+
+{ "name": "PillarsOfEternityII.exe", "type": "Game" }
+
+{ "name": "PinballArcade.exe", "type": "Game" }
+{ "name": "PinballArcade11.exe", "type": "Game" }
+{ "name": "PinballArcadeCabinet.exe", "type": "Game" }
+
+{ "name": "PinballFX.exe", "type": "BG_CPUIO" }
+{ "name": "PinballFX-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pinball FX3.exe", "type": "Game" }
+{ "name": "Pinball FX Classic.exe", "type": "Game" }
+
+{ "name": "Lokanta.exe", "type": "Game" }
+
+{ "name": "Pincremental.exe", "type": "Game" }
+
+{ "name": "Pineapple on pizza.exe", "type": "Game" }
+
+{ "name": "Pink Noise.exe", "type": "Game" }
+
+{ "name": "Pioneers of Pagonia.exe", "type": "Game" }
+
+{ "name": "Pioner.exe", "type": "BG_CPUIO" }
+{ "name": "Pioner-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pipistrello.exe", "type": "Game" }
+
+{ "name": "Pirate101.exe", "type": "Game" }
+
+{ "name": "Pirates.exe", "type": "BG_CPUIO" }
+{ "name": "Pirates-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PirateShips.exe", "type": "Game" }
+
+{ "name": "Pirates Outlaws.exe", "type": "Game" }
+
+{ "name": "pvkii_win32.exe", "type": "Game" }
+{ "name": "pvkii_win64.exe", "type": "Game" }
+
+{ "name": "Pistol Whip.exe", "type": "Game" }
+
+{ "name": "Pit of Goblin.exe", "type": "Game" }
+
+{ "name": "pitpeople.exe", "type": "Game" }
+
+{ "name": "PixARK.exe", "type": "Game" }
+
+{ "name": "Pixel Art Coloring Book.exe", "type": "Game" }
+
+{ "name": "PixelCollector.exe", "type": "Game" }
+
+{ "name": "PixelComposer.exe", "type": "Game" }
+
+{ "name": "Pixel Cup Soccer Ultimate Edition.exe", "type": "Game" }
+
+{ "name": "PGMMV.exe", "type": "Game" }
+
+{ "name": "Pixel Gun 2 Demo.exe", "type": "Game" }
+
+{ "name": "Pixel Gun 3D.exe", "type": "Game" }
+
+{ "name": "NomNomGalaxy.exe", "type": "Game" }
+
+{ "name": "Paint0081.exe", "type": "Game" }
+
+{ "name": "PixelPiracy.exe", "type": "Game" }
+{ "name": "Shrimp Legacy.exe", "type": "Game" }
+
+{ "name": "Pixel Puzzles - Japan.exe", "type": "Game" }
+
+{ "name": "Pixel Puzzles Traditional Jigsaws.exe", "type": "Game" }
+
+{ "name": "Pixel Puzzles Ultimate.exe", "type": "Game" }
+
+{ "name": "Pixel Restorer.exe", "type": "Game" }
+
+{ "name": "PixelStrike3D.exe", "type": "Game" }
+
+{ "name": "Pixel Studio.exe", "type": "Game" }
+
+{ "name": "PixelWorlds.exe", "type": "Game" }
+
+{ "name": "PixTheCat.exe", "type": "Game" }
+
+{ "name": "Pizza Clicker.exe", "type": "Game" }
+
+{ "name": "PizzaHouseSimulator.exe", "type": "Game" }
+{ "name": "PizzaHouseSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PizzaPossum.exe", "type": "Game" }
+
+{ "name": "PizzaTower.exe", "type": "Game" }
+
+{ "name": "Pizzeria.exe", "type": "Game" }
+
+{ "name": "Placid Plastic Duck Simulator.exe", "type": "Game" }
+
+{ "name": "PlagueIncEvolved.exe", "type": "Game" }
+
+{ "name": "PlainsOfPain.exe", "type": "Game" }
+
+{ "name": "PlanarConquest.exe", "type": "Game" }
+
+{ "name": "Plan B Terraform.exe", "type": "Game" }
+
+{ "name": "Planes, Bullets and Vodka.exe", "type": "Game" }
+
+{ "name": "Torment.exe", "type": "Game" }
+
+{ "name": "Erasers.exe", "type": "Game" }
+
+{ "name": "PlanetAlpha.exe", "type": "Game" }
+
+{ "name": "PA.exe", "type": "Game" }
+
+{ "name": "pa.exe", "type": "Game" }
+
+{ "name": "PlanetaryLife.exe", "type": "Game" }
+
+{ "name": "PlanetaryLife-demo.exe", "type": "Game" }
+
+{ "name": "Planetbase.exe", "type": "Game" }
+
+{ "name": "PlanetCentauri.exe", "type": "Game" }
+
+{ "name": "PlanetCoaster.exe", "type": "Game" }
+
+{ "name": "PlanetCoaster2.exe", "type": "Game" }
+
+{ "name": "PE_Launcher.exe", "type": "Game" }
+
+{ "name": "Lust.exe", "type": "Game" }
+
+{ "name": "Planet of Lana.exe", "type": "Game" }
+
+{ "name": "Planet of Lana 2.exe", "type": "Game" }
+
+{ "name": "PlanS.exe", "type": "Game" }
+
+{ "name": "PlanetSide2_x64.exe", "type": "Game" }
+
+{ "name": "PlanetZoo.exe", "type": "Game" }
+
+{ "name": "Plantera.exe", "type": "Game" }
+
+{ "name": "PlantNurserySimulator.exe", "type": "Game" }
+
+{ "name": "PVZBattleforNeighborville_Trial.exe", "type": "Game" }
+{ "name": "PVZBattleforNeighborville.exe", "type": "Game" }
+
+{ "name": "GW2.Main_Win64_Retail.exe", "type": "Game" }
+
+{ "name": "PlantsVsZombies.exe", "type": "Game" }
+
+{ "name": "Replanted.exe", "type": "Game" }
+
+{ "name": "Plasma.exe", "type": "Game" }
+
+{ "name": "PlateUp.exe", "type": "Game" }
+
+{ "name": "Platform8.exe", "type": "BG_CPUIO" }
+
+{ "name": "Platform Control.exe", "type": "Game" }
+
+{ "name": "PLATiNA LAB.exe", "type": "Game" }
+
+{ "name": "绝地鸭卫.exe", "type": "Game" }
+
+{ "name": "PlatypusII.exe", "type": "Game" }
+
+{ "name": "PlayaVR.exe", "type": "Game" }
+{ "name": "Deep.exe", "type": "Game" }
+
+{ "name": "PlayClawApp64.exe", "type": "Game" }
+
+{ "name": "PH1Plague.exe", "type": "Game" }
+
+{ "name": "PLAYNE.exe", "type": "BG_CPUIO" }
+{ "name": "Playne.exe", "type": "BG_CPUIO" }
+{ "name": "Playne-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PlayStationVR2App.exe", "type": "BG_CPUIO" }
+{ "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PlayTogether.exe", "type": "Game" }
+
+{ "name": "DontTouchAnything.exe", "type": "Game" }
+
+{ "name": "PP1.exe", "type": "Game" }
+
+{ "name": "PQTC.exe", "type": "Game" }
+
+{ "name": "Plentiful.exe", "type": "Game" }
+
+{ "name": "Plinbo.exe", "type": "Game" }
+
+{ "name": "plutocracy.exe", "type": "Game" }
+
+{ "name": "PngTuber Maker.exe", "type": "Game" }
+
+{ "name": "PNGTUBER PLUS 1.4.5 STEAM.exe", "type": "Game" }
+
+{ "name": "Pocket Rogues.exe", "type": "Game" }
+
+{ "name": "PocketWaifu.exe", "type": "BG_CPUIO" }
+
+{ "name": "Poco.exe", "type": "Game" }
+
+{ "name": "POB.exe", "type": "Game" }
+
+{ "name": "Pogostuck.exe", "type": "Game" }
+
+{ "name": "pojangmacha.exe", "type": "BG_CPUIO" }
+{ "name": "pojangmacha-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Poker Championship.exe", "type": "Game" }
+
+{ "name": "Poker Fate.exe", "type": "Game" }
+
+{ "name": "PokerLegends.exe", "type": "Game" }
+
+{ "name": "PokerMaster.exe", "type": "Game" }
+
+{ "name": "PokerNight2.exe", "type": "Game" }
+
+{ "name": "PokerQuest.exe", "type": "Game" }
+
+{ "name": "PokerStarsVR.exe", "type": "Game" }
+
+{ "name": "PokerWorld.exe", "type": "Game" }
+
+{ "name": "ProjectPraesidium.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectPraesidium-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Boston.exe", "type": "BG_CPUIO" }
+{ "name": "Boston-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PoliceStories.exe", "type": "Game" }
+
+{ "name": "POLYARIS.exe", "type": "BG_CPUIO" }
+{ "name": "POLYARIS_MagicPie-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "polybridge.exe", "type": "Game" }
+
+{ "name": "Poly Bridge 2.exe", "type": "Game" }
+
+{ "name": "Poly Bridge 3.exe", "type": "Game" }
+
+{ "name": "POLYGON-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Poly TD.exe", "type": "Game" }
+
+{ "name": "PomoFarm.exe", "type": "Game" }
+
+{ "name": "Pompeii.exe", "type": "Game" }
+
+{ "name": "PonyIsland.exe", "type": "Game" }
+
+{ "name": "PoolLiveTourMax.exe", "type": "Game" }
+
+{ "name": "PoolNationFX.exe", "type": "Game" }
+
+{ "name": "POOLS.exe", "type": "Game" }
+
+{ "name": "POOP.exe", "type": "Game" }
+
+{ "name": "Poop.exe", "type": "Game" }
+
+{ "name": "POPGOES Arcade Premium.exe", "type": "Game" }
+
+{ "name": "Poppy_Playtime.exe", "type": "BG_CPUIO" }
+{ "name": "Poppy_Playtime-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PlaytimeLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "PlaytimeLauncher-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Playtime_Prototype4.exe", "type": "BG_CPUIO" }
+{ "name": "Playtime_Prototype4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Playtime_Chapter3.exe", "type": "BG_CPUIO" }
+{ "name": "Playtime_Chapter3-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Playtime_Chapter4.exe", "type": "BG_CPUIO" }
+{ "name": "ch4_pro-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ch5_pro.exe", "type": "BG_CPUIO" }
+{ "name": "ch5_pro-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Popucom.exe", "type": "Game" }
+
+{ "name": "Pornographer.exe", "type": "Game" }
+
+{ "name": "poup.exe", "type": "Game" }
+
+{ "name": "p2ce.exe", "type": "Game" }
+
+{ "name": "aak.exe", "type": "Game" }
+
+{ "name": "Portal Dungeon.exe", "type": "Game" }
+
+{ "name": "portal_knights_x64.exe", "type": "Game" }
+
+{ "name": "PortalOfEvil_StolenRunes.exe", "type": "Game" }
+
+{ "name": "revolution.exe", "type": "Game" }
+
+{ "name": "PR2.exe", "type": "Game" }
+
+{ "name": "PortRoyale3.exe", "type": "Game" }
+
+{ "name": "PortRoyale4.exe", "type": "Game" }
+
+{ "name": "Pose.exe", "type": "BG_CPUIO" }
+{ "name": "Pose-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Postal Plus.exe", "type": "Game" }
+
+{ "name": "Postal2.exe", "type": "Game" }
+{ "name": "Postal2MP.exe", "type": "Game" }
+{ "name": "ParadiseLost.exe", "type": "Game" }
+
+{ "name": "Postal4.exe", "type": "Game" }
+
+{ "name": "POSTAL Brain Damaged.exe", "type": "Game" }
+
+{ "name": "p3.exe", "type": "Game" }
+
+{ "name": "PostalREDUX-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PostalREDUX.exe", "type": "BG_CPUIO" }
+
+{ "name": "Mijinko.exe", "type": "Game" }
+
+{ "name": "PAMMainGame.exe", "type": "Game" }
+
+{ "name": "Post Void.exe", "type": "Game" }
+
+{ "name": "Potion Craft.exe", "type": "Game" }
+
+{ "name": "Potionomics.exe", "type": "BG_CPUIO" }
+{ "name": "Potionomics-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Potion Permit.exe", "type": "Game" }
+
+{ "name": "mma.exe", "type": "Game" }
+
+{ "name": "Power Fantasy.exe", "type": "Game" }
+
+{ "name": "vangardt.exe", "type": "Game" }
+
+{ "name": "powerplay.exe", "type": "Game" }
+
+{ "name": "BattleForTheGrid.exe", "type": "Game" }
+
+{ "name": "PowerWash Simulator 2.exe", "type": "Game" }
+
+{ "name": "PowerWash Simulator 2 Demo.exe", "type": "Game" }
+
+{ "name": "PoxNora.exe", "type": "Game" }
+
+{ "name": "PractisimDesigner.exe", "type": "Game" }
+
+{ "name": "Praetorians.exe", "type": "BG_CPUIO" }
+{ "name": "Praetorians-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Praey For the Gods.exe", "type": "Game" }
+
+{ "name": "PRAGMATA.exe", "type": "Game" }
+
+{ "name": "PRAGMATA_SKETCHBOOK.exe", "type": "Game" }
+
+{ "name": "Pratfall.exe", "type": "Game" }
+
+{ "name": "SpaceFish.exe", "type": "BG_CPUIO" }
+
+{ "name": "PredecessorClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Prehistoric Kingdom.exe", "type": "Game" }
+
+{ "name": "Preserve.exe", "type": "Game" }
+
+{ "name": "PFAD - Corruption.exe", "type": "Game" }
+
+{ "name": "PAB.exe", "type": "Game" }
+
+{ "name": "PrettyNeko.exe", "type": "Game" }
+
+{ "name": "Prey.exe", "type": "Game" }
+
+{ "name": "Priestess Lust.exe", "type": "Game" }
+
+{ "name": "primalplanet.exe", "type": "Game" }
+
+{ "name": "PrimeMonster.exe", "type": "Game" }
+
+{ "name": "PWLauncher.exe", "type": "Game" }
+
+{ "name": "PWClassic.exe", "type": "Game" }
+
+{ "name": "pw_defenders.exe", "type": "Game" }
+
+{ "name": "Defenders2.exe", "type": "Game" }
+
+{ "name": "PW Nova Launcher.exe", "type": "Game" }
+
+{ "name": "PrimitiveSocietySimulator.exe", "type": "Game" }
+
+{ "name": "Primordia.exe", "type": "Game" }
+
+{ "name": "primordialis_avx.exe", "type": "Game" }
+{ "name": "primordialis_sse3.exe", "type": "Game" }
+
+{ "name": "PrinceOfPersia_Launcher.exe", "type": "Game" }
+
+{ "name": "Prince of Persia.exe", "type": "Game" }
+
+{ "name": "TheLostCrown.exe", "type": "Game" }
+
+{ "name": "PrinceOfPersia.EXE", "type": "Game" }
+{ "name": "POP.EXE", "type": "Game" }
+
+{ "name": "PrinceOfPersia.exe", "type": "Game" }
+
+{ "name": "POP2.EXE", "type": "Game" }
+
+{ "name": "PrinceOfSuburbiaRewrite.exe", "type": "Game" }
+
+{ "name": "WSgames.exe", "type": "BG_CPUIO" }
+{ "name": "WSgames-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "pm2.exe", "type": "Game" }
+
+{ "name": "Prismata.exe", "type": "Game" }
+{ "name": "PrismataAI.exe", "type": "Game" }
+
+{ "name": "Prison Architect.exe", "type": "Game" }
+{ "name": "prison architect64.exe", "type": "Game" }
+
+{ "name": "Prison Life.exe", "type": "Game" }
+
+{ "name": "Prison Simulator.exe", "type": "Game" }
+
+{ "name": "Pro11.exe", "type": "Game" }
+
+{ "name": "PBM2025.exe", "type": "Game" }
+
+{ "name": "PBM2026.exe", "type": "Game" }
+
+{ "name": "Procelio.exe", "type": "Game" }
+
+{ "name": "PCM64Beta_protect.exe", "type": "Game" }
+
+{ "name": "Prodeus.exe", "type": "Game" }
+
+{ "name": "ProductionLine.exe", "type": "Game" }
+{ "name": "ProductionLine32.exe", "type": "Game" }
+
+{ "name": "Pro Eleven.exe", "type": "Game" }
+
+{ "name": "pes2013.exe", "type": "Game" }
+
+{ "name": "PES2017.exe", "type": "Game" }
+
+{ "name": "PES2018.exe", "type": "Game" }
+
+{ "name": "PES2019.exe", "type": "Game" }
+
+{ "name": "PES6.exe", "type": "Game" }
+
+{ "name": "ProFishing.exe", "type": "Game" }
+
+{ "name": "Professional Fishing 2.exe", "type": "Game" }
+
+{ "name": "WoodCutter2015.exe", "type": "Game" }
+
+{ "name": "NauticXP-Win64-Shipping.exe", "type": "Game" }
+{ "name": "NauticXP.exe", "type": "BG_CPUIO" }
+
+{ "name": "ProfessorSimulatorDemo.exe", "type": "Game" }
+
+{ "name": "ProFishingSimulator.exe", "type": "Game" }
+
+{ "name": "Profit Sea Incremental.exe", "type": "Game" }
+
+{ "name": "Progressbar95.exe", "type": "Game" }
+
+{ "name": "pCARS.exe", "type": "Game" }
+{ "name": "pCARS64.exe", "type": "Game" }
+
+{ "name": "pCARS2.exe", "type": "Game" }
+{ "name": "pCARS2Gld.exe", "type": "Game" }
+{ "name": "pCARS2QA.exe", "type": "Game" }
+{ "name": "pCARS2AVX.exe", "type": "Game" }
+
+{ "name": "pCARS3.exe", "type": "Game" }
+
+{ "name": "Project Castaway.exe", "type": "Game" }
+
+{ "name": "ProjectChromata.exe", "type": "Game" }
+
+{ "name": "ProjectDoors.exe", "type": "Game" }
+
+{ "name": "WindowsPlayer.exe", "type": "Game" }
+
+{ "name": "CS_AC130.exe", "type": "BG_CPUIO" }
+{ "name": "CS_AC130-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProjectHospital.exe", "type": "Game" }
+
+{ "name": "ProjectKat.exe", "type": "Game" }
+
+{ "name": "projectMSDL.exe", "type": "Game" }
+
+{ "name": "ProjectMotorRacing.exe", "type": "Game" }
+
+{ "name": "N.E.K.O.exe", "type": "Game" }
+{ "name": "projectneko_server.exe", "type": "Service" }
+
+{ "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }
+
+{ "name": "projectpitt_demo.exe", "type": "Game" }
+
+{ "name": "Playtime_Multiplayer.exe", "type": "BG_CPUIO" }
+{ "name": "Playtime_Multiplayer-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Project_QT.exe", "type": "Game" }
+
+{ "name": "SilverFish.exe", "type": "BG_CPUIO" }
+{ "name": "SilverFish-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProjectTorque.exe", "type": "Game" }
+
+{ "name": "ProjectUnknown.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectUnknown-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "pwlc_x64_demo.exe", "type": "Game" }
+{ "name": "pw_x64.exe", "type": "Game" }
+
+{ "name": "Project Warlock 2.exe", "type": "Game" }
+
+{ "name": "Project_Werewulf-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Project_Werewulf.exe", "type": "BG_CPUIO" }
+
+{ "name": "ProjectWingman.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProjectWinter.exe", "type": "Game" }
+
+{ "name": "ProjectZomboid32.exe", "type": "Game" }
+{ "name": "ProjectZomboid64.exe", "type": "Game" }
+
+{ "name": "PrologueSteam.exe", "type": "BG_CPUIO" }
+{ "name": "PrologueSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Prominence-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Prominence.exe", "type": "BG_CPUIO" }
+
+{ "name": "MM-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "pronoun_palace.exe", "type": "Game" }
+
+{ "name": "PropagationVR.exe", "type": "Game" }
+
+{ "name": "PropHunter.exe", "type": "BG_CPUIO" }
+{ "name": "PropHunter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProSoccerOnline.exe", "type": "Game" }
+
+{ "name": "prun.exe", "type": "Game" }
+
+{ "name": "proteus.exe", "type": "Game" }
+
+{ "name": "prototypef.exe", "type": "Game" }
+
+{ "name": "prototype2.exe", "type": "Game" }
+
+{ "name": "Proverbs.exe", "type": "Game" }
+
+{ "name": "Prove You Can Win.exe", "type": "Game" }
+
+{ "name": "ProWrestlingSim.exe", "type": "Game" }
+
+{ "name": "PrprLive.exe", "type": "Game" }
+
+{ "name": "pseudoregalia.exe", "type": "BG_CPUIO" }
+{ "name": "pseudoregalia-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PsychEngine.exe", "type": "Game" }
+
+{ "name": "Psychonauts.exe", "type": "Game" }
+
+{ "name": "Psychonauts2.exe", "type": "BG_CPUIO" }
+{ "name": "Psychonauts2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "psychopatrolr.exe", "type": "Game" }
+
+{ "name": "Psychopomp GOLD.exe", "type": "Game" }
+
+{ "name": "TslGame.exe", "type": "Game" }
+{ "name": "TslGame_BE.exe", "type": "Game" }
+{ "name": "TslGame_ZK.exe", "type": "Game" }
+
+{ "name": "Puck.exe", "type": "Game" }
+
+{ "name": "Pugllector.exe", "type": "Game" }
+
+{ "name": "PULSAR_LostColony.exe", "type": "Game" }
+
+{ "name": "PummelParty.exe", "type": "Game" }
+
+{ "name": "Pumping Simulator 2.exe", "type": "Game" }
+
+{ "name": "PUMP IT UP RISE.exe", "type": "Game" }
+
+{ "name": "PumpkinJack.exe", "type": "BG_CPUIO" }
+{ "name": "PumpkinJackLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "PumpkinJack-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Pumpkin Panic.exe", "type": "Game" }
+
+{ "name": "Punch Club.exe", "type": "Game" }
+
+{ "name": "Punch Club 2 Fast Forward.exe", "type": "Game" }
+
+{ "name": "PGR.exe", "type": "Game" }
+
+{ "name": "Punk.exe", "type": "Game" }
+
+{ "name": "PUPA.exe", "type": "Game" }
+
+{ "name": "PureFarming.exe", "type": "Game" }
+
+{ "name": "Pure Sniper.exe", "type": "Game" }
+
+{ "name": "PuyoPuyoChampions.exe", "type": "Game" }
+
+{ "name": "puyopuyotetris.exe", "type": "Game" }
+
+{ "name": "PuyoPuyoTetris2.exe", "type": "Game" }
+
+{ "name": "Grickle101.exe", "type": "Game" }
+
+{ "name": "Grickle102.exe", "type": "Game" }
+
+{ "name": "Puzzle Chambers.exe", "type": "Game" }
+
+{ "name": "PuzzleCube.exe", "type": "Game" }
+
+{ "name": "PuzzleQuest3.exe", "type": "Game" }
+
+{ "name": "Puzzle Quest.exe", "type": "Game" }
+
+{ "name": "PuzzleQuestImmortal.exe", "type": "Game" }
+
+{ "name": "Puzzle Together.exe", "type": "Game" }
+
+{ "name": "Puzzline.exe", "type": "Game" }
+
+{ "name": "PyramidValley.exe", "type": "Game" }
+
+{ "name": "Pyre.exe", "type": "Game" }
+
+{ "name": "Pyrene.exe", "type": "Game" }
+
+{ "name": "Pyromaniac.exe", "type": "Game" }
+
+{ "name": "Pyroworks V1.0.0.exe", "type": "Game" }

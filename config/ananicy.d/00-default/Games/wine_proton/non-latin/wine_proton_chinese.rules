@@ -1,0 +1,524 @@
+
+
+{ "name": "mahjongP.exe", "type": "Game" }
+
+{ "name": "Shadow Dungeon.exe", "type": "Game" }
+
+{ "name": "The Last Light.exe", "type": "Game" }
+
+{ "name": "canyu.exe", "type": "Game" }
+
+{ "name": "BackpackJianghu.exe", "type": "Game" }
+
+{ "name": "miniBONG.exe", "type": "Game" }
+
+{ "name": "Aliya-Dawn Demo.exe", "type": "Game" }
+
+{ "name": "Subzero.exe", "type": "Game" }
+
+{ "name": "GirlsNationGame.exe", "type": "Game" }
+
+{ "name": "slime.exe", "type": "Game" }
+
+{ "name": "AfterLongNight.exe", "type": "Game" }
+
+{ "name": "coder.exe", "type": "Game" }
+
+{ "name": "Lord and Maiden.exe", "type": "Game" }
+
+{ "name": "Cricket.exe", "type": "Game" }
+
+{ "name": "CatFantasy.exe", "type": "Game" }
+
+{ "name": "A_Second_Chance_to_Relive_Summer.exe", "type": "Game" }
+
+{ "name": "KaijuPrincess.exe", "type": "Game" }
+
+{ "name": "Take Me To The Dungeon!!.exe", "type": "Game" }
+
+{ "name": "TheWorldOfKongFu.exe", "type": "Game" }
+
+{ "name": "C2Dgame.exe", "type": "Game" }
+{ "name": "C2Dgame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TOHOTOPIA.exe", "type": "Game" }
+
+{ "name": "dgqzywm.exe", "type": "Game" }
+
+{ "name": "DungeonBrawl.exe", "type": "Game" }
+
+{ "name": "Return From Core.exe", "type": "Game" }
+
+{ "name": "EastNorthStory.exe", "type": "Game" }
+
+{ "name": "DongBeiZhiXia.exe", "type": "Game" }
+
+{ "name": "Touhou Hero of Ice Fairy Prologue.exe", "type": "Game" }
+{ "name": "Touhou Hero of Ice Fairy Prologue.exe", "type": "Game" }
+
+{ "name": "ModTheLBoL.Desktop.exe", "type": "Game" }
+{ "name": "LBoL.exe", "type": "Game" }
+
+{ "name": "Touhou Blooming Soul.exe", "type": "Game" }
+
+{ "name": "BalladsOfHongye.exe", "type": "Game" }
+
+{ "name": "Touhou Dystopian.exe", "type": "Game" }
+
+{ "name": "JC.exe", "type": "Game" }
+
+{ "name": "RollQ.exe", "type": "BG_CPUIO" }
+{ "name": "RollQ-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TinyCivilization.exe", "type": "Game" }
+
+{ "name": "fzzml.exe", "type": "Game" }
+
+{ "name": "ChronicleOfScarlet.exe", "type": "Game" }
+
+{ "name": "FFWallpaper.exe", "type": "BG_CPUIO" }
+{ "name": "FFSL.exe", "type": "BG_CPUIO" }
+
+{ "name": "PassTheFear.exe", "type": "Game" }
+
+{ "name": "NotesOfSoulServer-Win64-Shipping.exe", "type": "Service" }
+
+{ "name": "fxl.exe", "type": "Game" }
+{ "name": "fxl-32.exe", "type": "Game" }
+
+{ "name": "M3K3.exe", "type": "Game" }
+
+{ "name": "M3K4.exe", "type": "Game" }
+
+{ "name": "M3K5.exe", "type": "Game" }
+
+{ "name": "ThankYouForYourApplicationDemo.exe", "type": "Game" }
+
+{ "name": "怪棋物语.exe", "type": "Game" }
+
+{ "name": "IdleDevils.exe", "type": "Game" }
+
+{ "name": "IdleKitty.exe", "type": "Game" }
+
+{ "name": "GuaJiShenHua.exe", "type": "Game" }
+
+{ "name": "MoNiShouYou.exe", "type": "Game" }
+
+{ "name": "guajixiuxian.exe", "type": "Game" }
+
+{ "name": "mini_guaji.exe", "type": "Game" }
+
+{ "name": "guigubahuang.exe", "type": "Game" }
+
+{ "name": "GuJian2.exe", "type": "Game" }
+
+{ "name": "GuJian.exe", "type": "Game" }
+{ "name": "GuJianConfigTool.exe", "type": "Game" }
+
+{ "name": "GuLong.exe", "type": "Game" }
+
+{ "name": "鼓手余命十日谭.exe", "type": "Game" }
+
+{ "name": "海沙风云.exe", "type": "Game" }
+
+{ "name": "HanChen.exe", "type": "Game" }
+
+{ "name": "OceanTradeKings.exe", "type": "Game" }
+
+{ "name": "J2.exe", "type": "Game" }
+
+{ "name": "UninhabitedIsland.exe", "type": "Game" }
+
+{ "name": "TalesofWasteLand.exe", "type": "Game" }
+
+{ "name": "xldr_aurakingdom_gl_loader_x64.exe", "type": "Game" }
+
+{ "name": "hxss.exe", "type": "Game" }
+
+{ "name": "jcGame.exe", "type": "Game" }
+
+{ "name": "jianghukezhan.exe", "type": "Game" }
+
+{ "name": "project-beifa-client-full.exe", "type": "Game" }
+
+{ "name": "降妖散记.exe", "type": "Game" }
+
+{ "name": "Arrow a Row.exe", "type": "Game" }
+
+{ "name": "KalpaOfSword.exe", "type": "Game" }
+
+{ "name": "Kengakimi.exe", "type": "Game" }
+
+{ "name": "DeathIntern.exe", "type": "Game" }
+
+{ "name": "Cellveillance.exe", "type": "Game" }
+
+{ "name": "JinGu.exe", "type": "Game" }
+
+{ "name": "Stiff Neck.exe", "type": "Game" }
+
+{ "name": "RE.exe", "type": "Game" }
+
+{ "name": "Abyss.exe", "type": "Game" }
+
+{ "name": "Jixie Lianxin.exe", "type": "Game" }
+
+{ "name": "决战紫禁怀旧服.exe", "type": "Game" }
+
+{ "name": "game_original.exe", "type": "Game" }
+
+{ "name": "开局一把剑.exe", "type": "Game" }
+
+{ "name": "DinoIsland.exe", "type": "Game" }
+
+{ "name": "懒人修仙传.exe", "type": "Game" }
+
+{ "name": "LanRen2.exe", "type": "Game" }
+
+{ "name": "BeastSaga.exe", "type": "Game" }
+
+{ "name": "ChongZhenSimulator.exe", "type": "Game" }
+
+{ "name": "LongYinLiZhiZhuan.exe", "type": "Game" }
+
+{ "name": "Re-xiuxian Legend.exe", "type": "Game" }
+
+{ "name": "轮回修仙路.exe", "type": "Game" }
+
+{ "name": "落幕之前 Before the Fall.exe", "type": "Game" }
+
+{ "name": "METEORITEFALL.exe", "type": "Game" }
+
+{ "name": "LoserIsekaieSJT.exe", "type": "BG_CPUIO" }
+{ "name": "LoserIsekaieSJT-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LoserIsekaieSJTDemo.exe", "type": "BG_CPUIO" }
+{ "name": "LoserIsekaieSJTDemo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CatCaptains.exe", "type": "Game" }
+
+{ "name": "妹居物语.exe", "type": "Game" }
+
+{ "name": "LSP2Game.exe", "type": "Game" }
+{ "name": "LSP2Launcher.exe", "type": "Game" }
+
+{ "name": "LSPGame.exe", "type": "Game" }
+
+{ "name": "觅长生.exe", "type": "Game" }
+
+{ "name": "mjs.exe", "type": "Game" }
+
+{ "name": "MingJing.exe", "type": "Game" }
+
+{ "name": "FameAndWealth.exe", "type": "Game" }
+
+{ "name": "LateMing.exe", "type": "BG_CPUIO" }
+{ "name": "LateMing-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GameOfFate2.exe", "type": "Game" }
+
+{ "name": "GameOfFate3.exe", "type": "Game" }
+
+{ "name": "MarisaReturnTheBook.exe", "type": "Game" }
+
+{ "name": "Sim Empire.exe", "type": "Game" }
+
+{ "name": "末日战姬.exe", "type": "Game" }
+
+{ "name": "墨仙箓.exe", "type": "Game" }
+
+{ "name": "WuXiuXianTu.exe", "type": "Game" }
+
+{ "name": "YourWife.exe", "type": "Game" }
+
+{ "name": "AfterYouLeft_Demo.exe", "type": "Game" }
+
+{ "name": "nshm.exe", "type": "Game" }
+
+{ "name": "WarmSnow.exe", "type": "Game" }
+
+{ "name": "BoxingWaifu.exe", "type": "Game" }
+
+{ "name": "P5XGame.exe", "type": "Game" }
+{ "name": "P5XLauncher.exe", "type": "Game" }
+
+{ "name": "WLM.exe", "type": "Game" }
+
+{ "name": "RevengeOnGoldDiggers.exe", "type": "Game" }
+
+{ "name": "REST IN PEACE.exe", "type": "Game" }
+
+{ "name": "POQ.exe", "type": "Game" }
+{ "name": "Poq.exe", "type": "Game" }
+
+{ "name": "KIOU.exe", "type": "Game" }
+
+{ "name": "Whispering Village.exe", "type": "Game" }
+
+{ "name": "wuxia_launch.exe", "type": "Game" }
+
+{ "name": "game_rm.exe", "type": "BG_CPUIO" }
+{ "name": "game_rm-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "三国百将牌.exe", "type": "Game" }
+
+{ "name": "Sango.exe", "type": "Game" }
+
+{ "name": "Sango2.exe", "type": "Game" }
+
+{ "name": "Sango3.exe", "type": "Game" }
+
+{ "name": "Sango5.exe", "type": "Game" }
+
+{ "name": "Sango6.exe", "type": "Game" }
+
+{ "name": "SG8.exe", "type": "Game" }
+
+{ "name": "SGC.exe", "type": "Game" }
+
+{ "name": "Sgsc10th.exe", "type": "Game" }
+
+{ "name": "SangokushiBOND.exe", "type": "Game" }
+
+{ "name": "TheLostVillage.exe", "type": "BG_CPUIO" }
+{ "name": "TheLostVillage-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "少女的移动城堡.exe", "type": "Game" }
+
+{ "name": "GrilsFrontLine.exe", "type": "Game" }
+
+{ "name": "Maiden And Lord.exe", "type": "Game" }
+
+{ "name": "Terminal.exe", "type": "Game" }
+
+{ "name": "Luoyang.exe", "type": "Game" }
+
+{ "name": "ZsdovThiGodhrkar-32.exe", "type": "Game" }
+{ "name": "ZsdovThiGodhrkar.exe", "type": "Game" }
+
+{ "name": "hallclient.exe", "type": "Game" }
+{ "name": "ACE-Launcher64.exe", "type": "Game" }
+
+{ "name": "SX.exe", "type": "Game" }
+
+{ "name": "GodForsaken.exe", "type": "Game" }
+
+{ "name": "Shattered Divinities.exe", "type": "Game" }
+
+{ "name": "TimeRestaurant.exe", "type": "Game" }
+
+{ "name": "TimeSupermarket.exe", "type": "Game" }
+
+{ "name": "DreamOfLadyZombie.exe", "type": "Game" }
+
+{ "name": "Dating4Girls.exe", "type": "Game" }
+
+{ "name": "BloodySpell.exe", "type": "Game" }
+
+{ "name": "ilostmyjob.exe", "type": "Game" }
+
+{ "name": "GNSBT.exe", "type": "Game" }
+
+{ "name": "ShuShan.exe", "type": "BG_CPUIO" }
+{ "name": "ShuShan-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "蜀仙传.exe", "type": "Game" }
+
+{ "name": "AncientVersion.exe", "type": "BG_CPUIO" }
+{ "name": "AncientVersion-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Fate Seeker Journey.exe", "type": "Game" }
+{ "name": "FateSeeker.exe", "type": "Game" }
+
+{ "name": "FateSeekerII.exe", "type": "Game" }
+
+{ "name": "J2Card.exe", "type": "Game" }
+
+{ "name": "mystina_heroes.exe", "type": "Game" }
+
+{ "name": "MKSteam.exe", "type": "Game" }
+
+{ "name": "CavalryGirls.exe", "type": "Game" }
+
+{ "name": "Noobs Want To Live.exe", "type": "Game" }
+
+{ "name": "Touqi.exe", "type": "Game" }
+
+{ "name": "CoinPushRPG.exe", "type": "BG_CPUIO" }
+{ "name": "CoinPushRPG-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "aLogin.exe", "type": "Game" }
+
+{ "name": "wcp.exe", "type": "Game" }
+
+{ "name": "WDHD6.exe", "type": "Game" }
+
+{ "name": "hpatchz.exe", "type": "Game" }
+
+{ "name": "wanjie.exe", "type": "Game" }
+
+{ "name": "WXQXZ.exe", "type": "Game" }
+
+{ "name": "UE4Game.exe", "type": "Game" }
+
+{ "name": "文字遊戲.exe", "type": "Game" }
+
+{ "name": "Love to Live.exe", "type": "Game" }
+
+{ "name": "App.exe", "type": "Game" }
+
+{ "name": "FromJianghu.exe", "type": "Game" }
+
+{ "name": "SevenDaysLauncher.exe", "type": "Game" }
+{ "name": "The seven days i spent with you.exe", "type": "Game" }
+
+{ "name": "Demonic Mahjong.exe", "type": "Game" }
+
+{ "name": "IAmTheDao.exe", "type": "Game" }
+
+{ "name": "MIDA.exe", "type": "Game" }
+
+{ "name": "Long Live The Emperor.exe", "type": "Game" }
+
+{ "name": "winpc_launcher.exe", "type": "Game" }
+
+{ "name": "Trials of Innocence.exe", "type": "Game" }
+
+{ "name": "TheMortal.exe", "type": "BG_CPUIO" }
+{ "name": "TheMortal-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "YoungHero.exe", "type": "Game" }
+
+{ "name": "wuxia.exe", "type": "Game" }
+
+{ "name": "百花杀尽.exe", "type": "Game" }
+
+{ "name": "Pal3AWorks.exe", "type": "Game" }
+{ "name": "PAL3A.exe", "type": "Game" }
+
+{ "name": "咸鱼的挂机游戏快餐版.exe", "type": "Game" }
+{ "name": "咸鱼的挂机游戏.exe", "type": "Game" }
+{ "name": "咸鱼的挂机游戏(English).exe", "type": "Game" }
+
+{ "name": "MyJourneyStory.exe", "type": "Game" }
+
+{ "name": "heyboxacc.exe", "type": "Game" }
+
+{ "name": "LostInTheSecret_GameMake_Import.exe", "type": "Game" }
+
+{ "name": "TinyShadowsInterwovenHearts.exe", "type": "Game" }
+
+{ "name": "MiniMartialWorld.exe", "type": "Game" }
+
+{ "name": "下一站江湖Ⅱ.exe", "type": "Game" }
+
+{ "name": "PathOfWuxia.exe", "type": "Game" }
+
+{ "name": "WindstopStrategy.exe", "type": "Game" }
+
+{ "name": "Happiness Double Room.exe", "type": "Game" }
+
+{ "name": "星空列车与白的旅行.exe", "type": "Game" }
+
+{ "name": "xmgj.exe", "type": "Game" }
+
+{ "name": "StarArc_Echo.exe", "type": "BG_CPUIO" }
+{ "name": "StarArc_Echo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Clover Days Plus.exe", "type": "Game" }
+
+{ "name": "evelauncher.exe", "type": "Game" }
+{ "name": "LogLite.exe", "type": "Game" }
+
+{ "name": "XZYPlay.exe", "type": "Game" }
+
+{ "name": "xlcx.exe", "type": "Game" }
+
+{ "name": "Immortal.exe", "type": "Game" }
+
+{ "name": "cultivation_idle.exe", "type": "Game" }
+
+{ "name": "xiuxianWPF.exe", "type": "Game" }
+
+{ "name": "Night Blood W Demo.exe", "type": "Game" }
+
+{ "name": "JungleGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "JungleGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "CosClient.exe", "type": "Game" }
+
+{ "name": "patch.exe", "type": "Game" }
+{ "name": "steam_patch.exe", "type": "Game" }
+
+{ "name": "英雄黄昏.exe", "type": "Game" }
+
+{ "name": "TheInvisibleGuardian.exe", "type": "Game" }
+
+{ "name": "异世界厨房：女子高中生的美食餐厅.exe", "type": "Game" }
+
+{ "name": "EndlessBlackSong.exe", "type": "Game" }
+
+{ "name": "haak.exe", "type": "Game" }
+
+{ "name": "OurBriefEternity.exe", "type": "Game" }
+
+{ "name": "eternaltree.exe", "type": "Game" }
+
+{ "name": "月华辉映之刻.exe", "type": "Game" }
+
+{ "name": "Night of the Full Moon.exe", "type": "Game" }
+
+{ "name": "Demo.exe", "type": "Game" }
+
+{ "name": "dragon.exe", "type": "Game" }
+
+{ "name": "ZJDD.exe", "type": "Game" }
+
+{ "name": "DisasterPRPlus.exe", "type": "Game" }
+
+{ "name": "葬花.exe", "type": "Game" }
+
+{ "name": "造梦西游：无双.exe", "type": "Game" }
+
+{ "name": "Legion of Valkyrie.exe", "type": "Game" }
+
+{ "name": "AutoRTS.exe", "type": "BG_CPUIO" }
+{ "name": "AutoRTS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Supreme Summoner.exe", "type": "Game" }
+
+{ "name": "Journey of Realm Dawn Dew.exe", "type": "Game" }
+
+{ "name": "PatrioticWar.exe", "type": "Game" }
+
+{ "name": "ZX.exe", "type": "Game" }
+
+{ "name": "BadPunPC.exe", "type": "Game" }
+
+{ "name": "SweetHome.exe", "type": "Game" }
+
+{ "name": "zjy.exe", "type": "Game" }
+
+{ "name": "qbf.exe", "type": "Game" }
+
+{ "name": "CFS.exe", "type": "Game" }
+
+{ "name": "WorldOfTheThreeKingdoms.exe", "type": "Game" }
+{ "name": "WorldOfTheThreeKingdomsNoNvGuan.exe", "type": "Game" }
+
+{ "name": "EastTradeTycoon.exe", "type": "Game" }
+
+{ "name": "boukensyachan_syokusyuSLG.exe", "type": "Game" }
+
+{ "name": "zcytx.exe", "type": "Game" }
+
+{ "name": "Protagonist.exe", "type": "Game" }
+
+{ "name": "逐鹿.exe", "type": "Game" }
+
+{ "name": "Desktop Kitten Girl.exe", "type": "Game" }
+
+{ "name": "EasternEra.exe", "type": "BG_CPUIO" }
+{ "name": "EasternEra-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "the last immortals.exe", "type": "Game" }

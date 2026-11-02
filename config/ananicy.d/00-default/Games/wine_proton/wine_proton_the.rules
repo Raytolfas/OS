@@ -1,0 +1,930 @@
+
+
+{ "name": "39steps.exe", "type": "Game" }
+
+{ "name": "The7thGuestVR.exe", "type": "BG_CPUIO" }
+{ "name": "The7thGuestVR-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "AoD.exe", "type": "Game" }
+{ "name": "AoD64.exe", "type": "Game" }
+
+{ "name": "TheAlters.exe", "type": "BG_CPUIO" }
+{ "name": "TheAlters-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheAnomalyProject.exe", "type": "Game" }
+
+{ "name": "TheAquaticAdventureOfTheLastHuman.exe", "type": "Game" }
+
+{ "name": "The Detective Servant.exe", "type": "Game" }
+
+{ "name": "TheAscent.exe", "type": "BG_CPUIO" }
+{ "name": "TheAscent-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Awakener Battle Tendency.exe", "type": "BG_CPUIO" }
+{ "name": "TheAwakener_FO-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CaptainSpirit-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GameSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Deluxe2.exe", "type": "BG_CPUIO" }
+{ "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheBackroomsWorld.exe", "type": "BG_CPUIO" }
+
+{ "name": "TheBall.exe", "type": "Game" }
+
+{ "name": "The Banner Saga.exe", "type": "Game" }
+
+{ "name": "The Banner Saga 2.exe", "type": "Game" }
+
+{ "name": "The Banner Saga 3.exe", "type": "Game" }
+
+{ "name": "The Bard's Tale.exe", "type": "Game" }
+
+{ "name": "TheBardsTaleTrilogy.exe", "type": "Game" }
+
+{ "name": "The Basement Collection.exe", "type": "Game" }
+
+{ "name": "Polytopia.exe", "type": "Game" }
+
+{ "name": "TheBazaar.exe", "type": "Game" }
+
+{ "name": "TheBeastInside.exe", "type": "BG_CPUIO" }
+{ "name": "TheBeastInside-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "beginnersguide.exe", "type": "Game" }
+
+{ "name": "The Bibites.exe", "type": "Game" }
+
+{ "name": "The Big Con.exe", "type": "Game" }
+
+{ "name": "Isaac.exe", "type": "Game" }
+{ "name": "Binding_of_Isaac.exe", "type": "Game" }
+
+{ "name": "isaac-ng.exe", "type": "Game" }
+
+{ "name": "Cursebreaker.exe", "type": "Game" }
+
+{ "name": "Blackwell Legacy.exe", "type": "Game" }
+
+{ "name": "TheBloodline.exe", "type": "Game" }
+
+{ "name": "Bonerooms.exe", "type": "Game" }
+
+{ "name": "bout.exe", "type": "Game" }
+
+{ "name": "The Bookwalker.exe", "type": "Game" }
+
+{ "name": "TheBossGangsters.exe", "type": "Game" }
+
+{ "name": "The Braves.exe", "type": "Game" }
+
+{ "name": "The Break In.exe", "type": "Game" }
+
+{ "name": "The Brewline.exe", "type": "Game" }
+
+{ "name": "The Bridge.exe", "type": "Game" }
+
+{ "name": "TBC2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TBC-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "thebureau.exe", "type": "Game" }
+
+{ "name": "TheBus.exe", "type": "Game" }
+{ "name": "Fernbus.exe", "type": "Game" }
+
+{ "name": "THE BUTTON.exe", "type": "Game" }
+
+{ "name": "TheCabinFactory.exe", "type": "Game" }
+
+{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheCallistoProtocol.exe", "type": "BG_CPUIO" }
+
+{ "name": "fw_setup.exe", "type": "Game" }
+{ "name": "fw.exe", "type": "Game" }
+
+{ "name": "Caribou.exe", "type": "BG_CPUIO" }
+{ "name": "Caribou-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Case of the Golden Idol.exe", "type": "Game" }
+
+{ "name": "CastingFrankStone.exe", "type": "BG_CPUIO" }
+{ "name": "CastingFrankStone-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheCatAndTheCoup.exe", "type": "Game" }
+
+{ "name": "TheCatLady.exe", "type": "Game" }
+
+{ "name": "Cave.exe", "type": "Game" }
+
+{ "name": "TheCensor.exe", "type": "Game" }
+
+{ "name": "The Chef's Shift_First Course.exe", "type": "Game" }
+
+{ "name": "DarkAthena.exe", "type": "Game" }
+
+{ "name": "SbzEngine.exe", "type": "Game" }
+
+{ "name": "TheCircleMove.exe", "type": "BG_CPUIO" }
+{ "name": "TheCircleMove-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "the_citadel.exe", "type": "BG_CPUIO" }
+{ "name": "the_citadel-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Classrooms.exe", "type": "Game" }
+
+{ "name": "TheClosingShift.exe", "type": "Game" }
+
+{ "name": "TheCoinGame.exe", "type": "Game" }
+
+{ "name": "TheColonists.exe", "type": "Game" }
+
+{ "name": "TheComa2ViciousSisters.exe", "type": "Game" }
+
+{ "name": "TheComaRecut.exe", "type": "Game" }
+
+{ "name": "TheComplexExpedition.exe", "type": "BG_CPUIO" }
+{ "name": "TheComplexExpedition-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheComplexFF.exe", "type": "BG_CPUIO" }
+{ "name": "TheComplexFF-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Convenience Store Yakin Jiken.exe", "type": "Game" }
+
+{ "name": "The_Cosmic_Wheel_Sisterhood.exe", "type": "Game" }
+
+{ "name": "The Council.exe", "type": "Game" }
+
+{ "name": "TheCrew.exe", "type": "Game" }
+
+{ "name": "TheCrew2.exe", "type": "Game" }
+
+{ "name": "TheCrewMotorfest.exe", "type": "Game" }
+{ "name": "TheCrewMotorfest_BE.exe", "type": "Game" }
+
+{ "name": "TheCrust.exe", "type": "BG_CPUIO" }
+{ "name": "TheCrust-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Launch_TheCulling.exe", "type": "Game" }
+
+{ "name": "Culling Of The Cows.exe", "type": "Game" }
+
+{ "name": "Prospect_BE.exe", "type": "BG_CPUIO" }
+{ "name": "Prospect-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Darkest Files.exe", "type": "Game" }
+
+{ "name": "satinav.exe", "type": "Game" }
+{ "name": "satinav_64.exe", "type": "Game" }
+
+{ "name": "memoria.exe", "type": "Game" }
+
+{ "name": "DarknessII.exe", "type": "Game" }
+
+{ "name": "The_Dark_Occult.exe", "type": "BG_CPUIO" }
+{ "name": "The_Dark_Occult-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HouseOfAshes.exe", "type": "Game" }
+
+{ "name": "LittleHope.exe", "type": "Game" }
+
+{ "name": "ManOfMedan.exe", "type": "Game" }
+
+{ "name": "TheDevilInMe.exe", "type": "Game" }
+
+{ "name": "The Dark Queen of Mortholme.exe", "type": "Game" }
+
+{ "name": "thedarksidedetective.exe", "type": "Game" }
+
+{ "name": "TheDeer.exe", "type": "Game" }
+
+{ "name": "Descendant_Windows.exe", "type": "Game" }
+
+{ "name": "The Dig.exe", "type": "Game" }
+
+{ "name": "VampireSmile.exe", "type": "Game" }
+
+{ "name": "capcom_disney_afternoon.exe", "type": "Game" }
+
+{ "name": "DitzyDemons.exe", "type": "Game" }
+
+{ "name": "DOT.exe", "type": "Game" }
+
+{ "name": "DreamGlobe.exe", "type": "Game" }
+
+{ "name": "_the_dream_machine.exe", "type": "Game" }
+
+{ "name": "TheDrifter.exe", "type": "Game" }
+
+{ "name": "DRL Simulator.exe", "type": "Game" }
+
+{ "name": "Naheulbeuk.exe", "type": "Game" }
+
+{ "name": "ACD.EXE", "type": "Game" }
+
+{ "name": "FALL.EXE", "type": "Game" }
+{ "name": "DAGGER.EXE", "type": "Game" }
+
+{ "name": "Morrowind.exe", "type": "Game" }
+
+{ "name": "OblivionRemastered.exe", "type": "BG_CPUIO" }
+{ "name": "OblivionRemastered-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "zosSteamStarter.exe", "type": "Game" }
+{ "name": "eso64.exe", "type": "Game" }
+
+{ "name": "SkyrimVR.exe", "type": "Game" }
+
+{ "name": "The Ember Guardian.exe", "type": "Game" }
+
+{ "name": "TheEmperorAndState.exe", "type": "Game" }
+
+{ "name": "modloader.exe", "type": "Game" }
+{ "name": "TheEndIsNigh.exe", "type": "Game" }
+
+{ "name": "The_Endless_Abyss.exe", "type": "Game" }
+
+{ "name": "History_Game.exe", "type": "BG_CPUIO" }
+{ "name": "History_Game-Win64-DebugGame.exe", "type": "Game" }
+{ "name": "History_Game-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The_Enjenir.exe", "type": "BG_CPUIO" }
+{ "name": "The_Enjenir-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EntropyCentre.exe", "type": "Game" }
+
+{ "name": "The Escape Together.exe", "type": "Game" }
+
+{ "name": "TheEscapists.exe", "type": "Game" }
+{ "name": "TheEscapists_rus.exe", "type": "Game" }
+{ "name": "TheEscapists_pol.exe", "type": "Game" }
+{ "name": "TheEscapists_eur.exe", "type": "Game" }
+
+{ "name": "TheEscapists2.exe", "type": "Game" }
+
+{ "name": "ETERNAL.exe", "type": "Game" }
+
+{ "name": "TheEternalCylinder.exe", "type": "BG_CPUIO" }
+{ "name": "TheEternalCylinder-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GoldmanDemo.exe", "type": "Game" }
+
+{ "name": "evilwithin.exe", "type": "Game" }
+
+{ "name": "TEW2.exe", "type": "Game" }
+
+{ "name": "The Executive.exe", "type": "Game" }
+
+{ "name": "Exit8.exe", "type": "BG_CPUIO" }
+
+{ "name": "Artemis.exe", "type": "BG_CPUIO" }
+{ "name": "Artemis-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Expendabros.exe", "type": "Game" }
+
+{ "name": "TheFall.exe", "type": "Game" }
+
+{ "name": "TheFarmerWasReplaced.exe", "type": "Game" }
+
+{ "name": "Discovery.exe", "type": "Game" }
+
+{ "name": "TheFinalStation.exe", "type": "Game" }
+
+{ "name": "KZ.exe", "type": "BG_CPUIO" }
+{ "name": "BBQ-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheFirstDescendant.exe", "type": "BG_CPUIO" }
+{ "name": "M1-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Fishing Club 3D.exe", "type": "Game" }
+
+{ "name": "RiverGame.exe", "type": "BG_CPUIO" }
+{ "name": "RiverGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheForest.exe", "type": "Game" }
+{ "name": "TheForest32.exe", "type": "Game" }
+{ "name": "TheForestVR.exe", "type": "Game" }
+
+{ "name": "ForeverWinter.exe", "type": "BG_CPUIO" }
+{ "name": "ForeverWinter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ModernStoryteller01.exe", "type": "BG_CPUIO" }
+{ "name": "ModernStoryteller01-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Four Kings Casino and Slots.exe", "type": "Game" }
+
+{ "name": "the friends of ringo ishikawa.exe", "type": "Game" }
+
+{ "name": "StartTheFront.exe", "type": "Game" }
+{ "name": "TheFrontServer.exe", "type": "Service" }
+{ "name": "TheFront.exe", "type": "Game" }
+
+{ "name": "GrisaiaLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Grisaia.exe", "type": "Game" }
+
+{ "name": "TheGallery_EP1.exe", "type": "Game" }
+
+{ "name": "TheGameOfLife.exe", "type": "Game" }
+
+{ "name": "GameOfLife2.exe", "type": "Game" }
+
+{ "name": "The Gate Must Stand.exe", "type": "Game" }
+
+{ "name": "The Genesis Project.exe", "type": "Game" }
+
+{ "name": "The Glitched Attraction.exe", "type": "Game" }
+
+{ "name": "GoldRiver_V4.exe", "type": "BG_CPUIO" }
+{ "name": "GoldRiver_V4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TGAAC.exe", "type": "Game" }
+
+{ "name": "GreatVillainess.exe", "type": "Game" }
+
+{ "name": "TheGreenening.exe", "type": "Game" }
+
+{ "name": "TheGreyDream.exe", "type": "Game" }
+{ "name": "TheGreyDream-32.exe", "type": "Game" }
+
+{ "name": "Guild3.exe", "type": "Game" }
+{ "name": "Guild3Editor.exe", "type": "Game" }
+{ "name": "Guild3ModLauncher.exe", "type": "Game" }
+
+{ "name": "Europa1410.exe", "type": "BG_CPUIO" }
+{ "name": "Europa1410-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Europa1400Gold.exe", "type": "Game" }
+{ "name": "Europa1400Gold_TL.exe", "type": "Game" }
+
+{ "name": "GuildII.exe", "type": "Game" }
+
+{ "name": "Dust.exe", "type": "BG_CPUIO" }
+{ "name": "Dust-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheHappyHillsHomicide.exe", "type": "Game" }
+
+{ "name": "The Hat Man.exe", "type": "Game" }
+
+{ "name": "Headliners.exe", "type": "BG_CPUIO" }
+{ "name": "Headliners-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HenryStickmin.exe", "type": "Game" }
+
+{ "name": "TheHex.exe", "type": "Game" }
+
+{ "name": "THKM.exe", "type": "Game" }
+
+{ "name": "TS_CasinoRoyal.exe", "type": "Game" }
+
+{ "name": "fata.exe", "type": "Game" }
+
+{ "name": "The House of da Vinci.exe", "type": "Game" }
+
+{ "name": "THODV2.exe", "type": "Game" }
+
+{ "name": "The House of da Vinci 3.exe", "type": "Game" }
+
+{ "name": "The House of Tesla.exe", "type": "Game" }
+
+{ "name": "The House of the Dead Remake.exe", "type": "Game" }
+
+{ "name": "HUNDRED_LINE.exe", "type": "Game" }
+
+{ "name": "The Hungry Lamb.exe", "type": "Game" }
+
+{ "name": "StarlitSeason.exe", "type": "BG_CPUIO" }
+{ "name": "StarlitSeason-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "second_year.exe", "type": "Game" }
+
+{ "name": "ImpossibleGame.exe", "type": "Game" }
+
+{ "name": "galleyhouse.exe", "type": "Game" }
+
+{ "name": "TheInfected.exe", "type": "BG_CPUIO" }
+{ "name": "TheInfected-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheInnerWorld.exe", "type": "Game" }
+
+{ "name": "TheInvincible.exe", "type": "BG_CPUIO" }
+{ "name": "TheInvincible-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Iron Oath.exe", "type": "Game" }
+
+{ "name": "TheIsle.exe", "type": "BG_CPUIO" }
+{ "name": "TheIsleClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Jackbox Megapicker.exe", "type": "Game" }
+
+{ "name": "The Jackbox Naughty Pack.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 10.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 11.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 2.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 3.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 4.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 5.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 6.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 7.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 8.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Pack 9.exe", "type": "Game" }
+
+{ "name": "The Jackbox Party Starter.exe", "type": "Game" }
+
+{ "name": "The Jackbox Survey Scramble.exe", "type": "Game" }
+
+{ "name": "JourneyDown1.exe", "type": "Game" }
+
+{ "name": "JOY-Win64-Shipping.exe", "type": "Game" }
+{ "name": "JOY.exe", "type": "BG_CPUIO" }
+
+{ "name": "TheKarters2.exe", "type": "Game" }
+
+{ "name": "TheKillingAntidote.exe", "type": "BG_CPUIO" }
+{ "name": "TheKillingAntidote-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The King is Watching.exe", "type": "Game" }
+
+{ "name": "KingOfFighters2002UM.exe", "type": "Game" }
+{ "name": "KingOfFighters2002UM_x64.exe", "type": "Game" }
+
+{ "name": "KOF97.exe", "type": "Game" }
+
+{ "name": "KingOfFighters98UM.exe", "type": "Game" }
+
+{ "name": "kofxiii.exe", "type": "Game" }
+
+{ "name": "kofxiv.exe", "type": "Game" }
+
+{ "name": "KOFXV_Steam.exe", "type": "Game" }
+
+{ "name": "TheKnightWitch.exe", "type": "Game" }
+
+{ "name": "TheLab.exe", "type": "Game" }
+
+{ "name": "LamplightersLeague.exe", "type": "Game" }
+
+{ "name": "LastBlade.exe", "type": "Game" }
+
+{ "name": "LastBlade2App.exe", "type": "Game" }
+
+{ "name": "The Last Campfire.exe", "type": "Game" }
+
+{ "name": "The Last Cat In The Universe.exe", "type": "Game" }
+
+{ "name": "The Last Door CE.exe", "type": "Game" }
+
+{ "name": "The Last Faith.exe", "type": "Game" }
+
+{ "name": "The Last Flame.exe", "type": "Game" }
+
+{ "name": "TheLastGasStation.exe", "type": "Game" }
+
+{ "name": "TLHON.exe", "type": "Game" }
+
+{ "name": "tlou-i-l.exe", "type": "Game" }
+{ "name": "tlou-i.exe", "type": "Game" }
+
+{ "name": "tlou-ii.exe", "type": "Game" }
+{ "name": "tlou-ii-l.exe", "type": "Game" }
+
+{ "name": "TheLastPlague.exe", "type": "Game" }
+
+{ "name": "TLR.exe", "type": "Game" }
+
+{ "name": "tlsSQUAD.exe", "type": "Game" }
+
+{ "name": "The Last Spell.exe", "type": "Game" }
+
+{ "name": "TLSA.exe", "type": "Game" }
+
+{ "name": "LastStarship64.exe", "type": "Game" }
+
+{ "name": "the last tinker.exe", "type": "Game" }
+
+{ "name": "the legend of bum-bo.exe", "type": "Game" }
+{ "name": "The Legend of Bum-bo.exe", "type": "Game" }
+
+{ "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }
+{ "name": "ed72_steam.exe", "type": "Game" }
+
+{ "name": "game_64.exe", "type": "Game" }
+{ "name": "launcher_64.exe", "type": "Game" }
+
+{ "name": "ed8_4_PC.exe", "type": "Game" }
+{ "name": "ed8_4_PC_KR.exe", "type": "Game" }
+{ "name": "Sen4Launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "kai.exe", "type": "Game" }
+
+{ "name": "zero.exe", "type": "Game" }
+{ "name": "zero_debug.exe", "type": "BG_CPUIO" }
+
+{ "name": "ed6_win.exe", "type": "Game" }
+{ "name": "ed6_win_DX9.exe", "type": "Game" }
+
+{ "name": "ed6_win2.exe", "type": "Game" }
+{ "name": "ed6_win2_DX9.exe", "type": "Game" }
+
+{ "name": "ed6_win3.exe", "type": "Game" }
+{ "name": "ed6_win3_DX9.exe", "type": "Game" }
+
+{ "name": "hnk.exe", "type": "Game" }
+{ "name": "hnk_debugopt.exe", "type": "BG_CPUIO" }
+
+{ "name": "ed8.exe", "type": "Game" }
+{ "name": "ed8jp.exe", "type": "Game" }
+
+{ "name": "Sen2Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "ed8_2_PC_JP.exe", "type": "Game" }
+{ "name": "ed8_2_PC_US.exe", "type": "Game" }
+
+{ "name": "ed8_4_PC_JP.exe", "type": "Game" }
+
+{ "name": "kuro.exe", "type": "Game" }
+
+{ "name": "kuro2.exe", "type": "Game" }
+
+{ "name": "ao.exe", "type": "Game" }
+
+{ "name": "ed71_steam.exe", "type": "Game" }
+{ "name": "Launcher_ED71.exe", "type": "Game" }
+
+{ "name": "LegendOfKhiimori.exe", "type": "BG_CPUIO" }
+{ "name": "LegendOfKhiimori-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Zebra.exe", "type": "Game" }
+
+{ "name": "LEGO The LEGO Movie 2_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOEMMET.exe", "type": "Game" }
+
+{ "name": "LEGONINJAGO.exe", "type": "Game" }
+{ "name": "LEGONINJAGO_DX11.exe", "type": "Game" }
+
+{ "name": "The Life and Suffering of Prince Jerian.exe", "type": "Game" }
+
+{ "name": "The Life and Suffering of Sir Brante.exe", "type": "Game" }
+{ "name": "brante-101xp-micro-launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "Handyman.exe", "type": "Game" }
+
+{ "name": "tld.exe", "type": "Game" }
+
+{ "name": "TheLongDrive.exe", "type": "Game" }
+
+{ "name": "The Longing.exe", "type": "Game" }
+
+{ "name": "The Looker.exe", "type": "Game" }
+
+{ "name": "The Loopler Demo.exe", "type": "Game" }
+
+{ "name": "Lord of the Rings - LCG.exe", "type": "Game" }
+
+{ "name": "Gollum.exe", "type": "BG_CPUIO" }
+{ "name": "ToM-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JiME.exe", "type": "Game" }
+
+{ "name": "lotroclient.exe", "type": "Game" }
+
+{ "name": "Moria-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Moria.exe", "type": "BG_CPUIO" }
+
+{ "name": "Kinjo no Hitozuma.exe", "type": "Game" }
+
+{ "name": "HMS_00.exe", "type": "BG_CPUIO" }
+{ "name": "HMS_00-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheMatriarch-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheMatriarch.exe", "type": "BG_CPUIO" }
+
+{ "name": "TheMaw.exe", "type": "Game" }
+
+{ "name": "TheMeanGreens.exe", "type": "BG_CPUIO" }
+{ "name": "TheMeanGreens-Win32-Shipping.exe", "type": "Game" }
+{ "name": "TheMeanGreens-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheMeanGreensServer.exe", "type": "Service" }
+
+{ "name": "Medium.exe", "type": "BG_CPUIO" }
+{ "name": "Medium-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Mermaid Mask.exe", "type": "Game" }
+
+{ "name": "TheMessenger.exe", "type": "Game" }
+
+{ "name": "TMiR.exe", "type": "Game" }
+
+{ "name": "TheMidnightWalk.exe", "type": "BG_CPUIO" }
+{ "name": "TheMidnightWalk-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ProjectMW.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectMW-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Monster Breeder.exe", "type": "Game" }
+
+{ "name": "Mooseman.exe", "type": "Game" }
+
+{ "name": "The Mortuary Assistant.exe", "type": "Game" }
+
+{ "name": "MosquitoGang-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "themrrabbitmagicshow.exe", "type": "Game" }
+
+{ "name": "The Murder of Sonic The Hedgehog.exe", "type": "Game" }
+
+{ "name": "TheNameLess.exe", "type": "Game" }
+
+{ "name": "TheNecromancer.exe", "type": "Game" }
+
+{ "name": "The Next Big Thing.exe", "type": "Game" }
+
+{ "name": "rabbit.exe", "type": "Game" }
+{ "name": "rabbit_64.exe", "type": "Game" }
+
+{ "name": "Lilith.exe", "type": "Game" }
+
+{ "name": "project_nonmp.exe", "type": "Game" }
+
+{ "name": "TheNOexistenceNofyouANDme.exe", "type": "Game" }
+
+{ "name": "The Novelist.exe", "type": "Game" }
+
+{ "name": "The_Occultist.exe", "type": "BG_CPUIO" }
+{ "name": "The_Occultist-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The one who pulls out the sword will be crowned king.exe", "type": "Game" }
+
+{ "name": "TOAW Graphics.exe", "type": "Game" }
+
+{ "name": "TheOregonTrail.exe", "type": "Game" }
+{ "name": "TheOregonTrail_Win64_Shipping.exe", "type": "Game" }
+
+{ "name": "GhostRecon.exe", "type": "Game" }
+
+{ "name": "TheOtherSide.exe", "type": "BG_CPUIO" }
+{ "name": "TheOtherSide-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheOtherSideDemo.exe", "type": "BG_CPUIO" }
+{ "name": "TheOtherSideDemo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheOuterWorlds.exe", "type": "BG_CPUIO" }
+
+{ "name": "TheOuterWorlds2.exe", "type": "BG_CPUIO" }
+{ "name": "TheOuterWorlds2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheOuterWorldsSpacersChoiceEdition.exe", "type": "Game" }
+
+{ "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TOTClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "Painscreek.exe", "type": "Game" }
+
+{ "name": "The Past Within.exe", "type": "Game" }
+
+{ "name": "ThePed_Win_64.exe", "type": "Game" }
+
+{ "name": "The Perfect Tower II.exe", "type": "Game" }
+
+{ "name": "ThePirate.exe", "type": "Game" }
+
+{ "name": "The Plan.exe", "type": "Game" }
+
+{ "name": "Storybook.exe", "type": "BG_CPUIO" }
+{ "name": "Storybook-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ThePoliticalProcess.exe", "type": "Game" }
+
+{ "name": "The Posthumous Investigation.exe", "type": "Game" }
+
+{ "name": "Precinct.exe", "type": "Game" }
+
+{ "name": "ThePurgeDay.exe", "type": "Game" }
+
+{ "name": "TheQuarry.exe", "type": "Game" }
+
+{ "name": "TheQuinfall.exe", "type": "Game" }
+
+{ "name": "TheRanchOfRivershine.exe", "type": "BG_CPUIO" }
+{ "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Ratlines.exe", "type": "Game" }
+
+{ "name": "TheRedLantern_sw.exe", "type": "Game" }
+
+{ "name": "The Red Pearls of Borneo.exe", "type": "Game" }
+
+{ "name": "TRSC2017.exe", "type": "Game" }
+
+{ "name": "The Remake the End of the Greatest RPG of All Time.exe", "type": "Game" }
+
+{ "name": "Utopia.Steam.Launcher.exe", "type": "Game" }
+
+{ "name": "The Rogue Prince of Persia.exe", "type": "Game" }
+
+{ "name": "TheRoom.exe", "type": "Game" }
+
+{ "name": "OldSins.exe", "type": "Game" }
+
+{ "name": "TheRoomThree.exe", "type": "Game" }
+
+{ "name": "TheRoomTwo.exe", "type": "Game" }
+
+{ "name": "roottrees.exe", "type": "Game" }
+
+{ "name": "Saboteur.exe", "type": "Game" }
+
+{ "name": "the_sapling.exe", "type": "Game" }
+
+{ "name": "TheScourge.exe", "type": "Game" }
+
+{ "name": "The Scroll of Taiwu.exe", "type": "Game" }
+
+{ "name": "The Seance of Blake Manor.exe", "type": "Game" }
+
+{ "name": "The Secret Atelier.exe", "type": "Game" }
+
+{ "name": "MISE.exe", "type": "Game" }
+
+{ "name": "The_Seeker.exe", "type": "Game" }
+
+{ "name": "Settlers7R.exe", "type": "Game" }
+
+{ "name": "SettlersHoK.exe", "type": "Game" }
+{ "name": "SHoKMapEditor.exe", "type": "Game" }
+
+{ "name": "The_Settlers.exe", "type": "Game" }
+
+{ "name": "Settlers6R.exe", "type": "Game" }
+
+{ "name": "SevenDeadlySins_Origin-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SevenDeadlySins_Origin.exe", "type": "BG_CPUIO" }
+
+{ "name": "Shattering.exe", "type": "Game" }
+
+{ "name": "TheShell.exe", "type": "Game" }
+
+{ "name": "TheShell2.exe", "type": "Game" }
+
+{ "name": "ship.exe", "type": "Game" }
+
+{ "name": "Sandfox.exe", "type": "BG_CPUIO" }
+{ "name": "Sandfox-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Sims2EP9.exe", "type": "Game" }
+
+{ "name": "TS3.exe", "type": "Game" }
+{ "name": "TS3W.exe", "type": "Game" }
+
+{ "name": "TS4_x64.exe", "type": "Game" }
+{ "name": "TS4_x64_fpb.exe", "type": "Game" }
+{ "name": "TS4_DX9_x64.exe", "type": "Game" }
+
+{ "name": "Sims.exe", "type": "Game" }
+
+{ "name": "SimsMedievalLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "TSM.exe", "type": "Game" }
+
+{ "name": "TheSinkingCity2Demo.exe", "type": "Game" }
+
+{ "name": "TheSinkingCityRemastered.exe", "type": "BG_CPUIO" }
+{ "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Wasteland Trucker.exe", "type": "Game" }
+
+{ "name": "The Slormancer.exe", "type": "Game" }
+
+{ "name": "Saya_Steam.exe", "type": "Game" }
+
+{ "name": "TheSpike-Cross.exe", "type": "Game" }
+
+{ "name": "The_Spotter.exe", "type": "BG_CPUIO" }
+{ "name": "The_Spotter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Stanley Parable Ultra Deluxe.exe", "type": "Game" }
+
+{ "name": "Stone.exe", "type": "Game" }
+
+{ "name": "TheSurge.exe", "type": "Game" }
+
+{ "name": "TheSurge2.exe", "type": "Game" }
+
+{ "name": "The Survivalists.exe", "type": "Game" }
+
+{ "name": "TheSwapper.exe", "type": "Game" }
+
+{ "name": "The TakeOver.exe", "type": "Game" }
+
+{ "name": "Talos.exe", "type": "Game" }
+{ "name": "Talos_Unrestricted.exe", "type": "Game" }
+
+{ "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Talos2.exe", "type": "BG_CPUIO" }
+
+{ "name": "Talos1.exe", "type": "BG_CPUIO" }
+{ "name": "Talos1-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheTechnomancer.exe", "type": "Game" }
+
+{ "name": "temple.exe", "type": "Game" }
+
+{ "name": "The Tenants.exe", "type": "Game" }
+
+{ "name": "BBQClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BBQClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "TheThaumaturge.exe", "type": "BG_CPUIO" }
+{ "name": "TheThaumaturge-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JianAnLegend.exe", "type": "Game" }
+
+{ "name": "The Thrill of the Fight.exe", "type": "Game" }
+
+{ "name": "The Timeless Child Prologue.exe", "type": "Game" }
+
+{ "name": "ttbs.exe", "type": "Game" }
+
+{ "name": "The Troop.exe", "type": "Game" }
+
+{ "name": "HOTD_NG.exe", "type": "Game" }
+
+{ "name": "splash.exe", "type": "BG_CPUIO" }
+{ "name": "TUE1.exe", "type": "Game" }
+
+{ "name": "The Universim.exe", "type": "Game" }
+
+{ "name": "TheVagrant.exe", "type": "BG_CPUIO" }
+{ "name": "TheVagrant-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "AstronautsGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "AstronautsGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Void Rains Upon Her Heart.exe", "type": "Game" }
+
+{ "name": "WalkingDead101.exe", "type": "Game" }
+
+{ "name": "WalkingDead3.exe", "type": "Game" }
+
+{ "name": "The Walking Dead No Man's Land.exe", "type": "Game" }
+
+{ "name": "TheWalkingDead2.exe", "type": "Game" }
+
+{ "name": "WalkingDead4.exe", "type": "Game" }
+
+{ "name": "WDC.exe", "type": "Game" }
+
+{ "name": "The Walking Trade.exe", "type": "Game" }
+
+{ "name": "WanderingVillage.exe", "type": "Game" }
+
+{ "name": "wargame.exe", "type": "Game" }
+
+{ "name": "TheLamentingGeese.exe", "type": "Game" }
+
+{ "name": "The WereCleaner.exe", "type": "Game" }
+
+{ "name": "twwse.exe", "type": "Game" }
+
+{ "name": "TheWhiteDoor.exe", "type": "Game" }
+
+{ "name": "TheWifeNextDoor.exe", "type": "Game" }
+
+{ "name": "twd.exe", "type": "Game" }
+
+{ "name": "wildeight.exe", "type": "Game" }
+
+{ "name": "witcher2.exe", "type": "Game" }
+
+{ "name": "witcher3.exe", "type": "Game" }
+
+{ "name": "witcher.exe", "type": "Game" }
+
+{ "name": "WitchOfTheFernIsland.exe", "type": "BG_CPUIO" }
+{ "name": "WitchOfTheFernIsland-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "witness_d3d11.exe", "type": "Game" }
+{ "name": "witness64_d3d11.exe", "type": "Game" }
+
+{ "name": "TheWolfAmongUs.exe", "type": "Game" }
+
+{ "name": "the yawhg.exe", "type": "Game" }
+
+{ "name": "TheYouQuiz.exe", "type": "Game" }
+
+{ "name": "The Zachtronics Solitaire Collection.exe", "type": "Game" }
+
+{ "name": "thezone.exe", "type": "Game" }

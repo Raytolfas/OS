@@ -1,0 +1,2 @@
+{ "name": "lxdm-binary", "type": "BG_CPUIO" }
+{ "name": "lxdm-session", "type": "BG_CPUIO" }

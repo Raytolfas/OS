@@ -1,0 +1,3 @@
+{ "name": "mpd", "type": "Player-Audio" }
+
+{ "name": "mpd-mpris", "type": "Service" }

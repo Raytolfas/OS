@@ -1,0 +1,15 @@
+{ "name": "nix", "type": "BG_CPUIO" }
+{ "name": "nix-daemon", "type": "BG_CPUIO" }
+{ "name": "nix-store", "type": "BG_CPUIO" }
+
+{ "name": "nom", "type": "BG_CPUIO" }
+{ "name": "nom-shell", "type": "BG_CPUIO" }
+
+{ "name": "nixd", "type": "BG_CPUIO" }
+{ "name": "nixd-attrset-eval", "type": "BG_CPUIO" }
+
+{ "name": "nil", "type": "BG_CPUIO" }
+
+{ "name": "nixpkgs-review", "type": "BG_CPUIO" }
+
+{ "name": "nh", "type": "BG_CPUIO" }

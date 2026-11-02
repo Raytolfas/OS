@@ -1,0 +1,225 @@
+
+
+{ "name": "Awesome.x86", "type": "Game" }
+
+{ "name": "Abalon", "type": "Game" }
+
+{ "name": "AbsoluteDrift.x64", "type": "Game" }
+
+{ "name": "Building.x86_64", "type": "Game" }
+
+{ "name": "Building2.x86_64", "type": "Game" }
+
+{ "name": "AO", "type": "Game" }
+
+{ "name": "Abyss_TheWraithsOfEden_amd64", "type": "Game" }
+{ "name": "Abyss_TheWraithsOfEden_i386", "type": "Game" }
+
+{ "name": "Academia.x86_64", "type": "Game" }
+
+{ "name": "Castle.x86_64", "type": "Game" }
+
+{ "name": "AcrossTheObelisk.x86_64", "type": "Game" }
+
+{ "name": "ActingLessons", "type": "Game" }
+
+{ "name": "ADanceOfFireAndIce", "type": "Game" }
+
+{ "name": "ADatewithDeath", "type": "Game" }
+
+{ "name": "ADatewithDeath2", "type": "Game" }
+
+{ "name": "adom", "type": "Game" }
+
+{ "name": "adventure-capitalist.x86_64", "type": "Game" }
+{ "name": "adventure-capitalist.x86", "type": "Game" }
+
+{ "name": "Shuggy", "type": "Game" }
+
+{ "name": "AER.x86", "type": "Game" }
+{ "name": "AER.x86_64", "type": "Game" }
+
+{ "name": "aerofly_fs_4_x64", "type": "Game" }
+
+{ "name": "ChoppingTrees-Linux-Shipping", "type": "Game" }
+
+{ "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
+
+{ "name": "The ABC Murders.x86", "type": "Game" }
+
+{ "name": "app_main", "type": "Game" }
+
+{ "name": "AoW3Launcher.run", "type": "BG_CPUIO" }
+{ "name": "AoW3Launcher", "type": "BG_CPUIO" }
+{ "name": "AoW3", "type": "Game" }
+
+{ "name": "Ages of Conflict.x86_64", "type": "Game" }
+
+{ "name": "Aground", "type": "Game" }
+
+{ "name": "hatintime.run", "type": "Game" }
+
+{ "name": "Air Brawl.x86", "type": "Game" }
+
+{ "name": "ATDeluxe", "type": "Game" }
+
+{ "name": "GroundATC.x86_64", "type": "Game" }
+
+{ "name": "Airships", "type": "Game" }
+
+{ "name": "AIWar2Linux.x86_64", "type": "Game" }
+
+{ "name": "AIWarLinux.x86", "type": "Game" }
+{ "name": "AIWarLinux.x86_64", "type": "Game" }
+
+{ "name": "Albion-Online", "type": "Game" }
+
+{ "name": "attfp.x86_64", "type": "Game" }
+
+{ "name": "AlienIsolation", "type": "Game" }
+
+{ "name": "All Quiet in the Trenches.x86_64", "type": "Game" }
+
+{ "name": "Along the Edge", "type": "Game" }
+
+{ "name": "ALWD.x86_64", "type": "Game" }
+
+{ "name": "AlterWorld.x86_64", "type": "Game" }
+
+{ "name": "Altitude", "type": "Game" }
+
+{ "name": "runasm.bin", "type": "Game" }
+
+{ "name": "AmazingFrog.x86_64", "type": "Game" }
+
+{ "name": "amnesia-remaster", "type": "Game" }
+
+{ "name": "AmnesiaAMFP.bin.x86", "type": "Game" }
+{ "name": "AmnesiaAMFP.bin.x86_64", "type": "Game" }
+{ "name": "Launcher.bin.x86", "type": "BG_CPUIO" }
+{ "name": "Launcher.bin.x86_64", "type": "BG_CPUIO" }
+
+{ "name": "Amnesia2.bin.x86_64", "type": "Game" }
+{ "name": "Amnesia2_NoSteam.bin.x86_64", "type": "Game" }
+
+{ "name": "Amnesia.bin.x86", "type": "Game" }
+{ "name": "Amnesia.bin.x86_64", "type": "Game" }
+{ "name": "Amnesia_NOSTEAM.bin.x86", "type": "Game" }
+{ "name": "Amnesia_NOSTEAM.bin.x86_64", "type": "Game" }
+
+{ "name": "AmongRipples.x86_64", "type": "Game" }
+{ "name": "AmongRipples.x86", "type": "Game" }
+
+{ "name": "Among the Sleep.x86", "type": "Game" }
+
+{ "name": "a-monsters-expedition", "type": "Game" }
+
+{ "name": "Amorous.Game.Unix.bin.x86", "type": "Game" }
+{ "name": "Amorous.Game.Unix.bin.x86_64", "type": "Game" }
+
+{ "name": "An_Amazing_Wizard.x86_64", "type": "Game" }
+
+{ "name": "Arcade.x86_64", "type": "Game" }
+
+{ "name": "AK.x86_64", "type": "Game" }
+
+{ "name": "AncientWarfare3.x86_64", "type": "Game" }
+
+{ "name": "AndYetItMoves", "type": "Game" }
+
+{ "name": "Anna", "type": "Game" }
+
+{ "name": "anna", "type": "Game" }
+
+{ "name": "Anomaly2Linux", "type": "Game" }
+
+{ "name": "Anomaly Agent.x86_64", "type": "Game" }
+
+{ "name": "AnomalyWarzoneEarth", "type": "Game" }
+
+{ "name": "AnotherWorld-amd64", "type": "Game" }
+
+{ "name": "AntiVirus Girl.x86_64", "type": "Game" }
+
+{ "name": "deskjob", "type": "Game" }
+
+{ "name": "APICO", "type": "Game" }
+
+{ "name": "Planet.x86_64", "type": "Game" }
+
+{ "name": "ApocalypsewithFemboy", "type": "Game" }
+
+{ "name": "Apotheon", "type": "Game" }
+
+{ "name": "Apple.x86_64", "type": "Game" }
+
+{ "name": "aquaria", "type": "Game" }
+
+{ "name": "Aragami.x86", "type": "Game" }
+{ "name": "Aragami.x86_64", "type": "Game" }
+
+{ "name": "Arcadia Fallen.x86_64", "type": "Game" }
+
+{ "name": "Arcanists.x86_64", "type": "Game" }
+
+{ "name": "ArchmageIdle.x86_64", "type": "Game" }
+
+{ "name": "arma3", "type": "Game" }
+
+{ "name": "ArmedSeven.x86", "type": "Game" }
+
+{ "name": "armello.x86", "type": "Game" }
+{ "name": "armello.x86_64", "type": "Game" }
+
+{ "name": "_ARTEMIS", "type": "Game" }
+
+{ "name": "dcg", "type": "Game" }
+
+{ "name": "artofrally.x64", "type": "Game" }
+
+{ "name": "aseprite", "type": "Game" }
+
+{ "name": "terminus.x86_64", "type": "Game" }
+
+{ "name": "AShortHike.x86", "type": "Game" }
+{ "name": "AShortHike.x86_64", "type": "Game" }
+
+{ "name": "cactus.x86", "type": "Game" }
+{ "name": "cactus.x86_64", "type": "Game" }
+
+{ "name": "linux_64_client", "type": "Game" }
+
+{ "name": "Astalon.x86_64", "type": "Game" }
+
+{ "name": "Asteroids___", "type": "Game" }
+
+{ "name": "ASAMU", "type": "Game" }
+
+{ "name": "Astroloot", "type": "Game" }
+
+{ "name": "ATLYSS_LINUX_E.x86_64", "type": "Game" }
+
+{ "name": "AtomRPG.x86_64", "type": "Game" }
+
+{ "name": "Trudograd.x86_64", "type": "Game" }
+{ "name": "SteamDeck_Trudograd.x86_64", "type": "Game" }
+
+{ "name": "AtomZombieSmasher", "type": "Game" }
+
+{ "name": "ThronesOfBritannia", "type": "Game" }
+
+{ "name": "Tower.x86_64", "type": "Game" }
+
+{ "name": "Audiosurf2.x86_64", "type": "Game" }
+
+{ "name": "autumn.run", "type": "Game" }
+
+{ "name": "Avorion", "type": "Game" }
+{ "name": "AvorionServer", "type": "Service" }
+
+{ "name": "A Webbing Journey.x86_64", "type": "Game" }
+
+{ "name": "AxiomVerge.bin.x86", "type": "Game" }
+{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
+
+{ "name": "AxisAndAllies1942Online", "type": "Game" }

@@ -1,0 +1,127 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+STATE_FILE="/run/raytolfas-turbo.state"
+
+get_state() {
+    if [ -f "${STATE_FILE}" ]; then
+        cat "${STATE_FILE}"
+    else
+        echo "off"
+    fi
+}
+
+notify_user() {
+    local title="$1"
+    local msg="$2"
+    local icon="$3"
+    if [ -n "${SUDO_USER:-}" ]; then
+        local user_id
+        user_id="$(id -u "${SUDO_USER}")"
+        local bus="unix:path=/run/user/${user_id}/bus"
+        sudo -u "${SUDO_USER}" DBUS_SESSION_BUS_ADDRESS="${bus}" notify-send -i "${icon}" "${title}" "${msg}" 2>/dev/null || true
+    elif command -v notify-send >/dev/null 2>&1; then
+        notify-send -i "${icon}" "${title}" "${msg}" 2>/dev/null || true
+    fi
+}
+
+enable_turbo() {
+    if [ "$(id -u)" -ne 0 ]; then
+        exec pkexec "$0" on
+    fi
+
+    for gov in /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor; do
+        if [ -w "${gov}" ]; then
+            echo "performance" > "${gov}" 2>/dev/null || true
+        fi
+    done
+
+    for epp in /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_preference; do
+        if [ -w "${epp}" ]; then
+            echo "performance" > "${epp}" 2>/dev/null || true
+        fi
+    done
+
+    for dpm in /sys/class/drm/card*/device/power_dpm_force_performance_level; do
+        if [ -w "${dpm}" ]; then
+            echo "high" > "${dpm}" 2>/dev/null || true
+        fi
+    done
+
+    if command -v powerprofilesctl >/dev/null 2>&1; then
+        powerprofilesctl set performance 2>/dev/null || true
+    fi
+
+    if [ -n "${SUDO_USER:-}" ]; then
+        sudo -u "${SUDO_USER}" balooctl suspend 2>/dev/null || true
+    else
+        balooctl suspend 2>/dev/null || true
+    fi
+
+    echo "on" > "${STATE_FILE}"
+    notify_user "Raytolfas Turbo" "Режим максимальной производительности включён" "speedometer"
+    echo "Raytolfas Turbo: ON"
+}
+
+disable_turbo() {
+    if [ "$(id -u)" -ne 0 ]; then
+        exec pkexec "$0" off
+    fi
+
+    for gov in /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor; do
+        if [ -w "${gov}" ]; then
+            echo "schedutil" > "${gov}" 2>/dev/null || echo "powersave" > "${gov}" 2>/dev/null || true
+        fi
+    done
+
+    for epp in /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_preference; do
+        if [ -w "${epp}" ]; then
+            echo "balance_performance" > "${epp}" 2>/dev/null || true
+        fi
+    done
+
+    for dpm in /sys/class/drm/card*/device/power_dpm_force_performance_level; do
+        if [ -w "${dpm}" ]; then
+            echo "auto" > "${dpm}" 2>/dev/null || true
+        fi
+    done
+
+    if command -v powerprofilesctl >/dev/null 2>&1; then
+        powerprofilesctl set balanced 2>/dev/null || true
+    fi
+
+    if [ -n "${SUDO_USER:-}" ]; then
+        sudo -u "${SUDO_USER}" balooctl resume 2>/dev/null || true
+    else
+        balooctl resume 2>/dev/null || true
+    fi
+
+    rm -f "${STATE_FILE}"
+    notify_user "Raytolfas Turbo" "Сбалансированный режим активирован" "power-profile-balanced"
+    echo "Raytolfas Turbo: OFF"
+}
+
+ACTION="${1:-toggle}"
+
+case "${ACTION}" in
+    on|enable)
+        enable_turbo
+        ;;
+    off|disable)
+        disable_turbo
+        ;;
+    toggle)
+        if [ "$(get_state)" = "on" ]; then
+            disable_turbo
+        else
+            enable_turbo
+        fi
+        ;;
+    status)
+        echo "$(get_state)"
+        ;;
+    *)
+        echo "Usage: $0 {on|off|toggle|status}"
+        exit 1
+        ;;
+esac

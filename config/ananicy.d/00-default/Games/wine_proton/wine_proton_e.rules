@@ -1,0 +1,581 @@
+
+
+{ "name": "WorldRise.exe", "type": "BG_CPUIO" }
+{ "name": "WorldRise-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EarnToDie_2.exe", "type": "Game" }
+
+{ "name": "Earth2140.exe", "type": "Game" }
+{ "name": "E2140.exe", "type": "Game" }
+
+{ "name": "Earth2160Editor_START.exe", "type": "Game" }
+{ "name": "Earth2160_START.exe", "type": "Game" }
+{ "name": "Puzzle.exe", "type": "Game" }
+
+{ "name": "EDF41.exe", "type": "Game" }
+
+{ "name": "EDF5.exe", "type": "Game" }
+
+{ "name": "EDF6.exe", "type": "Game" }
+
+{ "name": "EDF-IA.exe", "type": "Game" }
+
+{ "name": "LaunchGame.exe", "type": "BG_CPUIO" }
+{ "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CollegeFB27.exe", "type": "Game" }
+{ "name": "CollegeFB27_Trial.exe", "type": "Game" }
+
+{ "name": "FC24_Trial.exe", "type": "Game" }
+{ "name": "FC24.exe", "type": "Game" }
+
+{ "name": "FIFA21.exe", "type": "Game" }
+{ "name": "FIFA21_Trial.exe", "type": "Game" }
+
+{ "name": "FIFA23_Trial.exe", "type": "Game" }
+{ "name": "FIFA23.exe", "type": "Game" }
+
+{ "name": "Madden25.exe", "type": "Game" }
+{ "name": "Madden25_Trial.exe", "type": "Game" }
+
+{ "name": "Madden26.exe", "type": "Game" }
+{ "name": "Madden26_Trial.exe", "type": "Game" }
+
+{ "name": "PGATour.exe", "type": "Game" }
+{ "name": "PGATour_Trial.exe", "type": "Game" }
+
+{ "name": "WRC.exe", "type": "Game" }
+
+{ "name": "Eastshade.exe", "type": "Game" }
+
+{ "name": "ehm.exe", "type": "Game" }
+
+{ "name": "Eastward.exe", "type": "Game" }
+
+{ "name": "EasyDeliveryCo.exe", "type": "Game" }
+
+{ "name": "Easypose.exe", "type": "Game" }
+
+{ "name": "EasyRed.exe", "type": "Game" }
+
+{ "name": "Easy Red 2.exe", "type": "Game" }
+
+{ "name": "yzLauncher.exe", "type": "Game" }
+{ "name": "Echocalypse.exe", "type": "Game" }
+
+{ "name": "Elysium.exe", "type": "Game" }
+
+{ "name": "Echoes.exe", "type": "Game" }
+
+{ "name": "TheDarken.exe", "type": "BG_CPUIO" }
+{ "name": "TheDarken-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EOTL.exe", "type": "BG_CPUIO" }
+{ "name": "EOTL-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Echoes of the Plum Grove.exe", "type": "Game" }
+
+{ "name": "Greylock.exe", "type": "BG_CPUIO" }
+{ "name": "Greylock-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Eclipsium.exe", "type": "Game" }
+
+{ "name": "Eco.exe", "type": "Game" }
+
+{ "name": "E-commerce Simulator.exe", "type": "Game" }
+
+{ "name": "eden_en.exe", "type": "Game" }
+{ "name": "eden_pm_en.exe", "type": "Game" }
+
+{ "name": "EdenGame.exe", "type": "Game" }
+
+{ "name": "edge.exe", "type": "Game" }
+
+{ "name": "EdgeOfEternity.exe", "type": "Game" }
+
+{ "name": "EdgeOfSpace.exe", "type": "Game" }
+
+{ "name": "harvey.exe", "type": "Game" }
+{ "name": "harvey64.exe", "type": "Game" }
+
+{ "name": "Edna.exe", "type": "Game" }
+
+{ "name": "Eets.exe", "type": "Game" }
+
+{ "name" : "eFootball.exe", "type": "Game" }
+
+{ "name": "PES2020.exe", "type": "Game" }
+
+{ "name": "PES2021.exe", "type": "Game" }
+
+{ "name": "Egg.exe", "type": "Game" }
+
+{ "name": "Egging On.exe", "type": "Game" }
+
+{ "name": "Eggo.exe", "type": "Game" }
+
+{ "name": "Eggstreme Farming Demo.exe", "type": "Game" }
+
+{ "name": "Eggz.exe", "type": "Game" }
+
+{ "name": "EiyudenChronicle.exe", "type": "Game" }
+
+{ "name": "Eiyuden Chronicle Rising.exe", "type": "Game" }
+
+{ "name": "Eldara.exe", "type": "Game" }
+
+{ "name": "ProjectHonorClient.exe", "type": "Game" }
+
+{ "name": "eldenring.exe", "type": "Game" }
+
+{ "name": "nightreign.exe", "type": "Game" }
+
+{ "name": "Elder Ring.exe", "type": "Game" }
+
+{ "name": "Eldest Souls.exe", "type": "Game" }
+
+{ "name": "Eldritch.exe", "type": "Game" }
+{ "name": "Eldritch_x86.exe", "type": "Game" }
+
+{ "name": "Electoral Carnage.exe", "type": "Game" }
+
+{ "name": "Electrician.exe", "type": "Game" }
+
+{ "name": "ElectronicSuperJoy.exe", "type": "Game" }
+
+{ "name": "Elemental Girls.exe", "type": "Game" }
+
+{ "name": "Elementallis.exe", "type": "Game" }
+
+{ "name": "Elemental.exe", "type": "Game" }
+
+{ "name": "E1.exe", "type": "Game" }
+
+{ "name": "Element TD 2.exe", "type": "Game" }
+
+{ "name": "Elevator.exe", "type": "BG_CPUIO" }
+{ "name": "Elevator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "pong_waves_vr.exe", "type": "Game" }
+
+{ "name": "ELEX.exe", "type": "Game" }
+
+{ "name": "ELEX2.exe", "type": "Game" }
+
+{ "name": "Elin.exe", "type": "Game" }
+
+{ "name": "EliteDangerous32.exe", "type": "Game" }
+{ "name": "EliteDangerous64.exe", "type": "Game" }
+
+{ "name": "Elminage.exe", "type": "Game" }
+
+{ "name": "ESSTEAM.exe", "type": "Game" }
+
+{ "name": "steam_launcher.exe", "type": "Game" }
+
+{ "name": "elsword_start.exe", "type": "BG_CPUIO" }
+
+{ "name": "Elven Assassin.exe", "type": "Game" }
+
+{ "name": "EmberAndBlade.exe", "type": "Game" }
+
+{ "name": "Emberbane.exe", "type": "Game" }
+
+{ "name": "EmberKnights.exe", "type": "Game" }
+{ "name": "EmberKnights_64.exe", "type": "Game" }
+
+{ "name": "Embers Adrift.exe", "type": "Game" }
+
+{ "name": "Emberward.exe", "type": "Game" }
+
+{ "name": "FireProject.exe", "type": "Game" }
+
+{ "name": "EMERGENCY.exe", "type": "BG_CPUIO" }
+{ "name": "EMERGENCY-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "em5_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "emergency5.exe", "type": "Game" }
+
+{ "name": "Em4.exe", "type": "Game" }
+
+{ "name": "Emergency Cleanup Co.exe", "type": "Game" }
+
+{ "name": "EmergeNYC.exe", "type": "Game" }
+
+{ "name": "emily is away.exe", "type": "Game" }
+
+{ "name": "Emily3.exe", "type": "Game" }
+
+{ "name": "EmilyOnline.exe", "type": "Game" }
+{ "name": "EmilyIsAwayToo.exe", "type": "Game" }
+
+{ "name": "emojicc.exe", "type": "Game" }
+
+{ "name": "EmoteLab.exe", "type": "Game" }
+
+{ "name": "EFS.exe", "type": "Game" }
+
+{ "name": "Antique64.exe", "type": "Game" }
+{ "name": "Antique.exe", "type": "Game" }
+
+{ "name": "EmpireCombined.exe", "type": "Game" }
+
+{ "name": "Empire Earth.exe", "type": "Game" }
+{ "name": "EE-AOC.exe", "type": "Game" }
+
+{ "name": "EE2.exe", "type": "Game" }
+{ "name": "EE2X.exe", "type": "Game" }
+
+{ "name": "EmpireOfSin.exe", "type": "Game" }
+
+{ "name": "Empire-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "empires_win64.exe", "type": "Game" }
+
+{ "name": "EotU.exe", "type": "BG_CPUIO" }
+{ "name": "EotU-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Emporea.exe", "type": "Game" }
+
+{ "name": "OrionClient.exe", "type": "BG_CPUIO" }
+{ "name": "OrionClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Empyrion.exe", "type": "Game" }
+
+{ "name": "emuurom.exe", "type": "Game" }
+
+{ "name": "ENA-4-DreamBBQ.exe", "type": "Game" }
+
+{ "name": "Encased.exe", "type": "Game" }
+
+{ "name": "ENCHAIN.exe", "type": "Game" }
+
+{ "name": "enclave.exe", "type": "Game" }
+
+{ "name": "Encounter Bar Ⅱ.exe", "type": "Game" }
+
+{ "name": "bar.exe", "type": "Game" }
+
+{ "name": "Encrafted Demo.exe", "type": "Game" }
+
+{ "name": "Survival_100.exe", "type": "BG_CPUIO" }
+{ "name": "Survival_100-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EnderLiliesSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "EnderLilies.exe", "type": "BG_CPUIO" }
+
+{ "name": "EnderMagnolia.exe", "type": "BG_CPUIO" }
+{ "name": "EnderMagnoliaSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EndlessAlice.exe", "type": "BG_CPUIO" }
+{ "name": "EndlessAlice-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Endless ATC.exe", "type": "Game" }
+
+{ "name": "ENDLESS Dungeon.exe", "type": "Game" }
+
+{ "name": "EndlessLegend.exe", "type": "Game" }
+
+{ "name": "Endless Legend 2.exe", "type": "Game" }
+
+{ "name": "Endless Sky.exe", "type": "Game" }
+
+{ "name": "EndlessSpace2.exe", "type": "Game" }
+
+{ "name": "EndlessSpace.exe", "type": "Game" }
+
+{ "name": "Endling.exe", "type": "BG_CPUIO" }
+{ "name": "Endling-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Endoparasitic.exe", "type": "Game" }
+
+{ "name": "Endorlight_x86.exe", "type": "Game" }
+{ "name": "Endorlight_x64.exe", "type": "Game" }
+
+{ "name": "EndorphinVice.exe", "type": "BG_CPUIO" }
+{ "name": "EndorphinVice-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Endzone2.exe", "type": "Game" }
+
+{ "name": "Endzone.exe", "type": "Game" }
+
+{ "name": "EnemyFront.exe", "type": "Game" }
+
+{ "name": "EnergyEngine.exe", "type": "Game" }
+{ "name": "EnergyWallpaper.exe", "type": "Game" }
+
+{ "name": "EnGarde.exe", "type": "BG_CPUIO" }
+{ "name": "EnGarde-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ColtraneClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Enigma.exe", "type": "Game" }
+
+{ "name": "Enigmatis_TheMistsOfRavenwood.exe", "type": "Game" }
+
+{ "name": "Enigmatis_TheGhostsOfMapleCreek.exe", "type": "Game" }
+
+{ "name": "enlisted_BE.exe", "type": "Game" }
+{ "name": "enlisted.exe", "type": "Game" }
+
+{ "name": "Enotria.exe", "type": "BG_CPUIO" }
+{ "name": "Enotria-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Enscroll.exe", "type": "Game" }
+
+{ "name": "enshrouded.exe", "type": "Game" }
+
+{ "name": "enshrouded_server.exe", "type": "Service" }
+
+{ "name": "Enslaved.exe", "type": "Game" }
+
+{ "name": "Enter the Chronosphere.exe", "type": "Game" }
+
+{ "name": "EtG.exe", "type": "Game" }
+
+{ "name": "Entropia.exe", "type": "Game" }
+
+{ "name": "EntropySurvivors.exe", "type": "BG_CPUIO" }
+{ "name": "EntropySurvivors-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Environmental Station Alpha.exe", "type": "Game" }
+
+{ "name": "eat_beta.exe", "type": "Game" }
+
+{ "name": "Epic Battle Fantasy 3.exe", "type": "Game" }
+
+{ "name": "EBF4.exe", "type": "Game" }
+
+{ "name": "Epic Battle Fantasy 5.exe", "type": "Game" }
+
+{ "name": "Epic Roller Coasters.exe", "type": "Game" }
+
+{ "name": "Epigenesis.exe", "type": "Game" }
+
+{ "name": "Epistory.exe", "type": "Game" }
+
+{ "name": "ThunderHorseClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ThunderHorseClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "Era One.exe", "type": "Game" }
+
+{ "name": "Erenshor.exe", "type": "Game" }
+
+{ "name": "Eriksholm.exe", "type": "Game" }
+{ "name": "Eriksholm-Win64-Test.exe", "type": "Game" }
+
+{ "name": "Eros Fantasy.exe", "type": "Game" }
+
+{ "name": "Error143.exe", "type": "Game" }
+
+{ "name": "MyProject.exe", "type": "BG_CPUIO" }
+
+{ "name": "eSail.exe", "type": "Game" }
+
+{ "name": "Escape Academy.exe", "type": "Game" }
+
+{ "name": "EscapeDeadIsland.exe", "type": "Game" }
+
+{ "name": "EscapeDungeon.exe", "type": "Game" }
+
+{ "name": "EscapeDungeon2.exe", "type": "Game" }
+
+{ "name": "EscapeFromBoykisser.exe", "type": "BG_CPUIO" }
+{ "name": "EscapeFromBoykisser-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Duckov.exe", "type": "Game" }
+
+{ "name": "FlyntBuckler.exe", "type": "BG_CPUIO" }
+{ "name": "FlyntBuckler-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EFMM.exe", "type": "Game" }
+
+{ "name": "EscapeFromSanGuo.exe", "type": "Game" }
+
+{ "name": "EscapeFromTarkov.exe", "type": "Game" }
+{ "name": "EscapeFromTarkov_BE.exe", "type": "Game" }
+
+{ "name": "Escape from Yandere.exe", "type": "Game" }
+
+{ "name": "EscapeMemoirsMS.exe", "type": "BG_CPUIO" }
+{ "name": "EscapeMemoirsMS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EscapeMemoirsSH.exe", "type": "BG_CPUIO" }
+{ "name": "EscapeMemoirsSH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Escape Room.exe", "type": "Game" }
+
+{ "name": "EscapeRosecliffIsland.exe", "type": "Game" }
+
+{ "name": "Escape Simulator.exe", "type": "Game" }
+
+{ "name": "Escape Simulator2.exe", "type": "Game" }
+
+{ "name": "Escape Simulator 2.exe", "type": "Game" }
+
+{ "name": "Escape the Mad Empire.exe", "type": "Game" }
+
+{ "name": "Escape This.exe", "type": "Game" }
+{ "name": "Escape This - Neon.exe", "type": "Game" }
+
+{ "name": "Escorts Secrets 18+.exe", "type": "Game" }
+
+{ "name": "Esoteric Ebb.exe", "type": "Game" }
+
+{ "name": "Esport Godfather.exe", "type": "Game" }
+
+{ "name": "Espresso Tycoon.exe", "type": "Game" }
+
+{ "name": "ETEChronicle.exe", "type": "Game" }
+
+{ "name": "Eternal.exe", "type": "Game" }
+
+{ "name": "EternalReturn.exe", "type": "Game" }
+
+{ "name": "EternalStrands.exe", "type": "BG_CPUIO" }
+{ "name": "EternalStrandsSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Eternights.exe", "type": "Game" }
+
+{ "name": "MageAndMinions.exe", "type": "Game" }
+
+{ "name": "Eterspire.exe", "type": "Game" }
+
+{ "name": "Etheria.exe", "type": "BG_CPUIO" }
+{ "name": "GameUE_cpp-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Etherium.exe", "type": "Game" }
+
+{ "name": "Ethyrial.exe", "type": "Game" }
+
+{ "name": "Etrian Odyssey.exe", "type": "Game" }
+
+{ "name": "Etrian Odyssey 2.exe", "type": "Game" }
+
+{ "name": "Etrian Odyssey 3.exe", "type": "Game" }
+
+{ "name": "Euro3v3.exe", "type": "Game" }
+
+{ "name": "FishingGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FishingGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "eu3.exe", "type": "Game" }
+
+{ "name": "eu4.exe", "type": "Game" }
+
+{ "name": "eu5.exe", "type": "Game" }
+
+{ "name": "eurotrucks.exe", "type": "Game" }
+
+{ "name": "Evenicle.exe", "type": "Game" }
+
+{ "name": "eve-online.exe", "type": "Game" }
+
+{ "name": "Everdell.exe", "type": "Game" }
+
+{ "name": "Everdream Valley.exe", "type": "Game" }
+
+{ "name": "Everholm.exe", "type": "Game" }
+
+{ "name": "Everhood.exe", "type": "Game" }
+
+{ "name": "Everhood 2.exe", "type": "Game" }
+
+{ "name": "Everlasting Summer-32.exe", "type": "Game" }
+{ "name": "Everlasting Summer.exe", "type": "Game" }
+
+{ "name": "Everlusting Life.exe", "type": "Game" }
+
+{ "name": "eqgame.exe", "type": "Game" }
+
+{ "name": "EverQuest2.exe", "type": "Game" }
+
+{ "name": "EversiegeSteam.exe", "type": "BG_CPUIO" }
+{ "name": "EversiegeSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "eversion.exe", "type": "Game" }
+
+{ "name": "Everspace.exe", "type": "BG_CPUIO" }
+{ "name": "Everspace_32bit.exe", "type": "BG_CPUIO" }
+{ "name": "RSG-Win32-Shipping.exe", "type": "Game" }
+{ "name": "RSG-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Everspace2.exe", "type": "BG_CPUIO" }
+{ "name": "ES2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Everwind.exe", "type": "Game" }
+
+{ "name": "EverybodysGolfHotShots.exe", "type": "Game" }
+
+{ "name": "Everything.exe", "type": "Game" }
+
+{ "name": "Everything is Crab.exe", "type": "Game" }
+
+{ "name": "PrecisionX_x64.exe", "type": "Game" }
+
+{ "name": "EvilDead-Win64-Shipping.exe", "type": "Game" }
+{ "name": "EvilDead.exe", "type": "BG_CPUIO" }
+
+{ "name": "EvilGeniusLauncher.exe", "type": "Game" }
+
+{ "name": "EvilGenius_profile_dx12.exe", "type": "Game" }
+{ "name": "evilgenius_vulkan.exe", "type": "Game" }
+{ "name": "eg2.exe", "type": "BG_CPUIO" }
+
+{ "name": "EvilMountains.exe", "type": "BG_CPUIO" }
+{ "name": "EvilMountains-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EvilWest.exe", "type": "BG_CPUIO" }
+{ "name": "HighMoon-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "EvitaniaOnline.exe", "type": "Game" }
+
+{ "name": "Evoland2.exe", "type": "Game" }
+
+{ "name": "Evolve.exe", "type": "Game" }
+
+{ "name": "Exanima.exe", "type": "Game" }
+
+{ "name": "EXAPUNKS.exe", "type": "Game" }
+
+{ "name": "ExecutiveAssault2.exe", "type": "Game" }
+
+{ "name": "exiledkingdoms.exe", "type": "Game" }
+
+{ "name": "ExiletoDeath.exe", "type": "Game" }
+
+{ "name": "EXITKUN.exe", "type": "BG_CPUIO" }
+{ "name": "EXITKUN-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "XTG.exe", "type": "Game" }
+
+{ "name": "EXO ONE.exe", "type": "Game" }
+
+{ "name": "EXOPRIMAL.exe", "type": "Game" }
+
+{ "name": "Exo Rally Championship.exe", "type": "Game" }
+
+{ "name": "Exotica2.exe", "type": "BG_CPUIO" }
+{ "name": "Exotica2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Expedition Into Darkness.exe", "type": "Game" }
+
+{ "name": "Expeditions.exe", "type": "Game" }
+
+{ "name": "Expeditions Conquistador.exe", "type": "Game" }
+
+{ "name": "ExpeditionsRome-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ExpeditionsRome.exe", "type": "BG_CPUIO" }
+
+{ "name": "Expeditions Viking.exe", "type": "Game" }
+
+{ "name": "Expendable.exe", "type": "Game" }
+
+{ "name": "ExtinctionInc.exe", "type": "Game" }
+
+{ "name": "EYE.exe", "type": "Game" }
+
+{ "name": "EZ2ON.exe", "type": "Game" }
+
+{ "name": "EZ-Crosshair.exe", "type": "Game" }

@@ -1,0 +1,18 @@
+{ "name": "Modmanager.exe", "type": "BG_CPUIO" }
+
+{ "name": "rimsort", "type": "BG_CPUIO" }
+{ "name": "RimSort", "type": "BG_CPUIO" }
+
+{ "name": "IMG Factory 1.2.revived.exe", "type": "Image-View" }
+
+{ "name": "magictxd.exe", "type": "Image-View" }
+
+{ "name": "input-remapper-gtk", "type": "BG_CPUIO" }
+{ "name": "input-remapper-service", "type": "Service" }
+
+{ "name": "Cheat Engine.exe", "type": "BG_CPUIO" }
+{ "name": "cheatengine-x86_64", "type": "BG_CPUIO" }
+
+{ "name": "protonplus", "type": "BG_CPUIO" }
+
+{ "name": "wayvr", "type": "LowLatency_RT" }

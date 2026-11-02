@@ -1,0 +1,2 @@
+{ "name": "kdeconnect-indicator", "type": "BG_CPUIO" }
+{ "name": "kdeconnectd", "type": "BG_CPUIO" }

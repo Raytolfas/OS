@@ -1,0 +1,4 @@
+{ "name": "pipewire", "type": "LowLatency_RT" }
+{ "name": "pipewire-pulse", "type": "LowLatency_RT" }
+{ "name": "wireplumber", "type": "LowLatency_RT" }
+{ "name": "pulseaudio", "type": "LowLatency_RT" }

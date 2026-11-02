@@ -366,7 +366,7 @@ mkdir -p /etc/sddm.conf.d
 cat << 'AUTOLOGIN' > /etc/sddm.conf.d/autologin.conf
 [Autologin]
 User=admin
-Session=plasma
+Session=plasmawayland
 Relogin=false
 
 [Theme]
@@ -382,18 +382,26 @@ HOSTS
 
 cat << 'OSREL' > /etc/os-release
 NAME="Raytolfas OS"
-PRETTY_NAME="Raytolfas OS D1 (v26.10.0)"
+PRETTY_NAME="Raytolfas OS D1 (v26.11.0)"
 ID=raytolfas
 ID_LIKE="ubuntu debian"
-VERSION="v26.10.0"
-VERSION_ID="26.10.0"
+VERSION="v26.11.0"
+VERSION_ID="26.11.0"
 VERSION_CODENAME="noble"
-HOME_URL="https://raytolfas.com"
+HOME_URL="https://os.raytolfas.com"
+LOGO=raytolfas-logo
 OSREL
 
 cp -f /etc/os-release /usr/lib/os-release
-echo 'Raytolfas OS D1 (v26.10.0) \n \l' > /etc/issue
-echo 'Raytolfas OS D1 (v26.10.0)' > /etc/issue.net
+echo 'Raytolfas OS D1 (v26.11.0) \n \l' > /etc/issue
+echo 'Raytolfas OS D1 (v26.11.0)' > /etc/issue.net
+
+mkdir -p /etc/xdg
+cat << 'ABOUTDISTRO' > /etc/xdg/kcm-about-distrorc
+[General]
+LogoPath=/usr/share/pixmaps/raytolfas-logo.png
+Website=https://os.raytolfas.com
+ABOUTDISTRO
 
 apt-get clean
 rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
@@ -502,8 +510,8 @@ fi
 
 echo "[plasma-rootfs] Installing white Raytolfas logo across all icon directories..."
 
-LOGO_WHITE_SVG="${REPO_ROOT}/assets/logo-white.svg"
-LOGO_WHITE_PNG="${REPO_ROOT}/assets/logo-white.png"
+LOGO_WHITE_SVG="${REPO_ROOT}/assets/logo.svg"
+LOGO_WHITE_PNG="${REPO_ROOT}/assets/logo.png"
 
 if [ -f "${LOGO_WHITE_SVG}" ] && [ ! -f "${LOGO_WHITE_PNG}" ]; then
     rsvg-convert -w 512 -h 512 "${LOGO_WHITE_SVG}" -o "${LOGO_WHITE_PNG}"
@@ -568,7 +576,7 @@ cat << 'METADATAJSON' | sudo tee "${LOOKANDFEEL_DIR}/metadata.json" > /dev/null
             "Plasma/LookAndFeel"
         ],
         "Version": "1.0",
-        "Website": "https://raytolfas.com"
+        "Website": "https://os.raytolfas.com"
     }
 }
 METADATAJSON
@@ -586,7 +594,7 @@ X-KDE-PluginInfo-Email=dev@raytolfas.com
 X-KDE-PluginInfo-License=Proprietary
 X-KDE-PluginInfo-Name=org.raytolfas.desktop
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-Website=https://raytolfas.com
+X-KDE-PluginInfo-Website=https://os.raytolfas.com
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 METADATADESK
 
@@ -606,7 +614,7 @@ X-KDE-PluginInfo-Email=dev@raytolfas.com
 X-KDE-PluginInfo-License=Proprietary
 X-KDE-PluginInfo-Name=org.raytolfas.light
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-Website=https://raytolfas.com
+X-KDE-PluginInfo-Website=https://os.raytolfas.com
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 METADATALIGHT
 
@@ -878,15 +886,15 @@ windowPlacement: center
 strings:
     productName:         "Raytolfas OS"
     shortProductName:    "Raytolfas"
-    version:             "v26.10.0"
+    version:             "v26.11.0"
     shortVersion:        "D1"
     versionedName:       "Raytolfas OS D1"
     shortVersionedName:  "Raytolfas D1"
     bootloaderEntryName: "Raytolfas OS"
-    productUrl:          "https://raytolfas.com"
-    supportUrl:          "https://raytolfas.com"
-    knownIssuesUrl:      "https://raytolfas.com"
-    releaseNotesUrl:     "https://raytolfas.com"
+    productUrl:          "https://os.raytolfas.com"
+    supportUrl:          "https://os.raytolfas.com"
+    knownIssuesUrl:      "https://os.raytolfas.com"
+    releaseNotesUrl:     "https://os.raytolfas.com"
 
 images:
     productLogo:         "logo-white.png"
@@ -931,21 +939,22 @@ if [ -f "${REPO_ROOT}/assets/basic-background.png" ]; then
 fi
 
 cat << 'SHOWQML' | sudo tee "${CALAMARES_BRANDING_DIR}/show.qml" > /dev/null
-import QtQuick 2.0
-import QtQuick.Controls 2.0
+import QtQuick
 
 Rectangle {
-    color: "#0a0e17"
+    color: "#090b10"
     Text {
         anchors.centerIn: parent
         text: "Installing Raytolfas OS..."
-        color: "#ffffff"
-        font.pixelSize: 18
+        color: "#f1f5f9"
+        font.pixelSize: 16
+        font.family: "Noto Sans"
     }
 }
 SHOWQML
 
 cat << 'CALWRAP' | sudo tee "${BUILD_DIR}/usr/local/bin/raytolfas-install" > /dev/null
+#!/usr/bin/env bash
 xhost +si:localuser:root 2>/dev/null || xhost + 2>/dev/null || true
 export DISPLAY="${DISPLAY:-:0}"
 export QT_QPA_PLATFORM="xcb"
@@ -996,42 +1005,10 @@ if [ -f "${REPO_ROOT}/config/systemd/logind.conf.d/40-power.conf" ]; then
     sudo cp -f "${REPO_ROOT}/config/systemd/logind.conf.d/40-power.conf" "${BUILD_DIR}/etc/systemd/logind.conf.d/40-power.conf"
 fi
 
-if [ -d "${REPO_ROOT}/apps/welcome" ]; then
-    sudo mkdir -p "${BUILD_DIR}/usr/share/raytolfas/welcome"
-    sudo cp -rf "${REPO_ROOT}/apps/welcome/"* "${BUILD_DIR}/usr/share/raytolfas/welcome/"
-    cat << 'WELCOMERUN' | sudo tee "${BUILD_DIR}/usr/local/bin/raytolfas-welcome" > /dev/null
-if [ -f "${HOME}/.config/raytolfas/welcome_done" ] && [ "$1" != "--force" ]; then
-    exit 0
-fi
-sleep 1.2
-exec python3 /usr/share/raytolfas/welcome/main.py "$@"
-WELCOMERUN
-    sudo chmod 0755 "${BUILD_DIR}/usr/local/bin/raytolfas-welcome"
-
-    sudo mkdir -p "${BUILD_DIR}/etc/skel/.config/autostart"
-    cat << 'WELCOMEDESK' | sudo tee "${BUILD_DIR}/etc/skel/.config/autostart/raytolfas-welcome.desktop" > /dev/null
-[Desktop Entry]
-Type=Application
-Name=Raytolfas OS Welcome
-Exec=/usr/local/bin/raytolfas-welcome
-X-KDE-autostart-phase=2
-X-KDE-autostart-after=panel
-OnlyShowIn=KDE;
-Hidden=false
-NoDisplay=true
-WELCOMEDESK
-
-    cat << 'WELCOMEMENU' | sudo tee "${BUILD_DIR}/usr/share/applications/raytolfas-welcome.desktop" > /dev/null
-[Desktop Entry]
-Type=Application
-Name=Welcome
-Comment=Welcome to Raytolfas OS
-Exec=raytolfas-welcome --force
-Icon=raytolfas-logo
-Categories=System;Qt;
-Terminal=false
-WELCOMEMENU
-fi
+sudo rm -rf "${BUILD_DIR}/usr/share/raytolfas/welcome" \
+    "${BUILD_DIR}/usr/local/bin/raytolfas-welcome" \
+    "${BUILD_DIR}/etc/skel/.config/autostart/raytolfas-welcome.desktop" \
+    "${BUILD_DIR}/usr/share/applications/raytolfas-welcome.desktop"
 
 if [ -d "${REPO_ROOT}/apps/control-center" ]; then
     sudo mkdir -p "${BUILD_DIR}/usr/share/raytolfas/control-center"
@@ -1044,8 +1021,8 @@ CCRUN
     cat << 'CCDESK' | sudo tee "${BUILD_DIR}/usr/share/applications/raytolfas-control-center.desktop" > /dev/null
 [Desktop Entry]
 Type=Application
-Name=Raytolfas Control Center
-Comment=System Information, Updates, and Settings
+Name=Control Center
+Comment=System Information, Updates, and Customization
 Exec=raytolfas-control-center
 Icon=raytolfas-logo
 Categories=Settings;System;Qt;
@@ -1141,21 +1118,13 @@ application/vnd.microsoft.portable-executable=raytolfas-wine.desktop
 application/vnd.android.package-archive=raytolfas-apk.desktop
 MIMEAPPS
 
-cat << 'ZRAMSVC' | sudo tee "${BUILD_DIR}/etc/systemd/system/raytolfas-zram.service" > /dev/null
-[Unit]
-Description=Raytolfas OS ZRAM Swap Auto-Allocator
-After=local-fs.target
-DefaultDependencies=no
-
-[Service]
-Type=oneshot
-ExecStart=/bin/sh -c 'modprobe zram 2>/dev/null || true; [ -b /dev/zram0 ] || true; echo zstd > /sys/block/zram0/comp_algorithm 2>/dev/null || true; RAM_KB=$$(grep MemTotal /proc/meminfo | awk "{print \$$2}"); ZRAM_KB=$$(( RAM_KB / 2 )); echo $${ZRAM_KB}K > /sys/block/zram0/disksize 2>/dev/null || true; mkswap /dev/zram0 >/dev/null 2>&1 || true; swapon -p 100 /dev/zram0 >/dev/null 2>&1 || true'
-RemainAfterExit=yes
-
-[Install]
-WantedBy=basic.target
-ZRAMSVC
-sudo chroot "${BUILD_DIR}" systemctl enable raytolfas-zram.service 2>/dev/null || true
+sudo rm -f "${BUILD_DIR}/etc/systemd/system/raytolfas-zram.service" "${BUILD_DIR}/etc/systemd/system/basic.target.wants/raytolfas-zram.service"
+if [ -f "${REPO_ROOT}/config/zram/zramswap" ]; then
+    sudo mkdir -p "${BUILD_DIR}/etc/default"
+    sudo cp -f "${REPO_ROOT}/config/zram/zramswap" "${BUILD_DIR}/etc/default/zramswap"
+    sudo chmod 0644 "${BUILD_DIR}/etc/default/zramswap"
+fi
+sudo chroot "${BUILD_DIR}" systemctl enable zramswap.service 2>/dev/null || true
 sudo chroot "${BUILD_DIR}" systemctl disable waydroid-container.service 2>/dev/null || true
 
 echo "[plasma-rootfs] Configuring Global XDG Defaults..."
@@ -1180,39 +1149,7 @@ AnimationDurationFactor=0.85
 AnimationDurationFactor=0.85
 XDGKDEG
 
-cat << 'XDGKWIN' | sudo tee "${BUILD_DIR}/etc/xdg/kwinrc" > /dev/null
-[Effect-blur]
-BlurStrength=14
-NoiseStrength=2
-
-[Effect-slide]
-Horizontal=false
-
-[Effect-slidingpopups]
-AnimationDuration=220
-
-[Effect-scale]
-Duration=200
-
-[Plugins]
-blurEnabled=true
-contrastEnabled=true
-translucencyEnabled=true
-slideEnabled=true
-slidingpopupsEnabled=true
-scaleEnabled=true
-fadeEnabled=true
-kwin4_effect_translucencyEnabled=true
-kwin4_effect_scaleinEnabled=true
-kwin4_effect_fadedesktopEnabled=true
-
-[org.kde.kdecoration2]
-ButtonsOnLeft=
-ButtonsOnRight=IAX
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Fluent-round-dark
-Animations=true
-XDGKWIN
+sudo cp -f "${REPO_ROOT}/config/kde/kwinrc" "${BUILD_DIR}/etc/xdg/kwinrc"
 
 cat << 'XDGPLASM' | sudo tee "${BUILD_DIR}/etc/xdg/plasmarc" > /dev/null
 [Theme]
@@ -1256,11 +1193,10 @@ sudo cp -f "${BUILD_DIR}/etc/xdg/kxkbrc" "${BUILD_DIR}/etc/skel/.config/kxkbrc"
 cat << 'LOCALERC' | sudo tee "${BUILD_DIR}/etc/skel/.config/plasma-localerc" > /dev/null
 [Formats]
 LANG=en_US.UTF-8
-LC_TIME=ru_RU.UTF-8
 use24HourClock=true
 
 [Translations]
-LANGUAGE=en_US:ru_RU:uk_UA
+LANGUAGE=en_US:en
 LOCALERC
 
 sudo mkdir -p "${BUILD_DIR}/etc/xdg"
@@ -1335,6 +1271,7 @@ if [ -f "${REPO_ROOT}/assets/sound.ogg" ]; then
     sudo cp -f "${REPO_ROOT}/assets/sound.ogg" "${BUILD_DIR}/usr/share/sounds/raytolfas/login.ogg"
 
     cat << 'SNDSCRIPT' | sudo tee "${BUILD_DIR}/usr/local/bin/raytolfas-login-sound" > /dev/null
+#!/usr/bin/env bash
 sleep 1.5
 amixer set Master unmute 50% 2>/dev/null || true
 amixer set Speaker unmute 50% 2>/dev/null || true
@@ -1368,8 +1305,8 @@ echo "[plasma-rootfs] Configuring fastfetch terminal branding..."
 
 sudo mkdir -p "${BUILD_DIR}/usr/share/fastfetch"
 sudo mkdir -p "${BUILD_DIR}/etc/skel/.config/fastfetch"
-sudo cp -f "${REPO_ROOT}/assets/b-logo.txt" "${BUILD_DIR}/usr/share/fastfetch/raytolfas-logo.txt"
-sudo cp -f "${REPO_ROOT}/assets/m-logo.txt" "${BUILD_DIR}/usr/share/fastfetch/raytolfas-logo-small.txt"
+sudo cp -f "${REPO_ROOT}/assets/logo.txt" "${BUILD_DIR}/usr/share/fastfetch/raytolfas-logo.txt"
+sudo rm -f "${BUILD_DIR}/usr/share/fastfetch/raytolfas-logo-small.txt"
 
 cat << 'FFCONF' | sudo tee "${BUILD_DIR}/etc/skel/.config/fastfetch/config.jsonc" > /dev/null
 {
@@ -1419,6 +1356,9 @@ sudo chroot "${BUILD_DIR}" /bin/bash -c "
     fi
     chown -R admin:admin /home/admin 2>/dev/null || chown -R 1000:1000 /home/admin 2>/dev/null || true
 "
+
+bash "${SCRIPT_DIR}/upgrade-to-plasma6.sh"
+bash "${SCRIPT_DIR}/sync-rootfs-updates.sh"
 
 touch "${REPO_ROOT}/build/.plasma_rootfs_ready"
 

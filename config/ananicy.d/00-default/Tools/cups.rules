@@ -1,0 +1,2 @@
+{ "name": "cups-browsed", "type": "BG_CPUIO" }
+{ "name": "cupsd", "type": "BG_CPUIO" }

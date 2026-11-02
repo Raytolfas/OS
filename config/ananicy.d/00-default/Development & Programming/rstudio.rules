@@ -1,0 +1,3 @@
+{ "name": "rstudio", "type": "LowLatency_RT" }
+
+{ "name": "rsession", "type": "BG_CPUIO" }

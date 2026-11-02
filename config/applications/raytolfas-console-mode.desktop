@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Console Mode
+Comment=Launch fullscreen gamepad gaming interface
+Exec=/usr/bin/raytolfas-console-mode
+Icon=input-gaming
+Terminal=false
+Categories=Game;System;

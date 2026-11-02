@@ -1,0 +1,20 @@
+arm_64bit=1
+kernel=vmlinuz
+initramfs initrd.img followkernel
+dtoverlay=vc4-kms-v3d
+max_framebuffers=2
+disable_overscan=1
+dtparam=audio=on
+dtparam=i2c_arm=on
+dtparam=spi=on
+hdmi_force_hotplug=1
+disable_splash=1
+
+[pi4]
+arm_boost=1
+dtoverlay=vc4-kms-v3d-pi4
+
+[pi5]
+dtoverlay=vc4-kms-v3d-pi5
+dtparam=pciex1
+dtparam=pciex1_gen=3

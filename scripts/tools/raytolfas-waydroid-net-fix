@@ -10,6 +10,7 @@ sudo iptables -t nat -C POSTROUTING -s 192.168.240.0/24 ! -d 192.168.240.0/24 -j
 if waydroid status 2>/dev/null | grep -q "RUNNING"; then
     waydroid prop set persist.waydroid.dns 8.8.8.8 2>/dev/null || true
     waydroid prop set persist.waydroid.dns2 1.1.1.1 2>/dev/null || true
+    waydroid prop set persist.waydroid.suspend true 2>/dev/null || true
     waydroid shell setprop net.dns1 8.8.8.8 2>/dev/null || true
     waydroid shell setprop net.dns2 1.1.1.1 2>/dev/null || true
 fi

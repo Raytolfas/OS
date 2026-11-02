@@ -1,0 +1,28 @@
+
+
+{ "name": "ZaccariaPinball", "type": "Game" }
+
+{ "name": "ZATO", "type": "Game" }
+
+{ "name": "gzdoom", "type": "Game" }
+{ "name": "uzdoom", "type": "Game" }
+{ "name": "zdoom", "type": "Game" }
+
+{ "name": "Zephon.bin", "type": "Game" }
+
+{ "name": "Zero-K_linux64", "type": "Game" }
+{ "name": "Zero-K_linux32", "type": "Game" }
+
+{ "name": "Ziggurat2", "type": "Game" }
+
+{ "name": "ZombieDefense.x86_64", "type": "Game" }
+
+{ "name": "znt.x86", "type": "Game" }
+{ "name": "znt.x86_64", "type": "Game" }
+
+{ "name": "zps_linux", "type": "Game" }
+
+{ "name": "Zombotron.x86_64", "type": "Game" }
+{ "name": "Zombotron.x86", "type": "Game" }
+
+{ "name": "ZomcatsInvasionLinux.x86_64", "type": "Game" }

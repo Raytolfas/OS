@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ "$(id -u)" -ne 0 ]; then
+    exec pkexec "$0" "$@"
+fi
+
+API_URL="https://api.github.com/repos/GloriousEggroll/proton-ge-custom/releases/latest"
+RELEASE_JSON="$(curl -fsSL --connect-timeout 15 "${API_URL}" 2>/dev/null || true)"
+
+DOWNLOAD_URL="$(printf '%s\n' "${RELEASE_JSON}" | grep '"browser_download_url"' | grep -E 'GE-Proton.*\.tar\.gz"' | grep -v 'sha512' | head -n 1 | cut -d'"' -f4 || true)"
+
+if [ -z "${DOWNLOAD_URL}" ]; then
+    echo "ERROR: Could not fetch latest Proton-GE release URL"
+    exit 1
+fi
+
+PROTON_VER="$(basename "${DOWNLOAD_URL}" .tar.gz)"
+CURRENT_VER=""
+if [ -f /opt/GE-Proton/version ]; then
+    CURRENT_VER="$(awk '{print $NF}' /opt/GE-Proton/version 2>/dev/null || true)"
+fi
+
+if [ "${CURRENT_VER}" = "${PROTON_VER}" ]; then
+    echo "Already up to date: ${PROTON_VER}"
+    exit 0
+fi
+
+TMP_TAR="/tmp/${PROTON_VER}.tar.gz"
+rm -f "${TMP_TAR}"
+curl -fL --connect-timeout 30 "${DOWNLOAD_URL}" -o "${TMP_TAR}"
+
+mkdir -p /opt/GE-Proton.new
+tar -xzf "${TMP_TAR}" -C /opt/GE-Proton.new --strip-components=1
+rm -f "${TMP_TAR}"
+
+if [ ! -f /opt/GE-Proton.new/version ]; then
+    echo "${PROTON_VER}" > /opt/GE-Proton.new/version
+fi
+
+rm -rf /opt/GE-Proton
+mv /opt/GE-Proton.new /opt/GE-Proton
+chmod -R a+rX /opt/GE-Proton
+
+echo "Updated to ${PROTON_VER}"

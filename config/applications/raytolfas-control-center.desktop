@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Control Center
+Comment=System Information, Updates, and Customization
+Exec=raytolfas-control-center
+Icon=tweaks-app
+Categories=Settings;System;Qt;
+Terminal=false
+StartupNotify=true

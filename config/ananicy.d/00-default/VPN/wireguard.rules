@@ -1,0 +1,2 @@
+{ "name": "wg", "type": "LowLatency_RT", "ionice": 1 }
+{ "name": "wg-quick", "type": "LowLatency_RT", "ionice": 1 }

@@ -1,0 +1,1155 @@
+
+
+{ "name": "TabletopCreator.exe", "type": "Game" }
+
+{ "name": "Tabletop.exe", "type": "Game" }
+
+{ "name": "Tabletopia.exe", "type": "Game" }
+
+{ "name": "Tabletop Simulator.exe", "type": "Game" }
+
+{ "name": "TabooUniversity.exe", "type": "Game" }
+
+{ "name": "Tactical Assault VR.exe", "type": "Game" }
+
+{ "name": "Tactical Breach Wizards.exe", "type": "Game" }
+
+{ "name": "tacticalnexus.exe", "type": "Game" }
+{ "name": "TacticalNexus.exe", "type": "Game" }
+
+{ "name": "Tactics Ogre Reborn.exe", "type": "Game" }
+
+{ "name": "Taffy Tales Redux The Morning After.exe", "type": "Game" }
+
+{ "name": "Taffy Tales Redux The Morning After Demo.exe", "type": "Game" }
+
+{ "name": "Taiji.exe", "type": "Game" }
+
+{ "name": "Taiko no Tatsujin Rhythm Festival.exe", "type": "Game" }
+
+{ "name": "Taiko5DXLauncher.exe", "type": "Game" }
+{ "name": "Taiko5DX.exe", "type": "Game" }
+
+{ "name": "TaikuAdventure.exe", "type": "BG_CPUIO" }
+{ "name": "TaikuAdventure-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Tailor Simulator.exe", "type": "Game" }
+
+{ "name": "TOI.exe", "type": "Game" }
+{ "name": "TOI1ArtBook.exe", "type": "Game" }
+
+{ "name": "TOI2.exe", "type": "Game" }
+
+{ "name": "TaimaninCollection.exe", "type": "Game" }
+
+{ "name": "TaimaninSquad.exe", "type": "Game" }
+
+{ "name": "Tainted Grail.exe", "type": "Game" }
+
+{ "name": "TakedownGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "TakedownGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Taken Souls Blood Ritual.exe", "type": "Game" }
+
+{ "name": "TKOM.exe", "type": "Game" }
+{ "name": "TKOM_Loader.exe", "type": "Game" }
+{ "name": "TKOM_dev.exe", "type": "Game" }
+
+{ "name": "Talented.exe", "type": "Game" }
+
+{ "name": "TalesAndTactics.exe", "type": "BG_CPUIO" }
+{ "name": "TalesAndTactics-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Tales Beyond The Tomb - Pineville Night Stalker.exe", "type": "Game" }
+
+{ "name": "Tales of Arise.exe", "type": "Game" }
+
+{ "name": "Tales of Berseria.exe", "type": "Game" }
+
+{ "name": "Tales of Berseria Remastered.exe", "type": "Game" }
+{ "name": "Tales of Berseria Remastered_Game.exe", "type": "Game" }
+
+{ "name": "TalesOfEscape.exe", "type": "Game" }
+
+{ "name": "Tales of Graces f Remastered.exe", "type": "Game" }
+
+{ "name": "t-engine.exe", "type": "Game" }
+
+{ "name": "HorseGame.exe", "type": "BG_CPUIO" }
+{ "name": "HorseGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Tales Of Seikyu.exe", "type": "Game" }
+
+{ "name": "TOS.exe", "type": "Game" }
+
+{ "name": "Tales of Terrarum.exe", "type": "Game" }
+
+{ "name": "TalesoftheNeonSea.exe", "type": "Game" }
+
+{ "name": "TotS.exe", "type": "Game" }
+
+{ "name": "TOV_DE.exe", "type": "Game" }
+
+{ "name": "ToW.exe", "type": "Game" }
+
+{ "name": "Tales of Xillia Remastered.exe", "type": "Game" }
+
+{ "name": "Tales of Zestiria.exe", "type": "Game" }
+
+{ "name": "de5.exe", "type": "Game" }
+
+{ "name": "Talisman.exe", "type": "Game" }
+
+{ "name": "TAMASHIKA.exe", "type": "Game" }
+
+{ "name": "TamerVale.exe", "type": "Game" }
+
+{ "name": "tametsi.exe", "type": "Game" }
+
+{ "name": "Tangledeep.exe", "type": "Game" }
+
+{ "name": "Tangle Tower.exe", "type": "Game" }
+
+{ "name": "TangyTD.exe", "type": "Game" }
+
+{ "name": "Tank Force.exe", "type": "Game" }
+
+{ "name": "Tanki Online.exe", "type": "Game" }
+
+{ "name": "TankMechanicSimulator.exe", "type": "Game" }
+
+{ "name": "TankSquad.exe", "type": "Game" }
+
+{ "name": "Tank-Team.exe", "type": "Game" }
+
+{ "name": "Tannenberg.exe", "type": "Game" }
+
+{ "name": "TANUKI Pon's Summer.exe", "type": "Game" }
+
+{ "name": "Tanuki Sunset.exe", "type": "Game" }
+
+{ "name": "Taora Beginning.exe", "type": "Game" }
+
+{ "name": "Tape to Tape.exe", "type": "Game" }
+
+{ "name": "Tap Heroes.exe", "type": "Game" }
+
+{ "name": "Tap Ninja.exe", "type": "Game" }
+
+{ "name": "Tapple.exe", "type": "Game" }
+
+{ "name": "BOLD.exe", "type": "Game" }
+
+{ "name": "TapTapLoot.exe", "type": "Game" }
+
+{ "name": "Tap Wizard 2.exe", "type": "Game" }
+
+{ "name": "TFA.exe", "type": "Game" }
+
+{ "name": "TaskPals.exe", "type": "Game" }
+
+{ "name": "tattletailWindows.exe", "type": "Game" }
+
+{ "name": "Taur.exe", "type": "Game" }
+
+{ "name": "Mira.exe", "type": "Game" }
+
+{ "name": "TavernKeeper.exe", "type": "Game" }
+
+{ "name": "Tavern Manager Simulator.exe", "type": "Game" }
+
+{ "name": "Tavern Master.exe", "type": "Game" }
+
+{ "name": "Tavern Talk.exe", "type": "Game" }
+
+{ "name": "Dreamwalker.exe", "type": "Game" }
+
+{ "name": "TaxiLife.exe", "type": "BG_CPUIO" }
+{ "name": "TaxiLife-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TaskBarHero.exe", "type": "Game" }
+
+{ "name": "Card Shop Simulator.exe", "type": "Game" }
+
+{ "name": "Card Shop Simulator Prologue.exe", "type": "Game" }
+
+{ "name": "ProjetCaillou.exe", "type": "BG_CPUIO" }
+{ "name": "ProjetCaillou-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TDSgame.exe", "type": "Game" }
+
+{ "name": "Teamfight Manager.exe", "type": "Game" }
+
+{ "name": "TeamfightManager2.exe", "type": "Game" }
+
+{ "name": "tf.exe", "type": "Game" }
+{ "name": "tf_win64.exe", "type": "Game" }
+
+{ "name": "tf2classified_win64.exe", "type": "Game" }
+
+{ "name": "tf_goldrush_win64.exe", "type": "Game" }
+
+{ "name": "GameApp_PcDx11_x64Final.exe", "type": "Game" }
+
+{ "name": "teardown.exe", "type": "Game" }
+{ "name": "teardown_modtest.exe", "type": "Game" }
+
+{ "name": "ToM.exe", "type": "Game" }
+
+{ "name": "Techtonica.exe", "type": "Game" }
+
+{ "name": "TeddysHaven.exe", "type": "BG_CPUIO" }
+{ "name": "TeddysHaven-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TMNT.exe", "type": "Game" }
+
+{ "name": "TMNTSF.exe", "type": "Game" }
+
+{ "name": "tmnt_cowabunga.exe", "type": "Game" }
+
+{ "name": "teeworlds.exe", "type": "Game" }
+{ "name": "teeworlds_srv.exe", "type": "Game" }
+
+{ "name": "TEKKEN 7.exe", "type": "BG_CPUIO" }
+{ "name": "TekkenGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TEKKEN 8.exe", "type": "Game" }
+
+{ "name": "TEKKEN 8 Demo.exe", "type": "BG_CPUIO" }
+{ "name": "Polaris-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "teleglitch.exe", "type": "Game" }
+
+{ "name": "Teller's Duty.exe", "type": "Game" }
+
+{ "name": "TME-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Tenpure.exe", "type": "Game" }
+
+{ "name": "Temple Maker 64.exe", "type": "Game" }
+
+{ "name": "Temtem.exe", "type": "Game" }
+
+{ "name": "TennisElbow.exe", "type": "Game" }
+
+{ "name": "Tennis Elbow 4.exe", "type": "Game" }
+
+{ "name": "Tennis Manager 2023.exe", "type": "Game" }
+
+{ "name": "Tennis Manager 2024.exe", "type": "Game" }
+
+{ "name": "Tennis Manager 25.exe", "type": "Game" }
+
+{ "name": "Tennis Manager 26.exe", "type": "Game" }
+
+{ "name": "wttpc.exe", "type": "Game" }
+
+{ "name": "twt2.exe", "type": "Game" }
+
+{ "name": "Tl.exe", "type": "Game" }
+
+{ "name": "TERA.exe", "type": "Game" }
+
+{ "name": "Teria.exe", "type": "Game" }
+
+{ "name": "Terminator 2D NO FATE.exe", "type": "Game" }
+
+{ "name": "trm.exe", "type": "Game" }
+
+{ "name": "Terminator.exe", "type": "BG_CPUIO" }
+{ "name": "Terminator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "rs_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Rouge.exe", "type": "BG_CPUIO" }
+{ "name": "Rouge-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Terminus.exe", "type": "Game" }
+
+{ "name": "TERPENIE.exe", "type": "Game" }
+{ "name": "TERPENIE-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Terraformental.exe", "type": "Game" }
+
+{ "name": "Terraformers.exe", "type": "Game" }
+
+{ "name": "TerraformingMars.exe", "type": "Game" }
+
+{ "name": "TerraInvicta.exe", "type": "Game" }
+
+{ "name": "Terra Nil.exe", "type": "Game" }
+
+{ "name": "Terraria.exe", "type": "Game" }
+{ "name": "TerrariaServer.exe", "type": "Service" }
+
+{ "name": "TerraScape.exe", "type": "Game" }
+
+{ "name" : "TerraTechWin64.exe", "type": "Game" }
+
+{ "name": "TerraTech_LegionEOS.exe", "type": "Game" }
+{ "name": "TerraTech_LegionEOS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TerraTech_Legion_Demo.exe", "type": "Game" }
+{ "name": "TerraTech_Legion_Demo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TT2EOS.exe", "type": "BG_CPUIO" }
+{ "name": "TT2EOS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Terrinoth Heroes of Descent.exe", "type": "Game" }
+
+{ "name": "Territory.exe", "type": "Game" }
+
+{ "name": "Terrors to Unveil - Day Off.exe", "type": "Game" }
+
+{ "name": "TeslaEffect.exe", "type": "Game" }
+
+{ "name": "Teslagrad.exe", "type": "Game" }
+
+{ "name": "TDUSC.exe", "type": "Game" }
+
+{ "name": "Tetraminos.exe", "type": "Game" }
+
+{ "name": "TetrisEffect.exe", "type": "Game" }
+
+{ "name": "tgm4.exe", "type": "Game" }
+
+{ "name": "TEVI.exe", "type": "Game" }
+
+{ "name": "Texas Poker.exe", "type": "Game" }
+
+{ "name": "Thank Goodness You're Here!.exe", "type": "Game" }
+
+{ "name": "ThankYouForYourApplication.exe", "type": "Game" }
+
+{ "name": "Otter.exe", "type": "BG_CPUIO" }
+{ "name": "Otter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "That's not my neighbor (Steam).exe", "type": "Game" }
+
+{ "name": "DemonHand.exe", "type": "Game" }
+
+{ "name": "Slime.exe", "type": "Game" }
+
+{ "name": "Thea2.exe", "type": "Game" }
+
+{ "name": "TheaMP.exe", "type": "Game" }
+{ "name": "Thea.exe", "type": "Game" }
+
+{ "name": "(the) Gnorp Apologue.exe", "type": "Game" }
+
+{ "name": "theHunterCotW_F.exe", "type": "Game" }
+
+{ "name": "theHunter.exe", "type": "Game" }
+
+{ "name": "theHunterPrimal.exe", "type": "Game" }
+
+{ "name": "Them's Fightin' Herds.exe", "type": "Game" }
+
+{ "name": "TheoTown.exe", "type": "Game" }
+
+{ "name": "There are no Orcs.exe", "type": "Game" }
+
+{ "name": "Ting.exe", "type": "Game" }
+
+{ "name": "ThereIsNoLight.exe", "type": "Game" }
+
+{ "name": "Theta and Paralldox on Worldlines Steam Playtest.exe", "type": "Game" }
+{ "name": "Theta and Paralldox on Worldlines.exe", "type": "Game" }
+
+{ "name": "TheyAreBillions.exe", "type": "Game" }
+{ "name": "TheyAreBillions_x86.exe", "type": "Game" }
+
+{ "name": "They Are Coming.exe", "type": "Game" }
+
+{ "name": "They Bleed Pixels PC.exe", "type": "Game" }
+
+{ "name": "TAT.exe", "type": "BG_CPUIO" }
+{ "name": "TAT-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Shipping-ThiefGame.exe", "type": "Game" }
+
+{ "name": "t3.exe", "type": "Game" }
+{ "name": "T3Main.exe", "type": "Game" }
+
+{ "name": "THIEF.EXE", "type": "Game" }
+{ "name": "THIEF_no_ddfix.EXE", "type": "Game" }
+
+{ "name": "thief2_no_ddfix.exe", "type": "Game" }
+{ "name": "thief2.exe", "type": "Game" }
+{ "name": "Thief2.exe", "type": "Game" }
+
+{ "name": "thief.exe", "type": "Game" }
+
+{ "name": "Thief Simulator 2.exe", "type": "Game" }
+
+{ "name": "Thief Simulator 2 Prologue.exe", "type": "Game" }
+
+{ "name": "ThimbleweedPark.exe", "type": "Game" }
+
+{ "name": "ThirdCrisis.exe", "type": "Game" }
+
+{ "name": "Third Crisis Neon Nights.exe", "type": "Game" }
+
+{ "name": "tfol.exe", "type": "Game" }
+
+{ "name": "This Ain't Even Poker, Ya Joker.exe", "type": "Game" }
+
+{ "name": "ThisBedWeMade.exe", "type": "BG_CPUIO" }
+{ "name": "ThisBedWeMade-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ThisIsFine.exe", "type": "Game" }
+
+{ "name": "Police.exe", "type": "Game" }
+
+{ "name": "Police2.exe", "type": "Game" }
+
+{ "name": "This Land Is My Land.exe", "type": "Game" }
+
+{ "name": "This War of Mine.exe", "type": "Game" }
+
+{ "name": "WondersOfSodor.exe", "type": "Game" }
+
+{ "name": "thomaswasalone.exe", "type": "Game" }
+
+{ "name": "Those Who Rule.exe", "type": "Game" }
+
+{ "name": "ThousandFloors.exe", "type": "Game" }
+
+{ "name": "ThreefoldRecital.exe", "type": "Game" }
+
+{ "name": "Mushouden.exe", "type": "Game" }
+
+{ "name": "Play.exe", "type": "Game" }
+
+{ "name": "threekingdoms.exe", "type": "Game" }
+
+{ "name": "zygame_steam.exe", "type": "Game" }
+
+{ "name": "ThriftyBusiness.exe", "type": "Game" }
+
+{ "name": "ThriveLauncher.exe", "type": "Game" }
+
+{ "name": "Song.exe", "type": "Game" }
+
+{ "name": "Throbbin Hood 🏹🔞.exe", "type": "Game" }
+
+{ "name": "TL.exe", "type": "Game" }
+
+{ "name": "Thronebreaker.exe", "type": "Game" }
+
+{ "name": "Thronefall.exe", "type": "Game" }
+
+{ "name": "2 Through Abandoned - The Forest.exe", "type": "Game" }
+
+{ "name": "ta3.exe", "type": "Game" }
+
+{ "name": "1 Through Abandoned - The Underground City.exe", "type": "Game" }
+
+{ "name": "ThroughTheAges_steam.exe", "type": "Game" }
+
+{ "name": "THUMPER_dx9.exe", "type": "Game" }
+{ "name": "THUMPER_win8.exe", "type": "Game" }
+
+{ "name": "Thunder Spikes.exe", "type": "Game" }
+
+{ "name": "Thunder2305.exe", "type": "BG_CPUIO" }
+{ "name": "Thunder2305-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PlagueProject.exe", "type": "BG_CPUIO" }
+{ "name": "PlagueProject-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Tiamat X.exe", "type": "Game" }
+
+{ "name": "TicketToRide.exe", "type": "Game" }
+
+{ "name": "Ticket to Ride.exe", "type": "Game" }
+
+{ "name": "Tick Tock.exe", "type": "Game" }
+
+{ "name": "Tidal Nexus Online Playtest Content.exe", "type": "Game" }
+
+{ "name": "TidesOfTomorrow.exe", "type": "BG_CPUIO" }
+{ "name": "TidesOfTomorrow-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "tennis23.exe", "type": "Game" }
+
+{ "name": "tiling_forest.exe", "type": "Game" }
+
+{ "name": "tiltbrush.exe", "type": "Game" }
+{ "name": "TiltBrush.exe", "type": "Game" }
+
+{ "name": "Timberborn.exe", "type": "Game" }
+
+{ "name": "Timberman.exe", "type": "Game" }
+
+{ "name": "TimbermanVS.exe", "type": "Game" }
+
+{ "name": "Timber Rush.exe", "type": "Game" }
+
+{ "name": "TimeClickers.exe", "type": "Game" }
+
+{ "name": "Timeflow.exe", "type": "Game" }
+
+{ "name": "TimeMysteries_TheAncientSpectres.exe", "type": "Game" }
+
+{ "name": "TimeMysteries_TheFinalEnigma.exe", "type": "Game" }
+
+{ "name": "TimeShift.Exe", "type": "Game" }
+
+{ "name": "Timespinner.exe", "type": "Game" }
+
+{ "name": "Time Walker Dark World.exe", "type": "Game" }
+{ "name": "Timeline Walker Dark World.exe", "type": "Game" }
+
+{ "name": "TimeWarpers.exe", "type": "Game" }
+
+{ "name": "TimeWasters.exe", "type": "Game" }
+
+{ "name": "Tin Can.exe", "type": "Game" }
+
+{ "name": "Tingus.exe", "type": "Game" }
+{ "name": "Tingus-Game.exe", "type": "Game" }
+
+{ "name": "tinkerlands.exe", "type": "Game" }
+
+{ "name": "tinyandbig.exe", "type": "Game" }
+
+{ "name": "Tiny Aquarium.exe", "type": "Game" }
+
+{ "name": "Tiny Biomes Cozy Idle.exe", "type": "Game" }
+
+{ "name": "Tiny Bookshop.exe", "type": "Game" }
+
+{ "name": "TinyBunny-32.exe", "type": "Game" }
+{ "name": "TinyBunny.exe", "type": "Game" }
+
+{ "name": "Tiny Dino Royale.exe", "type": "Game" }
+
+{ "name": "CGH.exe", "type": "Game" }
+
+{ "name": "Tinykin.exe", "type": "Game" }
+
+{ "name": "TinyPasture.exe", "type": "Game" }
+
+{ "name": "TinyRails.exe", "type": "Game" }
+
+{ "name": "Tiny Rogues.exe", "type": "Game" }
+
+{ "name": "Tiny_shop_demo.exe", "type": "BG_CPUIO" }
+{ "name": "Tiny_shop_demo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TinyTina.exe", "type": "Game" }
+
+{ "name": "Wonderlands.exe", "type": "Game" }
+
+{ "name": "Tiny Town VR.exe", "type": "Game" }
+
+{ "name": "TinyTroopers.exe", "type": "Game" }
+
+{ "name": "tis100.exe", "type": "Game" }
+
+{ "name": "Titanfall.exe", "type": "Game" }
+{ "name": "Titanfall_alt.exe", "type": "Game" }
+
+{ "name": "Titanfall2.exe", "type": "Game" }
+{ "name": "Titanfall2_trial.exe", "type": "Game" }
+{ "name": "NorthstarLauncher.exe", "type": "Game" }
+
+{ "name": "TFO.exe", "type": "Game" }
+{ "name": "tfods.exe", "type": "Game" }
+{ "name": "TitanFallOnline.exe", "type": "Game" }
+{ "name": "r1_x64.exe", "type": "Game" }
+
+{ "name": "TitaniumCourt.exe", "type": "Game" }
+
+{ "name": "TQ.exe", "type": "Game" }
+
+{ "name": "TQ2.exe", "type": "BG_CPUIO" }
+{ "name": "TQ2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TITAN.exe", "type": "Game" }
+
+{ "name": "tModLoader.exe", "type": "Game" }
+{ "name": "busybox64.exe", "type": "Game" }
+
+{ "name": "Toaster_reboot-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Toaster_reboot-Win64-DebugGame.exe", "type": "Game" }
+{ "name": "Toaster_reboot.exe", "type": "Game" }
+
+{ "name": "To Be or Not to Be.exe", "type": "Game" }
+
+{ "name": "backinthegroove.exe", "type": "Game" }
+
+{ "name": "TOEM.exe", "type": "Game" }
+
+{ "name": "togainunochi.exe", "type": "Game" }
+
+{ "name": "TogetherAfterDark.exe", "type": "Game" }
+
+{ "name": "TogetherBNB.exe", "type": "Game" }
+
+{ "name": "TogetherMoonEscape.exe", "type": "BG_CPUIO" }
+{ "name": "TogetherMoonEscape-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ToHellWithHell.exe", "type": "Game" }
+
+{ "name": "tokitori.exe", "type": "Game" }
+
+{ "name": "tokitori2.exe", "type": "Game" }
+
+{ "name": "CALL to EXIST.exe", "type": "Game" }
+
+{ "name": "Tokyo Valkyries.exe", "type": "Game" }
+
+{ "name": "TokyoXanadu.exe", "type": "Game" }
+
+{ "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "tra.exe", "type": "Game" }
+
+{ "name": "TombRaider.exe", "type": "Game" }
+
+{ "name": "tombati.exe", "type": "Game" }
+{ "name": "tombub.exe", "type": "Game" }
+{ "name": "tomb.exe", "type": "Game" }
+
+{ "name": "Tomb2.exe", "type": "Game" }
+
+{ "name": "tomb3.exe", "type": "Game" }
+
+{ "name": "tomb123.exe", "type": "Game" }
+
+{ "name": "tomb4.exe", "type": "Game" }
+
+{ "name": "tomb456.exe", "type": "Game" }
+
+{ "name": "trl.exe", "type": "Game" }
+
+{ "name": "tru.exe", "type": "Game" }
+
+{ "name": "TRAOD.exe", "type": "Game" }
+{ "name": "TRAOD_P3.exe", "type": "Game" }
+{ "name": "TRAOD_P4.exe", "type": "Game" }
+
+{ "name": "tombwater.exe", "type": "Game" }
+
+{ "name": "endwar.exe", "type": "Game" }
+{ "name": "Tom Clancy's EndWar Launcher.exe", "type": "Game" }
+{ "name": "EndWar.exe", "type": "Game" }
+
+{ "name": "GRAW.exe", "type": "Game" }
+{ "name": "GRAW-standalone.exe", "type": "Game" }
+
+{ "name": "graw2.exe", "type": "Game" }
+{ "name": "graw2_dedicated.exe", "type": "Game" }
+
+{ "name": "GRB.exe", "type": "Game" }
+{ "name": "GRB_vulkan.exe", "type": "Game" }
+
+{ "name": "Future Soldier DX11.exe", "type": "Game" }
+{ "name": "Future Soldier DX9.exe", "type": "Game" }
+{ "name": "Future Soldier.exe", "type": "Game" }
+
+{ "name": "GRW.exe", "type": "Game" }
+
+{ "name": "RavenShield.exe", "type": "Game" }
+
+{ "name": "R6-Extraction.exe", "type": "Game" }
+
+{ "name": "R6Vegas_Game.exe", "type": "Game" }
+
+{ "name": "R6Vegas2_Game.exe", "type": "Game" }
+{ "name": "RainbowSixVegas2_SADS.exe", "type": "Game" }
+
+{ "name": "splintercell.exe", "type": "Game" }
+
+{ "name": "Blacklist_DX11_game.exe", "type": "Game" }
+{ "name": "Blacklist_game.exe", "type": "Game" }
+
+{ "name": "splintercell3.exe", "type": "Game" }
+
+{ "name": "conviction_game.exe", "type": "Game" }
+
+{ "name": "SCDALauncher.exe", "type": "BG_CPUIO" }
+{ "name": "SplinterCell4.exe", "type": "Game" }
+{ "name": "SCDA_online.exe", "type": "Game" }
+
+{ "name": "SplinterCell2.exe", "type": "Game" }
+
+{ "name": "thedivision.exe", "type": "Game" }
+
+{ "name": "TheDivision2.exe", "type": "Game" }
+{ "name": "thedivision2launcher.exe", "type": "Game" }
+{ "name": "EACLaunch.exe", "type": "BG_CPUIO" }
+
+{ "name": "THPS12.exe", "type": "Game" }
+
+{ "name": "THPS34.exe", "type": "Game" }
+
+{ "name": "Tools Up.exe", "type": "Game" }
+
+{ "name": "ToothAndTail.exe", "type": "Game" }
+
+{ "name": "TopHeroes_Steam.exe", "type": "Game" }
+{ "name": "TopHeroes.exe", "type": "Game" }
+
+{ "name": "To Pixelia.exe", "type": "Game" }
+
+{ "name": "topspin2k25.exe", "type": "Game" }
+
+{ "name": "ToramOnline.exe", "type": "Game" }
+
+{ "name": "Torchlight.exe", "type": "Game" }
+
+{ "name": "Torchlight2.exe", "type": "Game" }
+
+{ "name": "Frontiers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Torebia Online.exe", "type": "Game" }
+
+{ "name": "Toribash.exe", "type": "Game" }
+{ "name": "toribashSP.exe", "type": "Game" }
+
+{ "name": "TormentedSouls.exe", "type": "Game" }
+
+{ "name": "TormentedSouls2.exe", "type": "BG_CPUIO" }
+{ "name": "TormentedSouls2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TidesOfNumenera.exe", "type": "Game" }
+
+{ "name": "TorqueDrift.exe", "type": "Game" }
+
+{ "name": "Drift.exe", "type": "BG_CPUIO" }
+{ "name": "Drift-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TAE.EXE", "type": "Game" }
+{ "name": "TotalA.exe", "type": "Game" }
+
+{ "name": "Total Chaos.exe", "type": "Game" }
+
+{ "name": "TotalConflictResistance.exe", "type": "BG_CPUIO" }
+{ "name": "TotalConflictResistance-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TotalFootball.exe", "type": "Game" }
+
+{ "name": "TotallyAccurateBattlegrounds.exe", "type": "Game" }
+
+{ "name": "TotallyAccurateBattleSimulator.exe", "type": "Game" }
+
+{ "name": "Totally Reliable Delivery Service.exe", "type": "Game" }
+
+{ "name": "TotalTankSim.exe", "type": "Game" }
+
+{ "name": "Attila.exe", "type": "Game" }
+
+{ "name": "medieval2.exe", "type": "Game" }
+
+{ "name": "Napoleon.exe", "type": "Game" }
+
+{ "name": "Rome2.exe", "type": "Game" }
+
+{ "name": "Total War ROME REMASTERED.exe", "type": "Game" }
+
+{ "name": "shogun2.retail.exe", "type": "Game" }
+
+{ "name": "Three_Kingdoms.exe", "type": "Game" }
+
+{ "name": "Warhammer2.exe", "type": "Game" }
+
+{ "name": "Warhammer3.exe", "type": "Game" }
+
+{ "name": "ToTheCore.exe", "type": "Game" }
+
+{ "name": "SigCorp Minisode 2.exe", "type": "Game" }
+{ "name": "Siggy - Holiday Special.exe", "type": "Game" }
+{ "name": "To the Moon - Sigmund Minisode 1.exe", "type": "Game" }
+{ "name": "To the Moon - Sigmund Minisode 2.exe", "type": "Game" }
+{ "name": "To the Moon.exe", "type": "Game" }
+
+{ "name": "To The Rescue!.exe", "type": "Game" }
+
+{ "name": "Totopia.exe", "type": "Game" }
+
+{ "name": "Touge Shakai.exe", "type": "Game" }
+
+{ "name": "adia.exe", "type": "Game" }
+
+{ "name": "AA-Launcher.exe", "type": "Game" }
+{ "name": "DankaguPL.exe", "type": "Game" }
+
+{ "name": "LotusLandVReloaded.exe", "type": "Game" }
+
+{ "name": "Touhou Hero of Ice Fairy.exe", "type": "Game" }
+
+{ "name": "thFSF.exe", "type": "Game" }
+
+{ "name": "touhou_luna_nights.exe", "type": "Game" }
+
+{ "name": "THMHJhp.exe", "type": "Game" }
+
+{ "name": "Touhou Mystia Izakaya.exe", "type": "Game" }
+
+{ "name": "Touken Ranbu Warriors.exe", "type": "Game" }
+
+{ "name": "Toukiden2_EN.exe", "type": "Game" }
+{ "name": "Toukiden2_JA.exe", "type": "Game" }
+
+{ "name": "ToukidenKiwami_en.exe", "type": "Game" }
+{ "name": "ToukidenKiwami_ja.exe", "type": "Game" }
+{ "name": "ToukidenKiwami_tw.exe", "type": "Game" }
+
+{ "name": "TouristBusSimulator.exe", "type": "Game" }
+
+{ "name": "Towa and the Guardians of the Sacred Tree.exe", "type": "Game" }
+
+{ "name": "Tower Accelerator.exe", "type": "Game" }
+{ "name": "wv2ray.exe", "type": "Game" }
+{ "name": "v2ray.exe", "type": "Game" }
+
+{ "name": "Tower Ball.exe", "type": "Game" }
+
+{ "name": "Belfry.exe", "type": "BG_CPUIO" }
+{ "name": "Belfry-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "tower-dominion.exe", "type": "Game" }
+
+{ "name": "TowerFactory.exe", "type": "Game" }
+
+{ "name": "TowerFall.exe", "type": "Game" }
+
+{ "name": "Tower Of Babel.exe", "type": "Game" }
+
+{ "name": "HottaLauncher.exe", "type": "Game" }
+{ "name": "HottaGame.exe", "type": "Game" }
+
+{ "name": "TowerOfTime.exe", "type": "Game" }
+
+{ "name": "Tower! Simulator 3.exe", "type": "Game" }
+
+{ "name": "Tower-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TW.exe", "type": "Game" }
+
+{ "name": "Tower Wizard.exe", "type": "Game" }
+
+{ "name": "TownOfSalem.exe", "type": "Game" }
+
+{ "name": "TownOfSalem2.exe", "type": "Game" }
+
+{ "name": "TownOfSins.exe", "type": "Game" }
+
+{ "name": "Towns.exe", "type": "Game" }
+
+{ "name": "Townscaper.exe", "type": "Game" }
+
+{ "name": "TownsmenRebuilt.exe", "type": "Game" }
+
+{ "name": "TownToCity.exe", "type": "BG_CPUIO" }
+{ "name": "TownToCity-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ToxikkLauncher.exe", "type": "Game" }
+{ "name": "TOXIKK.exe", "type": "Game" }
+
+{ "name": "ToyboxTurbos.exe", "type": "Game" }
+
+{ "name": "BackpackGame.exe", "type": "Game" }
+
+{ "name": "Game-TS3.exe", "type": "Game" }
+
+{ "name": "ToyTinkerSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "ToyTinkerSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TR-49.exe", "type": "Game" }
+
+{ "name": "Track Day R.exe", "type": "Game" }
+
+{ "name": "Trackmania.exe", "type": "Game" }
+
+{ "name": "TrackmaniaTurbo.exe", "type": "Game" }
+
+{ "name": "Tradesman.exe", "type": "Game" }
+
+{ "name": "TrailNError.exe", "type": "BG_CPUIO" }
+{ "name": "TrailNError-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Trailmakers.exe", "type": "Game" }
+
+{ "name": "TrailOut-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TrailOut.exe", "type": "BG_CPUIO" }
+
+{ "name": "Train45.exe", "type": "Game" }
+
+{ "name": "Train45_Demo.exe", "type": "Game" }
+
+{ "name": "trainatic.exe", "type": "Game" }
+
+{ "name": "TrainCrew.exe", "type": "Game" }
+
+{ "name": "TrainDriver2.exe", "type": "Game" }
+
+{ "name": "Death.exe", "type": "Game" }
+
+{ "name": "TrainLife.exe", "type": "Game" }
+
+{ "name": "RailWorks64.exe", "type": "Game" }
+{ "name": "RailWorksDX12_64.exe", "type": "Game" }
+{ "name": "Railworks.exe", "type": "Game" }
+
+{ "name": "TSR_STEAM.exe", "type": "Game" }
+
+{ "name": "train-valley.exe", "type": "Game" }
+
+{ "name": "TrainValley2.exe", "type": "Game" }
+
+{ "name": "TANE.exe", "type": "Game" }
+
+{ "name": "TRS19.exe", "type": "Game" }
+
+{ "name": "trainz.exe", "type": "Game" }
+
+{ "name": "Trakonius.exe", "type": "BG_CPUIO" }
+{ "name": "Trakonius-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TramSimVienna.exe", "type": "BG_CPUIO" }
+{ "name": "TramSimBootstrap.exe", "type": "Game" }
+{ "name": "TramSimVienna-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Transcendence.exe", "type": "Game" }
+
+{ "name": "tensei.exe", "type": "Game" }
+
+{ "name": "Transformice.exe", "type": "Game" }
+
+{ "name": "Transistor.exe", "type": "Game" }
+
+{ "name": "Transit King Tycoon.exe", "type": "Game" }
+
+{ "name": "TransOcean2.exe", "type": "Game" }
+
+{ "name": "TransOcean.exe", "type": "Game" }
+
+{ "name": "td.exe", "type": "Game" }
+
+{ "name": "TransportFever.exe", "type": "Game" }
+
+{ "name": "TransportFever2.exe", "type": "Game" }
+
+{ "name": "transportgiant.exe", "type": "Game" }
+
+{ "name": "Jyosou_Souseiki.exe", "type": "Game" }
+
+{ "name": "jyosou_shinwa.exe", "type": "Game" }
+
+{ "name": "josou_jinjya.exe", "type": "Game" }
+
+{ "name": "Trash.exe", "type": "Game" }
+
+{ "name": "TrashGoblin.exe", "type": "Game" }
+
+{ "name": "TravellersRest.exe", "type": "Game" }
+
+{ "name": "Travellin Cats in Paris.exe", "type": "Game" }
+
+{ "name": "Treasure Beach.exe", "type": "Game" }
+
+{ "name": "TreasureChestClicker.exe", "type": "Game" }
+
+{ "name": "Trees Hate You.exe", "type": "Game" }
+
+{ "name": "TrekToYomi.exe", "type": "Game" }
+
+{ "name": "CPPFPS.exe", "type": "BG_CPUIO" }
+{ "name": "CPPFPS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "trialsFMX.exe", "type": "Game" }
+
+{ "name": "trials_fusion.exe", "type": "Game" }
+
+{ "name": "TrialsOfFire.exe", "type": "BG_CPUIO" }
+{ "name": "TableTopBase-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Trials of Mana-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "trialsrising.exe", "type": "Game" }
+
+{ "name": "Trials Survivors.exe", "type": "Game" }
+
+{ "name": "TRIANGLE_STRATEGY.exe", "type": "BG_CPUIO" }
+{ "name": "TRIANGLE_STRATEGY-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PW.exe", "type": "BG_CPUIO" }
+{ "name": "PW-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Tribal Hunter.exe", "type": "Game" }
+
+{ "name": "tribalwars.exe", "type": "Game" }
+
+{ "name": "TribesRivals.exe", "type": "Game" }
+
+{ "name": "TribesAscend.exe", "type": "Game" }
+
+{ "name": "TOM.exe", "type": "BG_CPUIO" }
+{ "name": "TOM-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TheTribloos2.exe", "type": "Game" }
+
+{ "name": "TRICKING_0.exe", "type": "Game" }
+
+{ "name": "trickydoors.exe", "type": "Game" }
+{ "name": "TrickyDoors.exe", "type": "Game" }
+
+{ "name": "TrickyTowers.exe", "type": "Game" }
+
+{ "name": "TricolourLovestoryCE.exe", "type": "Game" }
+{ "name": "TricolourLovestory_chs.exe", "type": "Game" }
+{ "name": "TricolourLovestory_en.exe", "type": "Game" }
+
+{ "name": "Trimps.exe", "type": "Game" }
+
+{ "name": "trine2_game.exe", "type": "Game" }
+
+{ "name": "trine3.exe", "type": "Game" }
+
+{ "name": "trine4.exe", "type": "Game" }
+
+{ "name": "trine5.exe", "type": "Game" }
+
+{ "name": "trine1_game.exe", "type": "Game" }
+{ "name": "trine.exe", "type": "Game" }
+
+{ "name": "Trip to Vinelands.exe", "type": "Game" }
+
+{ "name": "Trizon.exe", "type": "Game" }
+
+{ "name": "TromboneChamp.exe", "type": "Game" }
+
+{ "name": "Trophy Fishing 2.exe", "type": "Game" }
+
+{ "name": "Tropical.exe", "type": "Game" }
+
+{ "name": "PBS.exe", "type": "Game" }
+
+{ "name": "tropico3.exe", "type": "Game" }
+
+{ "name": "Tropico4.exe", "type": "Game" }
+
+{ "name": "Tropico5Steam.exe", "type": "Game" }
+
+{ "name": "Tropico6-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Tropico6.exe", "type": "BG_CPUIO" }
+
+{ "name": "Tropico.EXE", "type": "Game" }
+
+{ "name": "ProtoLion.exe", "type": "Game" }
+
+{ "name": "Trove.exe", "type": "Game" }
+
+{ "name": "Truck & Logistics Simulator.exe", "type": "Game" }
+
+{ "name": "TruckRacer.exe", "type": "Game" }
+
+{ "name": "trucks_n_trailers.exe", "type": "Game" }
+
+{ "name": "TrueFear3.exe", "type": "Game" }
+
+{ "name": "TrypFPV.exe", "type": "BG_CPUIO" }
+{ "name": "TrypFPV-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "tuki2.exe", "type": "Game" }
+
+{ "name": "Tsukiniyorisou2.exe", "type": "Game" }
+
+{ "name": "TouristTrophy.exe", "type": "Game" }
+
+{ "name": "TT2.exe", "type": "Game" }
+
+{ "name": "TT3.exe", "type": "Game" }
+
+{ "name": "TTV2.exe", "type": "Game" }
+
+{ "name": "Tumblestone.exe", "type": "Game" }
+
+{ "name": "Tung Tung Tung Survival.exe", "type": "Game" }
+
+{ "name": "Tunguska.exe", "type": "Game" }
+
+{ "name": "Tunic.exe", "type": "Game" }
+
+{ "name": "TUNNEL ESCAPE.exe", "type": "Game" }
+
+{ "name": "TurboDismount.exe", "type": "Game" }
+
+{ "name": "TurboDismount2.exe", "type": "Game" }
+
+{ "name": "Turbo Overkill.exe", "type": "Game" }
+
+{ "name": "turbopugDX.exe", "type": "Game" }
+
+{ "name": "Turing Complete.exe", "type": "Game" }
+
+{ "name": "Turtlesoup_PC.exe", "type": "Game" }
+{ "name": "Turtlesoup_PC_Launcher.exe", "type": "Game" }
+{ "name": "TurtleSoupLauncher.exe", "type": "Game" }
+
+{ "name": "Turmoil.exe", "type": "Game" }
+{ "name": "Turmoil_PC_Full.exe", "type": "Game" }
+
+{ "name": "Turnip Boy Commits Tax Evasion.exe", "type": "Game" }
+
+{ "name": "TurnSignal.exe", "type": "Game" }
+
+{ "name": "sobek_Shipping_Steam_x64.exe", "type": "Game" }
+
+{ "name": "Turok2.exe", "type": "Game" }
+
+{ "name": "TurretGirls.exe", "type": "Game" }
+
+{ "name": "12M.exe", "type": "Game" }
+
+{ "name": "TwilightStruggle.exe", "type": "Game" }
+
+{ "name": "TwilightWars.exe", "type": "BG_CPUIO" }
+{ "name": "TwilightWars-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Twinkleby.exe", "type": "Game" }
+
+{ "name": "Twin Shot Deluxe.exe", "type": "Game" }
+
+{ "name": "TPC.exe", "type": "Game" }
+
+{ "name": "TPH.exe", "type": "Game" }
+
+{ "name": "TPM.exe", "type": "Game" }
+
+{ "name": "2WSG.exe", "type": "Game" }
+{ "name": "TwoWorlds.exe", "type": "Game" }
+{ "name": "TwoWorlds_RADEON.exe", "type": "Game" }
+
+{ "name": "TW2CD.exe", "type": "Game" }
+
+{ "name": "TW2POTFFSG.exe", "type": "Game" }
+{ "name": "TW2SG.exe", "type": "Game" }
+{ "name": "TwoWorlds2.exe", "type": "Game" }
+{ "name": "TwoWorlds2Editor.exe", "type": "Game" }
+{ "name": "TwoWorlds2_DX10.exe", "type": "Game" }
+
+{ "name": "Type_Or_Die.exe", "type": "Game" }
+
+{ "name": "typerider.exe", "type": "Game" }
+{ "name": "Typerider.exe", "type": "Game" }
+
+{ "name": "WinTS.exe", "type": "Game" }
+
+{ "name": "Tyranny.exe", "type": "Game" }
+
+{ "name": "TyranoBuilder.exe", "type": "Game" }
+
+{ "name": "Tyrion1.exe", "type": "Game" }
+
+{ "name": "TyrClient.exe", "type": "BG_CPUIO" }
+{ "name": "TyrClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "TY.exe", "type": "Game" }
+
+{ "name": "Tzar.exe", "type": "Game" }
+{ "name": "Tzar_.exe", "type": "Game" }
+{ "name": "TzarCampaign.exe", "type": "Game" }

@@ -1,0 +1,1373 @@
+
+
+{ "name": "D1AL-ogue.exe", "type": "Game" }
+
+{ "name": "DXM.exe", "type": "BG_CPUIO" }
+{ "name": "DXM-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Game-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "daikatana.exe", "type": "Game" }
+
+{ "name": "DailyChthonicle.exe", "type": "Game" }
+
+{ "name": "Daisho.exe", "type": "Game" }
+
+{ "name": "Dakar2Game.exe", "type": "BG_CPUIO" }
+{ "name": "Dakar2Game-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DDSS.exe", "type": "Game" }
+
+{ "name": "Damned.exe", "type": "Game" }
+
+{ "name": "Dancing Line.exe", "type": "Game" }
+
+{ "name": "DandyAce.exe", "type": "Game" }
+
+{ "name": "DR2_us.exe", "type": "Game" }
+
+{ "name": "danganronpa s ultimate summer camp.exe", "type": "Game" }
+
+{ "name": "DR1_us.exe", "type": "Game" }
+
+{ "name": "V3Launcher.exe", "type": "Game" }
+
+{ "name": "Darfall.exe", "type": "Game" }
+
+{ "name": "DarkApp.exe", "type": "Game" }
+
+{ "name": "Tavern.exe", "type": "Game" }
+{ "name": "DungeonCrawler.exe", "type": "Game" }
+
+{ "name": "DNL.exe", "type": "Game" }
+
+{ "name": "darkbase01.exe", "type": "Game" }
+
+{ "name": "DarkBazaar.exe", "type": "Game" }
+
+{ "name": "DDeception.exe", "type": "BG_CPUIO" }
+{ "name": "DDeception-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "darkdeity.exe", "type": "Game" }
+{ "name": "DarkDeity.exe", "type": "Game" }
+
+{ "name": "DarkDeity2.exe", "type": "Game" }
+
+{ "name": "DarkDevotion.exe", "type": "Game" }
+
+{ "name": "DarkEnvoy.exe", "type": "Game" }
+
+{ "name": "ProjectNow.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectNow-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Darkest Dungeon II.exe", "type": "Game" }
+
+{ "name": "Darkest Hour Launcher.exe", "type": "Game" }
+{ "name": "Darkest Hour.exe", "type": "Game" }
+
+{ "name": "RedOrchestraLargeAddressAware.exe", "type": "Game" }
+{ "name": "ROEdLAA.exe", "type": "Game" }
+
+{ "name": "DarkFuture.exe", "type": "BG_CPUIO" }
+{ "name": "DarkFuture-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dark Hours Prologue.exe", "type": "BG_CPUIO" }
+
+{ "name": "Dark Hunting Ground.exe", "type": "Game" }
+
+{ "name": "Dark Light.exe", "type": "Game" }
+
+{ "name": "DLS.exe", "type": "Game" }
+
+{ "name": "mm.exe", "type": "Game" }
+
+{ "name": "DarkOrbit.exe", "type": "Game" }
+{ "name": "DarkorbitLauncher.exe", "type": "Game" }
+
+{ "name": "The5thFloor.exe", "type": "BG_CPUIO" }
+{ "name": "The5thFloor-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dark Roll Free Kick Challenge.exe", "type": "Game" }
+
+{ "name": "darkscrolls.exe", "type": "Game" }
+
+{ "name": "DS.exe", "type": "Game" }
+
+{ "name": "DarksidersPC.exe", "type": "Game" }
+
+{ "name": "DarksidersGenesis.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectMayhem-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Darksiders2.exe", "type": "Game" }
+
+{ "name": "Darksiders3.exe", "type": "Game" }
+
+{ "name": "darksiders1.exe", "type": "Game" }
+
+{ "name": "DarkSoulsIII.exe", "type": "Game" }
+
+{ "name": "DARKSOULS.exe", "type": "Game" }
+
+{ "name": "DarkSoulsRemastered.exe", "type": "Game" }
+
+{ "name": "DarkSwitch.exe", "type": "Game" }
+
+{ "name": "Darkwater.exe", "type": "Game" }
+
+{ "name": "Darkwood.exe", "type": "Game" }
+
+{ "name": "DARQ.exe", "type": "Game" }
+
+{ "name": "Darwin.exe", "type": "BG_CPUIO" }
+{ "name": "Darwin-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Darwin's Paradox.exe", "type": "BG_CPUIO" }
+{ "name": "DarwinParadox-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DarzasDominion.exe", "type": "Game" }
+
+{ "name": "DashPanelLauncher.exe", "type": "Game" }
+
+{ "name": "Data Center.exe", "type": "Game" }
+
+{ "name": "DATE A LIVE RIO-REINCARNATION.exe", "type": "Game" }
+
+{ "name": "Date Everything.exe", "type": "Game" }
+
+{ "name": "DaveTheDiver.exe", "type": "Game" }
+
+{ "name": "Davigo.exe", "type": "Game" }
+
+{ "name": "Dawncaster.exe", "type": "Game" }
+
+{ "name": "DefiantImmortalsSteam.exe", "type": "BG_CPUIO" }
+{ "name": "DefiantImmortalsSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DawnOfMan.exe", "type": "Game" }
+
+{ "name": "Dawnsbury Days.exe", "type": "Game" }
+
+{ "name": "DaylightLauncher.exe", "type": "Game" }
+{ "name": "Daylight.exe", "type": "Game" }
+
+{ "name": "Daymare_MASTER.exe", "type": "Game" }
+
+{ "name": "dod.exe", "type": "Game" }
+{ "name": "dod_win64.exe", "type": "Game" }
+
+{ "name": "dayofinfamy_x64.exe", "type": "Game" }
+{ "name": "dayofinfamy.exe", "type": "Game" }
+
+{ "name": "Dott.exe", "type": "Game" }
+
+{ "name": "DaysGone.exe", "type": "Game" }
+
+{ "name": "DayZDiag_x64.exe", "type": "Game" }
+
+{ "name": "workbenchApp.exe", "type": "Game" }
+{ "name": "DayZToolsLauncher.exe", "type": "Game" }
+
+{ "name": "DCGame.exe", "type": "BG_CPUIO" }
+{ "name": "DCGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DCS.exe", "type": "Game" }
+
+{ "name": "DCGAME.EXE", "type": "Game" }
+
+{ "name": "Waterdeep.exe", "type": "Game" }
+
+{ "name": "DDNet.exe", "type": "Game" }
+
+{ "name": "DDoDGameSteam.exe", "type": "BG_CPUIO" }
+{ "name": "DDoDGameSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PagodaSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PagodaSteamDemo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dead Bits.exe", "type": "Game" }
+
+{ "name": "deadbolt_game.exe", "type": "Game" }
+
+{ "name": "DeadByDaylight.exe", "type": "BG_CPUIO" }
+{ "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "deadcells.exe", "type": "Game" }
+{ "name": "deadcells_gl.exe", "type": "Game" }
+
+{ "name": "DeadCore.exe", "type": "Game" }
+
+{ "name": "DeadEffect.exe", "type": "Game" }
+
+{ "name": "DeadEffect2.exe", "type": "Game" }
+
+{ "name": "DeadEndCity.exe", "type": "Game" }
+
+{ "name": "Dead Estate.exe", "type": "Game" }
+
+{ "name": "ADVGame-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "DeadFrontier2.exe", "type": "Game" }
+
+{ "name": "Dead In Antares.exe", "type": "Game" }
+
+{ "name": "Dead In Vinland.exe", "type": "Game" }
+
+{ "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeadIsland.exe", "type": "BG_CPUIO" }
+
+{ "name": "DeadIslandRiptideGame.exe", "type": "Game" }
+
+{ "name": "LOTDGame.exe", "type": "Game" }
+
+{ "name": "DEADLINE_DELIVERY.exe", "type": "BG_CPUIO" }
+{ "name": "DEADLINE_DELIVERY-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeadlineEscape.exe", "type": "BG_CPUIO" }
+{ "name": "DeadlineEscape-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Deadlink.exe", "type": "BG_CPUIO" }
+{ "name": "Deadlink-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "deadlock.exe", "type": "Game" }
+{ "name": "project8.exe", "type": "Game" }
+
+{ "name": "Deadly30.exe", "type": "Game" }
+
+{ "name": "Deadly Days.exe", "type": "Game" }
+
+{ "name": "DDSurvivors.exe", "type": "BG_CPUIO" }
+{ "name": "DDSurvivors-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeadlyPremonition2.exe", "type": "Game" }
+
+{ "name": "DPLauncher.exe", "type": "Game" }
+
+{ "name": "DeadMaze.exe", "type": "Game" }
+
+{ "name": "DOA6.exe", "type": "Game" }
+
+{ "name": "DOA6LR.exe", "type": "Game" }
+
+{ "name": "DOAX_VV.exe", "type": "Game" }
+
+{ "name": "DOAX_VV_Launcher.exe", "type": "Game" }
+
+{ "name": "Dead Pixels.exe", "type": "Game" }
+
+{ "name": "DeadPoly.exe", "type": "BG_CPUIO" }
+{ "name": "DeadPoly-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeadRising.exe", "type": "Game" }
+
+{ "name": "deadrising2.exe", "type": "Game" }
+
+{ "name": "deadrising2otr.exe", "type": "Game" }
+
+{ "name": "deadrising3.exe", "type": "Game" }
+
+{ "name": "deadrising4.exe", "type": "Game" }
+
+{ "name": "DRDR.exe", "type": "Game" }
+
+{ "name": "Deadside.exe", "type": "BG_CPUIO" }
+{ "name": "Deadside-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeadSignal.exe", "type": "BG_CPUIO" }
+{ "name": "DeadSignal-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "deadspace2.exe", "type": "Game" }
+
+{ "name": "deadspace3.exe", "type": "Game" }
+
+{ "name": "ZRPG.exe", "type": "Game" }
+
+{ "name": "deadswitch-combat.exe", "type": "Game" }
+
+{ "name": "Dead Synchronicity.exe", "type": "Game" }
+
+{ "name": "DeadzoneSteam.exe", "type": "BG_CPUIO" }
+{ "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DealersLife2.exe", "type": "Game" }
+
+{ "name": "dearesther.exe", "type": "Game" }
+
+{ "name": "DearEsther.exe", "type": "Game" }
+
+{ "name": "Death and Taxes.exe", "type": "Game" }
+
+{ "name": "Death Fungeon.exe", "type": "Game" }
+
+{ "name": "Death Howl.exe", "type": "Game" }
+
+{ "name": "Deathless.exe", "type": "Game" }
+
+{ "name": "Deathloop.exe", "type": "Game" }
+
+{ "name": "Death Must Die.exe", "type": "Game" }
+
+{ "name": "DEATH NOTE Killer Within.exe", "type": "Game" }
+
+{ "name": "dr.exe", "type": "Game" }
+
+{ "name": "Death Roads.exe", "type": "Game" }
+
+{ "name": "prog.exe", "type": "Game" }
+
+{ "name": "DeathsDoor.exe", "type": "Game" }
+
+{ "name": "deathsgambit397.exe", "type": "Game" }
+
+{ "name": "DS2.exe", "type": "Game" }
+
+{ "name": "ds.exe", "type": "Game" }
+
+{ "name": "DeathTrap.exe", "type": "Game" }
+{ "name": "DeathTrap_x64.exe", "type": "Game" }
+{ "name": "DeathTrap_x86.exe", "type": "Game" }
+
+{ "name": "Decay - The Mare.exe", "type": "Game" }
+
+{ "name": "Deceit.exe", "type": "Game" }
+
+{ "name": "Deceit2Game-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeceiveInc.exe", "type": "Game" }
+
+{ "name": "DeckOfHaunts.exe", "type": "BG_CPUIO" }
+{ "name": "DeckOfHaunts-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "quiz-app.exe", "type": "Game" }
+
+{ "name": "Deduction.exe", "type": "Game" }
+
+{ "name": "Deducto2.exe", "type": "Game" }
+
+{ "name": "DEEEER Simulator.exe", "type": "Game" }
+
+{ "name": "Deep Corp.exe", "type": "Game" }
+
+{ "name": "Deep Despair.exe", "type": "Game" }
+{ "name": "Deep Despair Remastered.exe", "type": "Game" }
+
+{ "name": "Deep Dish Dungeon - Demo.exe", "type": "Game" }
+
+{ "name": "DeepEclipse.exe", "type": "Game" }
+
+{ "name": "Deepest Sword.exe", "type": "Game" }
+
+{ "name": "FSD.exe", "type": "BG_CPUIO" }
+{ "name": "FSD-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RogueCore-Win64-Test.exe", "type": "Game" }
+
+{ "name": "RogueCore.exe", "type": "BG_CPUIO" }
+{ "name": "RogueCore-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DRG Survivor.exe", "type": "Game" }
+
+{ "name": "Deep Sky Derelicts.exe", "type": "Game" }
+
+{ "name": "DeepSnowDelivery.exe", "type": "BG_CPUIO" }
+{ "name": "DeepSnowDelivery-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeerAndBoy.exe", "type": "Game" }
+
+{ "name": "DeerHunterFan.com TV - The Season.exe", "type": "Game" }
+
+{ "name": "defcon.exe", "type": "Game" }
+{ "name": "Defcon.exe", "type": "Game" }
+
+{ "name": "DefendersQuest.exe", "type": "Game" }
+{ "name": "LevelEditor.exe", "type": "Game" }
+
+{ "name": "DefenseGrid.exe", "type": "Game" }
+
+{ "name": "GlyphClientInternal.exe", "type": "Game" }
+
+{ "name": "DNFC.exe", "type": "Game" }
+
+{ "name": "DefyGravity.exe", "type": "Game" }
+
+{ "name": "DEG.exe", "type": "Game" }
+
+{ "name": "dofs.exe", "type": "Game" }
+
+{ "name": "Deified.exe", "type": "Game" }
+
+{ "name": "DeliciousPGMS.exe", "type": "Game" }
+
+{ "name": "Deliver At All Costs.exe", "type": "Game" }
+
+{ "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeliverUsMars.exe", "type": "BG_CPUIO" }
+
+{ "name": "MoonMan.exe", "type": "Game" }
+
+{ "name": "delivery-beyond.exe", "type": "Game" }
+
+{ "name": "DeltaForceClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeltaForceClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "delta_particles.exe", "type": "Game" }
+
+{ "name": "delven.exe", "type": "Game" }
+
+{ "name": "delver.exe", "type": "Game" }
+
+{ "name": "Delverium.exe", "type": "Game" }
+
+{ "name": "DII_Beta.exe", "type": "Game" }
+
+{ "name": "demeo.exe", "type": "Game" }
+
+{ "name": "battlemarked.exe", "type": "Game" }
+
+{ "name": "demigod.exe", "type": "Game" }
+
+{ "name": "Democracy3.exe", "type": "Game" }
+
+{ "name": "Democracy4.exe", "type": "Game" }
+
+{ "name": "demoncrawl.exe", "type": "Game" }
+
+{ "name": "ProjectK.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectK-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DEMON GAZE EXTRA.exe", "type": "Game" }
+
+{ "name": "Demon Hunt.exe", "type": "Game" }
+
+{ "name": "DemonLordJustABlock.exe", "type": "Game" }
+
+{ "name": "Demonschool.exe", "type": "Game" }
+
+{ "name": "APT.exe", "type": "BG_CPUIO" }
+{ "name": "APT-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "APK.exe", "type": "BG_CPUIO" }
+{ "name": "APK-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "APK2.exe", "type": "BG_CPUIO" }
+{ "name": "APK2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DemonsTimeline.exe", "type": "Game" }
+
+{ "name": "Demon Tides.exe", "type": "Game" }
+
+{ "name": "DWW.exe", "type": "Game" }
+
+{ "name": "Denizen.exe", "type": "Game" }
+
+{ "name": "Denshattack_Proto.exe", "type": "BG_CPUIO" }
+{ "name": "Denshattack_Proto-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DeoVR.exe", "type": "Game" }
+
+{ "name": "Depersonalization-Release.exe", "type": "Game" }
+
+{ "name": "deponia4.exe", "type": "Game" }
+
+{ "name": "DepravedLauncher.exe", "type": "Game" }
+{ "name": "Depraved.exe", "type": "Game" }
+
+{ "name": "DepressionQuest.exe", "type": "Game" }
+
+{ "name": "DepthEd.exe", "type": "Game" }
+{ "name": "DepthGame.exe", "type": "Game" }
+
+{ "name": "Depths Of Horror Mushroom Day.exe", "type": "Game" }
+
+{ "name": "DerailValley.exe", "type": "Game" }
+
+{ "name": "Descenders.exe", "type": "Game" }
+
+{ "name": "DesertStalker.exe", "type": "Game" }
+
+{ "name": "DeskGarden.exe", "type": "Game" }
+
+{ "name": "DeskPawsRelease.exe", "type": "Game" }
+
+{ "name": "Deskrawl.exe", "type": "Game" }
+
+{ "name": "DesktopPlus.exe", "type": "Game" }
+{ "name": "DesktopPlusUI.exe", "type": "BG_CPUIO" }
+
+{ "name": "Desktop Defender.exe", "type": "BG_CPUIO" }
+
+{ "name": "DesktopDungeons.exe", "type": "Game" }
+
+{ "name": "DesktopExplorerDemo.exe", "type": "Game" }
+
+{ "name": "Desktop Fishing.exe", "type": "BG_CPUIO" }
+
+{ "name": "DesktopMate.exe", "type": "BG_CPUIO" }
+
+{ "name": "Desktop Nard.exe", "type": "Game" }
+
+{ "name": "Pet.exe", "type": "BG_CPUIO" }
+
+{ "name": "Desktop Raid.exe", "type": "BG_CPUIO" }
+
+{ "name": "DS98.exe", "type": "Game" }
+{ "name": "DS98_OpenGL.exe", "type": "Game" }
+
+{ "name": "Deskworm.exe", "type": "BG_CPUIO" }
+
+{ "name": "SH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Desordre.exe", "type": "BG_CPUIO" }
+{ "name": "Desordre-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Desperados III.exe", "type": "Game" }
+
+{ "name": "desperados.exe", "type": "Game" }
+
+{ "name": "Despotism3k.exe", "type": "Game" }
+
+{ "name": "Despot's Game.exe", "type": "Game" }
+
+{ "name": "destiny2.exe", "type": "Game" }
+
+{ "name": "Zaohua.exe", "type": "Game" }
+
+{ "name": "Destroyer The U-Boat Hunter.exe", "type": "Game" }
+
+{ "name": "Desynced.exe", "type": "Game" }
+{ "name": "DesyncedDemo.exe", "type": "Game" }
+
+{ "name": "Detective Grimoire.exe", "type": "Game" }
+
+{ "name": "Detention.exe", "type": "Game" }
+
+{ "name": "DETOUR.exe", "type": "Game" }
+
+{ "name": "deusex.exe", "type": "Game" }
+
+{ "name": "DeusEx.exe", "type": "Game" }
+
+{ "name": "dxhr.exe", "type": "Game" }
+
+{ "name": "DXHRDC.exe", "type": "Game" }
+
+{ "name": "dx2.exe", "type": "Game" }
+{ "name": "DX2Main.exe", "type": "Game" }
+
+{ "name": "DXMD.exe", "type": "Game" }
+
+{ "name": "Revision.exe", "type": "Game" }
+
+{ "name": "DeusEx_steam.exe", "type": "Game" }
+
+{ "name": "dd.exe", "type": "Game" }
+
+{ "name": "GPadCfg.exe", "type": "Game" }
+{ "name": "dmc3se.exe", "type": "Game" }
+
+{ "name": "DevilMayCry4_DX10.exe", "type": "Game" }
+{ "name": "DevilMayCry4_DX9.exe", "type": "Game" }
+
+{ "name": "DevilMayCry4SpecialEdition.exe", "type": "Game" }
+
+{ "name": "DevilMayCry5.exe", "type": "Game" }
+
+{ "name": "dmcLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "dmc1.exe", "type": "Game" }
+{ "name": "dmc2.exe", "type": "Game" }
+{ "name": "dmc3.exe", "type": "Game" }
+
+{ "name": "Devil Spire Falls.exe", "type": "Game" }
+
+{ "name": "DEVOUR.exe", "type": "Game" }
+
+{ "name": "Dex.exe", "type": "Game" }
+
+{ "name": "launchdf.exe", "type": "Game" }
+{ "name": "binpatch.exe", "type": "Game" }
+{ "name": "dfhack-run.exe", "type": "Game" }
+
+{ "name": "DefenseGrid2_Release.exe", "type": "Game" }
+
+{ "name": "Diablo III64.exe", "type": "Game" }
+
+{ "name": "D2R.exe", "type": "Game" }
+
+{ "name": "Diablo IV.exe", "type": "Game" }
+
+{ "name": "Diamond.exe", "type": "Game" }
+{ "name": "GemClicker.exe", "type": "Game" }
+
+{ "name": "Dice.exe", "type": "Game" }
+
+{ "name": "dice a million.exe", "type": "Game" }
+
+{ "name": "Dice & Fold.exe", "type": "Game" }
+
+{ "name": "Dicefolk.exe", "type": "Game" }
+
+{ "name": "Dice Gambit.exe", "type": "Game" }
+
+{ "name": "Dice-Kingdoms.exe", "type": "Game" }
+
+{ "name": "Diceomancer.exe", "type": "Game" }
+
+{ "name": "DiceWithDeath.exe", "type": "BG_CPUIO" }
+{ "name": "DiceWithDeath-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "diceydungeons.exe", "type": "Game" }
+
+{ "name": "DictatorsNoPeaceCountryballs.exe", "type": "Game" }
+
+{ "name": "Die in the Dungeon.exe", "type": "Game" }
+
+{ "name": "DieselBrothers.exe", "type": "BG_CPUIO" }
+{ "name": "DieselBrothers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "malie.exe", "type": "Game" }
+
+{ "name": "DifferentStrokes.exe", "type": "Game" }
+
+{ "name": "DigDigDrill.exe", "type": "Game" }
+
+{ "name": "Digger-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Diggin.exe", "type": "Game" }
+
+{ "name": "Diggles.exe", "type": "Game" }
+
+{ "name": "DMLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "GDMO.exe", "type": "Game" }
+
+{ "name": "Digimon Story CS.exe", "type": "Game" }
+
+{ "name": "DigimonSurvive.exe", "type": "Game" }
+
+{ "name": "Digimon World Next Order.exe", "type": "Game" }
+
+{ "name": "GraveLayer.exe", "type": "BG_CPUIO" }
+{ "name": "GraveLayer-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DigitalMate.exe", "type": "Game" }
+
+{ "name": "DigOrDie.exe", "type": "Game" }
+
+{ "name": "Digseum.exe", "type": "Game" }
+
+{ "name": "Dimhaven Enigmas.exe", "type": "Game" }
+
+{ "name": "Dimhaven - The Lost Source.exe", "type": "Game" }
+
+{ "name": "Dimraeth.exe", "type": "Game" }
+
+{ "name": "Dinkum.exe", "type": "Game" }
+
+{ "name": "DinoBlade-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DinoBlade.exe", "type": "BG_CPUIO" }
+
+{ "name": "4249130_Launcher.exe", "type": "Game" }
+{ "name": "DINO.exe", "type": "Game" }
+
+{ "name": "4249140_Launcher.exe", "type": "Game" }
+{ "name": "Dino2.exe", "type": "Game" }
+
+{ "name": "dinodday.exe", "type": "Game" }
+
+{ "name": "Dino Run DX.exe", "type": "Game" }
+
+{ "name": "Dino_GamesForFarm.exe", "type": "BG_CPUIO" }
+{ "name": "Dino_GamesForFarm-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dinosaur Fossil Hunter.exe", "type": "Game" }
+
+{ "name": "Dinotica.exe", "type": "Game" }
+
+{ "name": "Diplomacy is Not an Option.exe", "type": "Game" }
+
+{ "name": "Diplomacy is Not an Option Shareware.exe", "type": "Game" }
+
+{ "name": "Directive8020.exe", "type": "BG_CPUIO" }
+{ "name": "Directive8020-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dirt4.exe", "type": "Game" }
+
+{ "name": "DIRT5.exe", "type": "Game" }
+
+{ "name": "Dirt Clicker Demo.exe", "type": "Game" }
+
+{ "name": "drt.exe", "type": "Game" }
+
+{ "name": "dirtrally2.exe", "type": "Game" }
+
+{ "name": "ShooterGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "DirtyBombLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "Dirty Business Free of Charge.exe", "type": "Game" }
+
+{ "name": "DirtyLeague.exe", "type": "Game" }
+
+{ "name": "DiscGolf.exe", "type": "Game" }
+
+{ "name": "LauncherDisciplesDomination.exe", "type": "Game" }
+
+{ "name": "DisciplesIII.exe", "type": "Game" }
+
+{ "name": "LauncherDisciplesLiberation.exe", "type": "BG_CPUIO" }
+{ "name": "Disciples_Liberation.exe", "type": "Game" }
+
+{ "name": "disco.exe", "type": "Game" }
+{ "name": "c4.exe", "type": "Game" }
+
+{ "name": "Discord Bot Maker.exe", "type": "Game" }
+
+{ "name": "Discounty.exe", "type": "Game" }
+
+{ "name": "Disfigure.exe", "type": "Game" }
+
+{ "name": "disgaea2.exe", "type": "Game" }
+
+{ "name": "Disgaea4pc.exe", "type": "Game" }
+
+{ "name": "disgaea5.exe", "type": "Game" }
+
+{ "name": "Disgaea7.exe", "type": "Game" }
+{ "name": "Disgaea7R.exe", "type": "Game" }
+
+{ "name": "dis1_st.exe", "type": "Game" }
+
+{ "name": "Dishonored2.exe", "type": "Game" }
+
+{ "name": "Dishonored_DO.exe", "type": "Game" }
+
+{ "name": "ddv.exe", "type": "Game" }
+
+{ "name": "DEM2.exe", "type": "Game" }
+
+{ "name": "Rebrushed.exe", "type": "BG_CPUIO" }
+{ "name": "recolored-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DisneyInfinity3.exe", "type": "Game" }
+
+{ "name": "Disney.exe", "type": "Game" }
+
+{ "name": "Cars.exe", "type": "Game" }
+
+{ "name": "WALL-E.exe", "type": "Game" }
+
+{ "name": "Disney_Speedstorm_x64_r.exe", "type": "Game" }
+{ "name": "Disney_Speedstorm_x64_rtl.exe", "type": "Game" }
+
+{ "name": "Dispatch-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dffnt.exe", "type": "Game" }
+
+{ "name": "Distance.exe", "type": "Game" }
+
+{ "name": "Distant_Space.exe", "type": "Game" }
+
+{ "name": "DistantSpace.exe", "type": "Game" }
+
+{ "name": "DistantWorlds2.exe", "type": "Game" }
+
+{ "name": "DistantWorlds.exe", "type": "Game" }
+
+{ "name": "distraint.exe", "type": "Game" }
+
+{ "name": "Distrust.exe", "type": "Game" }
+
+{ "name": "DivekickD3D11.exe", "type": "Game" }
+
+{ "name": "Dividebysheep.exe", "type": "Game" }
+
+{ "name": "div.exe", "type": "Game" }
+
+{ "name": "DivineFrequency.exe", "type": "Game" }
+
+{ "name": "DCApp.exe", "type": "Game" }
+
+{ "name": "Divinity2.exe", "type": "Game" }
+
+{ "name": "DJMAX RESPECT V.exe", "type": "Game" }
+
+{ "name": "DKonline.exe", "type": "Game" }
+
+{ "name": "DLC.exe", "type": "Game" }
+
+{ "name": "DMC-DevilMayCry.exe", "type": "Game" }
+
+{ "name": "DNFDUEL.exe", "type": "BG_CPUIO" }
+{ "name": "DNFDUEL-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dobbel Dungeon.exe", "type": "Game" }
+
+{ "name": "Dodgy Deliveries.exe", "type": "Game" }
+
+{ "name": "DOG_UE5.exe", "type": "BG_CPUIO" }
+{ "name": "DOG_UE5-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dogfight1942.exe", "type": "Game" }
+{ "name": "Dogfight_1942_Launcher.exe", "type": "Game" }
+
+{ "name": "dogpile.exe", "type": "Game" }
+
+{ "name": "Dogs.exe", "type": "Game" }
+
+{ "name": "DogsOfWar.exe", "type": "Game" }
+{ "name": "DogsOfWar_Master.exe", "type": "Game" }
+
+{ "name": "dohnadohna.exe", "type": "Game" }
+{ "name": "dohnadohna_eng.exe", "type": "Game" }
+
+{ "name": "DkkStm.exe", "type": "Game" }
+
+{ "name": "DOKAPON! Sword of Fury.exe", "type": "Game" }
+
+{ "name": "DDLC.exe", "type": "Game" }
+
+{ "name": "Doki Doki Literature Club Plus.exe", "type": "Game" }
+
+{ "name": "Dollar.exe", "type": "Game" }
+
+{ "name": "dollImpostor.exe", "type": "BG_CPUIO" }
+{ "name": "dollImpostor-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ToyFactory.exe", "type": "BG_CPUIO" }
+{ "name": "ToyFactory-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DollsNest.exe", "type": "BG_CPUIO" }
+{ "name": "DollsNest-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DolocTown.exe", "type": "Game" }
+
+{ "name": "Dominion.exe", "type": "Game" }
+
+{ "name": "Dominions4.exe", "type": "Game" }
+
+{ "name": "Dominions5.exe", "type": "Game" }
+
+{ "name": "Dominions6.exe", "type": "Game" }
+
+{ "name": "Do no Harm.exe", "type": "Game" }
+
+{ "name": "dnftm.exe", "type": "Game" }
+
+{ "name": "Do Not Feed the Monkeys 2099.exe", "type": "Game" }
+
+{ "name": "DO NOT FEED THE VIRUS.exe", "type": "Game" }
+
+{ "name": "dontescape.exe", "type": "Game" }
+
+{ "name": "Don't Let It Starve.exe", "type": "Game" }
+
+{ "name": "Don't Let It Starve DEMO.exe", "type": "Game" }
+
+{ "name": "Don't Panic! It is Just Turbulence.exe", "type": "Game" }
+
+{ "name": "Dont Play This.exe", "type": "Game" }
+
+{ "name": "DontPullMeDemo.exe", "type": "Game" }
+
+{ "name": "DontScream-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Dont_Scream.exe", "type": "BG_CPUIO" }
+
+{ "name": "DontScreamTogether-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DontSleepWithTheFishes.exe", "type": "Game" }
+
+{ "name": "INCOLATUS.exe", "type": "BG_CPUIO" }
+{ "name": "INCOLATUS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DonutCounty.exe", "type": "Game" }
+
+{ "name": "Doodle Empires.exe", "type": "Game" }
+
+{ "name": "DoodleGod.exe", "type": "Game" }
+
+{ "name": "DOOMx64vk.exe", "type": "Game" }
+
+{ "name": "Doom3.exe", "type": "Game" }
+
+{ "name": "Doom3BFG.exe", "type": "Game" }
+
+{ "name": "DOOM64_x64.exe", "type": "Game" }
+
+{ "name": "DOOM.exe", "type": "Game" }
+{ "name": "DOOM.EXE", "type": "Game" }
+
+{ "name": "DOOMx64.exe", "type": "Game" }
+{ "name": "DOOMEternalx64vk.exe", "type": "Game" }
+
+{ "name": "DOOM II.exe", "type": "Game" }
+
+{ "name": "Doomsday.exe", "type": "Game" }
+{ "name": "launcher_release.exe", "type": "Game" }
+
+{ "name": "DOOMTheDarkAges.exe", "type": "Game" }
+
+{ "name": "DoorKickers.exe", "type": "Game" }
+
+{ "name": "DoorKickers2.exe", "type": "Game" }
+
+{ "name": "ActionSquad.exe", "type": "Game" }
+{ "name": "ActionSquadEd.exe", "type": "Game" }
+
+{ "name": "Doors Paradox.exe", "type": "Game" }
+
+{ "name": "Doorways.exe", "type": "Game" }
+
+{ "name": "DORaEMON STORY OF SEASONS.exe", "type": "Game" }
+
+{ "name": "DORAEMON STORY OF SEASONS FotGK.exe", "type": "Game" }
+
+{ "name": "Dordogne.exe", "type": "Game" }
+
+{ "name": "Dorfromantik.exe", "type": "Game" }
+
+{ "name": "dosa.exe", "type": "Game" }
+
+{ "name": "dota2.exe", "type": "Game" }
+
+{ "name": "dotAge.exe", "type": "Game" }
+
+{ "name": "underlords.exe", "type": "Game" }
+
+{ "name": "dot_defence.exe", "type": "Game" }
+
+{ "name": "Double Dealers - Demo.exe", "type": "Game" }
+
+{ "name": "DoubleDragonGaiden_ROTD.exe", "type": "Game" }
+
+{ "name": "DoubleDragon.exe", "type": "Game" }
+
+{ "name": "DoubleShoulders.exe", "type": "BG_CPUIO" }
+{ "name": "DoubleShoulders-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dl.exe", "type": "Game" }
+
+{ "name": "Downfall.exe", "type": "Game" }
+{ "name": "DOWNFALL.exe", "type": "Game" }
+
+{ "name": "downwell.exe", "type": "Game" }
+{ "name": "Downwell.exe", "type": "Game" }
+
+{ "name": "DPET.exe", "type": "Game" }
+
+{ "name": "dps2.exe", "type": "Game" }
+
+{ "name": "dracuriot.exe", "type": "Game" }
+{ "name": "dracuriot64.exe", "type": "Game" }
+
+{ "name": "DragonAge2.exe", "type": "Game" }
+
+{ "name": "DragonAgeInquisition.exe", "type": "Game" }
+
+{ "name": "DAOriginsLauncher.exe", "type": "Game" }
+
+{ "name": "Dragon Age The Veilguard.exe", "type": "Game" }
+
+{ "name": "DBFighterZ.exe", "type": "Game" }
+
+{ "name": "SparkingZERO.exe", "type": "BG_CPUIO" }
+{ "name": "SparkingZERO-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DRAGON BALL THE BREAKERS.exe", "type": "Game" }
+
+{ "name": "DBXV.exe", "type": "Game" }
+
+{ "name": "DBXV2.exe", "type": "Game" }
+
+{ "name": "AT-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dragonheir.exe", "type": "Game" }
+
+{ "name": "DragonkinTheBanished.exe", "type": "BG_CPUIO" }
+{ "name": "DragonkinTheBanished-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DragonNest_x64.exe", "type": "Game" }
+{ "name": "DNSteamLauncher.exe", "type": "Game" }
+
+{ "name": "DQB.exe", "type": "Game" }
+
+{ "name": "DQB2.exe", "type": "Game" }
+{ "name": "DQB2_AS.exe", "type": "Game" }
+{ "name": "DQB2_EU.exe", "type": "Game" }
+
+{ "name": "DQB2_AS_TRIAL.exe", "type": "Game" }
+{ "name": "DQB2_EU_TRIAL.exe", "type": "Game" }
+{ "name": "DQB2_TRIAL.exe", "type": "Game" }
+
+{ "name": "DQH2.exe", "type": "Game" }
+
+{ "name": "DQH.exe", "type": "Game" }
+
+{ "name": "DQIIIHD2DRemake.exe", "type": "Game" }
+
+{ "name": "DQIandIIHD2DRemake.exe", "type": "Game" }
+
+{ "name": "DQMonsters3.exe", "type": "Game" }
+
+{ "name": "DragonQuestTreasures.exe", "type": "Game" }
+
+{ "name": "DQ7R.exe", "type": "BG_CPUIO" }
+{ "name": "DQ7R-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DQ7R_DEMO.exe", "type": "BG_CPUIO" }
+{ "name": "DQ7R_DEMO-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "OverwriteSettings.exe", "type": "BG_CPUIO" }
+{ "name": "DRAGON QUEST XI (No Denuvo).exe", "type": "Game" }
+{ "name": "DRAGON QUEST XI (Test).exe", "type": "Game" }
+{ "name": "DRAGON QUEST XI.exe", "type": "Game" }
+
+{ "name": "DRAGON QUEST XI S.exe", "type": "Game" }
+
+{ "name": "DRAGON QUEST XI S Demo.exe", "type": "Game" }
+{ "name": "DRAGON QUEST XI S Demo (No Denuvo).exe", "type": "Game" }
+{ "name": "DRAGON QUEST XI S Demo (Test).exe", "type": "Game" }
+
+{ "name": "DragonRoad.exe", "type": "BG_CPUIO" }
+{ "name": "DragonRoad-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dnt.exe", "type": "Game" }
+
+{ "name": "DD2.exe", "type": "Game" }
+
+{ "name": "DD2CCS.exe", "type": "Game" }
+
+{ "name": "DDDA.exe", "type": "Game" }
+
+{ "name": "Dragon Shelter.exe", "type": "Game" }
+
+{ "name": "DSClient.exe", "type": "BG_CPUIO" }
+{ "name": "DSClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DragonTraveler.exe", "type": "Game" }
+
+{ "name": "DR3D_Streets2.exe", "type": "Game" }
+
+{ "name": "thinclient.exe", "type": "Game" }
+
+{ "name": "DMMd_ch_Steam.exe", "type": "Game" }
+{ "name": "DMMd_trad_ch_Steam.exe", "type": "Game" }
+{ "name": "DMMd_en_Steam.exe", "type": "Game" }
+
+{ "name": "DRAPLINE.exe", "type": "Game" }
+
+{ "name": "DrawAStickman.Steam.exe", "type": "Game" }
+
+{ "name": "Drawful 2.exe", "type": "Game" }
+
+{ "name": "Draw&Guess.exe", "type": "Game" }
+
+{ "name": "Drawquarium.exe", "type": "Game" }
+
+{ "name": "Codex.exe", "type": "Game" }
+{ "name": "local-game-server-windows.exe", "type": "Service" }
+
+{ "name": "DreadDawn.exe", "type": "Game" }
+
+{ "name": "Dread Delusion.exe", "type": "Game" }
+
+{ "name": "DREAD FLATS.exe", "type": "BG_CPUIO" }
+{ "name": "project_A-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DreadHunger.exe", "type": "BG_CPUIO" }
+{ "name": "DreadHunger-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dreadout.exe", "type": "Game" }
+{ "name": "dreadout32.exe", "type": "Game" }
+
+{ "name": "Dreamcore-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Dreamcore.exe", "type": "BG_CPUIO" }
+
+{ "name": "ddadds.exe", "type": "Game" }
+
+{ "name": "Dreameaters.exe", "type": "BG_CPUIO" }
+{ "name": "Dreameaters-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dreamfall Chapters.exe", "type": "Game" }
+
+{ "name": "dreamfall.exe", "type": "Game" }
+
+{ "name": "Dreaming Isles.exe", "type": "Game" }
+
+{ "name": "Dreamland.exe", "type": "Game" }
+
+{ "name": "Dreamscaper.exe", "type": "BG_CPUIO" }
+{ "name": "Dreamscaper-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dreamseeker.exe", "type": "Game" }
+
+{ "name": "DreamsofDesire.exe", "type": "Game" }
+
+{ "name": "DREDGE.exe", "type": "Game" }
+
+{ "name": "Drift86 V3.exe", "type": "Game" }
+
+{ "name": "Drift21.exe", "type": "Game" }
+
+{ "name": "Drifter Star.exe", "type": "Game" }
+
+{ "name": "Drift Horizon.exe", "type": "Game" }
+
+{ "name": "Driftland.exe", "type": "BG_CPUIO" }
+{ "name": "Driftland-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Drift Legends 2.exe", "type": "Game" }
+
+{ "name": "Drift Streets Japan.exe", "type": "Game" }
+
+{ "name": "Drill Core.exe", "type": "Game" }
+
+{ "name": "Drink Factory Simulator Prologue.exe", "type": "Game" }
+
+{ "name": "DRIVERally.exe", "type": "Game" }
+
+{ "name": "DriverBooster.exe", "type": "Game" }
+{ "name": "Boost.exe", "type": "Game" }
+
+{ "name": "DriverParallelLines.exe", "type": "Game" }
+
+{ "name": "DR LIVESEY ROM AND DEATH EDITION.exe", "type": "Game" }
+
+{ "name": "DroneSector.exe", "type": "Game" }
+
+{ "name": "DropDisk.exe", "type": "Game" }
+
+{ "name": "DropDuchy.exe", "type": "BG_CPUIO" }
+{ "name": "DropDuchy-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dropsy.exe", "type": "Game" }
+
+{ "name": "Drova.exe", "type": "Game" }
+
+{ "name": "DrugDealerSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "DrugDealerSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DrugDealerSimulator2.exe", "type": "BG_CPUIO" }
+{ "name": "DrugDealerSimulator2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DrugLordTycoon.exe", "type": "BG_CPUIO" }
+{ "name": "DrugLordTycoon-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DW2.exe", "type": "Game" }
+{ "name": "DW2Launcher.exe", "type": "Game" }
+
+{ "name": "DSX.exe", "type": "Game" }
+
+{ "name": "D-topia.exe", "type": "Game" }
+
+{ "name": "Ducati.exe", "type": "Game" }
+{ "name": "DucatiX64.exe", "type": "Game" }
+
+{ "name": "Duck Detective - The Ghost of Glamping.exe", "type": "Game" }
+
+{ "name": "Duck Detective - The Secret Salami.exe", "type": "Game" }
+
+{ "name": "DuckGame.exe", "type": "Game" }
+
+{ "name": "Duckoleon.exe", "type": "BG_CPUIO" }
+{ "name": "Duckoleon-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Ducks.exe", "type": "Game" }
+
+{ "name": "DUCKS.exe", "type": "Game" }
+
+{ "name": "DuckSeason.exe", "type": "Game" }
+
+{ "name": "DucksideClient.exe", "type": "BG_CPUIO" }
+{ "name": "DucksideClient_BE.exe", "type": "BG_CPUIO" }
+{ "name": "DucksideClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DuckTales.exe", "type": "Game" }
+
+{ "name": "DudeSimulator3.exe", "type": "Game" }
+
+{ "name": "Duel Corp.exe", "type": "Game" }
+
+{ "name": "Duelist Idle Expedition.exe", "type": "Game" }
+
+{ "name": "Duelyst.exe", "type": "Game" }
+
+{ "name": "Duelyst2.exe", "type": "Game" }
+
+{ "name": "DueProcess.exe", "type": "Game" }
+
+{ "name": "EM-Win64-Shipping.exe", "type": "Game" }
+{ "name": "EM.exe", "type": "BG_CPUIO" }
+
+{ "name": "duke3d.exe", "type": "Game" }
+
+{ "name": "DukeForever.exe", "type": "Game" }
+
+{ "name": "Dummynation.exe", "type": "Game" }
+
+{ "name": "DuneCrawl.exe", "type": "Game" }
+
+{ "name": "DuneImperium.exe", "type": "Game" }
+
+{ "name": "D4X.exe", "type": "Game" }
+
+{ "name": "Dungeon Alchemist.exe", "type": "Game" }
+
+{ "name": "DungeonClawler.exe", "type": "Game" }
+
+{ "name": "dungeoncrusher.exe", "type": "Game" }
+
+{ "name": "DungeonDefenders.exe", "type": "Game" }
+
+{ "name": "DDS.exe", "type": "BG_CPUIO" }
+{ "name": "DDS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dungeon Drafters.exe", "type": "Game" }
+
+{ "name": "DFO.exe", "type": "Game" }
+{ "name": "NeopleLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "DKII-DX.exe", "type": "Game" }
+{ "name": "DKII.EXE", "type": "Game" }
+
+{ "name": "Dungeon Keeper.exe", "type": "Game" }
+
+{ "name": "dungeonmans.exe", "type": "Game" }
+
+{ "name": "Dungeon Munchies.exe", "type": "Game" }
+
+{ "name": "DungeonofElements.exe", "type": "Game" }
+
+{ "name": "DungeonoftheEndless.exe", "type": "Game" }
+
+{ "name": "berkelium.exe", "type": "Game" }
+
+{ "name": "DungeonRampage.exe", "type": "Game" }
+
+{ "name": "DungeonRaze.exe", "type": "Game" }
+
+{ "name": "Dungeon Rushers.exe", "type": "Game" }
+
+{ "name": "Dungeons2.exe", "type": "Game" }
+
+{ "name": "Dungeons3.exe", "type": "Game" }
+
+{ "name": "d4.exe", "type": "Game" }
+{ "name": "Dungeons 4.exe", "type": "Game" }
+
+{ "name": "DnDG_64.exe", "type": "Game" }
+
+{ "name": "ManaGame.exe", "type": "Game" }
+
+{ "name": "DarkAlliance.exe", "type": "BG_CPUIO" }
+{ "name": "DarkAlliance-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "nwn2.exe", "type": "Game" }
+{ "name": "nwn2_DMx64.exe", "type": "Game" }
+
+{ "name": "DNDLauncher.exe", "type": "Game" }
+{ "name": "dndclient.exe", "type": "Game" }
+
+{ "name": "Dungeon Settlers(Beta).exe", "type": "Game" }
+
+{ "name": "Dungeons & Furries.exe", "type": "Game" }
+
+{ "name": "DungeonSiege.exe", "type": "Game" }
+
+{ "name": "DungeonSiege2.exe", "type": "Game" }
+
+{ "name": "Dungeon Siege III.exe", "type": "Game" }
+
+{ "name": "dungeonslasher.exe", "type": "Game" }
+
+{ "name": "dobad.exe", "type": "Game" }
+
+{ "name": "Dungeons of Dredmor.exe", "type": "Game" }
+
+{ "name": "DoE.exe", "type": "Game" }
+
+{ "name": "Dungeons of Hinterberg.exe", "type": "Game" }
+
+{ "name": "Archon-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dungeon Team.exe", "type": "Game" }
+
+{ "name": "DT1.exe", "type": "Game" }
+
+{ "name": "DungeonTycoon.exe", "type": "Game" }
+
+{ "name": "DungeonWarfare2.exe", "type": "Game" }
+
+{ "name": "Dungreed.exe", "type": "Game" }
+
+{ "name": "Dupery.exe", "type": "Game" }
+
+{ "name": "DurkaSimulator.exe", "type": "Game" }
+
+{ "name": "DUSK.exe", "type": "Game" }
+{ "name": "Duskworld.exe", "type": "Game" }
+
+{ "name": "Dusk City.exe", "type": "Game" }
+
+{ "name": "Duskers.exe", "type": "Game" }
+
+{ "name": "Duskfade.exe", "type": "BG_CPUIO" }
+{ "name": "Duskfade-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Dusk Pub.exe", "type": "Game" }
+
+{ "name": "DustAET.exe", "type": "Game" }
+
+{ "name": "Dustforce.exe", "type": "Game" }
+
+{ "name": "Dust Front RTS.exe", "type": "Game" }
+
+{ "name": "DustlandDelivery.exe", "type": "Game" }
+
+{ "name": "Dwarf Eats Mountain.exe", "type": "Game" }
+
+{ "name": "Dwarf Fortress.exe", "type": "Game" }
+
+{ "name": "ProjectAlpha.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectAlpha-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "dwarves.exe", "type": "Game" }
+
+{ "name": "DXBall2.exe", "type": "Game" }
+
+{ "name": "DyingLightGame.exe", "type": "Game" }
+
+{ "name": "DyingLightGame_x64_rwdi.exe", "type": "Game" }
+
+{ "name": "DyingLightGame_TheBeast_x64_rwdi.exe", "type": "Game" }
+{ "name": "DyingLightGame_TheBeast_x64_rd.exe", "type": "Game" }
+
+{ "name": "Dynamic Dungeons Editor.exe", "type": "Game" }
+
+{ "name": "Dynast.io.exe", "type": "Game" }
+
+{ "name": "SM6EN.exe", "type": "Game" }
+{ "name": "SM6JP.exe", "type": "Game" }
+
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
+
+{ "name": "DW9.exe", "type": "Game" }
+
+{ "name": "DW9Emp.exe", "type": "Game" }
+
+{ "name": "DWORIGINS.exe", "type": "Game" }
+
+{ "name": "DWORIGINS_Demo.exe", "type": "Game" }
+
+{ "name": "Dynomite.exe", "type": "Game" }
+
+{ "name": "DYO.exe", "type": "Game" }
+
+{ "name": "DYSMANTLE-OpenGL.exe", "type": "Game" }
+{ "name": "DYSMANTLE.exe", "type": "Game" }
+
+{ "name": "DSPGAME.exe", "type": "Game" }
+
+{ "name": "Dysplaced.exe", "type": "Game" }
+
+{ "name": "dystopia.exe", "type": "Game" }
+
+{ "name": "Dystopika.exe", "type": "Game" }

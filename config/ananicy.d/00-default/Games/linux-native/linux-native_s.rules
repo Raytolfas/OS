@@ -1,0 +1,481 @@
+
+
+{ "name": "saeko_linux_amd64", "type": "Game" }
+
+{ "name": "SAELIG.x86_64", "type": "Game" }
+
+{ "name": "saintsrow2", "type": "Game" }
+{ "name": "saintsrow2.i386", "type": "Game" }
+
+{ "name": "saintsrowgooh", "type": "Game" }
+
+{ "name": "SaintsRow4.i386", "type": "Game" }
+
+{ "name": "saintsrow3", "type": "Game" }
+{ "name": "SaintsRow3.i386", "type": "Game" }
+
+{ "name": "sakura_dungeon", "type": "Game" }
+
+{ "name": "Sally Face.x86_64", "type": "Game" }
+{ "name": "Sally Face.x86", "type": "Game" }
+
+{ "name": "Salt.x86", "type": "Game" }
+
+{ "name": "SaltAndSanctuary", "type": "Game" }
+
+{ "name": "Samawa Idle.x86_64", "type": "Game" }
+
+{ "name": "Sanctum2", "type": "Game" }
+
+{ "name": "sandbox", "type": "Game" }
+
+{ "name": "SatelliteReignLinux.x86", "type": "Game" }
+{ "name": "SatelliteReignLinux.x86_64", "type": "Game" }
+
+{ "name": "FactoryServer-Linux-Shipping", "type": "Service" }
+{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
+
+{ "name": "satisfactory_modeler", "type": "Game" }
+
+{ "name": "ScarletHollow", "type": "Game" }
+
+{ "name": "SCB_Linux.x86_64", "type": "Game" }
+
+{ "name": "ScourgeBringer", "type": "Game" }
+
+{ "name": "SCPSL.x86_64", "type": "Service" }
+{ "name": "LocalAdmin", "type": "Service" }
+
+{ "name": "screeps_server", "type": "Service" }
+
+{ "name": "ScribbleIt-Linux-Shipping", "type": "Game" }
+
+{ "name": "Seablip.x86_64", "type": "Game" }
+
+{ "name": "Seasons after Fall.x86", "type": "Game" }
+
+{ "name": "Secret of the Magic Crystal", "type": "Game" }
+
+{ "name": "Launch Sector Space", "type": "Game" }
+
+{ "name": "seeds-of-chaos", "type": "Game" }
+
+{ "name": "SEGAGameRoom", "type": "Game" }
+
+{ "name": "Selaco.x86_64", "type": "Game" }
+
+{ "name": "Selene", "type": "Game" }
+
+{ "name": "Sentinels.x86_64", "type": "Game" }
+
+{ "name": "dagon", "type": "Game" }
+{ "name": "dagon.64", "type": "Game" }
+
+{ "name": "Cleaner.x86", "type": "Game" }
+{ "name": "Cleaner.x86_64", "type": "Game" }
+
+{ "name": "Sam3", "type": "Game" }
+
+{ "name": "Sam2017", "type": "Game" }
+{ "name": "Sam2017_Unrestricted", "type": "Game" }
+{ "name": "Sam2017_Unrestricted_VR", "type": "Game" }
+{ "name": "Sam2017_VR", "type": "Game" }
+
+{ "name": "SamTLH", "type": "Game" }
+
+{ "name": "Seum", "type": "Game" }
+
+{ "name": "SexBot", "type": "Game" }
+
+{ "name": "SEXCLUBSimulator.x86_64", "type": "Game" }
+
+{ "name": "SextatesManager", "type": "Game" }
+
+{ "name": "Shadowgate.x86", "type": "Game" }
+
+{ "name": "ShadowIsland", "type": "Game" }
+
+{ "name": "ShadowOfTheTombRaider", "type": "Game" }
+
+{ "name": "Dragonfall", "type": "Game" }
+
+{ "name": "SRHK", "type": "Game" }
+
+{ "name": "Shadowrun", "type": "Game" }
+
+{ "name": "ShadowWarrior.bin.x86", "type": "Game" }
+
+{ "name": "sw", "type": "Game" }
+
+{ "name": "Shank", "type": "Game" }
+
+{ "name": "shank2", "type": "Game" }
+
+{ "name": "shapezio", "type": "Game" }
+
+{ "name": "Shatter.bin.x86", "type": "Game" }
+
+{ "name": "Shattered_Minds", "type": "Game" }
+
+{ "name": "Shattered Pixel Dungeon", "type": "Game" }
+
+{ "name": "sheepchat", "type": "Game" }
+
+{ "name": "ShellShockLive.x64", "type": "Game" }
+
+{ "name": "Shelter.x86_64", "type": "Game" }
+
+{ "name": "Shelter2.x86", "type": "Game" }
+
+{ "name": "Shelter", "type": "Game" }
+
+{ "name": "Sheltered.x86", "type": "Game" }
+{ "name": "Sheltered.x86_64", "type": "Game" }
+
+{ "name": "Shenzhen.bin.x86_64", "type": "Game" }
+{ "name": "Shenzhen.bin.x86", "type": "Game" }
+{ "name": "Shenzhen", "type": "Game" }
+
+{ "name": "Shift Happens.x86_64", "type": "Game" }
+{ "name": "Shift Happens.x86", "type": "Game" }
+
+{ "name": "ShipOfFools.x86_64", "type": "Game" }
+
+{ "name": "soh.appimage", "type": "Game" }
+
+{ "name": "Shipped.x86_64", "type": "Game" }
+
+{ "name": "sm_sdl_steam", "type": "Game" }
+
+{ "name": "ShogunShowdown.x86_64", "type": "Game" }
+
+{ "name": "Shoppe Keep.x86", "type": "Game" }
+{ "name": "Shoppe Keep.x86_64", "type": "Game" }
+
+{ "name": "Shotgun Farmers.x86_64", "type": "Game" }
+
+{ "name": "shotgun_king", "type": "Game" }
+
+{ "name": "ShovelKnight", "type": "Game" }
+
+{ "name": "Shroud of the Avatar.x86", "type": "Game" }
+{ "name": "Shroud of the Avatar.x86_64", "type": "Game" }
+
+{ "name": "SickBrick.x86_64", "type": "Game" }
+{ "name": "SickBrick.x86", "type": "Game" }
+
+{ "name": "CivBE", "type": "Game" }
+
+{ "name": "Civ5XP", "type": "Game" }
+
+{ "name": "Civ6", "type": "Game" }
+
+{ "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
+
+{ "name": "Siegeturtle", "type": "Game" }
+
+{ "name": "Silicone-2.x86", "type": "Game" }
+{ "name": "Silicone-2.x86_64", "type": "Game" }
+
+{ "name": "Silly Polly Beast.x86_64", "type": "Game" }
+
+{ "name": "SimAirport.x86_64", "type": "Game" }
+{ "name": "SimAirport.x86", "type": "Game" }
+
+{ "name": "Sim Companies", "type": "Game" }
+
+{ "name": "simutrans", "type": "Game" }
+
+{ "name": "SiralimUltimate", "type": "Game" }
+
+{ "name": "swhaop_demo.x86_64", "type": "Game" }
+
+{ "name": "swhaop_playtest.x86_64", "type": "Game" }
+
+{ "name": "sir", "type": "Game" }
+
+{ "name": "SL", "type": "Game" }
+
+{ "name": "SistersInSin.x86_64", "type": "Game" }
+
+{ "name": "sixtyfour", "type": "Game" }
+
+{ "name": "skeleseller", "type": "Game" }
+
+{ "name": "SkillshotCity", "type": "Game" }
+
+{ "name": "Skullgirls.x86_64-pc-linux-gnu", "type": "Game" }
+
+{ "name": "SkullHorde.x86_64", "type": "Game" }
+
+{ "name": "Skul.x86_64", "type": "Game" }
+
+{ "name": "Skyborn.amd64", "type": "Game" }
+
+{ "name": "Sky Force Anniversary.x86", "type": "Game" }
+{ "name": "Sky Force Anniversary.x86_64", "type": "Game" }
+
+{ "name": "Sky Force Reloaded.x86", "type": "Game" }
+{ "name": "Sky Force Reloaded.x86_64", "type": "Game" }
+
+{ "name": "Skyhill.x86", "type": "Game" }
+{ "name": "Skyhill.x86_64", "type": "Game" }
+
+{ "name": "SkyTime.x86_64", "type": "Game" }
+{ "name": "SkyTime.x86", "type": "Game" }
+
+{ "name": "SlaythePrincess", "type": "Game" }
+
+{ "name": "SlayTheSpire", "type": "Game" }
+
+{ "name": "SlayTheSpire2", "type": "Game" }
+
+{ "name": "SliceAndDice", "type": "Game" }
+
+{ "name": "Slime3k.x86_64", "type": "Game" }
+
+{ "name": "SlimeRancher.x86", "type": "Game" }
+{ "name": "SlimeRancher.x86_64", "type": "Game" }
+
+{ "name": "slimevr", "type": "Game" }
+
+{ "name": "Slots_Diapers.x86_64", "type": "Game" }
+
+{ "name": "Linux Build.x86_64", "type": "Game" }
+
+{ "name": "Small World 2", "type": "Game" }
+
+{ "name": "SmashingSimulatorIdle.x86_64", "type": "Game" }
+
+{ "name": "Snakecremental.x86_64", "type": "Game" }
+
+{ "name": "SnowDaze", "type": "Game" }
+
+{ "name": "sober", "type": "Game" }
+{ "name": "sober_services", "type": "Game" }
+
+{ "name": "Sodaman.x86_64", "type": "Game" }
+
+{ "name": "Software Inc.x86", "type": "Game" }
+{ "name": "Software Inc.x86_64", "type": "Game" }
+
+{ "name": "Solar2", "type": "Game" }
+
+{ "name": "SolCesto", "type": "Game" }
+
+{ "name": "soldat2", "type": "Game" }
+
+{ "name": "solforge_standalonelinux_Final_Live_0.x86", "type": "Game" }
+{ "name": "solforge_standalonelinux_Final_Live_0.x86_64", "type": "Game" }
+
+{ "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
+{ "name": "Soma.bin.x86_64", "type": "Game" }
+
+{ "name": "Song of Farca", "type": "Game" }
+
+{ "name": "DumaLegend.bin.x86_64", "type": "Game" }
+
+{ "name": "UnleashedRecomp", "type": "Game" }
+
+{ "name": "SophieTheGirlFromTheZone", "type": "Game" }
+
+{ "name": "Soulstone-Survivors.x86_64", "type": "Game" }
+
+{ "name": "Space", "type": "Game" }
+
+{ "name": "SpaceChem", "type": "Game" }
+
+{ "name": "SpaceCrew.x86_64", "type": "Game" }
+
+{ "name": "SpaceFarmers.x86", "type": "Game" }
+
+{ "name": "spacehaven", "type": "Game" }
+
+{ "name": "SPAZ", "type": "Game" }
+
+{ "name": "SPAZ2_Linux.x86_64", "type": "Game" }
+
+{ "name": "oSpaceGameMerged", "type": "Game" }
+
+{ "name": "SS14.Launcher", "type": "Game" }
+
+{ "name": "sparkle2evo.x86", "type": "Game" }
+
+{ "name": "specops", "type": "Game" }
+
+{ "name": "SpeedRunners.bin.x86_64", "type": "Game" }
+
+{ "name": "spinrhythm.x86_64", "type": "Game" }
+
+{ "name": "Spiritfarer.x86_64", "type": "Game" }
+
+{ "name": "SpiritIsland.x86_64", "type": "Game" }
+
+{ "name": "Splatter_Linux", "type": "Game" }
+
+{ "name": "PortalWars-Linux-Shipping", "type": "Game" }
+
+{ "name": "Square Brawl.x86", "type": "Game" }
+
+{ "name": "stackflow.x86_64", "type": "Game" }
+
+{ "name": "Stack.bin.x86", "type": "Game" }
+
+{ "name": "starblast", "type": "Game" }
+
+{ "name": "starbound", "type": "Game" }
+
+{ "name": "mvmmoclient", "type": "Game" }
+
+{ "name": "StarcomNexus.x86_64", "type": "Game" }
+{ "name": "StarcomNexus.x86", "type": "Game" }
+
+{ "name": "StarConflict", "type": "Game" }
+
+{ "name": "Stardeus", "type": "Game" }
+
+{ "name": "Stardew Valley", "type": "Game" }
+{ "name": "StardewModdingAPI", "type": "Game" }
+
+{ "name": "SD2.x86_64", "type": "Game" }
+
+{ "name": "StarMade-Launcher", "type": "Game" }
+
+{ "name": "Monolith", "type": "Game" }
+{ "name": "monolith", "type": "Game" }
+
+{ "name": "startraders2_mods", "type": "Game" }
+{ "name": "startraders2", "type": "Game" }
+
+{ "name": "StartupCompany", "type": "Game" }
+{ "name": "StartupCompany.x86_64", "type": "Game" }
+
+{ "name": "KOTOR2", "type": "Game" }
+
+{ "name": "Stash.x86", "type": "Game" }
+{ "name": "Stash.x86_64", "type": "Game" }
+
+{ "name": "StaxelCE", "type": "Game" }
+
+{ "name": "steamvr_tutorial.x86_64", "type": "Game" }
+{ "name": "vrstartup", "type": "Game" }
+
+{ "name": "SteamWorldDig", "type": "Game" }
+
+{ "name": "Dig2", "type": "Game" }
+
+{ "name": "Heist", "type": "Game" }
+
+{ "name": "Quest", "type": "Game" }
+
+{ "name": "SteelRats-Linux-Shipping", "type": "Game" }
+
+{ "name": "steelstorm64", "type": "Game" }
+
+{ "name": "SteelStrider.x86", "type": "Game" }
+
+{ "name": "stellaris", "type": "Game" }
+
+{ "name": "Sausage.x86", "type": "Game" }
+{ "name": "Sausage.x86_64", "type": "Game" }
+
+{ "name": "StepsofDebauchery", "type": "Game" }
+
+{ "name": "stone_story_linux.x86_64", "type": "Game" }
+
+{ "name": "STONKS_9800", "type": "Game" }
+
+{ "name": "STRAFTAT.x86_64", "type": "Game" }
+
+{ "name": "Stranded_Deep", "type": "Game" }
+
+{ "name": "StrandedInSpace", "type": "Game" }
+
+{ "name": "StrandedInTime_Linux.x86", "type": "Game" }
+
+{ "name": "SOR4", "type": "Game" }
+
+{ "name": "StreetsOfRogueLinux.x86", "type": "Game" }
+{ "name": "StreetsOfRogueLinux.x86_64", "type": "Game" }
+
+{ "name": "strife", "type": "Game" }
+
+{ "name": "StrikeSuitZero", "type": "Game" }
+
+{ "name": "stronghold3", "type": "Game" }
+
+{ "name": "STUNTBOOST", "type": "Game" }
+
+{ "name": "STYGIAN.x86_64", "type": "Game" }
+
+{ "name": "sublight.x86_64", "type": "Game" }
+
+{ "name": "subrosa.x64", "type": "Game" }
+
+{ "name": "Adobe Substance 3D Painter Beta", "type": "Game" }
+
+{ "name": "SuddenStrike4.x86_64", "type": "Game" }
+
+{ "name": "sudocats.x86_64", "type": "Game" }
+
+{ "name": "Sudoku Universe.x86_64", "type": "Game" }
+{ "name": "Sudoku Universe.x86", "type": "Game" }
+
+{ "name": "SuicideGuy.x86_64", "type": "Game" }
+
+{ "name": "Sultan's Game.x86_64", "type": "Game" }
+
+{ "name": "SummersGone_Season1_Steam", "type": "Game" }
+
+{ "name": "Sundered.x86", "type": "Game" }
+{ "name": "Sundered.x86_64", "type": "Game" }
+
+{ "name": "Sunless Sea.x86", "type": "Game" }
+{ "name": "Sunless Sea.x86_64", "type": "Game" }
+
+{ "name": "Sunless Skies.x86", "type": "Game" }
+{ "name": "Sunless Skies.x86_64", "type": "Game" }
+
+{ "name": "superautopets.x86_64", "type": "Game" }
+
+{ "name": "swordandsworcery_pc", "type": "Game" }
+
+{ "name": "SuperHexagon", "type": "Game" }
+
+{ "name": "SUPERHOT.x86_64", "type": "Game" }
+
+{ "name": "SUPERHOTMCD.x86_64", "type": "Game" }
+
+{ "name": "Superliminal", "type": "Game" }
+
+{ "name": "sm64coopdx", "type": "Game" }
+
+{ "name": "SuperMeatBoy", "type": "Game" }
+
+{ "name": "SuperTux.AppImage", "type": "Game" }
+
+{ "name": "supertuxkart", "type": "Game" }
+
+{ "name": "supertux2", "type": "Game" }
+
+{ "name": "SurfsUp.x86_64", "type": "Game" }
+
+{ "name": "ss2013.bin", "type": "Game" }
+
+{ "name": "MarsSteam", "type": "Game" }
+
+{ "name": "SomewhereIBelong", "type": "Game" }
+
+{ "name": "svencoop_linux", "type": "Game" }
+
+{ "name": "SweatShop.x86_64", "type": "Game" }
+{ "name": "SweatShop.x86", "type": "Game" }
+
+{ "name": "Swordhaven.x86_64", "type": "Game" }
+
+{ "name": "ThePit", "type": "Game" }
+
+{ "name": "Symphony.bin.x86", "type": "Game" }
+{ "name": "Symphony.bin.x86_64", "type": "Game" }
+
+{ "name": "synergismofficial", "type": "Game" }

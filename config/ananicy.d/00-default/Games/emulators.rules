@@ -1,0 +1,75 @@
+
+{ "name": "fs-uae", "type": "Game" }
+{ "name": "fs-uae-devel", "type": "Game" }
+
+{ "name": "xemu", "type": "Game" }
+
+{ "name": "xenia.exe", "type": "Game" }
+{ "name": "xenia_canary.exe", "type": "Game" }
+{ "name": "xenia_canary", "type": "Game" }
+
+{ "name": "bsnes", "type": "Game" }
+
+{ "name": "dolphin-emu", "type": "Game" }
+
+{ "name": "cemu", "type": "Game" }
+
+{ "name": "cen64", "type": "Game" }
+{ "name": "cen64-qt", "type": "Game" }
+
+{ "name": "RMG", "type": "Game" }
+
+{ "name": "melonDS", "type": "Game" }
+
+{ "name": "suyu", "type": "Game" }
+
+{ "name": "yuzu", "type": "Game" }
+
+{ "name": "eden", "type": "Game" }
+
+{ "name": "ryujinx", "type": "Game" }
+
+
+{ "name": "retroarch", "type": "Game" }
+
+{ "name": "mame", "type": "Game" }
+{ "name": "sdlmame", "type": "Game" }
+
+{ "name": "mednafen", "type": "Game" }
+
+{ "name": "mesen", "type": "Game" }
+{ "name": "mesen-git", "type": "Game" }
+
+{ "name": "ruffle", "type": "Game" }
+
+{ "name": "easyrpg-player", "type": "Game" }
+
+{ "name": "higan", "type": "Game" }
+
+{ "name": "scummvm", "type": "Game" }
+
+{ "name": "dosbox", "type": "Game" }
+
+{ "name": "86Box", "type": "Game" }
+
+{ "name": "PCBox", "type": "Game" }
+
+
+{ "name": "blastem", "type": "Game" }
+
+{ "name": "redream", "type": "Game" }
+
+
+{ "name": "DuckStation-x64", "type": "Game" }
+
+{ "name": "rpcs3", "type": "Game" }
+
+{ "name": "PPSSPPHeadless", "type": "Game" }
+{ "name": "PPSSPPQt", "type": "Game" }
+{ "name": "PPSSPPSDL", "type": "Game" }
+
+{ "name": "pcsx2-qt", "type": "Game" }
+
+{ "name": "shadps4", "type": "Game" }
+{ "name": "shadPS4:Main", "type": "Game" }
+

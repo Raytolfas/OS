@@ -1,0 +1,201 @@
+
+
+{ "name": "MadMax", "type": "Game" }
+
+{ "name": "MageQuit.x86_64", "type": "Game" }
+
+{ "name": "MagicalDiary", "type": "Game" }
+
+{ "name": "Magicite", "type": "Game" }
+
+{ "name": "Magicka2", "type": "Game" }
+{ "name": "Magicka2_x64", "type": "Game" }
+
+{ "name": "Magicraft.x86_64", "type": "Game" }
+
+{ "name": "RunMaia", "type": "Game" }
+
+{ "name": "Mainframe.x86_64", "type": "Game" }
+
+{ "name": "MII.x86", "type": "Game" }
+{ "name": "MII.x86_64", "type": "Game" }
+
+{ "name": "mh2", "type": "Game" }
+
+{ "name": "Maktala.x86_64", "type": "Game" }
+
+{ "name": "maniac", "type": "Game" }
+
+{ "name": "mcpelauncher-ui-qt", "type": "Game" }
+{ "name": "mcpelauncher-client", "type": "Game" }
+
+{ "name": "Manual Samuel.x86", "type": "Game" }
+{ "name": "Manual Samuel.x86_64", "type": "Game" }
+
+{ "name": "MarbleItUp.x86_64", "type": "Game" }
+
+{ "name": "ninja-bin32", "type": "Game" }
+
+{ "name": "Ninja", "type": "Game" }
+
+{ "name": "Game.bin.x86_64", "type": "Game" }
+
+{ "name": "MC", "type": "Game" }
+
+{ "name": "MasterOfOrion.x86_64", "type": "Game" }
+
+{ "name": "ChineseDating.x86_64", "type": "Game" }
+
+{ "name": "McEngine", "type": "Game" }
+
+{ "name": "mcpixel3", "type": "Game" }
+
+{ "name": "Meadow.x86_64", "type": "Game" }
+
+{ "name": "Megabonk.x86_64", "type": "Game" }
+
+{ "name": "MegabytePunch.x86", "type": "Game" }
+
+{ "name": "Megaquarium.x86_64", "type": "Game" }
+
+{ "name": "MelodysEscape", "type": "Game" }
+
+{ "name": "Melvor Idle", "type": "Game" }
+
+{ "name": "MelvorIdle2.x86_64", "type": "Game" }
+
+{ "name": "mow2_editor", "type": "Game" }
+{ "name": "mow2", "type": "Game" }
+{ "name": "mow2_cli_local", "type": "Game" }
+
+{ "name": "MercenaryKings", "type": "Game" }
+
+{ "name": "MergeAdventure.x86_64", "type": "Game" }
+
+{ "name": "MetroExodus", "type": "Game" }
+
+{ "name": "MetroLL", "type": "Game" }
+
+{ "name": "ShadowOfMordor", "type": "Game" }
+
+{ "name": "MidnightParadise", "type": "Game" }
+
+{ "name": "MN9Game.bin.x86_64", "type": "Game" }
+
+{ "name": "MilfsOfSunville", "type": "Game" }
+
+{ "name": "MilfsOfSunville2", "type": "Game" }
+
+{ "name": "MilfsPlaza", "type": "Game" }
+
+{ "name": "mcv_linux64", "type": "Game" }
+
+{ "name": "PMKM", "type": "Game" }
+
+{ "name": "PMKM2", "type": "Game" }
+
+{ "name": "MimpiDreams.x86", "type": "Game" }
+
+{ "name": "MinamiLane.x86_64", "type": "Game" }
+
+{ "name": "MinaTheHollower", "type": "Game" }
+
+{ "name": "Mindustry", "type": "Game" }
+
+{ "name": "MiniAirways.x86_64", "type": "Game" }
+
+{ "name": "launchscript", "type": "Game" }
+{ "name": "Mini Metro", "type": "Game" }
+
+{ "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
+
+{ "name": "Mini_Thief", "type": "Game" }
+
+{ "name": "Miscrits_Linux", "type": "Game" }
+
+{ "name": "MissFurry.x86_64", "type": "Game" }
+
+{ "name": "Mister Furry.x86_64", "type": "Game" }
+
+{ "name": "MisterFurryHotMusclesLinux.x86_64", "type": "Game" }
+
+{ "name": "mistlegacy.x86_64", "type": "Game" }
+
+{ "name": "MMALife.x86_64", "type": "Game" }
+
+{ "name": "MT2", "type": "Game" }
+
+{ "name": "Mobbos", "type": "Game" }
+
+{ "name": "mocktail", "type": "Game" }
+
+{ "name": "Modern Tanks.x86_64", "type": "Game" }
+
+{ "name": "momentum", "type": "Game" }
+
+{ "name": "MomodoraRUtM.out", "type": "Game" }
+{ "name": "MomodoraRUtM", "type": "Game" }
+
+{ "name": "Monaco.bin.x86", "type": "Game" }
+
+{ "name": "monstercakes.x86", "type": "Game" }
+
+{ "name": "MonsterLovesYou.x86", "type": "Game" }
+{ "name": "MonsterLovesYou.x86_64", "type": "Game" }
+
+{ "name": "MonsterProm.x86", "type": "Game" }
+{ "name": "MonsterProm.x86_64", "type": "Game" }
+
+{ "name": "MonsterCamp.x86_64", "type": "Game" }
+
+{ "name": "MonsterRoadtrip.x86_64", "type": "Game" }
+
+{ "name": "MonsterCon.x86_64", "type": "Game" }
+
+{ "name": "Monster Sanctuary.x86", "type": "Game" }
+{ "name": "Monster Sanctuary.x86_64", "type": "Game" }
+
+{ "name": "Monstrum.x86", "type": "Game" }
+{ "name": "Monstrum.x86_64", "type": "Game" }
+
+{ "name": "MoonHunters.x86_64", "type": "Game" }
+{ "name": "MoonHunters.x86", "type": "Game" }
+
+{ "name": "Moonlighter.x86", "type": "Game" }
+{ "name": "Moonlighter.x86_64", "type": "Game" }
+
+{ "name": "Moonsigil Atlas.x86_64", "type": "Game" }
+
+{ "name": "Moonstone Island", "type": "Game" }
+
+{ "name": "mordheim.x86_64", "type": "Game" }
+
+{ "name": "Mosaique Neko Waifus 4.x86_64", "type": "Game" }
+
+{ "name": "Mosa Lina", "type": "Game" }
+
+{ "name": "MoSimulator.x86_64", "type": "Game" }
+
+{ "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
+
+{ "name": "MM.x86_64", "type": "Game" }
+
+{ "name": "Mountain.x86", "type": "Game" }
+{ "name": "Mountain.x86_64", "type": "Game" }
+
+{ "name": "mb_warband_linux", "type": "Game" }
+
+{ "name": "mrfarmboyLinux.x86_64", "type": "Game" }
+
+{ "name": "MrShifty.x86_64", "type": "Game" }
+
+{ "name": "Muck.x86_64", "type": "Game" }
+
+{ "name": "Munin.x86", "type": "Game" }
+{ "name": "Munin.x86_64", "type": "Game" }
+
+{ "name": "MurderMiners", "type": "Game" }
+
+{ "name": "mxgp3.x86_64", "type": "Game" }
+
+{ "name": "MyBimboDream", "type": "Game" }

@@ -1,0 +1,2 @@
+{ "name": "tuned", "type": "BG_CPUIO" }
+{ "name": "tuned-ppd", "type": "BG_CPUIO" }

@@ -1,0 +1,2 @@
+{ "name": "niri", "type": "LowLatency_RT" }
+{ "name": "niri-session", "type": "LowLatency_RT" }

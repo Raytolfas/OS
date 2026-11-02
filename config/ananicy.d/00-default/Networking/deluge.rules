@@ -1,0 +1,3 @@
+{ "name": "deluge", "type": "BG_CPUIO" }
+{ "name": "deluge-gtk", "type": "BG_CPUIO" }
+{ "name": "deluged", "type": "BG_CPUIO" }

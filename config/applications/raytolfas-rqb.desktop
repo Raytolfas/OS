@@ -2,7 +2,8 @@
 Type=Application
 Name=RayQuiro Application Runner
 Exec=/usr/local/bin/raytolfas-rqb-runner %f
+Icon=application-x-executable
 Terminal=false
-NoDisplay=false
+NoDisplay=true
 MimeType=application/x-rqb;
 Categories=Utility;Development;

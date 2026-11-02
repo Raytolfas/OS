@@ -1,0 +1,254 @@
+
+
+{ "name": "Danganronpa2", "type": "Game" }
+{ "name": "Danganronpa2_32", "type": "Game" }
+
+{ "name": "Danganronpa", "type": "Game" }
+{ "name": "Danganronpa_32", "type": "Game" }
+
+{ "name": "darkest.bin.x86", "type": "Game" }
+{ "name": "darkest.bin.x86_64", "type": "Game" }
+
+{ "name": "Darkwood.x86_64", "type": "Game" }
+
+{ "name": "dod_linux64", "type": "Game" }
+
+{ "name": "dayofinfamy_linux", "type": "Game" }
+
+{ "name": "Dott", "type": "Game" }
+
+{ "name": "DDNet", "type": "Game" }
+
+{ "name": "DDNet-Server", "type": "Service" }
+
+{ "name": "deadcells", "type": "Game" }
+
+{ "name": "DeadCore.x86", "type": "Game" }
+
+{ "name": "ADVGame", "type": "Game" }
+
+{ "name": "Dead In Vinland.x86", "type": "Game" }
+{ "name": "Dead In Vinland.x86_64", "type": "Game" }
+
+{ "name": "DeadIslandRiptideGame", "type": "Game" }
+
+{ "name": "Deadly30", "type": "Game" }
+
+{ "name": "Deadly Days.x86_64", "type": "Game" }
+
+{ "name": "DeadMaze", "type": "Game" }
+
+{ "name": "Dead Pixels", "type": "Game" }
+
+{ "name": "Dead Synchronicity.x86", "type": "Game" }
+{ "name": "Dead Synchronicity.x86_64", "type": "Game" }
+
+{ "name": "DeathAndTaxes.x86_64", "type": "Game" }
+
+{ "name": "prog-linux", "type": "Game" }
+
+{ "name": "Decay - The Mare.x86", "type": "Game" }
+
+{ "name": "Deep Sky Derelicts.x86_64", "type": "Game" }
+
+{ "name": "defcon.bin.x86", "type": "Game" }
+
+{ "name": "DefendersQuest", "type": "Game" }
+
+{ "name": "DefenseGrid2", "type": "Game" }
+
+{ "name": "delivery-beyond.x86_64", "type": "Game" }
+
+{ "name": "delta_linux", "type": "Game" }
+
+{ "name": "Democracy3.bin.x86", "type": "Game" }
+{ "name": "Democracy3.bin.x86_64", "type": "Game" }
+
+{ "name": "demoncrawl", "type": "Game" }
+
+{ "name": "Demonschool.x86_64", "type": "Game" }
+
+{ "name": "Deponia", "type": "Game" }
+
+{ "name": "Deponia4", "type": "Game" }
+
+{ "name": "deponia_tcj", "type": "Game" }
+
+{ "name": "Depraved.x86_64", "type": "Game" }
+
+{ "name": "Descenders.x86_64", "type": "Game" }
+
+{ "name": "DesertStalker", "type": "Game" }
+
+{ "name": "DesktopDungeons.x86", "type": "Game" }
+
+{ "name": "Desktop Nard.x86_64", "type": "Game" }
+
+{ "name": "Desperados III.x86_64", "type": "Game" }
+
+{ "name": "desperados32", "type": "Game" }
+
+{ "name": "Despotism3k.x86_64", "type": "Game" }
+
+{ "name": "DespotsGame.x86_64", "type": "Game" }
+
+{ "name": "Destroyer The U-Boat Hunter.x86_64", "type": "Game" }
+
+{ "name": "DetectiveGrimoire", "type": "Game" }
+
+{ "name": "Detention.x86", "type": "Game" }
+
+{ "name": "DeusExMD", "type": "Game" }
+
+{ "name": "devildaggers", "type": "Game" }
+
+{ "name": "Devil Spire Falls.x86_64", "type": "Game" }
+
+{ "name": "devilutionx", "type": "Game" }
+
+{ "name": "Dex.x86", "type": "Game" }
+
+{ "name": "dfhack", "type": "Game" }
+
+{ "name": "dhewm3", "type": "Game" }
+
+{ "name": "diceydungeons", "type": "Game" }
+
+{ "name": "DictatorsNoPeaceCountryballs.x86_64", "type": "Game" }
+
+{ "name": "Dirt4", "type": "Game" }
+
+{ "name": "DirtRally", "type": "Game" }
+
+{ "name": "Disgaea2SteamOS", "type": "Game" }
+
+{ "name": "Distance", "type": "Game" }
+
+{ "name": "EoCApp", "type": "Game" }
+
+{ "name": "dom4_amd64", "type": "Game" }
+{ "name": "dom4_x86", "type": "Game" }
+
+{ "name": "dom5_amd64", "type": "Game" }
+{ "name": "dom5_arm", "type": "Game" }
+{ "name": "dom5_x86", "type": "Game" }
+
+{ "name": "dom6_amd64", "type": "Game" }
+
+{ "name": "dnftm.x86", "type": "Game" }
+{ "name": "dnftm.x86_64", "type": "Game" }
+
+{ "name": "Don't Let It Starve.x86_64", "type": "Game" }
+
+{ "name": "DontPullMeLinux.x86_64", "type": "Game" }
+
+{ "name": "Doodle Empires.x86_64", "type": "Game" }
+
+{ "name": "DoodleGame", "type": "Game" }
+
+{ "name": "DoorKickers", "type": "Game" }
+
+{ "name": "Doorways.x86", "type": "Game" }
+
+{ "name": "dota2", "type": "Game" }
+
+{ "name": "underlords", "type": "Game" }
+
+{ "name": "dot_defence.x86_64", "type": "Game" }
+
+{ "name": "DoubleDragonGaiden_ROTD", "type": "Game" }
+
+{ "name": "down-with-the-ship", "type": "Game" }
+
+{ "name": "dnt.x86", "type": "Game" }
+
+{ "name": "Dragons-Linux-Shipping", "type": "Game" }
+
+{ "name": "DR3D_Streets2", "type": "Game" }
+
+{ "name": "Drawful2_Vulkan", "type": "Game" }
+{ "name": "Drawful2_OpenGL", "type": "Game" }
+
+{ "name": "Draw&Guess", "type": "Game" }
+
+{ "name": "dreadout.x86", "type": "Game" }
+{ "name": "dreadout.x86_64", "type": "Game" }
+
+{ "name": "DDaDDS.x86", "type": "Game" }
+{ "name": "DDaDDS.x86_64", "type": "Game" }
+
+{ "name": "Dreamfall Chapters", "type": "Game" }
+
+{ "name": "Dreaming_Isles", "type": "Game" }
+
+{ "name": "Dreamland", "type": "Game" }
+
+{ "name": "DreamsofDesire", "type": "Game" }
+
+{ "name": "DL2_Linux.x86_64", "type": "Game" }
+
+{ "name": "DRIVERally.x86_64", "type": "Game" }
+
+{ "name": "Dropsy.x86", "type": "Game" }
+{ "name": "Dropsy.x86_64", "type": "Game" }
+
+{ "name": "Drova.x86_64", "type": "Game" }
+
+{ "name": "Duck Detective - The Ghost of Glamping", "type": "Game" }
+
+{ "name": "Duck Detective - The Secret Salami", "type": "Game" }
+
+{ "name": "Duelyst2", "type": "Game" }
+
+{ "name": "Dummynation", "type": "Game" }
+
+{ "name": "Dungeon Alchemist.x64", "type": "Game" }
+
+{ "name": "DungeonClawler.x86_64", "type": "Game" }
+
+{ "name": "LinuxDownloadLauncher", "type": "Game" }
+{ "name": "DungeonDefenders-x86", "type": "Game" }
+
+{ "name": "Dungeon Drafters.x86_64", "type": "Game" }+
+
+{ "name": "DungeonofElements.x86", "type": "Game" }
+
+{ "name": "Dungeon Rushers.x86", "type": "Game" }
+
+{ "name": "Dungeons2", "type": "Game" }
+
+{ "name": "Dungeons3", "type": "Game" }
+
+{ "name": "DnDG_linux.x86_64", "type": "Game" }
+
+{ "name": "Dredmor", "type": "Game" }
+
+{ "name": "Archon-Linux-Shipping", "type": "Game" }
+
+{ "name": "Dungreed.x86_64", "type": "Game" }
+
+{ "name": "DurkaSimulator", "type": "Game" }
+
+{ "name": "dusk.x86_64", "type": "Game" }
+{ "name": "duskworld.x86_64", "type": "Game" }
+
+{ "name": "Duskers_linux.x86", "type": "Game" }
+{ "name": "Duskers_linux.x86_64", "type": "Game" }
+
+{ "name": "DustAET", "type": "Game" }
+
+{ "name": "Dustforce.bin.x86", "type": "Game" }
+{ "name": "Dustforce.bin.x86_64", "type": "Game" }
+
+{ "name": "Mountain_Eaters", "type": "Game" }
+
+{ "name": "dwarfort", "type": "Game" }
+
+{ "name": "Dwarfs", "type": "Game" }
+
+{ "name": "d1x-rebirth", "type": "Game" }
+{ "name": "d2x-rebirth", "type": "Game" }
+
+{ "name": "DyingLightGame", "type": "Game" }
+
+{ "name": "dystopia", "type": "Game" }

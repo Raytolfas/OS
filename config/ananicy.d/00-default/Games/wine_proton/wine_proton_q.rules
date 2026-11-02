@@ -1,0 +1,52 @@
+
+
+{ "name": "QPet.exe", "type": "Game" }
+
+{ "name": "Quake_x64_steam.exe", "type": "Game" }
+{ "name": "glquake.exe", "type": "Game" }
+{ "name": "quake.exe", "type": "Game" }
+{ "name": "glqwcl.exe", "type": "Game" }
+{ "name": "qwcl.exe", "type": "Game" }
+{ "name": "Winquake.exe", "type": "Game" }
+
+{ "name": "Quake4.exe", "type": "Game" }
+{ "name": "Quake4Ded.exe", "type": "Game" }
+
+{ "name": "QuakeChampions.exe", "type": "Game" }
+
+{ "name": "quake2.exe", "type": "Game" }
+{ "name": "quake2ex_steam.exe", "type": "Game" }
+
+{ "name": "quake3.exe", "type": "Game" }
+
+{ "name": "q2rtx.exe", "type": "Game" }
+
+{ "name": "quakelive_steam.exe", "type": "Game" }
+
+{ "name": "QuantumBreak.exe", "type": "Game" }
+
+{ "name": "TryGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "CookerSync.exe", "type": "BG_CPUIO" }
+
+{ "name": "QZSim.exe", "type": "BG_CPUIO" }
+{ "name": "QZSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Quasimorph.exe", "type": "Game" }
+
+{ "name": "Quaver.exe", "type": "Game" }
+
+{ "name": "QUBEGame.exe", "type": "Game" }
+
+{ "name": "Quern.exe", "type": "Game" }
+
+{ "name": "QUICKERFLAK.exe", "type": "Game" }
+
+{ "name": "Quickie A Love Hotel Story.exe", "type": "Game" }
+
+{ "name": "QuickieMassage.exe", "type": "Game" }
+
+{ "name": "Quiplash.exe", "type": "Game" }
+
+{ "name": "Quiplash 2 InterLASHional.exe", "type": "Game" }
+
+{ "name": "Q-UP.exe", "type": "Game" }

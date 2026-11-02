@@ -1,0 +1,150 @@
+
+
+{ "name": "RaceOfLife", "type": "Game" }
+
+{ "name": "RaceTheSun.x86", "type": "Game" }
+
+{ "name": "RC.x86_64", "type": "Game" }
+
+{ "name": "Rail Route.x86", "type": "Game" }
+
+{ "name": "RailwayEmpire", "type": "Game" }
+
+{ "name": "Rakuen.amd64", "type": "Game" }
+
+{ "name": "REMProject.x86_64", "type": "Game" }
+
+{ "name": "Ravager", "type": "Game" }
+
+{ "name": "ravenfield.x86_64", "type": "Game" }
+
+{ "name": "rbdoom3bfg", "type": "Game" }
+
+{ "name": "ReassemblySteam64", "type": "Game" }
+
+{ "name": "Rebel Cops.x86_64", "type": "Game" }
+
+{ "name": "receiver", "type": "Game" }
+
+{ "name": "Receiver2", "type": "Game" }
+
+{ "name": "ReclaimingtheLost", "type": "Game" }
+
+{ "name": "redorchestra-bin", "type": "Game" }
+
+{ "name": "Refence.x86_64", "type": "Game" }
+
+{ "name": "Refunct-Linux-Shipping", "type": "Game" }
+
+{ "name": "Regions of Ruin.x86_64", "type": "Game" }
+
+{ "name": "Reigns.x86", "type": "Game" }
+{ "name": "Reigns.x86_64", "type": "Game" }
+
+{ "name": "ReignsGoT.x86_64", "type": "Game" }
+{ "name": "ReignsGoT.x86", "type": "Game" }
+
+{ "name": "Reigns2.x86", "type": "Game" }
+{ "name": "Reigns2.x86_64", "type": "Game" }
+
+{ "name": "RelicHuntersZero", "type": "Game" }
+
+{ "name": "Rento.x86_64", "type": "Game" }
+
+{ "name": "Replicube.x86_64", "type": "Game" }
+
+{ "name": "Resolutiion.x86_64", "type": "Game" }
+
+{ "name": "retrocityrampage", "type": "Game" }
+
+{ "name": "Retrocycles", "type": "Game" }
+{ "name": "Retrocycles_Dedicated", "type": "Service" }
+
+{ "name": "Return to Monkey Island", "type": "Game" }
+
+{ "name": "Reus", "type": "Game" }
+
+{ "name": "reversion", "type": "Game" }
+
+{ "name": "rhythia", "type": "Game" }
+
+{ "name": "Rhythm Doctor", "type": "Game" }
+
+{ "name": "Mahjong-JP.x86_64", "type": "Game" }
+
+{ "name": "RimWorldLinux", "type": "Game" }
+
+{ "name": "riot-web", "type": "LowLatency_RT" }
+
+{ "name": "Rise of Industry.x86_64", "type": "Game" }
+
+{ "name": "RiseOfTheTombRaider", "type": "Game" }
+
+{ "name": "ROWS.x86_64", "type": "Game" }
+
+{ "name": "RisingLords", "type": "Game" }
+
+{ "name": "risingworld", "type": "Game" }
+{ "name": "RisingWorld.x64", "type": "Game" }
+
+{ "name": "Risk_of_Rain", "type": "Game" }
+
+{ "name": "RCRU", "type": "Game" }
+
+{ "name": "RoadRedemption.x86_64", "type": "Game" }
+
+{ "name": "Roadwarden", "type": "Game" }
+
+{ "name": "Robocraft.x86_64", "type": "Game" }
+
+{ "name": "Robothorium.x86", "type": "Game" }
+
+{ "name": "Disco Dodgeball.x86", "type": "Game" }
+{ "name": "Disco Dodgeball.x86_64", "type": "Game" }
+
+{ "name": "rbz.x86_64", "type": "Game" }
+
+{ "name": "Rochard", "type": "Game" }
+
+{ "name": "rocketbirds.bin.x86", "type": "Game" }
+
+{ "name": "RocketLeague", "type": "Game" }
+
+{ "name": "Roguebook", "type": "Game" }
+
+{ "name": "Rogue Genesia.x86_64", "type": "Game" }
+
+{ "name": "RogueLegacy", "type": "Game" }
+
+{ "name": "RogueLegacy2", "type": "Game" }
+{ "name": "RogueLegacy2.x86_64", "type": "Game" }
+
+{ "name": "RogueVoltage.x86_64", "type": "Game" }
+
+{ "name": "Roots of Pacha.x86_64", "type": "Game" }
+
+{ "name": "rott-registered", "type": "Game" }
+{ "name": "rott-shareware", "type": "Game" }
+
+{ "name": "rott", "type": "Game" }
+{ "name": "rottexpr", "type": "Game" }
+
+{ "name": "RPG Maker MV", "type": "Game" }
+
+{ "name": "Ruiner-Linux-Shipping", "type": "Game" }
+
+{ "name": "rs3linux", "type": "Game" }
+{ "name": "rs2client", "type": "Game" }
+
+{ "name": "launch_config", "type": "Game" }
+{ "name": "launch_game", "type": "Game" }
+
+{ "name": "ZeusRunner.x86_64", "type": "Game" }
+
+{ "name": "RUSH.bin.x86", "type": "Game" }
+
+{ "name": "RussianLifeSimulator.x86_64", "type": "Game" }
+
+{ "name": "RUSSIAPHOBIA.x86_64", "type": "Game" }
+
+{ "name": "rust", "type": "Game" }

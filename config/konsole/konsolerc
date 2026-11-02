@@ -1,0 +1,10 @@
+[Desktop Entry]
+DefaultProfile=Raytolfas.profile
+
+[MainWindow]
+MenuBar=Disabled
+ShowMenuBarByDefault=false
+ToolBarsMovable=Disabled
+
+[KonsoleWindow]
+ShowWindowTitleOnTitleBar=true

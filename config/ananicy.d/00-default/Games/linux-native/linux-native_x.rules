@@ -1,0 +1,25 @@
+
+
+{ "name": "X3AP_main", "type": "Game" }
+
+{ "name": "X3FL_main", "type": "Game" }
+{ "name": "test_X3FL_main", "type": "Game" }
+{ "name": "test_X3TC_main", "type": "Game" }
+
+{ "name": "X4", "type": "Game" }
+
+{ "name": "net.studio08.xbplay", "type": "Game" }
+
+{ "name": "XCOM2", "type": "Game" }
+
+{ "name": "Xenonauts.bin.x86", "type": "Game" }
+
+{ "name": "xonotic-glx", "type": "Game" }
+{ "name": "xonotic-local-sdl", "type": "Game" }
+{ "name": "xonotic-sdl", "type": "Game" }
+
+{ "name": "Airfoil-Maker-i386", "type": "Game" }
+{ "name": "Plane-Maker-i386", "type": "Game" }
+{ "name": "X-Plane-i386", "type": "Game" }
+
+{ "name": "XRebirth", "type": "Game" }

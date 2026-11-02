@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+MimeType=application/x-iso9660-appimage;application/vnd.appimage;application/x-executable;
+Actions=integrateAppImage;
+X-KDE-Priority=TopLevel
+
+[Desktop Action integrateAppImage]
+Name=Integrate & Run AppImage
+Name[ru]=Интегрировать и запустить AppImage
+Icon=application-x-executable
+Exec=raytolfas-appimage %f run

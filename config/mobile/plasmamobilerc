@@ -1,0 +1,5 @@
+[General]
+animationsEnabled=true
+navigationPanelEnabled=true
+vibrationsEnabled=true
+vibrationDuration=15

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+export QT_QUICK_CONTROLS_STYLE=Basic
+exec python3 /usr/share/raytolfas/control-center/main.py "$@"

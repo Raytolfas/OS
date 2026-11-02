@@ -1,0 +1,1 @@
+DPkg::Pre-Invoke { "if [ -x /usr/local/bin/btrfs-auto-snapshot ]; then /usr/local/bin/btrfs-auto-snapshot create apt || true; fi"; };

@@ -1,0 +1,63 @@
+
+{ "name": "brave", "type": "Doc-View" }
+{ "name": "brave-bin", "type": "Doc-View" }
+{ "name": "brave-browser", "type": "Doc-View" }
+{ "name": "brave-origin", "type": "Doc-View" }
+{ "name": "brave-sandbox", "type": "Doc-View" }
+
+{ "name": "chrome", "type": "Doc-View" }
+{ "name": "chrome-sandbox", "type": "Doc-View" }
+{ "name": "google-chrome-dev", "type": "Doc-View" }
+{ "name": "google-chrome-unstable", "type": "Doc-View" }
+{ "name": "nacl_helper", "type": "Doc-View" }
+{ "name": "chrome_crashpad_handler", "type": "BG_CPUIO" }
+
+{ "name": "chromium", "type": "Doc-View" }
+
+{ "name": "msedge", "type": "Doc-View" }
+{ "name": "msedge_crashpad", "type": "BG_CPUIO" }
+{ "name": "thorium", "type": "Doc-View" }
+{ "name": "thorium-browser", "type": "Doc-View" }
+
+{ "name": "cromite", "type": "Doc-View" }
+
+
+{ "name": "opera", "type": "Doc-View" }
+
+{ "name": "opera-gx", "type": "Doc-View" }
+{ "name": "opera-sandbox", "type": "Doc-View" }
+
+{ "name": "vivaldi", "type": "Doc-View" }
+{ "name": "vivaldi-snapshot", "type": "Doc-View" }
+
+
+{ "name": "firedragon", "type": "Doc-View" }
+{ "name": "firedragon-bin", "type": "Doc-View" }
+
+{ "name": "firefox", "type": "Doc-View" }
+{ "name": "firefox-bin", "type": "Doc-View" }
+{ "name": "firefox-developer-edition", "type": "Doc-View" }
+{ "name": "firefox-esr", "type": "Doc-View" }
+{ "name": "firefox-nightly", "type": "Doc-View" }
+
+{ "name": "icecat", "type": "Doc-View" }
+
+{ "name": "librewolf", "type": "Doc-View" }
+{ "name": "librewolf-bin", "type": "Doc-View" }
+{ "name": "librewolf-nightly", "type": "Doc-View" }
+
+{ "name": "firefox.real", "type": "Doc-View" }
+
+{ "name": "waterfox-g", "type": "Doc-View" }
+
+{ "name": "zen-bin", "type": "Doc-View" }
+{ "name": "zen", "type": "Doc-View" }
+
+{ "name": "floorp", "type": "Doc-View" }
+
+{ "name": "mullvadbrowser.real", "type": "Doc-View" }
+
+{ "name": "yandex_browser", "type": "Doc-View" }
+{ "name": "yandex-browser", "type": "Doc-View" }
+{ "name": "yandex-browser-stable", "type": "Doc-View" }
+{ "name": "yandex-browser-beta", "type": "Doc-View" }

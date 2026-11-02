@@ -1,0 +1,2 @@
+{ "name": "kopia", "type": "BG_CPUIO" }
+{ "name": "kopia-ui", "type": "BG_CPUIO" }

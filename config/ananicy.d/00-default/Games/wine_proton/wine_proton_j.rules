@@ -1,0 +1,164 @@
+
+
+{ "name": "dmxconvert.exe", "type": "Game" }
+{ "name": "jbep3.exe", "type": "Game" }
+
+{ "name": "jackal.exe", "type": "Game" }
+
+{ "name": "JackStart.exe", "type": "Game" }
+{ "name": "JackOrlando.exe", "type": "Game" }
+
+{ "name": "Jacksmith.exe", "type": "Game" }
+
+{ "name": "JadeEmpireConfig.exe", "type": "Game" }
+{ "name": "JadeEmpireLauncher.exe", "type": "Game" }
+{ "name": "JadeEmpire.exe", "type": "Game" }
+
+{ "name": "WF6.exe", "type": "Game" }
+
+{ "name": "JA3.exe", "type": "Game" }
+{ "name": "JA3Debug.exe", "type": "Game" }
+
+{ "name": "JaggedAllianceBIA.exe", "type": "Game" }
+{ "name": "GameJABiA.exe", "type": "Game" }
+
+{ "name": "Jalopy.exe", "type": "Game" }
+
+{ "name": "Jamestown.exe", "type": "Game" }
+
+{ "name": "JapaneseLife.exe", "type": "Game" }
+
+{ "name": "JASON.exe", "type": "Game" }
+
+{ "name": "Jay and Silent Bob Chronic Blunt Punch.exe", "type": "Game" }
+
+{ "name": "Jazzpunk.exe", "type": "Game" }
+{ "name": "jazzpunk.exe", "type": "Game" }
+
+{ "name": "JDM.exe", "type": "Game" }
+
+{ "name": "JellyCar Worlds.exe", "type": "Game" }
+
+{ "name": "jerezarena_3.exe", "type": "Game" }
+
+{ "name": "Jerez'sArena.exe", "type": "Game" }
+
+{ "name": "Jet Lancer.exe", "type": "Game" }
+
+{ "name": "jrex.exe", "type": "Game" }
+
+{ "name": "jetsetradio.exe", "type": "Game" }
+{ "name": "jsrsetup.exe", "type": "Game" }
+
+{ "name": "jng_gold.exe", "type": "Game" }
+
+{ "name": "JHL.exe", "type": "Game" }
+
+{ "name": "Jigsaw-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JohanasLife.exe", "type": "BG_CPUIO" }
+{ "name": "JohanasLife-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JobSimulator.exe", "type": "Game" }
+
+{ "name": "John Carpenter's Toxic Commando.exe", "type": "Game" }
+
+{ "name": "Jotunnslayer.exe", "type": "Game" }
+
+{ "name": "Jotun.exe", "type": "Game" }
+
+{ "name": "Journey.exe", "type": "Game" }
+
+{ "name": "JoaR.exe", "type": "Game" }
+
+{ "name": "Journey of Wrestling.exe", "type": "Game" }
+
+{ "name": "Journey to Alien Worlds.exe", "type": "Game" }
+
+{ "name": "Journey to Incrementalia.exe", "type": "Game" }
+
+{ "name": "JTW.exe", "type": "Game" }
+
+{ "name": "YuGang.exe", "type": "Game" }
+
+{ "name": "JREAST_TrainSimulator.exe", "type": "Game" }
+
+{ "name": "Dredd.exe", "type": "Game" }
+
+{ "name": "JudgeSim.exe", "type": "BG_CPUIO" }
+{ "name": "JudgeSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "judgment.exe", "type": "Game" }
+
+{ "name": "Juice Galaxy.exe", "type": "Game" }
+
+{ "name": "JuicyRealm.exe", "type": "Game" }
+
+{ "name": "Jujutsu Kaisen CC.exe", "type": "Game" }
+
+{ "name": "Jujutsu Kaisen Phantom Parade.exe", "type": "Game" }
+{ "name": "PCGamePlatform.exe", "type": "Game" }
+
+{ "name": "JUMP_FORCE.exe", "type": "BG_CPUIO" }
+{ "name": "JUMP_FORCE-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JumpKing.exe", "type": "Game" }
+
+{ "name": "JKQ.exe", "type": "Game" }
+
+{ "name": "Jump Space.exe", "type": "Game" }
+
+{ "name": "Junkyard Builder.exe", "type": "Game" }
+
+{ "name": "JunkYard.exe", "type": "BG_CPUIO" }
+{ "name": "JunkYard-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JunkyardTruck.exe", "type": "Game" }
+
+{ "name": "SimpleRockets2.exe", "type": "Game" }
+
+{ "name": "jh.exe", "type": "Game" }
+
+{ "name": "JurassicPark100.exe", "type": "Game" }
+
+{ "name": "JWE.exe", "type": "Game" }
+
+{ "name": "JWE2.exe", "type": "Game" }
+
+{ "name": "JWE3.exe", "type": "Game" }
+
+{ "name": "JUR.exe", "type": "Game" }
+
+{ "name": "JustActNatural.exe", "type": "Game" }
+
+{ "name": "JustAnotherNightShift.exe", "type": "BG_CPUIO" }
+{ "name": "JustAnotherNightShift-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JCSetup.exe", "type": "Game" }
+{ "name": "JustCause.exe", "type": "Game" }
+
+{ "name": "JustCause2.exe", "type": "Game" }
+
+{ "name": "JcmpLauncher.exe", "type": "Game" }
+
+{ "name": "JustCause3.exe", "type": "Game" }
+
+{ "name": "PlayJCMP.exe", "type": "Game" }
+
+{ "name": "JustCause4.exe", "type": "Game" }
+
+{ "name": "JDGame.exe", "type": "BG_CPUIO" }
+{ "name": "JDGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "JustGo.exe", "type": "Game" }
+
+{ "name": "JustIgnoreThemRemake.exe", "type": "Game" }
+{ "name": "justignorethem.exe", "type": "Game" }
+
+{ "name": "Just Pizza.exe", "type": "Game" }
+
+{ "name": "JSB.exe", "type": "Game" }
+
+{ "name": "JustXiangqi.exe", "type": "Game" }
+
+{ "name": "PixelMuseum.exe", "type": "Game" }

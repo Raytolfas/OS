@@ -1,0 +1,6 @@
+{ "name": "sway", "type": "LowLatency_RT" }
+
+{ "name": "swaync", "type": "Service" }
+{ "name": "swaync-client", "type": "Service" }
+
+{ "name": "swayidle", "type": "Service" }

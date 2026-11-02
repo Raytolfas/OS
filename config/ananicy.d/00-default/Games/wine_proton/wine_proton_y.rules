@@ -1,0 +1,187 @@
+
+
+{ "name": "YachtDice.exe", "type": "Game" }
+
+{ "name": "NRZGame.exe", "type": "Game" }
+
+{ "name": "Yakuza0.exe", "type": "Game" }
+
+{ "name": "yakuza0_dc.exe", "type": "Game" }
+
+{ "name": "Yakuza3.exe", "type": "Game" }
+
+{ "name": "Yakuza4.exe", "type": "Game" }
+
+{ "name": "Yakuza5.exe", "type": "Game" }
+
+{ "name": "Yakuza6.exe", "type": "Game" }
+
+{ "name": "yakuzakiwami_r.exe", "type": "Game" }
+
+{ "name": "yakuzakiwami2_r.exe", "type": "Game" }
+
+{ "name": "YakuzaKiwami2.exe", "type": "Game" }
+
+{ "name": "YakuzaKiwami.exe", "type": "Game" }
+
+{ "name": "YakuzaLikeADragon.exe", "type": "Game" }
+
+{ "name": "MassageShop.exe", "type": "Game" }
+
+{ "name": "YandereSimulator.exe", "type": "Game" }
+
+{ "name": "Yaoling.exe", "type": "Game" }
+
+{ "name": "yapyap.exe", "type": "Game" }
+
+{ "name": "YAR.exe", "type": "BG_CPUIO" }
+{ "name": "YAR-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "YargisServer.exe", "type": "Service" }
+{ "name": "YargisServerConfig.exe", "type": "Service" }
+{ "name": "YargisFeedback.exe", "type": "Service" }
+
+{ "name": "YARISUTEMESUBUTA.exe", "type": "Game" }
+{ "name": "YM.exe", "type": "Game" }
+
+{ "name": "THOSE GAMES.exe", "type": "Game" }
+
+{ "name": "yearwalk.exe", "type": "Game" }
+
+{ "name": "Yellow Taxi Goes Vroom.exe", "type": "Game" }
+
+{ "name": "yellow.exe", "type": "Game" }
+
+{ "name": "Yesterday.exe", "type": "Game" }
+
+{ "name": "Yes, Your Grace.exe", "type": "Game" }
+
+{ "name": "Yes Your Grace Snowfall.exe", "type": "Game" }
+
+{ "name": "yaig.exe", "type": "Game" }
+
+{ "name": "YetAnotherZombieDefense.exe", "type": "Game" }
+
+{ "name": "YAZD_HD.exe", "type": "Game" }
+
+{ "name": "Yet Another Zombie Survivors.exe", "type": "Game" }
+
+{ "name": "YGGDRA REFRAIN.exe", "type": "Game" }
+
+{ "name": "YiXianPai.exe", "type": "Game" }
+
+{ "name": "YKMETStrade.exe", "type": "Game" }
+
+{ "name": "Ylands.exe", "type": "Game" }
+
+{ "name": "Ymir.exe", "type": "Game" }
+
+{ "name": "Yog-Sothoth's Yard.exe", "type": "Game" }
+
+{ "name": "Yokai Art 2.exe", "type": "Game" }
+
+{ "name": "Yokai Art.exe", "type": "Game" }
+
+{ "name": "Yoko no Hanashi.exe", "type": "Game" }
+
+{ "name": "Yoku.exe", "type": "Game" }
+
+{ "name": "YoloMouse.exe", "type": "BG_CPUIO" }
+
+{ "name": "YoloX.exe", "type": "BG_CPUIO" }
+
+{ "name": "yomawari-steam.exe", "type": "Game" }
+
+{ "name": "YookaLaylee64.exe", "type": "Game" }
+
+{ "name": "BounceWin64.exe", "type": "Game" }
+{ "name": "YLILWin64.exe", "type": "Game" }
+
+{ "name": "ReplayleeWin64.exe", "type": "Game" }
+
+{ "name": "NightRemaster.exe", "type": "Game" }
+
+{ "name": "totono_Steam.exe", "type": "Game" }
+
+{ "name": "YOU ARE THE MONSTER.exe", "type": "BG_CPUIO" }
+{ "name": "Kaiju_2025-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "YDKJVH.EXE", "type": "Game" }
+
+{ "name": "YDKJVM.EXE", "type": "Game" }
+
+{ "name": "YDKJVS.EXE", "type": "Game" }
+
+{ "name": "YDKJVT.EXE", "type": "Game" }
+
+{ "name": "YDKJV1.EXE", "type": "Game" }
+
+{ "name": "YDKJV2.EXE", "type": "Game" }
+
+{ "name": "YDKJV3.EXE", "type": "Game" }
+
+{ "name": "YDKJV4.EXE", "type": "Game" }
+
+{ "name": "YDKJ6.exe", "type": "Game" }
+
+{ "name": "TheGame.exe", "type": "Game" }
+
+{ "name": "yktd.exe", "type": "Game" }
+
+{ "name": "YMBAB.exe", "type": "Game" }
+
+{ "name": "YNAB 4.exe", "type": "Game" }
+
+{ "name": "MonsterFarm.exe", "type": "Game" }
+
+{ "name": "YourChronicle.exe", "type": "Game" }
+
+{ "name": "YourMom.exe", "type": "Game" }
+
+{ "name": "YourMother.exe", "type": "Game" }
+
+{ "name": "YourOnlyMoveIsHUSTLE.exe", "type": "Game" }
+
+{ "name": "YourSisters.exe", "type": "Game" }
+
+{ "name": "YSAP.exe", "type": "Game" }
+
+{ "name": "YoutubersLife.exe", "type": "Game" }
+
+{ "name": "Youtubers Life 2.exe", "type": "Game" }
+
+{ "name": "Youtubers Life 3.exe", "type": "Game" }
+
+{ "name": "ys1plus.exe", "type": "Game" }
+
+{ "name": "ys9.exe", "type": "Game" }
+{ "name": "ys9_JP.exe", "type": "Game" }
+
+{ "name": "Ysc_dx11.exe", "type": "Game" }
+
+{ "name": "yso_win.exe", "type": "Game" }
+
+{ "name": "Ys7.exe", "type": "Game" }
+
+{ "name": "ysf_win.exe", "type": "Game" }
+{ "name": "ysf_win_dx9.exe", "type": "Game" }
+
+{ "name": "ys8.exe", "type": "Game" }
+
+{ "name": "ys6_win_dx9.exe", "type": "Game" }
+{ "name": "ys6_win.exe", "type": "Game" }
+
+{ "name": "ysx_pn.exe", "type": "Game" }
+
+{ "name": "ysx.exe", "type": "Game" }
+
+{ "name": "dlpc.exe", "type": "Game" }
+{ "name": "DuelLinksTakeOver.exe", "type": "Game" }
+
+{ "name": "yugioh_early_days_collection.exe", "type": "Game" }
+
+{ "name": "masterduel.exe", "type": "Game" }
+
+{ "name": "Yunyun_Syndrome.exe", "type": "Game" }
+
+{ "name": "yuppiepsycho.exe", "type": "Game" }

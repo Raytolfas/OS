@@ -1,0 +1,3 @@
+{ "name": "river", "type": "LowLatency_RT" }
+{ "name": "riverctl", "type": "LowLatency_RT" }
+{ "name": "rivertile", "type": "LowLatency_RT" }

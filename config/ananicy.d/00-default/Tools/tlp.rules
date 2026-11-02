@@ -1,0 +1,3 @@
+{ "name": "tlp", "type": "BG_CPUIO" }
+{ "name": "tlp-rdw", "type": "BG_CPUIO" }
+{ "name": "tlp-stat", "type": "BG_CPUIO" }

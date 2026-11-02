@@ -1,0 +1,2 @@
+{ "name": "compton", "type": "LowLatency_RT" }
+{ "name": "picom", "type": "LowLatency_RT" }

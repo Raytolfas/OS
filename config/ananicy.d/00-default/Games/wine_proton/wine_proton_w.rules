@@ -1,0 +1,817 @@
+
+
+{ "name": "Wabisabi.exe", "type": "Game" }
+
+{ "name": "Wagotabi.exe", "type": "Game" }
+
+{ "name": "Waifu.exe", "type": "Game" }
+
+{ "name": "Waifu Shop.exe", "type": "Game" }
+
+{ "name": "Waifusitter.exe", "type": "Game" }
+
+{ "name": "mars-pc.exe", "type": "Game" }
+
+{ "name": "WalkaboutMiniGolf.exe", "type": "Game" }
+
+{ "name": "The Walking Zombie 2.exe", "type": "Game" }
+
+{ "name": "Walk of Life.exe", "type": "Game" }
+
+{ "name": "WallpaperAliveMenu.exe", "type": "BG_CPUIO" }
+{ "name": "WallpaperAlive.exe", "type": "BG_CPUIO" }
+
+{ "name": "wallpaper64.exe", "type": "BG_CPUIO" }
+
+{ "name": "webview2runtime.exe", "type": "BG_CPUIO" }
+{ "name": "WallpaperPlay.exe", "type": "BG_CPUIO" }
+
+{ "name": "wsr10.exe", "type": "Game" }
+
+{ "name": "WallWorld.exe", "type": "Game" }
+
+{ "name": "WallWorld2.exe", "type": "Game" }
+
+{ "name": "Waltz of the Wizard Witchcraft.exe", "type": "Game" }
+{ "name": "Waltz of the Wizard Extended Edition.exe", "type": "Game" }
+
+{ "name": "Wanba Warriors.exe", "type": "Game" }
+
+{ "name": "WanderburgDemo.exe", "type": "Game" }
+
+{ "name": "JH.exe", "type": "BG_CPUIO" }
+{ "name": "JH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "clearing-Win64-Shipping.exe", "type": "Game" }
+{ "name": "clearing.exe", "type": "BG_CPUIO" }
+
+{ "name": "GalGod.exe", "type": "Game" }
+
+{ "name": "WDGame.exe", "type": "BG_CPUIO" }
+{ "name": "WDGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wantless.exe", "type": "Game" }
+
+{ "name": "Warborne.exe", "type": "Game" }
+
+{ "name": "War_Brokers.exe", "type": "Game" }
+
+{ "name": "WARCANA.exe", "type": "Game" }
+
+{ "name": "Wardrum.exe", "type": "Game" }
+
+{ "name": "WarfaceSteamLauncherInstaller.exe", "type": "Game" }
+
+{ "name": "WarfaceClutchSteamLoader.exe", "type": "Game" }
+
+{ "name": "Warfare.exe", "type": "Game" }
+
+{ "name": "warfork_x64.exe", "type": "Game" }
+
+{ "name": "WFTO.exe", "type": "Game" }
+{ "name": "WFTOGame.exe", "type": "Game" }
+
+{ "name": "Warframe.x64.exe", "type": "Game" }
+
+{ "name": "WarGame2.exe", "type": "Game" }
+
+{ "name": "WarGame.exe", "type": "Game" }
+
+{ "name": "WarGame3.exe", "type": "Game" }
+
+{ "name": "wargroove32.exe", "type": "Game" }
+{ "name": "wargroove64.exe", "type": "Game" }
+
+{ "name": "ArmageddonGame.exe", "type": "Game" }
+
+{ "name": "Warhammer 40K Battlesector.exe", "type": "Game" }
+
+{ "name": "Battle_Sisters.exe", "type": "Game" }
+
+{ "name": "Warhammer 40,000 Boltgun.exe", "type": "BG_CPUIO" }
+{ "name": "Boltgun-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Boltgun2Demo.exe", "type": "BG_CPUIO" }
+{ "name": "Boltgun2Demo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "BoltgunWOV.exe", "type": "BG_CPUIO" }
+{ "name": "BoltgunWOV-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ChaosGate.exe", "type": "Game" }
+
+{ "name": "WH40KDH.exe", "type": "Game" }
+
+{ "name": "Darktide.exe", "type": "Game" }
+
+{ "name": "darkcrusade.exe", "type": "Game" }
+
+{ "name": "W40kME.exe", "type": "Game" }
+
+{ "name": "RelicDoW3.exe", "type": "Game" }
+
+{ "name": "DOW2_r.exe", "type": "Game" }
+
+{ "name": "soulstorm.exe", "type": "Game" }
+
+{ "name": "W40kWA.exe", "type": "Game" }
+
+{ "name": "Gladius.exe", "type": "Game" }
+
+{ "name": "WarHammer_Inquisitor_Prophecy.exe", "type": "Game" }
+
+{ "name": "Mechanicus.exe", "type": "Game" }
+
+{ "name": "Mechanicus2.exe", "type": "Game" }
+
+{ "name": "WH40KRT.exe", "type": "Game" }
+
+{ "name": "SanctusReach.EXE", "type": "Game" }
+
+{ "name": "ShootasBloodAndTeef.exe", "type": "Game" }
+
+{ "name": "Warhammer 40000 Space Marine 2 - Retail.exe", "type": "Game" }
+
+{ "name": "SpaceMarineBootstrapper.exe", "type": "Game" }
+
+{ "name": "SpeedFreeks.exe", "type": "BG_CPUIO" }
+{ "name": "SpeedFreeks-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Warpforge.exe", "type": "Game" }
+
+{ "name": "Warhammer Age of Sigmar - Realms of Ruin.exe", "type": "Game" }
+
+{ "name": "StormGround.exe", "type": "Game" }
+
+{ "name": "Chaosbane.exe", "type": "Game" }
+
+{ "name": "Combat Cards.exe", "type": "Game" }
+
+{ "name": "vermintide.exe", "type": "Game" }
+
+{ "name": "Silver Tower.exe", "type": "Game" }
+
+{ "name": "WarhammerSurvivors.exe", "type": "Game" }
+
+{ "name": "HorusHeresyLegions.exe", "type": "Game" }
+
+{ "name": "wuo.exe", "type": "Game" }
+
+{ "name": "vermintide2_dx12.exe", "type": "Game" }
+{ "name": "vermintide2.exe", "type": "Game" }
+
+{ "name": "War Hospital.exe", "type": "Game" }
+
+{ "name": "Warlord Britannia.exe", "type": "Game" }
+
+{ "name": "Battlecry III.exe", "type": "Game" }
+{ "name": "Warlords Battlecry III Hero Selection.exe", "type": "Game" }
+
+{ "name": "WarmachineGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "WarmachineGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WM-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WARNO.exe", "type": "Game" }
+
+{ "name": "WOB.exe", "type": "BG_CPUIO" }
+{ "name": "WOB-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "War of Rights Launcher.exe", "type": "Game" }
+{ "name": "WarOfRights.exe", "type": "BG_CPUIO" }
+
+{ "name": "WarOnTheSea.exe", "type": "Game" }
+
+{ "name": "Warpips.exe", "type": "Game" }
+
+{ "name": "Warplanes.exe", "type": "Game" }
+
+{ "name": "WarPlanetOnline.exe", "type": "Game" }
+
+{ "name": "GamePro.exe", "type": "Game" }
+
+{ "name": "WoL.exe", "type": "Game" }
+
+{ "name": "WARRIORSAbyss.exe", "type": "Game" }
+
+{ "name": "Star_JP.exe", "type": "Game" }
+{ "name": "Star_KR.exe", "type": "Game" }
+{ "name": "Star_TW.exe", "type": "Game" }
+{ "name": "Star_US.exe", "type": "Game" }
+
+{ "name": "Warriors Of The Nile 2.exe", "type": "Game" }
+
+{ "name": "WO3U.exe", "type": "Game" }
+
+{ "name": "WO4.exe", "type": "Game" }
+
+{ "name": "War Robots Steam.exe", "type": "Game" }
+
+{ "name": "WarRobotsSteamLoader.exe", "type": "BG_CPUIO" }
+{ "name": "WRFrontiers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WRLauncher.exe", "type": "Game" }
+{ "name": "warrock.exe", "type": "Game" }
+
+{ "name": "SteamLauncher.exe", "type": "Game" }
+{ "name": "GlyphEngine.exe", "type": "Game" }
+
+{ "name": "Warside.exe", "type": "Game" }
+
+{ "name": "Warsim.exe", "type": "Game" }
+{ "name": "Warsim classic.exe", "type": "Game" }
+
+{ "name": "warspear.exe", "type": "Game" }
+
+{ "name": "Warstride.exe", "type": "BG_CPUIO" }
+{ "name": "Warstride-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wartales.exe", "type": "Game" }
+
+{ "name": "War Tanks.exe", "type": "Game" }
+
+{ "name": "aces-min-cpu.exe", "type": "Game" }
+
+{ "name": "War Trigger 3.exe", "type": "Game" }
+
+{ "name": "WartuneReborn.exe", "type": "Game" }
+
+{ "name": "Warudo.exe", "type": "Game" }
+
+{ "name": "warzone2100.exe", "type": "Game" }
+
+{ "name": "WASD.exe", "type": "Game" }
+
+{ "name": "WashingtonPrime.exe", "type": "Game" }
+
+{ "name": "wasteland.exe", "type": "Game" }
+
+{ "name": "WL3.exe", "type": "Game" }
+
+{ "name": "Watch.exe", "type": "BG_CPUIO" }
+{ "name": "WatchClicker-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Watch_Dogs.exe", "type": "Game" }
+{ "name": "watch_dogs.exe", "type": "Game" }
+
+{ "name": "WatchDogs2.exe", "type": "Game" }
+
+{ "name": "WatchDogsLegion.exe", "type": "Game" }
+
+{ "name": "KapowMulti.exe", "type": "Game" }
+
+{ "name": "Waveform.exe", "type": "Game" }
+
+{ "name": "Waven.exe", "type": "Game" }
+
+{ "name": "Waves.exe", "type": "Game" }
+
+{ "name": "WAVESHAPER.exe", "type": "Game" }
+
+{ "name": "Wavetale.exe", "type": "Game" }
+
+{ "name": "wax_heads.exe", "type": "Game" }
+
+{ "name": "Wayfinder.exe", "type": "Game" }
+
+{ "name": "WayOfTheHunter.exe", "type": "BG_CPUIO" }
+{ "name": "WayOfTheHunter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WOTH2.exe", "type": "BG_CPUIO" }
+{ "name": "WOTH2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WayOfTheSamurai3.exe", "type": "Game" }
+
+{ "name": "WayOfTheSamurai4.exe", "type": "Game" }
+
+{ "name": "WaysOfAlchemy.exe", "type": "Game" }
+
+{ "name": "wayward.exe", "type": "Game" }
+
+{ "name": "weable.exe", "type": "Game" }
+
+{ "name": "WeaponGenius.exe", "type": "Game" }
+
+{ "name": "WeaponShopFantasy.exe", "type": "Game" }
+
+{ "name": "fe_nt.exe", "type": "Game" }
+{ "name": "fe.exe", "type": "Game" }
+
+{ "name": "waf2024.exe", "type": "Game" }
+
+{ "name": "webbed.exe", "type": "Game" }
+
+{ "name": "We-Become-What-We-Behold.exe", "type": "Game" }
+
+{ "name": "webfishing.exe", "type": "Game" }
+
+{ "name": "Wedding Witch.exe", "type": "Game" }
+
+{ "name": "Wednesdays.exe", "type": "Game" }
+
+{ "name": "ThirdPersonTemplate.exe", "type": "BG_CPUIO" }
+{ "name": "ThirdPersonTemplate-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Weed Shop 3.exe", "type": "Game" }
+
+{ "name": "Weed Supermarket Simulator.exe", "type": "Game" }
+
+{ "name": "We Escaped a Twisted Game.exe", "type": "Game" }
+
+{ "name": "Pluto-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GlimpseGame.exe", "type": "Game" }
+
+{ "name": "WeirdWest.exe", "type": "BG_CPUIO" }
+{ "name": "WeirdWest-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Welcome to Doll Town.exe", "type": "Game" }
+
+{ "name": "WelcometoFreeWill.exe", "type": "Game" }
+
+{ "name": "Zombie3.exe", "type": "Game" }
+
+{ "name": "WTTG.exe", "type": "Game" }
+
+{ "name": "WTTG2.exe", "type": "Game" }
+
+{ "name": "WTTG3.exe", "type": "BG_CPUIO" }
+{ "name": "WTTGSD-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WLKRR.exe", "type": "Game" }
+
+{ "name": "WeNeedToGoDeeper.exe", "type": "Game" }
+
+{ "name": "WW.exe", "type": "BG_CPUIO" }
+{ "name": "WW-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WTIB.exe", "type": "BG_CPUIO" }
+{ "name": "WTIB-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WesteradoDB.exe", "type": "Game" }
+
+{ "name": "West Hunt.exe", "type": "Game" }
+
+{ "name": "Westland Survival.exe", "type": "Game" }
+
+{ "name": "WestOfDead.exe", "type": "Game" }
+
+{ "name": "West of Loathing.exe", "type": "Game" }
+
+{ "name": "LabEscape.exe", "type": "BG_CPUIO" }
+{ "name": "LabEscape-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WetGirl.exe", "type": "Game" }
+
+{ "name": "We.TheRevolution_x86.exe", "type": "Game" }
+{ "name": "We.TheRevolution_x86_64.exe", "type": "Game" }
+
+{ "name": "Wet passion.exe", "type": "Game" }
+
+{ "name": "Wet Wealth.exe", "type": "Game" }
+
+{ "name": "We Were Here.exe", "type": "Game" }
+
+{ "name": "We Were Here Expeditions The FriendShip.exe", "type": "Game" }
+
+{ "name": "We Were Here Forever.exe", "type": "Game" }
+
+{ "name": "We Were Here Together.exe", "type": "Game" }
+
+{ "name": "We Were Here Tomorrow.exe", "type": "Game" }
+
+{ "name": "We Were Here Too.exe", "type": "Game" }
+
+{ "name": "WWAATD.exe", "type": "BG_CPUIO" }
+{ "name": "WWAATD-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "What in HELL is Bad.exe", "type": "Game" }
+
+{ "name": "FinchGame.exe", "type": "Game" }
+
+{ "name": "WHAT THE GOLF.exe", "type": "Game" }
+
+{ "name": "ProjectHermes.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectHermes-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wizards.exe", "type": "Game" }
+
+{ "name": "Wheel Make It.exe", "type": "Game" }
+
+{ "name": "LyraGame.exe", "type": "BG_CPUIO" }
+{ "name": "LyraGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WTHI_Season1.exe", "type": "Game" }
+
+{ "name": "wwm.exe", "type": "Game" }
+
+{ "name": "wtl.exe", "type": "Game" }
+
+{ "name": "While_We_Wait_Here-Win64-Shipping.exe", "type": "Game" }
+{ "name": "While_We_Wait_Here.exe", "type": "BG_CPUIO" }
+
+{ "name": "Whimsical Artefacts.exe", "type": "Game" }
+
+{ "name": "Whimsy Bake and Craft.exe", "type": "Game" }
+
+{ "name": "Whirlight.exe", "type": "Game" }
+
+{ "name": "Whiskerwood.exe", "type": "BG_CPUIO" }
+{ "name": "Whiskerwood-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WhisperingLedger.exe", "type": "Game" }
+
+{ "name": "WhisperingWillows.exe", "type": "Game" }
+
+{ "name": "Whisper of the House.exe", "type": "Game" }
+
+{ "name": "GaiaSWEntry.exe", "type": "Game" }
+
+{ "name": "WhiteDay.exe", "type": "Game" }
+
+{ "name": "Wholesome-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Wholesome.exe", "type": "BG_CPUIO" }
+
+{ "name": "WhosLila.exe", "type": "Game" }
+
+{ "name": "WhosNext.exe", "type": "Game" }
+
+{ "name": "WHO'S WHO 2.0.exe", "type": "Game" }
+
+{ "name": "WhosYourDaddy.exe", "type": "Game" }
+
+{ "name": "Wicked Seed.exe", "type": "Game" }
+
+{ "name": "WickedWays.exe", "type": "Game" }
+
+{ "name": "WidgetInc.exe", "type": "Game" }
+
+{ "name": "WildAssault.exe", "type": "Game" }
+
+{ "name": "WildBastards.exe", "type": "Game" }
+
+{ "name": "Wildcat Gun Machine.exe", "type": "Game" }
+
+{ "name": "wildermyth.exe", "type": "Game" }
+
+{ "name": "Wildfrost.exe", "type": "Game" }
+
+{ "name": "NebulaLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "NebulaClientSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WILD HEARTS.exe", "type": "Game" }
+{ "name": "WILD HEARTS_Trial.exe", "type": "Game" }
+
+{ "name": "WildLifeC.exe", "type": "BG_CPUIO" }
+{ "name": "WildLifeC-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wildmender_win64.exe", "type": "Game" }
+
+{ "name": "Wild-Terra-2.exe", "type": "Game" }
+
+{ "name": "wildwest.exe", "type": "Game" }
+
+{ "name": "Wild Woods.exe", "type": "Game" }
+
+{ "name": "WILL.exe", "type": "Game" }
+
+{ "name": "Will.exe", "type": "BG_CPUIO" }
+{ "name": "WillProject-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Will Glow the Wisp.exe", "type": "Game" }
+
+{ "name": "WTL.exe", "type": "BG_CPUIO" }
+{ "name": "WTL-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wilmot Works It Out Demo.exe", "type": "Game" }
+{ "name": "Wilmot Works It Out.exe", "type": "Game" }
+
+{ "name": "Windblown.exe", "type": "Game" }
+
+{ "name": "Windosill.exe", "type": "Game" }
+
+{ "name": "godotworkshoputility.exe", "type": "Game" }
+{ "name": "windowkill-vulkan.exe", "type": "Game" }
+
+{ "name": "Windrose-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Windrose.exe", "type": "BG_CPUIO" }
+
+{ "name": "ProjectSandbox.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectSandbox-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Windward Horizon.exe", "type": "Game" }
+
+{ "name": "Winexy.exe", "type": "Game" }
+
+{ "name": "WingsOfSeduction.exe", "type": "Game" }
+
+{ "name": "Wingspan.exe", "type": "Game" }
+
+{ "name": "Shopkeeper.exe", "type": "Game" }
+
+{ "name": "WP10_Launcher.exe", "type": "Game" }
+{ "name": "WP10.exe", "type": "Game" }
+
+{ "name": "WP10_2024_Launcher.exe", "type": "Game" }
+{ "name": "WP10_2024.exe", "type": "Game" }
+
+{ "name": "WP10_2025_Launcher.exe", "type": "Game" }
+{ "name": "WP10_2025.exe", "type": "Game" }
+{ "name": "WP10_2025_DX11.exe", "type": "Game" }
+
+{ "name": "WP10_2026_Launcher.exe", "type": "Game" }
+{ "name": "WP10_2026.exe", "type": "Game" }
+
+{ "name": "WP9_2022_Launcher.exe", "type": "Game" }
+{ "name": "WP9_2022.exe", "type": "Game" }
+
+{ "name": "Winter Burrow.exe", "type": "Game" }
+
+{ "name": "WinterResortSimulator_Season2.exe", "type": "Game" }
+
+{ "name": "WiresAndWhiskers.exe", "type": "BG_CPUIO" }
+{ "name": "PFE-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wireworks.exe", "type": "Game" }
+
+{ "name": "RICO.exe", "type": "BG_CPUIO" }
+{ "name": "RICO-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Witchfire.exe", "type": "BG_CPUIO" }
+{ "name": "Witchfire-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WitchHand.exe", "type": "Game" }
+
+{ "name": "Witch_Hunt.exe", "type": "Game" }
+
+{ "name": "PropWitchHuntModule-Win64-Shipping.exe", "type": "Game" }
+{ "name": "WitchIt.exe", "type": "BG_CPUIO" }
+
+{ "name": "WoH.exe", "type": "Game" }
+
+{ "name": "Witch's Apocalyptic Journey.exe", "type": "Game" }
+
+{ "name": "Hercules.exe", "type": "BG_CPUIO" }
+{ "name": "Hercules-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WitchSpringR.exe", "type": "Game" }
+
+{ "name": "Witchy Business.exe", "type": "Game" }
+
+{ "name": "Withering Rooms.exe", "type": "Game" }
+
+{ "name": "WithEyesClosed.exe", "type": "Game" }
+
+{ "name": "AquaticTime.exe", "type": "Game" }
+
+{ "name": "without_within.exe", "type": "Game" }
+
+{ "name": "YourCoworker.exe", "type": "Game" }
+
+{ "name": "ZetaDesktopApp.exe", "type": "BG_CPUIO" }
+
+{ "name": "Wizard101.exe", "type": "Game" }
+
+{ "name": "Wizard and Minion Idle.exe", "type": "Game" }
+
+{ "name": "WizardOfLegend.exe", "type": "Game" }
+
+{ "name": "WOL2.exe", "type": "BG_CPUIO" }
+{ "name": "WOL2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wiz8.exe", "type": "Game" }
+
+{ "name": "wizardry.exe", "type": "BG_CPUIO" }
+{ "name": "Wizardry.exe", "type": "BG_CPUIO" }
+{ "name": "murphy-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WizardryFoV2.exe", "type": "Game" }
+
+{ "name": "WizardryVariantsDaphne.exe", "type": "Game" }
+
+{ "name": "Wizard's Wheel 2.exe", "type": "Game" }
+
+{ "name": "wizardwithagun.exe", "type": "Game" }
+
+{ "name": "WiZmans World ReTry.exe", "type": "Game" }
+
+{ "name": "Wizordum.exe", "type": "Game" }
+
+{ "name": "WizUp.exe", "type": "Game" }
+
+{ "name": "Wobbledogs.exe", "type": "Game" }
+
+{ "name": "Wobbly Life.exe", "type": "Game" }
+
+{ "name": "Wolcen.exe", "type": "Game" }
+
+{ "name": "Spear.exe", "type": "Game" }
+{ "name": "wolf3d.exe", "type": "Game" }
+
+{ "name": "et.exe", "type": "Game" }
+{ "name": "etded.exe", "type": "Game" }
+
+{ "name": "WolfOldBlood_x64.exe", "type": "Game" }
+
+{ "name": "Youngblood_x64vk.exe", "type": "Game" }
+
+{ "name": "Wolfpack.exe", "type": "Game" }
+
+{ "name": "WolfQuestAE.exe", "type": "Game" }
+
+{ "name": "WoLong.exe", "type": "Game"}
+
+{ "name": "Wolvesville.exe", "type": "Game" }
+
+{ "name": "wb.exe", "type": "Game" }
+{ "name": "wb_gl.exe", "type": "Game" }
+
+{ "name": "WonderKing.exe", "type": "Game" }
+
+{ "name": "Wool at the Gates.exe", "type": "Game" }
+
+{ "name": "WoolfeLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "WoolfeGame.exe", "type": "Game" }
+
+{ "name": "WooLoop.exe", "type": "Game" }
+
+{ "name": "Wordle_FR.exe", "type": "Game" }
+{ "name": "Wordle_Rus.exe", "type": "Game" }
+{ "name": "Wordle.exe", "type": "Game" }
+{ "name": "Wordle_chi.exe", "type": "Game" }
+{ "name": "Wordle_DE.exe", "type": "Game" }
+
+{ "name": "wordle2.exe", "type": "Game" }
+
+{ "name": "wordle3.exe", "type": "Game" }
+
+{ "name": "Word Play.exe", "type": "Game" }
+
+{ "name": "SOVIET.exe", "type": "Game" }
+{ "name": "SOVIET64.exe", "type": "Game" }
+
+{ "name": "Workspace Fantasy.exe", "type": "Game" }
+
+{ "name": "worldbox.exe", "type": "Game" }
+
+{ "name": "NewKaragon.exe", "type": "Game" }
+
+{ "name": "Worldless.exe", "type": "Game" }
+
+{ "name": "WOFF.exe", "type": "Game" }
+
+{ "name": "WorldOfFootball.exe", "type": "BG_CPUIO" }
+{ "name": "WorldOfFootball-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WorldOfGoo.exe", "type": "Game" }
+
+{ "name": "disasm.exe", "type": "Game" }
+{ "name": "disasm64.exe", "type": "Game" }
+
+{ "name": "worldofhorror.exe", "type": "Game" }
+
+{ "name": "WorldOfOutlaws24.exe", "type": "Game" }
+
+{ "name": "WorldOfSeaBattleClient.exe", "type": "Game" }
+
+{ "name": "World of Shooting.exe", "type": "Game" }
+
+{ "name": "WorldOfTalesworth.exe", "type": "Game" }
+
+{ "name": "wgc.exe", "type": "BG_CPUIO" }
+{ "name": "WorldOfTanks.exe", "type": "Game" }
+
+{ "name": "wotblitz.exe", "type": "BG_CPUIO" }
+
+{ "name": "wgcs_api.exe", "type": "Game" }
+
+{ "name": "Wow.exe", "type": "Game" }
+{ "name": "WowClassic.exe", "type": "Game" }
+
+{ "name": "WorldOfWarplanes.exe", "type": "Game" }
+
+{ "name": "WoWSLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "WorldOfWarships64.exe", "type": "Game" }
+{ "name": "WorldOfWarships.exe", "type": "BG_CPUIO" }
+
+{ "name": "WorldOfWarshipsLegends.exe", "type": "Game" }
+
+{ "name": "WorldsOfMagic.exe", "type": "Game" }
+
+{ "name": "ww2.exe", "type": "Game" }
+
+{ "name": "WW3_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "WW3_Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WorldWarArmies.exe", "type": "Game" }
+
+{ "name": "WW3.exe", "type": "Game" }
+
+{ "name": "WorldWarLegion.exe", "type": "Game" }
+
+{ "name": "wwzRetail.exe", "type": "Game" }
+
+{ "name": "Worldwide Rush.exe", "type": "Game" }
+
+{ "name": "Wormis.exe", "type": "Game" }
+
+{ "name": "WormsBlast.exe", "type": "Game" }
+
+{ "name": "WormsClanWars.exe", "type": "Game" }
+
+{ "name": "WormsCrazyGolf.exe", "type": "Game" }
+
+{ "name": "WormsReloaded.exe", "type": "Game" }
+
+{ "name": "WormsRevolution.exe", "type": "Game" }
+
+{ "name": "WormsMayhem.exe", "type": "Game" }
+
+{ "name": "Worms W.M.D.exe", "type": "Game" }
+
+{ "name": "w2.exe", "type": "Game" }
+
+{ "name": "WorshippersOfCthulhu.exe", "type": "Game" }
+
+{ "name": "BlitzSteam.exe", "type": "BG_CPUIO" }
+{ "name": "BlitzSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "wrath-sdl.exe", "type": "Game" }
+{ "name": "wrath.exe", "type": "Game" }
+
+{ "name": "WRC10.exe", "type": "Game" }
+
+{ "name": "WRC4.exe", "type": "Game" }
+
+{ "name": "WRC5.exe", "type": "Game" }
+
+{ "name": "WRC6.exe", "type": "Game" }
+
+{ "name": "WRC7.exe", "type": "Game" }
+
+{ "name": "WRC8.exe", "type": "Game" }
+
+{ "name": "WRC9.exe", "type": "Game" }
+
+{ "name": "WRCG.exe", "type": "Game" }
+
+{ "name": "Wreckfest.exe", "type": "Game" }
+{ "name": "Wreckfest_x64.exe", "type": "Game" }
+
+{ "name": "Wreckfest2.exe", "type": "Game" }
+
+{ "name": "WrenchGame.exe", "type": "BG_CPUIO" }
+{ "name": "WrenchGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WrestlingEmpireModLauncher.exe", "type": "Game" }
+{ "name": "Wrestling Empire.exe", "type": "Game" }
+
+{ "name": "Sunlight.exe", "type": "Game" }
+{ "name": "Sunlight-Win64-DebugGame.exe", "type": "Game" }
+
+{ "name": "Project_Plague.exe", "type": "BG_CPUIO" }
+{ "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
+{ "name": "Project_Plague-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wuppo.exe", "type": "Game" }
+
+{ "name": "WurmLauncher64.exe", "type": "Game" }
+
+{ "name": "WurmLauncher.exe", "type": "Game" }
+
+{ "name": "KRSDKExternal.exe", "type": "BG_CPUIO" }
+{ "name": "Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Wuthering Waves.exe", "type": "BG_CPUIO" }
+
+{ "name": "Rebuilder.exe", "type": "BG_CPUIO" }
+{ "name": "Rebuilder-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WWE2K16_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K17_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K18_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K19_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K20_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K22_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K23_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K24_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K25_x64.exe", "type": "Game" }
+
+{ "name": "WWE2K26_x64.exe", "type": "Game" }
+
+{ "name": "WWEBattlegrounds.exe", "type": "BG_CPUIO" }
+{ "name": "WWEPlaygrounds-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WW2.exe", "type": "Game" }
+
+{ "name": "WyldeFlowers.exe", "type": "Game" }
+
+{ "name": "UnrealGameSteam.exe", "type": "Game" }
+
+{ "name": "Wytchwood.exe", "type": "Game" }

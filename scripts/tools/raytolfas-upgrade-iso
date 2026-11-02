@@ -51,7 +51,12 @@ fi
 
 mount -o loop,ro "${SQUASHFS_FILE}" "${SQFS_MNT}"
 
+if [ -x /usr/local/bin/btrfs-auto-snapshot ]; then
+    /usr/local/bin/btrfs-auto-snapshot create iso-upgrade 2>/dev/null || true
+fi
+
 rsync -aHAX --delete \
+    --exclude=/.snapshots \
     --exclude=/home \
     --exclude=/root \
     --exclude=/boot/efi \
@@ -86,12 +91,12 @@ rsync -aHAX --delete \
     --exclude=/swapfile \
     "${SQFS_MNT}/" /
 
-GENERIC_VMLINUZ="$(ls -1t /boot/vmlinuz-*-generic 2>/dev/null | head -n 1 || true)"
-if [ -n "${GENERIC_VMLINUZ}" ] && [ -f "${GENERIC_VMLINUZ}" ]; then
-    GENERIC_NAME="$(basename "${GENERIC_VMLINUZ}")"
-    VERSION_SUFFIX="${GENERIC_NAME#vmlinuz-}"
-    ln -sf "${GENERIC_NAME}" /boot/vmlinuz
-    ln -sf "boot/${GENERIC_NAME}" /vmlinuz 2>/dev/null || true
+TARGET_VMLINUZ="$(ls -1t /boot/vmlinuz-*cachyos* /boot/vmlinuz-*-generic /boot/vmlinuz-* 2>/dev/null | head -n 1 || true)"
+if [ -n "${TARGET_VMLINUZ}" ] && [ -f "${TARGET_VMLINUZ}" ]; then
+    KERNEL_NAME="$(basename "${TARGET_VMLINUZ}")"
+    VERSION_SUFFIX="${KERNEL_NAME#vmlinuz-}"
+    ln -sf "${KERNEL_NAME}" /boot/vmlinuz
+    ln -sf "boot/${KERNEL_NAME}" /vmlinuz 2>/dev/null || true
     if [ -f "/boot/initrd.img-${VERSION_SUFFIX}" ]; then
         ln -sf "initrd.img-${VERSION_SUFFIX}" /boot/initrd.img
         ln -sf "boot/initrd.img-${VERSION_SUFFIX}" /initrd.img 2>/dev/null || true
@@ -106,6 +111,8 @@ for u in /etc/skel /home/*; do
         rm -f "$u/.config/plasmashellrc" 2>/dev/null || true
     fi
 done
+
+sed -i 's/Current=Fluent/Current=breeze/g; s/Session=plasmawayland/Session=plasma/g' /etc/sddm.conf /etc/sddm.conf.d/*.conf 2>/dev/null || true
 
 ldconfig 2>/dev/null || true
 update-desktop-database /usr/share/applications 2>/dev/null || true

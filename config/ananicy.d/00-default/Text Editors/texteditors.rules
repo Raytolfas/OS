@@ -1,0 +1,63 @@
+{ "name": "anytype", "type": "Doc-View" }
+{ "name": "anytypeHelper", "type": "Doc-View" }
+
+{ "name": "atom", "type": "Doc-View" }
+{ "name": "pulsar", "type": "Doc-View" }
+
+{ "name": "codium", "type": "Doc-View" }
+
+{ "name": "code", "type": "Doc-View" }
+{ "name": "code-insiders", "type": "Doc-View" }
+{ "name": "code.js", "type": "Doc-View" }
+{ "name": "micro", "type": "Doc-View" }
+
+{ "name": "nvim", "type": "Doc-View" }
+{ "name": "vim", "type": "Doc-View" }
+{ "name": "lapce", "type": "Doc-View" }
+
+{ "name": "sublime_merge", "type": "Doc-View" }
+{ "name": "sublime-text", "type": "Doc-View" }
+
+{ "name": "nano", "type": "Doc-View" }
+{ "name": "plugin_host", "type": "Doc-View" }
+{ "name": "subl3", "type": "Doc-View" }
+{ "name": "sublime_text", "type": "Doc-View" }
+{ "name": "kate", "type": "Doc-View" }
+
+{ "name": "emacs", "type": "Doc-View" }
+{ "name": "emacsclient", "type": "Doc-View" }
+
+{ "name": "kak", "type": "Doc-View" }
+
+{ "name": "hx", "type": "Doc-View" }
+
+{ "name": "zed-editor", "type": "Doc-View" }
+
+{ "name": "texworks", "type": "Doc-View" }
+
+{ "name": "cosmic-edit", "type": "Doc-View" }
+
+{ "name": "idea", "type": "Heavy_CPU" }
+
+{ "name": "pycharm", "type": "Heavy_CPU" }
+
+{ "name": "webstorm", "type": "Heavy_CPU" }
+
+{ "name": "phpstorm", "type": "Heavy_CPU" }
+
+{ "name": "clion", "type": "Heavy_CPU" }
+{ "name": "Rider.Backend", "type": "Heavy_CPU" }
+
+{ "name": "goland", "type": "Heavy_CPU" }
+
+{ "name": "rider", "type": "Heavy_CPU" }
+
+{ "name": "rubymine", "type": "Heavy_CPU" }
+
+{ "name": "datagrip", "type": "Heavy_CPU" }
+
+{ "name": "rustrover", "type": "Heavy_CPU" }
+
+{ "name": "mochi", "type": "Doc-View" }
+
+{ "name": "notepad++.exe", "type": "Doc-View" }

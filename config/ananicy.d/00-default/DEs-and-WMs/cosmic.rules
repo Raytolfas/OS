@@ -1,0 +1,47 @@
+
+{ "name": "cosmic-bg", "type": "BG_CPUIO" }
+
+{ "name": "cosmic-osd", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-idle", "type": "BG_CPUIO" }
+
+{ "name": "cosmic-comp", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-randr", "type": "BG_CPUIO" }
+
+{ "name": "cosmic-panel", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-session", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-app-list", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-a11y", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-audio", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-battery", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-bluetooth", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-input-sources", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-minimize", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-network", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-notifications", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-power", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-status-area", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-tiling", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-time", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-workspaces", "type": "LowLatency_RT" }
+{ "name": "cosmic-applets", "type": "LowLatency_RT" }
+{ "name": "cosmic-panel-button", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-launcher", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-screenshot", "type": "Doc-View" }
+
+{ "name": "cosmic-app-library", "type": "LowLatency_RT" }
+
+{ "name": "cosmic-notifications", "type": "BG_CPUIO" }
+
+{ "name": "cosmic-settings-daemon", "type": "BG_CPUIO" }
+
+{ "name": "cosmic-workspaces", "type": "OOM_NO_KILL" }
+
+
+{ "name": "cosmic-reader", "type": "Doc-View" }
+

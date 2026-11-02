@@ -1,0 +1,82 @@
+{ "name": "gogdl", "type": "BG_CPUIO" }
+{ "name": "heroic", "type": "Service" }
+{ "name": "legendary", "type": "IN_DIFF" }
+
+{"name" : "hydralauncher", "type": "Doc-View"}
+{"name" : "hydra-python-rpc", "type": "BG_CPUIO"}
+{"name" : "Hydra", "type": "Launcher"}
+
+{ "name": "Arc.exe", "type": "BG_CPUIO" }
+{ "name": "ArcChat.exe", "type": "Chat" }
+{ "name": "ArcDepends.exe", "type": "BG_CPUIO" }
+{ "name": "ArcLite.exe", "type": "BG_CPUIO" }
+{ "name": "ArcLiteReport.exe", "type": "BG_CPUIO" }
+{ "name": "ArcOverlay.exe", "type": "Service" }
+{ "name": "ArcRepair.exe", "type": "BG_CPUIO" }
+{ "name": "ArcUpdate.exe", "type": "BG_CPUIO" }
+{ "name": "ArcWebviewRender.exe", "type": "Doc-View" }
+
+{ "name": "GameCenter.exe", "type": "BG_CPUIO" }
+
+{ "name": "EpicGamesLauncher.exe", "type": "Launcher" }
+
+{ "name": "EpicWebHelper.exe", "type": "Doc-View" }
+
+{ "name": "Origin.exe", "type": "Doc-View" }
+
+{ "name": "EADesktop.exe", "type": "Doc-View" }
+{ "name": "EALauncher.exe", "type": "Launcher" }
+
+{ "name": "EABackgroundService.exe", "type": "BG_CPUIO" }
+{ "name": "EAConnect_microsoft.exe", "type": "BG_CPUIO" }
+{ "name": "EACrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "EAGEP.exe", "type": "BG_CPUIO" }
+{ "name": "EALaunchHelper.exe", "type": "BG_CPUIO" }
+{ "name": "EAStreamProxy.exe", "type": "BG_CPUIO" }
+{ "name": "EAUninstall.exe", "type": "BG_CPUIO" }
+{ "name": "ErrorReporter.exe", "type": "BG_CPUIO" }
+{ "name": "GetGameToken32.exe", "type": "BG_CPUIO" }
+{ "name": "GetGameToken64.exe", "type": "BG_CPUIO" }
+{ "name": "IGOProxy32.exe", "type": "BG_CPUIO" }
+{ "name": "Link2EA.exe", "type": "BG_CPUIO" }
+{ "name": "OriginLegacyCompatibility.exe", "type": "BG_CPUIO" }
+{ "name": "EACoreServer.exe", "type": "BG_CPUIO" }
+
+{ "name": "prismlauncher", "type": "Game" }
+{ "name": "elyprismlauncher", "type": "Game" }
+
+{ "name": "modrinth-app", "type": "Launcher" }
+{ "name": "modrinth-app-wrapped", "type": "Launcher" }
+
+{ "name": "fjordlauncher", "type": "Game" }
+
+{ "name": "bottles", "type": "Launcher" }
+
+{ "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
+
+{ "name": "steam", "type": "Launcher" }
+{ "name": "steam.sh", "type": "Launcher" }
+
+{ "name": "steamwebhelper", "type": "Doc-View" }
+
+{ "name": "Steam.exe", "type": "Launcher" }
+
+{ "name": "vrserver", "type": "LowLatency_RT" }
+
+{ "name": "steamwebhelper.exe", "type": "Doc-View" }
+
+{ "name": "UbisoftGameLaun", "type": "BG_CPUIO" }
+{ "name": "upc.exe", "type": "BG_CPUIO" }
+{ "name": "UplayWebCore.exe", "type": "Doc-View" }
+
+{ "name": "com.github.tkashkin.gamehub", "type": "BG_CPUIO" }
+
+{ "name": "wivrn-dashboard", "type": "BG_CPUIO" }
+{ "name": "wivrn-server", "type": "LowLatency_RT" }
+
+{ "name": "monado-service", "type": "LowLatency_RT" }
+
+{ "name": "alvr-launcher", "type": "Launcher" }
+{ "name": "alvr-dashboard", "type": "BG_CPUIO" }
+
+{ "name": "samp.exe", "type": "Launcher" }

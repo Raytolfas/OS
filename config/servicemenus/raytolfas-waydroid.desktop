@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+MimeType=application/vnd.android.package-archive;
+Actions=installWaydroid;
+X-KDE-Priority=TopLevel
+
+[Desktop Action installWaydroid]
+Name=Install in Waydroid (Android)
+Name[ru]=Установить в Waydroid (Android)
+Icon=android-studio
+Exec=raytolfas-apk-install %f

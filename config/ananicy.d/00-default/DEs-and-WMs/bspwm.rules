@@ -1,0 +1,4 @@
+{ "name": "bspwm", "type": "LowLatency_RT" }
+{ "name": "bspc", "type": "LowLatency_RT" }
+
+{ "name": "bsp-layout", "type": "LowLatency_RT" }

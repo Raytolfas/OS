@@ -5,18 +5,20 @@ SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd -- "${SCRIPT_DIR}/../.." && pwd)"
 
 IMG_DIR="${REPO_ROOT}/build/images"
-IMG_FILE="${IMG_DIR}/raytolfas-os-m1.img"
+FINAL_XZ="${IMG_DIR}/raytolfas-os-m1.img.xz"
+IMG_FILE="/var/lib/raytolfas/raytolfas-os-m1.tmp.img"
 PLASMA_ROOTFS="/var/lib/raytolfas/plasma-rootfs"
 MOUNT_DIR="/tmp/m1-target-mnt"
 LIMINE_DIR="${REPO_ROOT}/build/limine"
 
-mkdir -p "${IMG_DIR}"
+mkdir -p "${IMG_DIR}" "/var/lib/raytolfas"
 
 if [ ! -d "${PLASMA_ROOTFS}" ]; then
     echo "Rootfs not found at ${PLASMA_ROOTFS}"
     exit 1
 fi
 
+rm -f "${IMG_FILE}" "${IMG_FILE}.xz" "${FINAL_XZ}" "${IMG_DIR}/raytolfas-os-m1.img" "${IMG_DIR}/raytolfas-os-m1-v"*.img*
 truncate -s 14G "${IMG_FILE}"
 
 parted -s "${IMG_FILE}" mklabel gpt
@@ -59,17 +61,18 @@ sudo chmod 1777 "${MOUNT_DIR}/tmp"
 
 cat << 'EOF' | sudo tee "${MOUNT_DIR}/etc/os-release" > /dev/null
 NAME="Raytolfas OS"
-PRETTY_NAME="Raytolfas OS M1 (v26.10.2)"
+PRETTY_NAME="Raytolfas OS M1 (v26.11.0)"
 ID=raytolfas
 ID_LIKE="ubuntu debian"
-VERSION="v26.10.2"
-VERSION_ID="26.10.2"
+VERSION="v26.11.0"
+VERSION_ID="26.11.0"
 VERSION_CODENAME="noble"
-HOME_URL="https://os.raytolfas.cc"
+HOME_URL="https://os.raytolfas.com"
+LOGO=raytolfas-logo
 EOF
 
 sudo cp -f "${MOUNT_DIR}/etc/os-release" "${MOUNT_DIR}/usr/lib/os-release" 2>/dev/null || true
-echo 'Raytolfas OS M1 (v26.10.2)' | sudo tee "${MOUNT_DIR}/etc/issue" "${MOUNT_DIR}/etc/issue.net" > /dev/null
+echo 'Raytolfas OS M1 (v26.11.0)' | sudo tee "${MOUNT_DIR}/etc/issue" "${MOUNT_DIR}/etc/issue.net" > /dev/null
 echo "m1-phone" | sudo tee "${MOUNT_DIR}/etc/hostname" > /dev/null
 sudo sed -i "s/d1-pc/m1-phone/g; s/raytolfas-pc/m1-phone/g" "${MOUNT_DIR}/etc/hosts" 2>/dev/null || true
 
@@ -86,8 +89,8 @@ Session=plasma-mobile
 Relogin=false
 
 [Theme]
-Current=Fluent
-CursorTheme=breeze_cursors
+Current=breeze
+CursorTheme=Bibata-Modern-Classic
 EOF
 
 cat << 'EOF' | sudo tee "${MOUNT_DIR}/etc/environment" > /dev/null
@@ -95,6 +98,9 @@ PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/u
 QT_QPA_PLATFORM="wayland;xcb"
 QT_QUICK_CONTROLS_MOBILE=true
 PLASMA_PLATFORM=phone:handset
+LANG="en_US.UTF-8"
+LC_ALL="en_US.UTF-8"
+LANGUAGE="en_US:en"
 EOF
 
 sudo mkdir -p "${MOUNT_DIR}/boot/efi/EFI/BOOT"
@@ -123,7 +129,6 @@ term_background: 000000
 EOF
 
 if [ -f "${MOUNT_DIR}/usr/share/icons/hicolor/scalable/apps/raytolfas-logo.svg" ]; then
-    gzip -c "${MOUNT_DIR}/usr/share/icons/hicolor/scalable/apps/raytolfas-logo.svg" | sudo tee "${MOUNT_DIR}/usr/share/plasma/desktoptheme/Fluent-round-dark/icons/start.svgz" > /dev/null
     sudo cp -f "${MOUNT_DIR}/usr/share/icons/hicolor/scalable/apps/raytolfas-logo.svg" "${MOUNT_DIR}/usr/share/icons/hicolor/scalable/apps/start-here-kde.svg" 2>/dev/null || true
     sudo cp -f "${MOUNT_DIR}/usr/share/icons/hicolor/scalable/apps/raytolfas-logo.svg" "${MOUNT_DIR}/usr/share/icons/breeze/apps/48/start-here-kde.svg" 2>/dev/null || true
     sudo cp -f "${MOUNT_DIR}/usr/share/icons/hicolor/scalable/apps/raytolfas-logo.svg" "${MOUNT_DIR}/usr/share/icons/breeze-dark/apps/48/start-here-kde.svg" 2>/dev/null || true
@@ -140,4 +145,14 @@ if [ -x "${REPO_ROOT}/build/limine/limine-tool" ]; then
     sudo "${REPO_ROOT}/build/limine/limine-tool" bios-install --force "${IMG_FILE}"
 fi
 
-echo "[build-m1] Successfully built image at ${IMG_FILE}"
+echo "[build-m1] Compressing image with xz..."
+xz -T0 -2 -f "${IMG_FILE}"
+mv -f "${IMG_FILE}.xz" "${FINAL_XZ}"
+(
+    cd "${IMG_DIR}"
+    sha256sum "raytolfas-os-m1.img.xz" > "raytolfas-os-m1.img.xz.sha256"
+    md5sum "raytolfas-os-m1.img.xz" > "raytolfas-os-m1.img.xz.md5"
+)
+rm -f "${IMG_DIR}/raytolfas-os-m1.img"
+
+echo "[build-m1] Successfully built image at ${FINAL_XZ}"

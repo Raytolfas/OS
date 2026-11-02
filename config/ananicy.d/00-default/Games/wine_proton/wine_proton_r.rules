@@ -1,0 +1,967 @@
+
+
+{ "name": "RabbitSteel.exe", "type": "Game" }
+
+{ "name": "rabiribi.exe", "type": "Game" }
+
+{ "name": "RACCOIN.exe", "type": "Game" }
+
+{ "name": "Race_Steam.exe", "type": "Game" }
+
+{ "name": "RaceMaxPro.exe", "type": "Game" }
+
+{ "name": "RaceOfLife.exe", "type": "Game" }
+
+{ "name": "RaceOn_Demo_Dedicated_Steam.exe", "type": "Service" }
+{ "name": "RaceOn_Demo_Steam.exe", "type": "Service" }
+
+{ "name": "Racer8.exe", "type": "Game" }
+
+{ "name": "RRRE_dedicated.exe", "type": "Service" }
+
+{ "name": "RRRE64.exe", "type": "Game" }
+{ "name": "RRREWebBrowser.exe", "type": "Game" }
+
+{ "name": "RaceTheSun.exe", "type": "Game" }
+
+{ "name": "Mutant.exe", "type": "Game" }
+{ "name": "RAD.exe", "type": "Game" }
+
+{ "name": "RC.exe", "type": "Game" }
+
+{ "name": "Raft.exe", "type": "Game" }
+
+{ "name": "rage.exe", "type": "Game" }
+{ "name": "Rage.exe", "type": "Game" }
+{ "name": "Rage64.exe", "type": "Game" }
+
+{ "name": "RAGE2.exe", "type": "Game" }
+
+{ "name": "RagingJustice.exe", "type": "Game" }
+
+{ "name": "ragingloop.exe", "type": "Game" }
+
+{ "name": "Ragnarock.exe", "type": "BG_CPUIO" }
+{ "name": "Ragnarock-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Ragnarok Clicker.exe", "type": "Game" }
+
+{ "name": "Ragexe.exe", "type": "Game" }
+{ "name": "Ragnarok.exe", "type": "Game" }
+
+{ "name": "cabarc.exe", "type": "Game" }
+{ "name": "Rag2.exe", "type": "Game" }
+{ "name": "RO2Client.exe", "type": "Game" }
+
+{ "name": "RooSEALauncher.exe", "type": "Game" }
+{ "name": "ro.exe", "type": "Game" }
+
+{ "name": "Raidborn.exe", "type": "Game" }
+
+{ "name": "Raiders.exe", "type": "Game" }
+
+{ "name": "RoB.exe", "type": "Game" }
+
+{ "name": "Raidou TMOTSA.exe", "type": "Game" }
+
+{ "name": "Raid.exe", "type": "Game" }
+
+{ "name": "Railbound.exe", "type": "Game" }
+
+{ "name": "Railgrade.exe", "type": "BG_CPUIO" }
+{ "name": "Railgrade-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RailroadCorporationSteam.exe", "type": "Game" }
+
+{ "name": "RailroadCorporation2.exe", "type": "Game" }
+
+{ "name": "Railroader.exe", "type": "Game" }
+
+{ "name": "arr.exe", "type": "BG_CPUIO" }
+{ "name": "arr-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RT3.exe", "type": "Game" }
+
+{ "name": "RT2_PLAT.EXE", "type": "Game" }
+
+{ "name": "Rail Route.exe", "type": "Game" }
+
+{ "name": "RailwayEmpire.exe", "type": "Game" }
+
+{ "name": "RailwayEmpire2.exe", "type": "Game" }
+
+{ "name": "Railway Islands.exe", "type": "Game" }
+
+{ "name": "RainWorld.exe", "type": "Game" }
+
+{ "name": "Raji.exe", "type": "BG_CPUIO" }
+{ "name": "Raji-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NyxLauncher.exe", "type": "Game" }
+{ "name": "xldr_Rakion_ST_loader_win32.exe", "type": "Game" }
+
+{ "name": "rakuen.exe", "type": "Game" }
+
+{ "name": "rampage_knights.exe", "type": "Game" }
+
+{ "name": "REMProject.exe", "type": "Game" }
+
+{ "name": "RanaCard.exe", "type": "Game" }
+
+{ "name": "Rance01.exe", "type": "Game" }
+
+{ "name": "Rance02.exe", "type": "Game" }
+
+{ "name": "Rance03.exe", "type": "Game" }
+{ "name": "Rance03D3D9.exe", "type": "Game" }
+
+{ "name": "Ranch Farm and Store Simulator.exe", "type": "Game" }
+
+{ "name": "Ranch_Simulator.exe", "type": "BG_CPUIO" }
+{ "name": "Ranch_Simulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Randals.exe", "type": "Game" }
+
+{ "name": "Bear.exe", "type": "BG_CPUIO" }
+{ "name": "Bear-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RiftApart.exe", "type": "Game" }
+
+{ "name": "Ratopia.exe", "type": "Game" }
+
+{ "name": "Ratropolis.exe", "type": "Game" }
+
+{ "name": "Ratshaker.exe", "type": "Game" }
+
+{ "name": "RatzInstagib.exe", "type": "Game" }
+
+{ "name": "Ravager.exe", "type": "Game" }
+
+{ "name": "ravenfield.exe", "type": "Game" }
+
+{ "name": "Ravenous_Devils.exe", "type": "BG_CPUIO" }
+{ "name": "Ravenous_Devils-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Ravenswatch.exe", "type": "Game" }
+
+{ "name": "Realms Of Ancient War.exe", "type": "Game" }
+
+{ "name": "rayman30th.exe", "type": "Game" }
+
+{ "name": "Rayman Legends.exe", "type": "Game" }
+
+{ "name": "Rayman Origins.exe", "type": "Game" }
+
+{ "name": "checkapplication.exe", "type": "Game" }
+{ "name": "Jade_enr.exe", "type": "Game" }
+
+{ "name": "Razortron 2000 - Original.exe", "type": "Game" }
+{ "name": "Razortron 2000.exe", "type": "Game" }
+
+{ "name": "ReadyOrNot.exe", "type": "BG_CPUIO" }
+{ "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RealFlight.exe", "type": "Game" }
+
+{ "name": "RealFlight64.exe", "type": "Game" }
+
+{ "name": "RealFlightTrainer64.exe", "type": "Game" }
+{ "name": "RealFlightTrainer.exe", "type": "Game" }
+
+{ "name": "Real Horror Stories.exe", "type": "Game" }
+
+{ "name": "Really Big Sky.exe", "type": "Game" }
+
+{ "name": "RealmGrinderDesktop.exe", "type": "Game" }
+
+{ "name": "Realm of Ink.exe", "type": "Game" }
+
+{ "name": "RotMG Exalt Launcher.exe", "type": "Game" }
+
+{ "name": "realMyst.exe", "type": "Game" }
+
+{ "name": "RTCWCoop.x64.exe", "type": "Game" }
+{ "name": "ioWolfMP.x86.exe", "type": "Game" }
+{ "name": "RealRTCW.x64.exe", "type": "Game" }
+{ "name": "RTCWCoopDED.x64.exe", "type": "Game" }
+
+{ "name": "ReassemblyRelease.exe", "type": "Game" }
+
+{ "name": "Rebel Cops.exe", "type": "Game" }
+
+{ "name": "RebelGalaxySteam.exe", "type": "Game" }
+
+{ "name": "Rebel Inc. Escalation.exe", "type": "Game" }
+
+{ "name": "GodSoul.exe", "type": "Game" }
+
+{ "name": "Rebirth Mr Wang.exe", "type": "Game" }
+
+{ "name": "Rebuild3.exe", "type": "Game" }
+
+{ "name": "Receiver.exe", "type": "Game" }
+
+{ "name": "Receiver2.exe", "type": "Game" }
+
+{ "name": "recettear.exe", "type": "Game" }
+
+{ "name": "ReclaimingtheLost.exe", "type": "Game" }
+
+{ "name": "Deedlit in Wonder Labyrinth.exe", "type": "Game" }
+
+{ "name": "ReCore.exe", "type": "Game" }
+
+{ "name": "Recroom_Release.exe", "type": "Game" }
+{ "name": "RecRoom.exe", "type": "Game" }
+
+{ "name": "rcsim.exe", "type": "Game" }
+
+{ "name": "Redacted.exe", "type": "BG_CPUIO" }
+{ "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "PlayRDR2.exe", "type": "Game" }
+
+{ "name": "PlayRDR.exe", "type": "Game" }
+{ "name": "RDR.exe", "type": "Game" }
+
+{ "name": "RF.exe", "type": "Game" }
+{ "name": "RF_120na.exe", "type": "Game" }
+{ "name": "RedFaction.exe", "type": "Game" }
+{ "name": "RED.exe", "type": "Game" }
+
+{ "name": "RedFactionArmageddon.exe", "type": "Game" }
+{ "name": "RedFactionArmageddon_DX11.exe", "type": "Game" }
+
+{ "name": "rfg.exe", "type": "Game" }
+
+{ "name": "RFG.exe", "type": "Game" }
+
+{ "name": "rf2.exe", "type": "Game" }
+
+{ "name": "Redfall.exe", "type": "Game" }
+
+{ "name": "RedFlag.exe", "type": "BG_CPUIO" }
+{ "name": "RedFlag-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Redmatch 2.exe", "type": "Game" }
+
+{ "name": "ROGame.exe", "type": "Game" }
+
+{ "name": "RedOrchestra.exe", "type": "Game" }
+
+{ "name": "redout2.exe", "type": "BG_CPUIO" }
+{ "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "redout.exe", "type": "BG_CPUIO" }
+{ "name": "redout-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "survivors.exe", "type": "BG_CPUIO" }
+{ "name": "TwinStick-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ReEntry.exe", "type": "Game" }
+
+{ "name": "Refence.exe", "type": "Game" }
+
+{ "name": "RefindSelf.exe", "type": "Game" }
+
+{ "name": "Refunct-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Regiments.exe", "type": "Game" }
+
+{ "name": "Regions of Ruin.exe", "type": "Game" }
+
+{ "name": "Regions of Ruin Runegate.exe", "type": "Game" }
+
+{ "name": "SiLClient.exe", "type": "BG_CPUIO" }
+{ "name": "SiLClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Reign of Kings.exe", "type": "Game" }
+
+{ "name": "Reigns.exe", "type": "Game" }
+
+{ "name": "ReignsGoT.exe", "type": "Game" }
+
+{ "name": "Reigns2.exe", "type": "Game" }
+
+{ "name": "ReignsWitcher.exe", "type": "Game" }
+
+{ "name": "Rejected Draft Demo.exe", "type": "Game" }
+
+{ "name": "Reka.exe", "type": "Game" }
+
+{ "name": "Relic Arena.exe", "type": "Game" }
+
+{ "name": "RelicGuardian.exe", "type": "Game" }
+
+{ "name": "RelicHuntersZero.exe", "type": "Game" }
+
+{ "name": "Relooted-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "adl64.exe", "type": "Game" }
+
+{ "name": "RuntimeClient.exe", "type": "BG_CPUIO" }
+{ "name": "RuntimeClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RememberMe.exe", "type": "Game" }
+
+{ "name": "Remnant-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Remnant.exe", "type": "BG_CPUIO" }
+
+{ "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Remnant2.exe", "type": "BG_CPUIO" }
+
+{ "name": "Remothered2.exe", "type": "Game" }
+
+{ "name": "Remothered.exe", "type": "Game" }
+
+{ "name": "RenegadeOps.exe", "type": "Game" }
+
+{ "name": "Rennsport.exe", "type": "BG_CPUIO" }
+{ "name": "Rennsport-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "MapEditor.exe", "type": "Game" }
+{ "name": "Rento.exe", "type": "Game" }
+
+{ "name": "Repair, This!.exe", "type": "Game" }
+
+{ "name": "Replicube.exe", "type": "Game" }
+
+{ "name": "REPO.exe", "type": "Game" }
+
+{ "name": "Republic of Pirates.exe", "type": "Game" }
+
+{ "name": "RHQ.exe", "type": "Game" }
+
+{ "name": "bhd.exe", "type": "Game" }
+
+{ "name": "re0hd.exe", "type": "Game" }
+
+{ "name": "4249100_Launcher.exe", "type": "Game" }
+
+{ "name": "4249110_Launcher.exe", "type": "Game" }
+
+{ "name": "re3.exe", "type": "Game" }
+
+{ "name": "4249120_Launcher.exe", "type": "Game" }
+
+{ "name": "re3demo.exe", "type": "Game" }
+
+{ "name": "re4.exe", "type": "Game" }
+
+{ "name": "bio4.exe", "type": "Game" }
+
+{ "name": "re4demo.exe", "type": "Game" }
+
+{ "name": "re5dx9.exe", "type": "Game" }
+
+{ "name": "BH6.exe", "type": "Game" }
+
+{ "name": "re7trial.exe", "type": "Game" }
+
+{ "name": "RaccoonCity.exe", "type": "Game" }
+
+{ "name": "re9.exe", "type": "Game" }
+
+{ "name": "re9demo.exe", "type": "Game" }
+
+{ "name": "REResistance.exe", "type": "Game" }
+
+{ "name": "rerev.exe", "type": "Game" }
+
+{ "name": "rerev2.exe", "type": "Game" }
+
+{ "name": "Reverse.exe", "type": "Game" }
+
+{ "name": "Resolutiion.exe", "type": "Game" }
+
+{ "name": "Resonance of Fate.exe", "type": "Game" }
+{ "name": "Resonance of FateD.exe", "type": "Game" }
+
+{ "name": "Resonance.exe", "type": "Game" }
+
+{ "name": "Resonite.exe", "type": "BG_CPUIO" }
+{ "name": "Renderite.Renderer.exe", "type": "Game" }
+
+{ "name": "RestAreaSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "RestAreaSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Restaurant Owner - A Restaurant Simulator.exe", "type": "Game" }
+
+{ "name": "Restaurats.exe", "type": "Game" }
+
+{ "name": "Restitched Wardrobe Demo.exe", "type": "Game" }
+
+{ "name": "RestoreYourIsland.exe", "type": "BG_CPUIO" }
+{ "name": "RestoreYourIsland-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RetailCompanySim.exe", "type": "BG_CPUIO" }
+{ "name": "RetailCompanySim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RetailHell.exe", "type": "BG_CPUIO" }
+{ "name": "HorrorMarket-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Retention.exe", "type": "Game" }
+
+{ "name": "retroarch.exe", "type": "Game" }
+
+{ "name": "retrocityrampage.exe", "type": "Game" }
+
+{ "name": "Retrocycles.exe", "type": "Game" }
+{ "name": "Retrocycles_Dedicated.exe", "type": "Service" }
+
+{ "name": "Retrowave.exe", "type": "Game" }
+
+{ "name": "Returnal.exe", "type": "Game" }
+
+{ "name": "ObraDinn.exe", "type": "Game" }
+
+{ "name": "Returns Outlet Simulator.exe", "type": "Game" }
+
+{ "name": "BackToSchool.exe", "type": "BG_CPUIO" }
+{ "name": "BackToSchool-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WolfMP.exe", "type": "Game" }
+{ "name": "WolfSP.exe", "type": "Game" }
+
+{ "name": "Return to Monkey Island.exe", "type": "Game" }
+
+{ "name": "Shironagasu.exe", "type": "Game" }
+
+{ "name": "Reus.exe", "type": "Game" }
+
+{ "name": "Reus 2.exe", "type": "Game" }
+
+{ "name": "Reussir  Code de la route.exe", "type": "Game" }
+
+{ "name": "RevelationOfDecay.exe", "type": "Game" }
+
+{ "name": "RevengeOfTheTitans.exe", "type": "Game" }
+
+{ "name": "Reventure.exe", "type": "Game" }
+
+{ "name": "reverse1999.exe", "type": "Game" }
+
+{ "name": "ReverseCollapse.exe", "type": "Game" }
+
+{ "name": "Reversion.exe", "type": "Game" }
+
+{ "name": "Revita.exe", "type": "Game" }
+
+{ "name": "revolt.exe", "type": "Game" }
+
+{ "name": "ShmupGame.exe", "type": "Game" }
+
+{ "name": "Revolution Idle.exe", "type": "Game" }
+
+{ "name": "Rewind.exe", "type": "Game" }
+
+{ "name": "BusterBlock.exe", "type": "BG_CPUIO" }
+{ "name": "BusterBlock-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "SiglusEngine_SteamEN.exe", "type": "Game" }
+{ "name": "SiglusEngineEN.exe", "type": "Game" }
+
+{ "name": "ReZERO-TPT.exe", "type": "Game" }
+{ "name": "ReZERO-TPT-Launcher.exe", "type": "Game" }
+
+{ "name": "rFactor Dedicated.exe", "type": "Game" }
+{ "name": "rFactor.exe", "type": "Game" }
+
+{ "name": "Launch rFactor.exe", "type": "BG_CPUIO" }
+{ "name": "rFactor2 Mod Mode.exe", "type": "Game" }
+{ "name": "rFactor2.exe", "type": "Game" }
+{ "name": "rFactor2 Dedicated.exe", "type": "Game" }
+
+{ "name": "rhythia.exe", "type": "Game" }
+
+{ "name": "Rhythm Doctor.exe", "type": "Game" }
+
+{ "name": "Rhythm Witch.exe", "type": "Game" }
+
+{ "name": "richman10.exe", "type": "Game" }
+
+{ "name": "richman11.exe", "type": "Game" }
+
+{ "name": "rich4.exe", "type": "Game" }
+
+{ "name": "Richman8.exe", "type": "Game" }
+
+{ "name": "RickAndMortyVR.exe", "type": "Game" }
+
+{ "name": "RiddleJoker.exe", "type": "Game" }
+
+{ "name": "RideX64.exe", "type": "Game" }
+
+{ "name": "Ride2.exe", "type": "Game" }
+{ "name": "Ride2X64.exe", "type": "Game" }
+
+{ "name": "ride3.exe", "type": "BG_CPUIO" }
+{ "name": "ride3-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ride4.exe", "type": "BG_CPUIO" }
+{ "name": "ride4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ride5.exe", "type": "BG_CPUIO" }
+{ "name": "ride5-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ride6.exe", "type": "BG_CPUIO" }
+{ "name": "ride6-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RidersRepublic.exe", "type": "Game" }
+{ "name": "RidersRepublic_BE.exe", "type": "Game" }
+
+{ "name": "RRU.exe", "type": "Game" }
+
+{ "name": "rift_x64.exe", "type": "Game" }
+{ "name": "rift.exe", "type": "Game" }
+{ "name": "riftpatchlive.exe", "type": "Game" }
+
+{ "name": "RiftOfTheNecroDancer.exe", "type": "Game" }
+
+{ "name": "RiftWizard2.exe", "type": "Game" }
+
+{ "name": "RiftWizard3.exe", "type": "Game" }
+
+{ "name": "Mahjong-JP.exe", "type": "Game" }
+
+{ "name": "RiMS.exe", "type": "Game" }
+
+{ "name": "RimWorldWin64.exe", "type": "Game" }
+{ "name": "RimWorldWin.exe", "type": "Game" }
+
+{ "name": "Ring Of Pain.exe", "type": "Game" }
+
+{ "name": "Riot Control Simulator Rookie Day.exe", "type": "Game" }
+
+{ "name": "SpaceMyths.exe", "type": "BG_CPUIO" }
+{ "name": "SpaceMyths-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "AKA_RIP.exe", "type": "BG_CPUIO" }
+{ "name": "AKA_RIP-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Risen.exe", "type": "Game" }
+
+{ "name": "risen2.exe", "type": "Game" }
+
+{ "name": "Risen3.exe", "type": "Game" }
+
+{ "name": "RiseOfEros.exe", "type": "Game" }
+
+{ "name": "rof.exe", "type": "Game" }
+
+{ "name": "RiseOfGun.exe", "type": "BG_CPUIO" }
+{ "name": "RiseOfGun-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Rise of Industry.exe", "type": "Game" }
+
+{ "name": "ROI2.exe", "type": "Game" }
+
+{ "name": "riseofnations.exe", "type": "Game" }
+
+{ "name": "Rise of Piracy.exe", "type": "Game" }
+
+{ "name": "ROTTR.exe", "type": "Game" }
+
+{ "name": "ROTT.exe", "type": "Game" }
+{ "name": "LDKDedicatedServer.exe", "type": "Service" }
+{ "name": "ROTTLauncher.exe", "type": "Game" }
+
+{ "name": "Rise of the White Sun.exe", "type": "Game" }
+
+{ "name": "RtR64.exe", "type": "Game" }
+{ "name": "RtR32.exe", "type": "Game" }
+
+{ "name": "Rising Front.exe", "type": "Game" }
+
+{ "name": "RisingLords.exe", "type": "Game" }
+
+{ "name": "RS2.exe", "type": "Game" }
+
+{ "name": "RisingStorm2.exe", "type": "Game" }
+{ "name": "VNGame.exe", "type": "Game" }
+
+{ "name": "RisingWorld.exe", "type": "Game" }
+{ "name": "risingworldx64.exe", "type": "Game" }
+
+{ "name": "Risk Factions.exe", "type": "Game" }
+
+{ "name": "RISK.exe", "type": "Game" }
+
+{ "name": "Risk of Rain 2.exe", "type": "Game" }
+
+{ "name": "Risk of Rain.exe", "type": "Game" }
+
+{ "name": "Risk of Rain Returns.exe", "type": "Game" }
+
+{ "name": "RitualofRaven.exe", "type": "Game" }
+
+{ "name": "Rivage.exe", "type": "BG_CPUIO" }
+{ "name": "Rivage-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RivalsofAether.exe", "type": "Game" }
+
+{ "name": "Rivals2.exe", "type": "BG_CPUIO" }
+{ "name": "Rivals2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RivalStarsHorseRacing.exe", "type": "Game" }
+
+{ "name": "Riven.exe", "type": "BG_CPUIO" }
+{ "name": "Riven-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "riven.exe", "type": "Game" }
+
+{ "name": "RiverCityGirls.exe", "type": "Game" }
+
+{ "name": "RCG2.exe", "type": "Game" }
+
+{ "name": "RCRU.exe", "type": "Game" }
+
+{ "name": "Road 96.exe", "type": "Game" }
+
+{ "name": "Roadcraft.exe", "type": "Game" }
+
+{ "name": "Roadcraft - Retail.exe", "type": "Game" }
+
+{ "name": "RoadRedemption.exe", "type": "Game" }
+
+{ "name": "Roadside Research.exe", "type": "Game" }
+
+{ "name": "sstx2.exe", "type": "Game" }
+
+{ "name": "sstx.exe", "type": "Game" }
+
+{ "name": "Roadwarden.exe", "type": "Game" }
+{ "name": "Roadwarden-32.exe", "type": "Game" }
+
+{ "name": "Robin Hood.exe", "type": "Game" }
+
+{ "name": "Robin Morningwood Adventure.exe", "type": "Game" }
+
+{ "name": "ROBOBEAT.exe", "type": "Game" }
+
+{ "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
+{ "name": "RoboCop.exe", "type": "BG_CPUIO" }
+
+{ "name": "RoboCopUnfinishedBusiness.exe", "type": "BG_CPUIO" }
+{ "name": "RoboCopUnfinishedBusiness-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Robocraft.exe", "type": "Game" }
+{ "name": "RobocraftClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "RoboQuest.exe", "type": "BG_CPUIO" }
+{ "name": "RoboQuest-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "rrumble.exe", "type": "Game" }
+
+{ "name": "Robothorium.exe", "type": "Game" }
+
+{ "name": "Disco Dodgeball.exe", "type": "Game" }
+
+{ "name": "rbz.exe", "type": "Game" }
+
+{ "name": "RoboWars.exe", "type": "Game" }
+
+{ "name": "Rochard.exe", "type": "Game" }
+
+{ "name": "RockBottom.exe", "type": "Game" }
+
+{ "name": "Rocket Boots Mania.exe", "type": "Game" }
+
+{ "name": "RocketLeague.exe", "type": "Game" }
+
+{ "name": "RockIslandGame.exe", "type": "Game" }
+
+{ "name": "Rock 'N' Roll Defense.exe", "type": "Game" }
+
+{ "name": "RoA.exe", "type": "Game" }
+
+{ "name": "ROA2.exe", "type": "BG_CPUIO" }
+{ "name": "ROA2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ROA3.exe", "type": "BG_CPUIO" }
+{ "name": "ROA3-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RockSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "RockSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RockSimulator2.exe", "type": "BG_CPUIO" }
+{ "name": "RockSimulator2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Rocksmith.exe", "type": "Game" }
+
+{ "name": "Rocksmith2014.exe", "type": "Game" }
+
+{ "name": "Rocksmith+.exe", "type": "Game" }
+
+{ "name": "RockTheIslands.exe", "type": "Game" }
+
+{ "name": "Rocky Idle.exe", "type": "Game" }
+
+{ "name": "Rod Roll.exe", "type": "Game" }
+
+{ "name": "Rogue Agent.exe", "type": "Game" }
+
+{ "name": "WCM.exe", "type": "Game" }
+
+{ "name": "Roguebook.exe", "type": "Game" }
+
+{ "name": "Rogue Command.exe", "type": "Game" }
+
+{ "name": "RogueCompany.exe", "type": "Game" }
+
+{ "name": "RogueFableIV.exe", "type": "Game" }
+
+{ "name": "Rogue Genesia.exe", "type": "Game" }
+
+{ "name": "Rogue Heroes.exe", "type": "Game" }
+
+{ "name": "RogueLegacy.exe", "type": "Game" }
+{ "name": "ZorsLegacy.exe", "type": "Game" }
+
+{ "name": "Rogue Legacy 2.exe", "type": "Game" }
+
+{ "name": "Rogue Lords.exe", "type": "Game" }
+
+{ "name": "Tango.exe", "type": "BG_CPUIO" }
+{ "name": "Tango-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Rogue Tower.exe", "type": "Game" }
+
+{ "name": "RogueTrooper.exe", "type": "Game" }
+
+{ "name": "RTR_x64.exe", "type": "Game" }
+
+{ "name": "RogueVoltage.exe", "type": "Game" }
+
+{ "name": "RW.exe", "type": "Game" }
+
+{ "name": "Odysseus.exe", "type": "Game" }
+{ "name": "RogueWaters.exe", "type": "Game" }
+
+{ "name": "Röki.exe", "type": "Game" }
+
+{ "name": "RCT2.EXE", "type": "Game" }
+
+{ "name": "RCT3.exe", "type": "Game" }
+
+{ "name": "RCT3plus.exe", "type": "Game" }
+
+{ "name": "RCTClassic.exe", "type": "Game" }
+
+{ "name": "RCT.EXE", "type": "Game" }
+
+{ "name": "RollerCoaster Tycoon World.exe", "type": "Game" }
+
+{ "name": "RollingLine.exe", "type": "Game" }
+
+{ "name": "Romance Club.exe", "type": "Game" }
+
+{ "name": "SAN8R.exe", "type": "Game" }
+{ "name": "San8rWER.exe", "type": "Game" }
+
+{ "name": "San9WPK_Launcher.exe", "type": "Game" }
+{ "name": "San9WPK.exe", "type": "Game" }
+
+{ "name": "San8WPK_Launcher.exe", "type": "Game" }
+{ "name": "San8WPK.exe", "type": "Game" }
+
+{ "name": "San5WPK_Launcher.exe", "type": "Game" }
+{ "name": "San5WPK.exe", "type": "Game" }
+
+{ "name": "San.exe", "type": "Game" }
+{ "name": "San13_en.exe", "type": "Game" }
+{ "name": "San13_jp.exe", "type": "Game" }
+{ "name": "San13_kr.exe", "type": "Game" }
+{ "name": "San13_tc.exe", "type": "Game" }
+
+{ "name": "San12WPK_Launcher.exe", "type": "Game" }
+{ "name": "San12WPK.exe", "type": "Game" }
+
+{ "name": "SAN14.exe", "type": "Game" }
+{ "name": "SAN14_KO.exe", "type": "Game" }
+{ "name": "SAN14_SC.exe", "type": "Game" }
+{ "name": "SAN14_TC.exe", "type": "Game" }
+
+{ "name": "San11WPK.exe", "type": "Game" }
+
+{ "name": "San10WPK_Launcher.exe", "type": "Game" }
+{ "name": "San10WPK.exe", "type": "Game" }
+
+{ "name": "rs2.exe", "type": "Game" }
+
+{ "name": "Romancing SaGa 2 RotS-Win64.exe", "type": "Game" }
+
+{ "name": "rs3.exe", "type": "Game" }
+
+{ "name": "Romancing SaGa -Minstrel Song- Remastered.exe", "type": "Game" }
+
+{ "name": "RomansAOC.exe", "type": "Game" }
+
+{ "name": "Roman Triumph Survival City Builder.exe", "type": "Game" }
+
+{ "name": "SevGame.exe", "type": "BG_CPUIO" }
+{ "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Romestead.exe", "type": "Game" }
+
+{ "name": "testappa.exe", "type": "Game" }
+{ "name": "RomeTW-ALX.exe", "type": "Game" }
+
+{ "name": "RomeTW-BI.exe", "type": "Game" }
+{ "name": "RomeTW.exe", "type": "Game" }
+
+{ "name": "RooftopsandAlleys.exe", "type": "Game" }
+
+{ "name": "RoomPlanner64.exe", "type": "Game" }
+
+{ "name": "Root.exe", "type": "Game" }
+
+{ "name": "Roots of Pacha.exe", "type": "Game" }
+
+{ "name": "RopukaIdleIsland.exe", "type": "Game" }
+
+{ "name": "Rosalie.exe", "type": "BG_CPUIO" }
+{ "name": "Rosalie-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Rotastic.exe", "type": "Game" }
+
+{ "name": "rotwood.exe", "type": "Game" }
+
+{ "name": "ROUNDS.exe", "type": "Game" }
+
+{ "name": "Routine-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Routine.exe", "type": "BG_CPUIO" }
+
+{ "name": "RowDivers.exe", "type": "Game" }
+
+{ "name": "basesl.exe", "type": "Game" }
+{ "name": "rqmain.exe", "type": "Game" }
+
+{ "name": "rr-tournament.exe", "type": "Game" }
+
+{ "name": "bakin.exe", "type": "Game" }
+
+{ "name": "rpg2003.exe", "type": "Game" }
+
+{ "name": "RPGMV.exe", "type": "Game" }
+
+{ "name": "RPGMZ.exe", "type": "Game" }
+
+{ "name": "RPGVXAce.exe", "type": "Game" }
+
+{ "name": "RPGXP.exe", "type": "Game" }
+
+{ "name": "R-Type_Dimensions.exe", "type": "Game" }
+
+{ "name": "RTypeFinal2.exe", "type": "BG_CPUIO" }
+{ "name": "RTypeFinal2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RTypeTacticsCosmos.exe", "type": "BG_CPUIO" }
+{ "name": "RTypeTacticsCosmosSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RUBATO.exe", "type": "Game" }
+
+{ "name": "RubberBandits.exe", "type": "Game" }
+
+{ "name": "Rue Valley.exe", "type": "Game" }
+
+{ "name": "rugbyleague1.exe", "type": "Game" }
+
+{ "name": "RuinedKing.exe", "type": "Game" }
+
+{ "name": "Ruiner.exe", "type": "BG_CPUIO" }
+{ "name": "Ruiner-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RTW3.exe", "type": "Game" }
+
+{ "name": "RUMBLE.exe", "type": "Game" }
+
+{ "name": "Rumble Club.exe", "type": "Game" }
+
+{ "name": "Runaway.exe", "type": "Game" }
+
+{ "name": "RATOF.exe", "type": "Game" }
+
+{ "name": "RunawayTDOTT.exe", "type": "Game" }
+
+{ "name": "Runeborn.exe", "type": "Game" }
+
+{ "name": "Rune.exe", "type": "Game" }
+
+{ "name": "RuneCollseum.exe", "type": "Game" }
+
+{ "name": "Rune Dice.exe", "type": "Game" }
+
+{ "name": "Rune Dice Demo.exe", "type": "Game" }
+
+{ "name": "RF3S_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Rune Factory 3 Special.exe", "type": "Game" }
+
+{ "name": "RF4S.exe", "type": "Game" }
+{ "name": "RF4SLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "RuneFactory5Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Rune Factory 5.exe", "type": "Game" }
+
+{ "name": "RuneFencerIllyia.exe", "type": "Game" }
+
+{ "name": "RuneScape.exe", "type": "Game" }
+
+{ "name": "RSDragonwilds.exe", "type": "BG_CPUIO" }
+{ "name": "RSDragonwilds-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RoMLauncher.exe", "type": "Game" }
+{ "name": "Runes of Magic.exe", "type": "Game" }
+
+{ "name": "RunningTrain.exe", "type": "BG_CPUIO" }
+{ "name": "RunningTrain-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "rwr_config.exe", "type": "Game" }
+{ "name": "rwr_game.exe", "type": "Game" }
+
+{ "name": "ZeusRunner.exe", "type": "Game" }
+
+{ "name": "RUSE.exe", "type": "Game" }
+
+{ "name": "rush.exe", "type": "Game" }
+
+{ "name": "Rushx64.exe", "type": "Game" }
+
+{ "name": "RushRally3.exe", "type": "Game" }
+
+{ "name": "RUSSIA BATTLEGROUNDS.exe", "type": "Game" }
+
+{ "name": "rf4_x64.exe", "type": "Game" }
+
+{ "name": "Russian Life Simulator.exe", "type": "Game" }
+
+{ "name": "RUSSIAPHOBIA.exe", "type": "Game" }
+
+{ "name": "Rust.exe", "type": "Game" }
+{ "name": "RustClient.exe", "type": "Game" }
+
+{ "name": "Rusted_Moss.exe", "type": "Game" }
+
+{ "name": "Rusted Warfare - 64.exe", "type": "Game" }
+{ "name": "Rusted Warfare.exe", "type": "Game" }
+
+{ "name": "Rustler.exe", "type": "Game" }
+
+{ "name": "RustyLakeHotel.exe", "type": "Game" }
+
+{ "name": "RustyLakeParadise.exe", "type": "Game" }
+
+{ "name": "RustyLakeRoots.exe", "type": "Game" }
+
+{ "name": "RustyRabbit.exe", "type": "BG_CPUIO" }
+{ "name": "Rabbit-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Rusty's Retirement.exe", "type": "Game" }
+
+{ "name": "RutonyChat.exe", "type": "Game" }
+
+{ "name": "Ride-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "rwby-ge.exe", "type": "Game" }
+
+{ "name": "Ryse.exe", "type": "Game" }

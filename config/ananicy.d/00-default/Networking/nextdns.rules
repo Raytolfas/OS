@@ -1,0 +1,1 @@
+{ "name": "nextdns", "type": "LowLatency_RT", "ionice": 1 }

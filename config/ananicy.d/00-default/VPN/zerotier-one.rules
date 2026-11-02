@@ -1,0 +1,1 @@
+{ "name": "zerotier-one", "type": "LowLatency_RT", "ionice": 1 }

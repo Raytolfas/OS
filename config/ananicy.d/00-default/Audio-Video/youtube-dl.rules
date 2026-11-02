@@ -1,0 +1,3 @@
+{ "name": "youtube-dl", "type": "BG_CPUIO" }
+
+{ "name": "yt-dlp", "type": "BG_CPUIO" }

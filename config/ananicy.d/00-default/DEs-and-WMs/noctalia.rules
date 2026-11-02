@@ -1,0 +1,2 @@
+{ "name": "noctalia", "type": "LowLatency_RT" }
+{ "name": "noctalia-qs", "type": "LowLatency_RT" }

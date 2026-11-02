@@ -1,0 +1,10 @@
+{ "name": "btop", "type": "Doc-View" }
+
+{ "name": "htop", "type": "Doc-View" }
+
+{ "name": "nvtop", "type": "Doc-View" }
+
+{ "name": "gnome-system-monitor", "type": "Doc-View" }
+
+{ "name": "missioncenter", "type": "Doc-View" }
+{ "name": "missioncenter-gatherer", "type": "Doc-View" }

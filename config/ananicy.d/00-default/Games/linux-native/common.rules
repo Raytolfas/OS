@@ -1,0 +1,210 @@
+
+{ "name": "60Seconds.x86_64", "type": "Game" }
+
+{ "name": "Adobe Substance 3D Designer", "type": "Game" }
+
+{ "name": "Adobe Substance 3D Painter", "type": "Game" }
+
+{ "name": "Airfoil Maker-x86_64", "type": "Game" }
+
+{ "name": "alabaster_dawn", "type": "Game" }
+
+{ "name": "alephone", "type": "Game" }
+
+{ "name": "amtrucks", "type": "Game" }
+
+{ "name": "app.x86_64", "type": "Game" }
+
+{ "name": "BackpackBattles.x86_64", "type": "Game" }
+
+{ "name": "BALDI.x86_64", "type": "Game" }
+
+{ "name": "BaldursGate", "type": "Game" }
+
+{ "name": "benchmark.sh", "type": "Game" }
+
+{ "name": "berkelium", "type": "Game" }
+
+{ "name": "cefsimple", "type": "Game" }
+
+{ "name": "Chowdren", "type": "Game" }
+
+{ "name": "DawnOfWar2", "type": "Game" }
+
+{ "name": "DeadIslandGame", "type": "Game" }
+
+{ "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
+
+{ "name": "domekeeper.x86_64", "type": "Game" }
+
+{ "name": "dontstarve_steam", "type": "Game" }
+
+{ "name": "dontstarve_steam_x64", "type": "Game" }
+
+{ "name": "dosbox_i686", "type": "Game" }
+
+{ "name": "dosbox_x86_64", "type": "Game" }
+
+{ "name": "dowser", "type": "BG_CPUIO" }
+
+{ "name": "DungeonDefenders", "type": "Game" }
+
+{ "name": "eurotrucks2", "type": "Game" }
+
+{ "name": "factorio", "type": "Game" }
+
+{ "name": "FGUSteamLauncher", "type": "Game" }
+
+{ "name": "fm", "type": "Game" }
+
+{ "name": "FreshWomen", "type": "Game" }
+
+{ "name": "gamblers-table.x86_64", "type": "Game" }
+
+{ "name": "game", "type": "Game" }
+
+{ "name": "Game", "type": "Game" }
+
+{ "name": "game.x86", "type": "Game" }
+
+{ "name": "game.x86_64", "type": "Game" }
+
+{ "name": "happy-endings", "type": "Game" }
+
+{ "name": "Haste.x86_64", "type": "Game" }
+
+{ "name": "hl", "type": "Game" }
+
+{ "name": "hl2_linux", "type": "Game" }
+
+{ "name": "hl2_linux64", "type": "Game" }
+
+{ "name": "hlds_linux", "type": "Game" }
+
+{ "name": "hlds_run", "type": "Game" }
+
+{ "name": "hl_linux", "type": "Game" }
+
+{ "name": "hltv", "type": "Game" }
+
+{ "name": "Horripilant.x86_64", "type": "Game" }
+
+{ "name": "kicksalot.x86_64", "type": "Game" }
+
+{ "name": "Kindergarten.x86_64", "type": "Game" }
+
+{ "name": "Kingdom.x86", "type": "Game" }
+
+{ "name": "Launcher", "type": "Game" }
+
+{ "name": "linux.x86_64", "type": "Game" }
+
+{ "name": "LookPilot", "type": "Game" }
+
+{ "name": "love", "type": "Game" }
+
+{ "name": "Lust-Academy", "type": "Game" }
+
+{ "name": "metro", "type": "Game" }
+
+{ "name": "MilkGame.x86_64", "type": "Game" }
+
+{ "name": "MyDorm", "type": "Game" }
+
+{ "name": "Neverway", "type": "Game" }
+
+{ "name": "nw", "type": "Game" }
+
+{ "name": "ootp_linux64r", "type": "Game" }
+
+{ "name": "overlord", "type": "Game" }
+
+{ "name": "PA", "type": "Game" }
+
+{ "name": "pathogenic.x86_64", "type": "Game" }
+
+{ "name": "Plane Maker-x86_64", "type": "Game" }
+
+{ "name": "portal2_linux", "type": "Game" }
+
+{ "name": "ProjektPassion", "type": "Game" }
+
+{ "name": "Pure Badminton.x86_64", "type": "Game" }
+
+{ "name": "RunGame", "type": "Game" }
+
+{ "name": "RunGameWithoutLauncher", "type": "Game" }
+
+{ "name": "runner", "type": "Game" }
+
+{ "name": "scapewatch", "type": "Game" }
+
+{ "name": "Shadow Tactics", "type": "Game" }
+
+{ "name": "shapez 2.x86_64", "type": "Game" }
+
+{ "name": "ShooterGame", "type": "Game" }
+
+{ "name": "songsofsyx", "type": "Game" }
+
+{ "name": "srcds_linux", "type": "Service" }
+
+{ "name": "srcds_linux64", "type": "Game" }
+
+{ "name": "srcds_run", "type": "Service" }
+
+{ "name": "stanley", "type": "Game" }
+
+{ "name": "start", "type": "Game" }
+
+{ "name": "StoneShard", "type": "Game" }
+
+{ "name": "Substance Painter", "type": "Game" }
+
+{ "name": "testandlaunch", "type": "Game" }
+
+{ "name": "TheFirstMillion.x86_64", "type": "Game" }
+
+{ "name": "TheSevenRealms", "type": "Game" }
+
+{ "name": "tiny-glade", "type": "Game" }
+
+{ "name": "Turnbound.x86_64", "type": "Game" }
+
+{ "name": "UDKGame-Linux", "type": "Game" }
+
+{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
+
+{ "name": "Wargame", "type": "Game" }
+
+{ "name": "WL2", "type": "Game" }
+
+{ "name": "wordle.x86", "type": "Game" }
+
+{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
+
+{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WurmLauncher", "type": "Game" }
+
+{ "name": "X3TC_main", "type": "Game" }
+
+{ "name": "X-Plane-x86_64", "type": "Game" }
+
+
+
+{ "name": "GodotWorkshopUtility.x86_64", "type": "BG_CPUIO" }
+
+{ "name": "srcds_i486", "type": "Service" }
+
+{ "name": "CrashReportClient", "type": "BG_CPUIO" }
+{ "name": "crashwatcher", "type": "BG_CPUIO" }
+{ "name": "ErrorReporter", "type": "BG_CPUIO" }
+{ "name": "createdump", "type": "BG_CPUIO" }
+{ "name": "crashpad_handler", "type": "BG_CPUIO" }
+
+
+
+
+
+

@@ -1,5 +1,6 @@
 build/
 sources/
+scratch/
 target/
 target-slint-*/
 
@@ -11,7 +12,14 @@ rootfs-export/
 
 *.iso
 *.img
+*.img.xz
 *.tmp.iso
+*.deb
+*.sha256
+*.md5
+*.tar.gz
+*.tar.xz
+*.tar.zst
 
 *.bzImage
 *.ko

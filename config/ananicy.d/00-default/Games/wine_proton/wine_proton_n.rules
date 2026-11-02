@@ -1,0 +1,593 @@
+
+
+{ "name": "ValofeNAgeclassic.exe", "type": "Game" }
+
+{ "name": "NDM.exe", "type": "Game" }
+
+{ "name": "Naild_x86.exe", "type": "Game" }
+
+{ "name": "naisho.exe", "type": "Game" }
+
+{ "name": "Nakara.exe", "type": "Game" }
+
+{ "name": "NMA1.exe", "type": "Game"}
+
+{ "name": "NMA2.exe", "type": "Game"}
+
+{ "name": "NanosWorld.exe", "type": "BG_CPUIO" }
+{ "name": "NanosWorld-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "narci2.exe", "type": "Game" }
+
+{ "name": "NSUNS2.exe", "type": "Game" }
+
+{ "name": "NS3FB.exe", "type": "Game"}
+{ "name": "NS3FB_option1.exe", "type": "Game"}
+{ "name": "NS3FB_option2.exe", "type": "Game"}
+
+{ "name": "NSUNS4.exe", "type": "Game"}
+
+{ "name": "NSUNSR.exe", "type": "Game"}
+{ "name": "NSUNSR_launcher.exe", "type": "Game"}
+{ "name": "NSUNSR_option1.exe", "type": "Game"}
+{ "name": "NSUNSR_option2.exe", "type": "Game"}
+
+{ "name": "NARUTO.exe", "type": "BG_CPUIO" }
+{ "name": "NARUTO-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NSUNS1.exe", "type": "Game"}
+
+{ "name": "NSUNSC.exe", "type": "Game"}
+
+{ "name": "Narvas.exe", "type": "Game" }
+
+{ "name": "NASCAR15.exe", "type": "Game" }
+
+{ "name": "NASCAR25_Steam.exe", "type": "BG_CPUIO" }
+{ "name": "NASCAR25_Steam-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "NASCARHeat4.exe", "type": "Game" }
+
+{ "name": "NascarHeat5.exe", "type": "Game" }
+
+{ "name": "NationRed.exe", "type": "Game" }
+
+{ "name": "Tracy.exe", "type": "Game" }
+{ "name": "NS2.exe", "type": "Game" }
+{ "name": "ns2.exe", "type": "Game" }
+
+{ "name": "Server.exe", "type": "Service" }
+
+{ "name": "NavalActionCrashSender.exe", "type": "Game" }
+
+{ "name": "NavalArt.exe", "type": "Game" }
+
+{ "name": "Start Game.exe", "type": "Game" }
+{ "name": "FleetMissionLauncher.exe", "type": "Game" }
+{ "name": "FleetMissionLauncherUS.exe", "type": "Game" }
+{ "name": "FleetMission.exe", "type": "Game" }
+
+{ "name": "nba2k14.exe", "type": "Game" }
+
+{ "name": "nba2k15.exe", "type": "Game" }
+
+{ "name": "NBA2K16.exe", "type": "Game" }
+
+{ "name": "NBA2K17.exe", "type": "Game" }
+
+{ "name": "NBA2K18.exe", "type": "Game" }
+
+{ "name": "NBA2K19.exe", "type": "Game" }
+
+{ "name": "NBA2K20.exe", "type": "Game" }
+
+{ "name": "NBA2K21.exe", "type": "Game" }
+
+{ "name": "NBA2K22.exe", "type": "Game" }
+
+{ "name": "NBA2K23.exe", "type": "Game" }
+
+{ "name": "NBA2K24.exe", "type": "Game" }
+
+{ "name": "NBA2K25.exe", "type": "Game" }
+
+{ "name": "NBA2K26.exe", "type": "Game" }
+
+{ "name": "NBAPlaygrounds2.exe", "type": "BG_CPUIO" }
+{ "name": "NBAPlaygrounds2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NBA2KVRX.exe", "type": "BG_CPUIO" }
+{ "name": "NBA2KVRX-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "P1GameClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "P1GameClient-Win64-Test.exe", "type": "Game" }
+
+{ "name": "nebuchadnezzar.exe", "type": "Game" }
+
+{ "name": "Nebulous.exe", "type": "Game" }
+
+{ "name": "Necesse.exe", "type": "Game" }
+
+{ "name": "Necroking.exe", "type": "Game" }
+
+{ "name": "Necrosmith.exe", "type": "Game" }
+
+{ "name": "Necrosmith2.exe", "type": "Game" }
+
+{ "name": "NecroVisioN.exe", "type": "Game" }
+
+{ "name": "NFS16.exe", "type": "Game" }
+{ "name": "NFS16_trial.exe", "type": "Game" }
+
+{ "name": "NeedForSpeedHeat.exe", "type": "Game" }
+
+{ "name": "NFS11.exe", "type": "Game" }
+
+{ "name": "NFS11Remastered.exe", "type": "Game" }
+
+{ "name": "NFS13.exe", "type": "Game" }
+
+{ "name": "speed.exe", "type": "Game" }
+
+{ "name": "NeedForSpeedPayback.exe", "type": "Game" }
+{ "name": "NeedForSpeedPaybackTrial.exe", "type": "Game" }
+
+{ "name": "NFS14.exe", "type": "Game" }
+{ "name": "NFS14_x86.exe", "type": "Game" }
+
+{ "name": "Shift.exe", "type": "Game" }
+
+{ "name": "NeedForSpeedUnbound.exe", "type": "Game" }
+
+{ "name": "nfs.exe", "type": "Game" }
+
+{ "name": "Speed.exe", "type": "Game" }
+
+{ "name": "speed2.exe", "type": "Game" }
+
+{ "name": "Windose.exe", "type": "Game" }
+
+{ "name": "JP.exe", "type": "BG_CPUIO" }
+{ "name": "JP-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Neighbours back From Hell.exe", "type": "Game" }
+
+{ "name": "nekopara_after.exe", "type": "Game" }
+
+{ "name": "NEKOPARA - Catboys Paradise.exe", "type": "Game" }
+
+{ "name": "nekopara_extra.exe", "type": "Game" }
+
+{ "name": "nekopara_vol0.exe", "type": "Game" }
+
+{ "name": "nekopara_vol1.exe", "type": "Game" }
+
+{ "name": "nekopara_vol2.exe", "type": "Game" }
+
+{ "name": "NEKOPARAvol3.exe", "type": "Game" }
+
+{ "name": "nekopara_vol4.exe", "type": "Game" }
+
+{ "name": "Neko Station.exe", "type": "Game" }
+
+{ "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
+
+{ "name": "NemesisLD.exe", "type": "BG_CPUIO" }
+{ "name": "NemesisLDServer-Win64-Shipping.exe", "type": "Service" }
+{ "name": "NemesisLDServer.exe", "type": "Service" }
+{ "name": "NemesisLD-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NeonAbyss.exe", "type": "Game"}
+
+{ "name": "NeonAbyss2.exe", "type": "Game"}
+
+{ "name": "Neon White.exe", "type": "Game" }
+
+{ "name": "NEOScavenger.exe", "type": "Game" }
+
+{ "name": "NEO The World Ends with You.exe", "type": "Game" }
+
+{ "name": "NEOVERSE.exe", "type": "Game" }
+
+{ "name": "NERTS! Online.exe", "type": "Game" }
+
+{ "name": "Nested Lands.exe", "type": "Game"}
+
+{ "name": "Net.Attack().exe", "type": "Game" }
+
+{ "name": "Neva.exe", "type": "Game" }
+
+{ "name": "nightmare.exe", "type": "Game" }
+
+{ "name": "NeverGrave.exe", "type": "Game" }
+
+{ "name": "nevergrind.exe", "type": "Game" }
+
+{ "name": "nevergrind-online.exe", "type": "Game" }
+
+{ "name": "Never Second in Rome.exe", "type": "Game" }
+
+{ "name": "Neverwinter.exe", "type": "Game" }
+
+{ "name": "nwmain.exe", "type": "Game" }
+
+{ "name": "NewAgeClient.exe", "type": "Game" }
+
+{ "name": "New Cycle.exe", "type": "Game" }
+
+{ "name": "New Day.exe", "type": "Game" }
+
+{ "name": "NewGundamBreaker.exe", "type": "Game" }
+
+{ "name": "MONOPOLY.exe", "type": "Game"}
+
+{ "name": "NSGP.exe", "type": "Game" }
+
+{ "name": "Manager.exe", "type": "Game" }
+
+{ "name": "NSS5.exe", "type": "Game" }
+
+{ "name": "News Tower.exe", "type": "Game" }
+
+{ "name": "NewWorld.exe", "type": "Game" }
+
+{ "name": "Nexomon.exe", "type": "Game" }
+
+{ "name": "Nexomon Extinction.exe", "type": "Game" }
+
+{ "name": "nextday.exe", "type": "Game" }
+
+{ "name": "NEXT JUMP Shmup Tactics.exe", "type": "Game" }
+
+{ "name": "Nexus Legacy.exe", "type": "Game" }
+
+{ "name": "NGUIdle.exe", "type": "Game"}
+
+{ "name": "NGU INDUSTRIES.exe", "type": "Game" }
+
+{ "name": "NiceDayForFishing.exe", "type": "Game"}
+
+{ "name": "Niche.exe", "type": "Game" }
+
+{ "name": "Nickelodeon All-Star Brawl.exe", "type": "Game" }
+{ "name": "Launcher Nickelodeon All-Star Brawl.exe", "type": "BG_CPUIO" }
+
+{ "name": "Nickelodeon All-Star Brawl 2.exe", "type": "Game" }
+
+{ "name": "Nidhogg.exe", "type": "Game" }
+
+{ "name": "Nidhogg_2.exe", "type": "Game" }
+
+{ "name": "NierAutomata.exe", "type": "Game" }
+
+{ "name": "NieR Replicant ver.1.22474487139.exe", "type": "Game" }
+
+{ "name": "NightClubSimulater.exe", "type": "Game" }
+
+{ "name": "NightDrive.exe", "type": "Game" }
+
+{ "name": "NWX.exe", "type": "Game" }
+{ "name": "NWXClient.exe", "type": "Game" }
+
+{ "name": "Night in the Woods.exe", "type": "Game" }
+
+{ "name": "Night is Coming.exe", "type": "Game" }
+{ "name": "NiC Launcher.exe", "type": "Game" }
+
+{ "name": "NMKART.exe", "type": "Game" }
+{ "name": "NMKART-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NightmareOfDecay.exe", "type": "Game" }
+
+{ "name": "NightmareReaper.exe", "type": "BG_CPUIO" }
+
+{ "name": "NightmaresFromTheDeep_TheSirensCall.exe", "type": "Game" }
+
+{ "name": "NightmaresFromTheDeep_TheCursedHeart.exe", "type": "Game" }
+
+{ "name": "LF-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LF.exe", "type": "BG_CPUIO" }
+
+{ "name": "NightRaider.exe", "type": "Game" }
+
+{ "name": "NIGHT-RUNNERS PROLOGUE.exe", "type": "Game" }
+
+{ "name": "ProjectSH.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectSH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Nights.exe", "type": "Game" }
+
+{ "name": "Nightsky.exe", "type": "Game" }
+
+{ "name": "CNN.exe", "type": "Game"}
+{ "name": "CNN_JP.exe", "type": "Game"}
+
+{ "name": "Nights of Azure 2_CHT.exe", "type": "Game"}
+{ "name": "Nights of Azure 2_En.exe", "type": "Game"}
+{ "name": "Nights of Azure 2_JP.exe", "type": "Game"}
+
+{ "name": "night_swarm.exe", "type": "Game" }
+
+{ "name": "SkylandsForaging.exe", "type": "BG_CPUIO" }
+{ "name": "SkylandsForaging-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Nihilumbra.exe", "type": "Game" }
+
+{ "name": "Nimbatus.exe", "type": "Game" }
+
+{ "name": "NimWrite.exe", "type": "Game" }
+
+{ "name": "NIMBYRails.exe", "type": "Game" }
+
+{ "name": "NIMRODS.exe", "type": "Game" }
+
+{ "name": "Nine_Ball_Roulette.exe", "type": "Game" }
+
+{ "name": "nineparchments_64bit.exe", "type": "Game" }
+
+{ "name": "NineSols.exe", "type": "Game"}
+
+{ "name": "NINJAGAIDEN2BLACK.exe", "type": "BG_CPUIO" }
+{ "name": "NINJAGAIDEN2BLACK-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NINJA GAIDEN SIGMA2.exe", "type": "Game" }
+
+{ "name": "NINJA GAIDEN 3 Razor's Edge.exe", "type": "Game" }
+
+{ "name": "NINJAGAIDEN4-Steam.exe", "type": "Game" }
+
+{ "name": "NINJA GAIDEN SIGMA.exe", "type": "Game" }
+
+{ "name": "NINJA GAIDEN Ragebound.exe", "type": "Game" }
+
+{ "name": "Ninja Kiwi Archive.exe", "type": "Game" }
+
+{ "name": "Ninja Rift.exe", "type": "Game" }
+
+{ "name": "Nino2.exe", "type": "Game" }
+
+{ "name": "NinoKuni_WotWW_Remastered.exe", "type": "Game" }
+
+{ "name": "NinOnline.exe", "type": "Game" }
+
+{ "name": "nioh2.exe", "type": "Game" }
+
+{ "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "nioh.exe", "type": "Game" }
+
+{ "name": "Overdrive.exe", "type": "BG_CPUIO" }
+{ "name": "OverdriveSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "N++.exe", "type": "Game" }
+
+{ "name": "NOBACKUP.exe", "type": "BG_CPUIO" }
+{ "name": "NOBACKUP-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Noble.exe", "type": "Game" }
+
+{ "name": "Noble Fates.exe", "type": "Game" }
+
+{ "name": "Warlords.exe", "type": "BG_CPUIO" }
+{ "name": "Warlords-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NStW_x64.exe", "type": "Game" }
+
+{ "name": "Nobody.exe", "type": "Game" }
+
+{ "name": "detnoir.exe", "type": "BG_CPUIO" }
+{ "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "DragonKiller-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NOBU16.exe", "type": "Game"}
+
+{ "name": "NOBU_HADOU_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "NOBU_HADOU.exe", "type": "Game" }
+
+{ "name": "N12LauncherPK.exe", "type": "BG_CPUIO" }
+{ "name": "NOBU12PK.exe", "type": "Game" }
+
+{ "name": "Nobunaga8WPK_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Nobunaga8WPK.exe", "type": "Game" }
+
+{ "name": "Nobunaga7WPK_Launcher.exe", "type": "Game" }
+{ "name": "Nobunaga7WPK.exe", "type": "Game" }
+
+{ "name": "Nobu14Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "NOBU1.exe", "type": "Game" }
+{ "name": "NOBU14.exe", "type": "Game" }
+
+{ "name": "NOBU14_ORG.exe", "type": "Game" }
+
+{ "name": "NOBU14SR_EN.exe", "type": "Game"}
+{ "name": "NOBU14SR_JP.exe", "type": "Game"}
+{ "name": "NOBU14SR_TC.exe", "type": "Game"}
+
+{ "name": "NOBU15_EN.exe", "type": "Game"}
+{ "name": "NOBU15_JP.exe", "type": "Game"}
+{ "name": "NOBU15_TC.exe", "type": "Game"}
+
+{ "name": "N13LauncherPK.exe", "type": "BG_CPUIO" }
+{ "name": "NOBU13PK.exe", "type": "Game" }
+
+{ "name": "Nobunaga11WPK_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Nobunaga11WPK.exe", "type": "Game" }
+
+{ "name": "N6HDLauncher_JP.exe", "type": "BG_CPUIO" }
+{ "name": "NOBU6HD_JP.exe", "type": "Game" }
+
+{ "name": "NoCaseUnsolved.exe", "type": "Game" }
+
+{ "name": "Noctuary.exe", "type": "Game" }
+
+{ "name": "Nocturnal.exe", "type": "Game" }
+
+{ "name": "NocturnalQuest.exe", "type": "Game" }
+
+{ "name": "Nocturne.exe", "type": "Game" }
+
+{ "name": "Nodebuster.exe", "type": "Game" }
+
+{ "name": "Noel_Launcher.exe", "type": "Game" }
+
+{ "name": "NoFlash.exe", "type": "Game" }
+
+{ "name": "NoImNotAHuman.exe", "type": "Game"}
+
+{ "name": "Noise-o-matic.exe", "type": "Game" }
+
+{ "name": "noita.exe", "type": "Game" }
+
+{ "name": "nolimits2stm.exe", "type": "Game" }
+
+{ "name": "Nomad Drive Demo.exe", "type": "Game" }
+
+{ "name": "NomadIdle.exe", "type": "Game" }
+
+{ "name": "Nomad Survival.exe", "type": "Game" }
+
+{ "name": "NMS.exe", "type": "Game" }
+
+{ "name": "nmh.exe", "type": "Game" }
+
+{ "name": "nmh3.exe", "type": "BG_CPUIO" }
+{ "name": "nmh3-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NoMoreMoney.exe", "type": "Game" }
+
+{ "name": "nmrih.exe", "type": "Game" }
+
+{ "name": "NMRiH2.exe", "type": "Game" }
+
+{ "name": "NSI.exe", "type": "Game" }
+
+{ "name": "Nonogram - Master's Legacy.exe", "type": "Game" }
+
+{ "name": "Noobs Are Coming.exe", "type": "Game" }
+
+{ "name": "WRSH.exe", "type": "BG_CPUIO" }
+{ "name": "WRSH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "nophenia.exe", "type": "Game" }
+
+{ "name": "NPLH.exe", "type": "Game" }
+
+{ "name": "norco.exe", "type": "Game" }
+
+{ "name": "NordHold.exe", "type": "Game" }
+
+{ "name": "Nordic Ashes.exe", "type": "Game" }
+
+{ "name": "NoRestForTheWicked.exe", "type": "Game" }
+
+{ "name": "NoReturn.exe", "type": "BG_CPUIO" }
+{ "name": "LBRR996.exe", "type": "Game" }
+
+{ "name": "Norland.exe", "type": "Game"}
+
+{ "name": "Normal Golf Game.exe", "type": "Game" }
+
+{ "name": "NorseSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Norse.exe", "type": "Game" }
+
+{ "name": "NORTH_win.exe", "type": "Game" }
+
+{ "name": "Northend Tower Defense.exe", "type": "Game" }
+
+{ "name": "Northgard Battlegrounds.exe", "type": "Game" }
+
+{ "name": "Northgard.exe", "type": "Game" }
+
+{ "name": "Nosferatu.exe", "type": "Game" }
+
+{ "name": "NoSlackPets.exe", "type": "Game" }
+
+{ "name": "NoSleepForKanameDate.exe", "type": "Game" }
+
+{ "name": "NostaleLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "NostaleClientX.exe", "type": "Game" }
+{ "name": "NostaleClient.exe", "type": "Game" }
+
+{ "name": "NoStrangers.exe", "type": "Game" }
+
+{ "name": "NoSuchPlace.exe", "type": "Game" }
+
+{ "name": "Not A Banana.exe", "type": "Game" }
+
+{ "name": "LEGACY.exe", "type": "Game" }
+{ "name": "NOT A HERO.exe", "type": "Game" }
+
+{ "name": "NotForBroadcast.exe", "type": "Game" }
+
+{ "name": "Nothing.exe", "type": "Game" }
+
+{ "name": "Nothing Together.exe", "type": "Game" }
+
+{ "name": "NoTime64.exe", "type": "Game" }
+
+{ "name": "No Time to Relax.exe", "type": "Game" }
+
+{ "name": "Not Monday Cafe.exe", "type": "Game" }
+
+{ "name": "notruf2019.exe", "type": "Game" }
+
+{ "name": "notruf112.exe", "type": "Game" }
+
+{ "name": "NotTonight.exe", "type": "Game" }
+
+{ "name": "No Umbrellas Allowed.exe", "type": "Game" }
+
+{ "name": "NoVacationForAnExecutioner.exe", "type": "Game" }
+
+{ "name": "NovaDrift.exe", "type": "Game" }
+
+{ "name": "Nova.exe", "type": "Game" }
+
+{ "name": "Nova Lands.exe", "type": "Game" }
+
+{ "name": "Nova-Life.exe", "type": "Game" }
+
+{ "name": "Space Armada.exe", "type": "Game" }
+
+{ "name": "Nova Strike.exe", "type": "Game" }
+
+{ "name": "NSFWSolitaire.exe", "type": "Game" }
+
+{ "name": "NTEGlobalGame.exe", "type": "Game" }
+{ "name": "NTEGlobalBrowser.exe", "type": "Game" }
+{ "name": "NTEGlobalLauncher.exe", "type": "Game" }
+{ "name": "NTEGlobalWebBooster.exe", "type": "Game" }
+{ "name": "HTGame.exe", "type": "Game" }
+
+{ "name": "Ntraholic.exe", "type": "Game" }
+
+{ "name": "NTR_DejaVu.exe", "type": "BG_CPUIO" }
+{ "name": "NTR_DejaVu-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NNF_FULLVERSION.exe", "type": "Game" }
+
+{ "name": "Nubs!.exe", "type": "Game" }
+
+{ "name": "nucleardawn.exe", "type": "Game" }
+
+{ "name": "Nucleares.exe", "type": "Game" }
+
+{ "name": "NuclearNightmare.exe", "type": "BG_CPUIO" }
+{ "name": "NuclearNightmare-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "NuclearOption.exe", "type": "Game" }
+
+{ "name": "nuclearthrone.exe", "type": "Game" }
+
+{ "name": "NUKITASHI.exe", "type": "Game" }
+
+{ "name": "NUKITASHI2.exe", "type": "Game" }
+
+{ "name": "Nunholy.exe", "type": "Game" }
+
+{ "name": "RushGame.exe", "type": "Game" }
+
+{ "name": "Nya Nya Nya Girls.exe", "type": "Game" }
+
+{ "name": "Nyasha Valkyrie.exe", "type": "Game" }

@@ -1,0 +1,119 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+STATE_FILE="/tmp/raytolfas-desktop-mode.active"
+ACTION="${1:-status}"
+
+detect_external_outputs() {
+    local count=0
+    for status_file in /sys/class/drm/card*-*/status; do
+        if [ -f "${status_file}" ]; then
+            local st
+            st="$(cat "${status_file}" 2>/dev/null || true)"
+            if [ "${st}" = "connected" ]; then
+                count=$((count + 1))
+            fi
+        fi
+    done
+    echo "${count}"
+}
+
+kwrite_cfg() {
+    if command -v kwriteconfig6 >/dev/null 2>&1; then
+        kwriteconfig6 "$@" 2>/dev/null || true
+    elif command -v kwriteconfig5 >/dev/null 2>&1; then
+        kwriteconfig5 "$@" 2>/dev/null || true
+    fi
+}
+
+reconf_kwin() {
+    if command -v qdbus6 >/dev/null 2>&1; then
+        qdbus6 org.kde.KWin /KWin reconfigure 2>/dev/null || true
+    elif command -v qdbus >/dev/null 2>&1; then
+        qdbus org.kde.KWin /KWin reconfigure 2>/dev/null || true
+    fi
+}
+
+notify_user() {
+    local title="$1"
+    local body="$2"
+    if command -v notify-send >/dev/null 2>&1; then
+        notify-send -a "Desktop Mode" -i video-display "${title}" "${body}" 2>/dev/null || true
+    fi
+}
+
+enable_desktop_mode() {
+    touch "${STATE_FILE}"
+    kwrite_cfg --file kwinrc --group Windows --key BorderlessMaximizedWindows false
+    kwrite_cfg --file kwinrc --group org.kde.kdecoration2 --key BorderSize Normal
+    reconf_kwin
+    if command -v xrandr >/dev/null 2>&1; then
+        xrandr --auto 2>/dev/null || true
+    fi
+    notify_user "Desktop Mode Active" "External workspace enabled."
+    echo '{"active": true, "mode": "desktop"}'
+}
+
+disable_desktop_mode() {
+    rm -f "${STATE_FILE}"
+    if [ "${PLASMA_PLATFORM:-}" = "phone:handset" ]; then
+        kwrite_cfg --file kwinrc --group Windows --key BorderlessMaximizedWindows true
+    fi
+    reconf_kwin
+    notify_user "Desktop Mode Disabled" "Returned to standalone display."
+    echo '{"active": false, "mode": "mobile"}'
+}
+
+launch_touchpad() {
+    export QT_QUICK_CONTROLS_STYLE=Basic
+    if [ -f "/usr/share/raytolfas/desktop-mode/main.py" ]; then
+        exec python3 /usr/share/raytolfas/desktop-mode/main.py
+    fi
+    SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+    REPO_TP="${SCRIPT_DIR}/../../apps/desktop-mode/main.py"
+    if [ -f "${REPO_TP}" ]; then
+        exec python3 "${REPO_TP}"
+    fi
+    echo "Touchpad companion not found."
+    exit 1
+}
+
+case "${ACTION}" in
+    status)
+        EXT_COUNT="$(detect_external_outputs)"
+        if [ -f "${STATE_FILE}" ]; then
+            echo "{\"active\": true, \"connected_displays\": ${EXT_COUNT}}"
+        else
+            echo "{\"active\": false, \"connected_displays\": ${EXT_COUNT}}"
+        fi
+        ;;
+    enable)
+        enable_desktop_mode
+        ;;
+    disable)
+        disable_desktop_mode
+        ;;
+    toggle)
+        if [ -f "${STATE_FILE}" ]; then
+            disable_desktop_mode
+        else
+            enable_desktop_mode
+        fi
+        ;;
+    touchpad)
+        enable_desktop_mode >/dev/null 2>&1 || true
+        launch_touchpad
+        ;;
+    auto)
+        EXT_COUNT="$(detect_external_outputs)"
+        if [ "${EXT_COUNT}" -gt 1 ] && [ ! -f "${STATE_FILE}" ]; then
+            enable_desktop_mode
+        elif [ "${EXT_COUNT}" -le 1 ] && [ -f "${STATE_FILE}" ]; then
+            disable_desktop_mode
+        fi
+        ;;
+    *)
+        echo "Usage: raytolfas-desktop-mode {status|enable|disable|toggle|touchpad|auto}"
+        exit 1
+        ;;
+esac

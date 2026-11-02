@@ -1,0 +1,3 @@
+{ "name": "bluetoothd", "type": "BG_CPUIO" }
+
+{ "name": "obexd", "type": "BG_CPUIO" }

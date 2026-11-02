@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -e
+
+if pgrep -f "/usr/share/raytolfas/spotlight/main.py" >/dev/null 2>&1; then
+    pkill -f "/usr/share/raytolfas/spotlight/main.py" 2>/dev/null || true
+    exit 0
+fi
+
+export QT_QUICK_CONTROLS_STYLE=Basic
+
+if [ -f "/usr/share/raytolfas/spotlight/main.py" ]; then
+    exec python3 /usr/share/raytolfas/spotlight/main.py
+fi
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+REPO_SPOT="${SCRIPT_DIR}/../../apps/spotlight/main.py"
+if [ -f "${REPO_SPOT}" ]; then
+    exec python3 "${REPO_SPOT}"
+fi

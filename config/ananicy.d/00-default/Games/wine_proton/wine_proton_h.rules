@@ -1,0 +1,791 @@
+
+
+{ "name": "HabboHotel-obr.exe", "type": "Game" }
+{ "name": "HabboHotel-ous-xl.exe", "type": "Game" }
+{ "name": "HabboHotel-oes-xl.exe", "type": "Game" }
+{ "name": "HabboHotel-oes.exe", "type": "Game" }
+{ "name": "HabboHotel-obr-xl.exe", "type": "Game" }
+{ "name": "HabboHotel-ous.exe", "type": "Game" }
+
+{ "name": "HabromaniaDemo.exe", "type": "Game" }
+
+{ "name": "Hachishaku.exe", "type": "BG_CPUIO" }
+{ "name": "Hachishaku-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HackerEvolution.exe", "type": "Game" }
+
+{ "name": "Hacker Evolution Untold.exe", "type": "Game" }
+{ "name": "Hacker Evolution Mod Editor.exe", "type": "Game" }
+
+{ "name": "hackGU.exe", "type": "Game" }
+
+{ "name": "hh-launcher.exe", "type": "Game" }
+
+{ "name": "Hacknet.exe", "type": "Game" }
+
+{ "name": "HadeanTactics.exe", "type": "Game" }
+
+{ "name": "Hades.exe", "type": "Game" }
+
+{ "name": "Hades2.exe", "type": "Game" }
+
+{ "name": "hadesstar.exe", "type": "Game" }
+
+{ "name": "Haiku.exe", "type": "Game" }
+
+{ "name": "Hail to the Rainbow.exe", "type": "Game" }
+
+{ "name": "HakuokiFlower.exe", "type": "Game" }
+
+{ "name": "HakuokiWin.exe", "type": "Game" }
+
+{ "name": "-X-.exe", "type": "Game" }
+
+{ "name": "hl2mp.exe", "type": "Game" }
+{ "name": "hl2mp_win64.exe", "type": "Game" }
+
+{ "name": "hl2vr.exe", "type": "Game" }
+
+{ "name": "hlvr.exe", "type": "Game" }
+
+{ "name": "hl1mp.exe", "type": "Game" }
+{ "name": "hl1mp_win64.exe", "type": "Game" }
+
+{ "name": "HMH.exe", "type": "Game" }
+
+{ "name": "Halfway_House_Steam.exe", "type": "Game" }
+
+{ "name": "HallsOfTorment.exe", "type": "Game" }
+
+{ "name": "HaloInfinite.exe", "type": "Game" }
+
+{ "name": "haloded.exe", "type": "Service" }
+{ "name": "haloceded.exe", "type": "Service" }
+
+{ "name": "halo.exe", "type": "Game" }
+{ "name": "haloce.exe", "type": "Game" }
+
+{ "name": "HaloSpartanAssault.exe", "type": "Game" }
+
+{ "name": "MCC-Win64-Shipping.exe", "type": "Game" }
+{ "name": "mcclauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "xgameFinal.exe", "type": "Game" }
+
+{ "name": "hamidashi.exe", "type": "Game" }
+{ "name": "hamidashitotsu.exe", "type": "Game" }
+
+{ "name": "Hammerfight.exe", "type": "Game" }
+
+{ "name": "boot.exe", "type": "Game" }
+
+{ "name": "Hammerwatch.exe", "type": "Game" }
+
+{ "name": "Hamster Combat.exe", "type": "Game" }
+
+{ "name": "Hamster Hunter.exe", "type": "Game" }
+
+{ "name": "HamsteriaDemo.exe", "type": "Game" }
+
+{ "name": "Hamster Playground.exe", "type": "Game" }
+
+{ "name": "Hamster's Sticker Book.exe", "type": "Game" }
+
+{ "name": "Hamster Talk.exe", "type": "Game" }
+
+{ "name": "HamTheGame.exe", "type": "BG_CPUIO" }
+{ "name": "HamTheGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Handball17.exe", "type": "Game" }
+
+{ "name": "Handball 21.exe", "type": "Game" }
+
+{ "name": "Handmancers.exe", "type": "Game" }
+
+{ "name": "Hand of Fate.exe", "type": "Game" }
+
+{ "name": "Hand of Fate 2.exe", "type": "Game" }
+
+{ "name": "Hand Simulator.exe", "type": "Game" }
+
+{ "name": "HandymanFantasy.exe", "type": "Game" }
+
+{ "name": "Handyman Legend.exe", "type": "Game" }
+
+{ "name": "Happy Island Fantasy.exe", "type": "Game" }
+
+{ "name": "Happy Room.exe", "type": "Game" }
+
+{ "name": "Happy's Humble Burger Farm.exe", "type": "Game" }
+
+{ "name": "Hard Bullet.exe", "type": "Game" }
+
+{ "name": "hardreset.exe", "type": "Game" }
+
+{ "name": "Shipbreaker.exe", "type": "Game" }
+
+{ "name": "HardTimeModLauncher.exe", "type": "Game" }
+{ "name": "Hard Time III.exe", "type": "Game" }
+
+{ "name": "king.exe", "type": "Game" }
+
+{ "name": "hta.exe", "type": "Game" }
+
+{ "name": "HardWest.exe", "type": "Game" }
+
+{ "name": "HardWest2.exe", "type": "Game" }
+
+{ "name": "Harem-Fantasy.exe", "type": "Game" }
+
+{ "name": "Harem of Lust.exe", "type": "Game" }
+
+{ "name": "QuidditchChampions.exe", "type": "BG_CPUIO" }
+{ "name": "QuidditchChampions-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Harvestella.exe", "type": "BG_CPUIO" }
+{ "name": "Harvestella-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HARVEST.EXE", "type": "Game" }
+
+{ "name": "Harvest Moon The Winds of Anthos.exe", "type": "Game" }
+
+{ "name": "Battleship.exe", "type": "Game" }
+
+{ "name": "hashihime_zh_hans.exe", "type": "Game" }
+{ "name": "hashihime_zh_hant.exe", "type": "Game" }
+{ "name": "hashihime.exe", "type": "Game" }
+
+{ "name": "Hatred.exe", "type": "BG_CPUIO" }
+{ "name": "Hatred-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "MikuLogiS+.exe", "type": "Game" }
+
+{ "name": "DivaMegaMix.exe", "type": "Game" }
+
+{ "name": "Haunted.exe", "type": "BG_CPUIO" }
+{ "name": "Haunted-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HauntTheHouseTerrortown.exe", "type": "Game" }
+
+{ "name": "HaveaNiceDeath.exe", "type": "Game" }
+
+{ "name": "Haven.exe", "type": "Game" }
+
+{ "name": "Havendock.exe", "type": "Game" }
+
+{ "name": "Havoc.exe", "type": "Game" }
+
+{ "name": "Hawked.exe", "type": "Game" }
+{ "name": "MGL-single.exe", "type": "Game" }
+
+{ "name": "Anthro.exe", "type": "BG_CPUIO" }
+{ "name": "Anthro-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "edith.exe", "type": "Game" }
+
+{ "name": "HD Poker.exe", "type": "Game" }
+
+{ "name": "UEBA-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HeadShot.exe", "type": "Game" }
+
+{ "name": "Headsnatchers.exe", "type": "BG_CPUIO" }
+{ "name": "Headsnatchers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "headswillroll_reforged-32.exe", "type": "Game" }
+{ "name": "headswillroll_reforged.exe", "type": "Game" }
+
+{ "name": "HeartCage_1.0.exe", "type": "Game" }
+
+{ "name": "Heart Clicker.exe", "type": "Game" }
+
+{ "name": "Hearth and Hamlet Demo.exe", "type": "Game" }
+
+{ "name": "Hearthstone.exe", "type": "Game" }
+
+{ "name": "HEARTofCROWN.exe", "type": "Game" }
+
+{ "name": "HeartOfTheMachine.exe", "type": "Game" }
+
+{ "name": "xdt.exe", "type": "Game" }
+
+{ "name": "hoi2.exe", "type": "Game" }
+{ "name": "HoI2.exe", "type": "Game" }
+
+{ "name": "hoi3.exe", "type": "Game" }
+{ "name": "hoi3game.exe", "type": "Game" }
+
+{ "name": "hoi4.exe", "type": "Game" }
+
+{ "name": "Heartwood Online.exe", "type": "Game" }
+
+{ "name": "HeatDeath.exe", "type": "BG_CPUIO" }
+{ "name": "HeatDeath-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Extras Launcher.exe", "type": "Game" }
+{ "name": "Heat_Signature.exe", "type": "Game" }
+
+{ "name": "Heatwave.exe", "type": "Game" }
+
+{ "name": "HeaveHo.exe", "type": "Game" }
+
+{ "name": "Heavenly Bodies.exe", "type": "Game" }
+
+{ "name": "Heaven's Vault.exe", "type": "Game" }
+
+{ "name": "HA.exe", "type": "BG_CPUIO" }
+{ "name": "HA-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Heavy Metal Babes.exe", "type": "Game" }
+
+{ "name": "HeavyRain.exe", "type": "Game" }
+
+{ "name": "hedgewars.exe", "type": "Game"}
+{ "name": "hedgewars-server.exe", "type": "Service"}
+
+{ "name": "He is coming.exe", "type": "Game" }
+
+{ "name": "heliborne.exe", "type": "Game" }
+{ "name": "heliborne-launcher.exe", "type": "Game" }
+{ "name": "Heliborne.exe", "type": "Game" }
+{ "name": "Heliborne-EE.exe", "type": "Game" }
+
+{ "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "HellbladeGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "HellbladeGameVR.exe", "type": "BG_CPUIO" }
+{ "name": "HellbladeGameVR-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hellboy.exe", "type": "Game" }
+
+{ "name": "HELLCARD.exe", "type": "Game" }
+{ "name": "HELLCARD_Dev.exe", "type": "Game" }
+{ "name": "HELLCARD_Modding.exe", "type": "Game" }
+{ "name": "HELLCARD_eos.exe", "type": "Game" }
+
+{ "name": "Hell Clock.exe", "type": "Game" }
+
+{ "name": "helldivers2.exe", "type": "Game" }
+
+{ "name": "helldivers.exe", "type": "Game" }
+
+{ "name": "Hellforged.exe", "type": "Game" }
+
+{ "name": "Hellgate.exe", "type": "Game" }
+{ "name": "Hellgate_sp_x86.exe", "type": "Game" }
+
+{ "name": "Hellish Quart.exe", "type": "Game" }
+
+{ "name": "HellIsUs.exe", "type": "BG_CPUIO" }
+{ "name": "HellIsUs-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HLL-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Launch_HLL_Dev.exe", "type": "Game" }
+{ "name": "Launch_HLL.exe", "type": "Game" }
+{ "name": "Launch_HLL_Test.exe", "type": "Game" }
+
+{ "name": "Hell Maiden.exe", "type": "Game" }
+
+{ "name": "Hellmart.exe", "type": "Game" }
+
+{ "name": "Hello Kitty.exe", "type": "Game" }
+
+{ "name": "你好！我们还有场恋爱没谈.exe", "type": "Game" }
+
+{ "name": "HelloNeighbor.exe", "type": "BG_CPUIO" }
+
+{ "name": "HelloNeighbor3.exe", "type": "BG_CPUIO" }
+{ "name": "HelloNeighbor3-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HideAndSeek.exe", "type": "BG_CPUIO" }
+
+{ "name": "HelloNeighbour.exe", "type": "BG_CPUIO" }
+{ "name": "HelloNeighbour-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HellPie.exe", "type": "Game" }
+
+{ "name": "Hellpoint.exe", "type": "Game" }
+
+{ "name": "Hellscreen.exe", "type": "Game" }
+
+{ "name": "HellSlave.exe", "type": "Game" }
+
+{ "name": "HellSlave II Demo.exe", "type": "Game" }
+
+{ "name": "Hellsplit_Arena.exe", "type": "BG_CPUIO" }
+{ "name": "Hellsplit_Arena-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Helltaker.exe", "type": "Game" }
+
+{ "name": "HELLYEAH.exe", "type": "Game" }
+
+{ "name": "HelpingTheHotties.exe", "type": "Game" }
+
+{ "name": "HENPRI.exe", "type": "Game" }
+
+{ "name": "Hentai Bad Girls.exe", "type": "Game" }
+
+{ "name": "Hentai Cleopatra 2.exe", "type": "Game" }
+
+{ "name": "HentaiGirl.exe", "type": "Game" }
+
+{ "name": "Hentai Killer.exe", "type": "Game" }
+
+{ "name": "OMON Girl Bottle Royal.exe", "type": "Game" }
+
+{ "name": "PUSSY.exe", "type": "Game" }
+
+{ "name": "Hentai Sweet Girls.exe", "type": "Game" }
+
+{ "name": "Here Comes The Swarm.exe", "type": "Game" }
+
+{ "name": "HereSphere.exe", "type": "BG_CPUIO" }
+{ "name": "HereSphere-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "heretic.exe", "type": "Game" }
+{ "name": "HEXEN.EXE", "type": "Game" }
+
+{ "name": "Heretics Fork.exe", "type": "Game" }
+
+{ "name": "hermit_and_pig.exe", "type": "Game" }
+
+{ "name": "HerNewMemory.exe", "type": "Game" }
+{ "name": "HerNewMemory-32.exe", "type": "Game" }
+
+{ "name": "hngsteamlauncher.exe", "type": "Game" }
+{ "name": "hng_BE.exe", "type": "Game" }
+{ "name": "hngsync.exe", "type": "Game" }
+{ "name": "hng.exe", "type": "Game" }
+
+{ "name": "HWR.exe", "type": "Game" }
+
+{ "name": "HWR2.exe", "type": "Game" }
+
+{ "name": "HeroesOldenEra.exe", "type": "Game" }
+
+{ "name": "HeroesOE.exe", "type": "Game" }
+
+{ "name": "HOMM3Launcher.exe", "type": "Game" }
+{ "name": "HOMM3 2.0.exe", "type": "Game" }
+{ "name": "mapEditor.exe", "type": "Game" }
+
+{ "name": "Silence of the Siren.exe", "type": "Game" }
+
+{ "name": "HotD.exe", "type": "Game" }
+
+{ "name": "Sango7.exe", "type": "Game" }
+
+{ "name": "HeroesOfValor.exe", "type": "BG_CPUIO" }
+{ "name": "HeroesOfValor-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HeroesWanted.exe", "type": "Game" }
+
+{ "name": "Heroine's Quest.exe", "type": "Game" }
+
+{ "name": "Hero of the Kingdom 32bit.exe", "type": "Game" }
+{ "name": "Hero of the Kingdom.exe", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom.exe", "type": "Game" }
+
+{ "name": "Hero of the Kingdom III 32bit.exe", "type": "Game" }
+{ "name": "Hero of the Kingdom III.exe", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom_III.exe", "type": "Game" }
+
+{ "name": "Hero.exe", "type": "Game" }
+
+{ "name": "Wulin.exe", "type": "Game" }
+
+{ "name": "Hero's Hour.exe", "type": "Game" }
+
+{ "name": "Hero_Siege.exe", "type": "Game" }
+
+{ "name": "HerosJourney.exe", "type": "BG_CPUIO" }
+{ "name": "HerosJourney-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HerosLand.exe", "type": "Game" }
+
+{ "name": "Hero Tale.exe", "type": "Game" }
+
+{ "name": "Hero Zero.exe", "type": "Game" }
+
+{ "name": "HerTreesPuzzleDream.exe", "type": "Game" }
+
+{ "name": "HerTrees-ThePuzzleHouse.exe", "type": "Game" }
+
+{ "name": "Hexarchy-Win64.exe", "type": "Game" }
+
+{ "name": "hexceed.exe", "type": "Game" }
+
+{ "name": "Hexcells.exe", "type": "Game" }
+
+{ "name": "Hexcells Infinite.exe", "type": "Game" }
+
+{ "name": "Hexcells Plus.exe", "type": "Game" }
+
+{ "name": "glh2.exe", "type": "Game" }
+
+{ "name": "Hexguardian.exe", "type": "BG_CPUIO" }
+{ "name": "RTSTest-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hexodius.exe", "type": "Game" }
+
+{ "name": "Hex of Steel.exe", "type": "Game" }
+
+{ "name": "Hey Stranger! I Dare You to Love Me!.exe", "type": "Game" }
+
+{ "name": "Launch_H-Hour.exe", "type": "BG_CPUIO" }
+{ "name": "HHourGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HIA.exe", "type": "BG_CPUIO" }
+{ "name": "HIA-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HD2DS_SabreSquadron.exe", "type": "Game" }
+{ "name": "HD2DS.exe", "type": "Game" }
+{ "name": "HD2_SabreSquadron.exe", "type": "Game" }
+{ "name": "hd2.exe", "type": "Game" }
+
+{ "name": "hdeep.exe", "type": "Game" }
+{ "name": "hdeep_NG.exe", "type": "Game" }
+
+{ "name": "Hidden Folks.exe", "type": "Game" }
+
+{ "name": "Hidden.exe", "type": "Game" }
+
+{ "name": "HideandShriek.exe", "type": "BG_CPUIO" }
+{ "name": "HideandShriek-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hi-Fi-RUSH.exe", "type": "Game" }
+
+{ "name": "Highfleet.exe", "type": "Game" }
+
+{ "name": "Oregon.exe", "type": "BG_CPUIO" }
+{ "name": "Oregon-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HighOnLife2.exe", "type": "BG_CPUIO" }
+{ "name": "HighOnLife2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Highrise.exe", "type": "Game" }
+
+{ "name": "CityNext-Win64-Shipping.exe", "type": "Game" }
+{ "name": "HighriseCity.exe", "type": "BG_CPUIO" }
+
+{ "name": "HigurashiEp10.exe", "type": "Game" }
+
+{ "name": "HigurashiEp01.exe", "type": "Game" }
+
+{ "name": "HigurashiEp02.exe", "type": "Game" }
+
+{ "name": "HigurashiEp03.exe", "type": "Game" }
+
+{ "name": "HigurashiEp04.exe", "type": "Game" }
+
+{ "name": "HigurashiEp05.exe", "type": "Game" }
+
+{ "name": "HigurashiEp06.exe", "type": "Game" }
+
+{ "name": "HigurashiEp07.exe", "type": "Game" }
+
+{ "name": "HigurashiEp08.exe", "type": "Game" }
+
+{ "name": "HigurashiEp09.exe", "type": "Game" }
+
+{ "name": "hops.exe", "type": "Game" }
+
+{ "name": "Hitler is my crush.exe", "type": "Game" }
+
+{ "name": "HITMAN.exe", "type": "Game" }
+
+{ "name": "HITMAN2.exe", "type": "Game" }
+
+{ "name": "hitman2.exe", "type": "Game" }
+
+{ "name": "HMA.exe", "type": "Game" }
+
+{ "name": "HitmanBloodMoney.exe", "type": "Game" }
+
+{ "name": "Hitman.Exe", "type": "Game" }
+
+{ "name": "HitmanContracts.exe", "type": "Game" }
+
+{ "name": "HiveBlight.exe", "type": "Game" }
+
+{ "name": "HmmsimMetro.exe", "type": "BG_CPUIO" }
+{ "name": "HmmsimMetro-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Reuben.exe", "type": "Game" }
+
+{ "name": "Hob.exe", "type": "Game" }
+{ "name": "HobLauncher.exe", "type": "Game" }
+{ "name": "HOB.exe", "type": "Game" }
+
+{ "name": "HoboRPG.exe", "type": "Game" }
+
+{ "name": "Hockey Legacy Manager 25.exe", "type": "Game" }
+
+{ "name": "Hockey Legacy Manager 26.exe", "type": "Game" }
+
+{ "name": "HogwartsLegacy.exe", "type": "Game" }
+
+{ "name": "Holdfast NaW.exe", "type": "Game" }
+
+{ "name": "index.exe", "type": "Game" }
+
+{ "name": "HoldTheMine.exe", "type": "Game" }
+
+{ "name": "Hold Your King.exe", "type": "Game" }
+
+{ "name": "HOLE.exe", "type": "BG_CPUIO" }
+{ "name": "HOLE-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hollowbody.exe", "type": "Game" }
+
+{ "name": "Hollow Home.exe", "type": "Game" }
+
+{ "name": "hollow_knight.exe", "type": "Game" }
+
+{ "name": "Hollow Knight Silksong.exe", "type": "Game" }
+
+{ "name": "Holly.exe", "type": "Game" }
+{ "name": "Hollywood Animal.exe", "type": "Game" }
+
+{ "name": "HoloCure.exe", "type": "Game" }
+
+{ "name": "Holoidle.exe", "type": "Game" }
+
+{ "name": "Holomento.exe", "type": "BG_CPUIO" }
+{ "name": "Holomento-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HoloParade.exe", "type": "Game" }
+
+{ "name": "holovillage.exe", "type": "Game" }
+
+{ "name": "Holo vs Robo.exe", "type": "Game" }
+
+{ "name": "Holo X Break.exe", "type": "Game" }
+
+{ "name": "Holyday City Reloaded.exe", "type": "Game" }
+
+{ "name": "home-win-eng.exe", "type": "Game" }
+
+{ "name": "HomeBehind.exe", "type": "Game" }
+
+{ "name": "HomeBehind2.exe", "type": "Game" }
+
+{ "name": "HomeDesign3D.exe", "type": "Game" }
+
+{ "name": "HOMEFRONT.exe", "type": "Game" }
+
+{ "name": "Homefront2_Release.exe", "type": "Game" }
+
+{ "name": "Home Safety Hotline.exe", "type": "Game" }
+
+{ "name": "Home Sheep Home Farmageddon Party Edition.exe", "type": "Game" }
+{ "name": "HomeSheepHome2.exe", "type": "Game" }
+
+{ "name": "HomeSweetHome.exe", "type": "BG_CPUIO" }
+{ "name": "HomeSweetHome-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Homeworld3.exe", "type": "Game" }
+
+{ "name": "DesertsOfKharak.exe", "type": "Game" }
+{ "name": "DesertsOfKharak32.exe", "type": "Game" }
+{ "name": "DesertsOfKharak64.exe", "type": "Game" }
+{ "name": "DoK_Manual.exe", "type": "Game" }
+
+{ "name": "Homeworld.exe", "type": "Game" }
+{ "name": "HomeworldRM.exe", "type": "Game" }
+
+{ "name": "Homicipher.exe", "type": "Game" }
+
+{ "name": "HomuraHime.exe", "type": "Game" }
+
+{ "name": "Honey, I Joined a Cult.exe", "type": "Game" }
+
+{ "name": "HoneyPeachClicker.exe", "type": "Game" }
+
+{ "name": "HoneySelect2.exe", "type": "Game" }
+
+{ "name": "StarRail.exe", "type": "Game" }
+
+{ "name": "Hook.exe", "type": "Game" }
+
+{ "name": "HookahHaze.exe", "type": "Game" }
+
+{ "name": "Hooked on You.exe", "type": "Game" }
+
+{ "name": "Hoop Land.exe", "type": "Game" }
+
+{ "name": "HordesOfHunger.exe", "type": "BG_CPUIO" }
+{ "name": "HordesOfHunger-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HorizonChase.exe", "type": "Game" }
+
+{ "name": "HorizonForbiddenWest.exe", "type": "Game" }
+
+{ "name": "BoatTactics.exe", "type": "Game" }
+
+{ "name": "Horizonwalker.exe", "type": "Game" }
+
+{ "name": "HorizonZeroDawn.exe", "type": "Game" }
+
+{ "name": "HorizonZeroDawnRemastered.exe", "type": "Game" }
+
+{ "name": "HornyVilla.exe", "type": "Game" }
+
+{ "name": "HOROS.exe", "type": "Game" }
+
+{ "name": "HorseRacingManager.exe", "type": "Game" }
+
+{ "name": "Horses of Hoofprint Bay Demo.exe", "type": "Game" }
+
+{ "name": "Horsey.exe", "type": "Game" }
+
+{ "name": "Hospital666.exe", "type": "BG_CPUIO" }
+{ "name": "Hospital666-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "h3vr.exe", "type": "Game" }
+
+{ "name": "HotelArchitect.exe", "type": "BG_CPUIO" }
+{ "name": "HotelArchitect-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hotel Galactic.exe", "type": "Game" }
+
+{ "name": "Hideaway.exe", "type": "Game" }
+
+{ "name": "Hotel_Renovator.exe", "type": "BG_CPUIO" }
+{ "name": "Hotel_Renovator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "hotlava.exe", "type": "Game" }
+
+{ "name": "HotlineGL.exe", "type": "Game" }
+{ "name": "HotlineMiami.exe", "type": "Game" }
+{ "name": "HotlineMiami_Original.exe", "type": "Game" }
+
+{ "name": "HotlineMiami2.exe", "type": "Game" }
+
+{ "name": "hotwheels.exe", "type": "BG_CPUIO" }
+{ "name": "hotwheels-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "hotwheels2.exe", "type": "BG_CPUIO" }
+{ "name": "hotwheels2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HARS.exe", "type": "Game" }
+{ "name": "hindie.steam.exe", "type": "Game" }
+
+{ "name": "HouseBuilder.exe", "type": "Game" }
+
+{ "name": "HouseFlipper2.exe", "type": "Game" }
+
+{ "name": "House of Detention.exe", "type": "Game" }
+
+{ "name": "House of Legacy.exe", "type": "Game" }
+
+{ "name": "House of Lizards.exe", "type": "Game" }
+
+{ "name": "dyingsun.exe", "type": "Game" }
+
+{ "name": "HouseParty.exe", "type": "Game" }
+
+{ "name": "Hover.exe", "type": "Game" }
+
+{ "name": "HowManyDudes.exe", "type": "Game" }
+
+{ "name": "How To Grow a Black Hole.exe", "type": "Game" }
+
+{ "name": "Atomic Bomb.exe", "type": "BG_CPUIO" }
+
+{ "name": "Atomic Bomb Demo.exe", "type": "BG_CPUIO" }
+
+{ "name": "HowToSurvive.exe", "type": "Game" }
+
+{ "name": "HowToSurvive2.exe", "type": "Game" }
+
+{ "name": "HowToTrainYourCock.exe", "type": "Game" }
+
+{ "name": "CozyGame.exe", "type": "BG_CPUIO" }
+{ "name": "CozyGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HROT.exe", "type": "Game" }
+
+{ "name": "HudSightApp64.exe", "type": "BG_CPUIO" }
+{ "name": "SteamInterface.exe", "type": "BG_CPUIO" }
+{ "name": "HudSight.exe", "type": "BG_CPUIO" }
+
+{ "name": "Hue.exe", "type": "Game" }
+
+{ "name": "HullRupture.exe", "type": "Game" }
+
+{ "name": "Human.exe", "type": "Game" }
+
+{ "name": "Human Host.exe", "type": "Game" }
+
+{ "name": "HumanityAsset.exe", "type": "Game" }
+
+{ "name": "HumanitZ.exe", "type": "Game" }
+
+{ "name": "HumanitZ_Demo.exe", "type": "BG_CPUIO" }
+{ "name": "HumanitZ-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Humankind.exe", "type": "Game" }
+
+{ "name": "Human Resource Machine.exe", "type": "Game" }
+
+{ "name": "Lizardwomen.exe", "type": "Game" }
+
+{ "name": "HunieCamStudio.exe", "type": "Game" }
+
+{ "name": "HuniePop.exe", "type": "Game" }
+
+{ "name": "HuniePop 2 - Double Date.exe", "type": "Game" }
+
+{ "name": "ruffleneck.exe", "type": "Game" }
+
+{ "name": "Huntdown.exe", "type": "Game" }
+
+{ "name": "Huntdown Overtime.exe", "type": "Game" }
+
+{ "name": "hunted.exe", "type": "Game" }
+{ "name": "HUNTED.EXE", "type": "Game" }
+
+{ "name": "Hunter.exe", "type": "BG_CPUIO" }
+{ "name": "Hunter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hurtworld.exe", "type": "Game" }
+{ "name": "hurtworld.exe", "type": "Game" }
+{ "name": "HurtworldClient.exe", "type": "Game" }
+
+{ "name": "HUSHED.exe", "type": "BG_CPUIO" }
+{ "name": "HUSHED-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HushHush.exe", "type": "Game" }
+
+{ "name": "Mining-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HydroPC.exe", "type": "Game" }
+
+{ "name": "Hylics2_Windows.exe", "type": "Game" }
+
+{ "name": "Unboxed.exe", "type": "BG_CPUIO" }
+{ "name": "Unboxed-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "hyperdemon.exe", "type": "Game" }
+
+{ "name": "NeptuniaReBirth1.exe", "type": "Game" }
+
+{ "name": "NeptuniaReBirth2.exe", "type": "Game" }
+
+{ "name": "NeptuniaReBirth3.exe", "type": "Game" }
+
+{ "name": "Breaker.exe", "type": "BG_CPUIO" }
+{ "name": "Breaker-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "HyperLightDrifter.exe", "type": "Game" }
+
+{ "name": "HyperMarket Simulator.exe", "type": "Game" }
+
+{ "name": "hyper.exe", "type": "Game" }
+
+{ "name": "HypnOS.exe", "type": "Game" }
+
+{ "name": "HyposphereOne.exe", "type": "BG_CPUIO" }
+{ "name": "HyposphereOne-Win32-Shipping.exe", "type": "Game" }

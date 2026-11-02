@@ -1,0 +1,4 @@
+{ "name": "oosplash", "type": "Doc-View" }
+{ "name": "libreoffice", "type": "Doc-View" }
+{ "name": "soffice", "type": "Doc-View" }
+{ "name": "soffice.bin", "type": "Doc-View" }

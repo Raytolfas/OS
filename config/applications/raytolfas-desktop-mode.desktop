@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Desktop Mode
+Comment=External display convergence and trackpad controller
+Exec=/usr/bin/raytolfas-desktop-mode touchpad
+Icon=video-display
+Terminal=false
+Categories=System;Utility;

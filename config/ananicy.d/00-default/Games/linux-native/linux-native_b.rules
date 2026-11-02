@@ -1,0 +1,221 @@
+
+
+{ "name": "BabbleCalibration.x86_64", "type": "Game" }
+{ "name": "BabbleTrainer", "type": "Game" }
+{ "name": "espflash", "type": "Game" }
+
+{ "name": "BABBDI_1.2.5.x86_64", "type": "Game" }
+
+{ "name": "Babel Legacy Demo.x86_64", "type": "Game" }
+
+{ "name": "Lunar.x86_64", "type": "Game" }
+
+{ "name": "BaddiesInc", "type": "Game" }
+
+{ "name": "badendtheater", "type": "Game" }
+
+{ "name": "badland", "type": "Game" }
+
+{ "name": "bg3", "type": "Game" }
+
+{ "name": "Baldur's Gate - Dark Alliance II", "type": "Game" }
+
+{ "name": "BaldursGateII", "type": "Game" }
+
+{ "name": "ballionaire-linux.x86_64", "type": "Game" }
+
+{ "name": "BallisticNG", "type": "Game" }
+
+{ "name": "Banana.x86_64", "type": "Game" }
+
+{ "name": "BangAverageFootball.AppImage", "type": "Game" }
+
+{ "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
+
+{ "name": "barely_working.x86_64", "type": "Game" }
+
+{ "name": "BareWitness", "type": "Game" }
+
+{ "name": "barony.x86_64", "type": "Game" }
+{ "name": "editor.x86_64", "type": "Game" }
+
+{ "name": "Barotrauma", "type": "Game" }
+
+{ "name": "Basement.x86", "type": "Game" }
+{ "name": "Basement.x86_64", "type": "Game" }
+
+{ "name": "Bastion", "type": "Game" }
+
+{ "name": "BatMUD", "type": "Game" }
+
+{ "name": "BattleBlockTheater", "type": "Game" }
+
+{ "name": "BC", "type": "Game" }
+
+{ "name": "BattleChefBrigade.x86", "type": "Game" }
+{ "name": "BattleChefBrigade.x86_64", "type": "Game" }
+
+{ "name": "wesnoth", "type": "Game" }
+{ "name": "wesnothd", "type": "Game" }
+
+{ "name": "BattleNations", "type": "Game" }
+
+{ "name": "Battle Ranch", "type": "Game" }
+
+{ "name": "BattleSimulatorCounterTerrorist.x86_64", "type": "Game" }
+
+{ "name": "Battle Tanks.x86_64", "type": "Game" }
+
+{ "name": "BattleTech", "type": "Game" }
+
+{ "name": "BeamNG.drive.x64", "type": "Game" }
+
+{ "name": "beatbanger.x86_64", "type": "Game" }
+
+{ "name": "Beatblock", "type": "Game" }
+
+{ "name": "Beatbuddy", "type": "Game" }
+
+{ "name": "BeatCop.x86", "type": "Game" }
+{ "name": "BeatCop.x86_64", "type": "Game" }
+
+{ "name": "BeatHazard", "type": "Game" }
+{ "name": "BeatHazard_Linux2", "type": "Game" }
+
+{ "name": "BeaversBeDammed.x86_64", "type": "Game" }
+{ "name": "BeaversBeDammed.x86", "type": "Game" }
+
+{ "name": "BeforeTheEcho", "type": "Game" }
+{ "name": "Sequence", "type": "Game" }
+
+{ "name": "Beholder.x86", "type": "Game" }
+{ "name": "Beholder.x86_64", "type": "Game" }
+
+{ "name": "Beholder2.x86", "type": "Game" }
+{ "name": "Beholder2.x86_64", "type": "Game" }
+
+{ "name": "BeingADIK", "type": "Game" }
+
+{ "name": "BATIM.x86", "type": "Game" }
+{ "name": "BATIM.x86_64", "type": "Game" }
+
+{ "name": "Besiege.x86", "type": "Game" }
+{ "name": "Besiege.x86_64", "type": "Game" }
+
+{ "name": "BetweenTwoWorlds", "type": "Game" }
+
+{ "name": "Big Pharma.x86", "type": "Game" }
+
+{ "name": "bb_linux.x86_64", "type": "Game" }
+
+{ "name": "Bioprototype.x86_64", "type": "Game" }
+
+{ "name": "bioshock", "type": "Game" }
+{ "name": "bioshock.i386", "type": "Game" }
+
+{ "name": "bitburner", "type": "Game" }
+
+{ "name": "Bits & Bops.x86_64", "type": "Game" }
+
+{ "name": "runner2", "type": "Game" }
+
+{ "name": "Black_Hole_Fishing.x86_64", "type": "Game" }
+
+{ "name": "bms_linux", "type": "Game" }
+
+{ "name": "BlacksmithMaster.x86_64", "type": "Game" }
+
+{ "name": "berimbau", "type": "Game" }
+
+{ "name": "Blasphemous.x86_64", "type": "Game" }
+
+{ "name": "blazerush", "type": "Game" }
+
+{ "name": "Bleed", "type": "Game" }
+
+{ "name": "blender-launcher", "type": "BG_CPUIO" }
+
+{ "name": "Blockstorm", "type": "Game" }
+
+{ "name": "bloodthief.x86_64", "type": "Game" }
+
+{ "name": "BlushBlush.x86_64", "type": "Game" }
+
+{ "name": "Bombe", "type": "Game" }
+
+{ "name": "BomberCrew.x86", "type": "Game" }
+{ "name": "BomberCrew.x86_64", "type": "Game" }
+
+{ "name": "bh.x86_64", "type": "Game" }
+
+{ "name": "Borderlands2", "type": "Game" }
+
+{ "name": "BorderlandsPreSequel", "type": "Game" }
+
+{ "name": "bg-holo", "type": "Game" }
+
+{ "name": "BoringManRewrite", "type": "Game" }
+
+{ "name": "Born_Again.x86_64", "type": "Game" }
+
+{ "name": "BoundByFlame", "type": "Game" }
+
+{ "name": "BountyOfOne.x86_64", "type": "Game" }
+
+{ "name": "Braid.bin.x86", "type": "Game" }
+
+{ "name": "BrassBirminghamUnity.x86", "type": "Game" }
+{ "name": "BrassBirminghamUnity.x86_64", "type": "Game" }
+
+{ "name": "Braveland.x86_64", "type": "Game" }
+
+{ "name": "bnc_linux.x86", "type": "Game" }
+
+{ "name": "Breachway", "type": "Game" }
+
+{ "name": "Breakout13", "type": "Game" }
+
+{ "name": "BreezeOfPassion", "type": "Game" }
+
+{ "name": "BrickRigsSteam-Linux-Shipping", "type": "Game" }
+
+{ "name": "BridgeConstructor.x86_64", "type": "Game" }
+
+{ "name": "Bridge_Constructor_Portal.x86_64", "type": "Game" }
+
+{ "name": "brigador", "type": "Game" }
+
+{ "name": "BrightLord", "type": "Game" }
+
+{ "name": "Broforce.x86", "type": "Game" }
+{ "name": "Broforce.x86_64", "type": "Game" }
+
+{ "name": "BrokenAge", "type": "Game" }
+
+{ "name": "BrokenDreamsLinux", "type": "Game" }
+
+{ "name": "BrokenHeartsIsland", "type": "Game" }
+
+{ "name": "BS2", "type": "Game" }
+
+{ "name": "BS5", "type": "Game" }
+
+{ "name": "bs1dc_i386", "type": "Game" }
+{ "name": "bs1dc_x86_64", "type": "Game" }
+
+{ "name": "BS1R", "type": "Game" }
+
+{ "name": "Brotato.x86_64", "type": "Game" }
+
+{ "name": "Buddha.bin.x86", "type": "Game" }
+
+{ "name": "BrutalOrchestra.x86_64", "type": "Game" }
+
+{ "name": "Buckshot Roulette.x86_64", "type": "Game" }
+
+{ "name": "BulbBoy.x86_64", "type": "Game" }
+{ "name": "BulbBoy.x86", "type": "Game" }
+
+{ "name": "BurningBoundaries", "type": "Game" }
+
+{ "name": "Butcher", "type": "Game" }

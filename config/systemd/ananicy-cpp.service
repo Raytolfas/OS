@@ -1,0 +1,41 @@
+[Unit]
+Description=Ananicy-Cpp - ANother Auto NICe daemon in C++
+After=local-fs.target
+StartLimitIntervalSec=60
+StartLimitBurst=5
+
+[Service]
+ExecStart=/usr/bin/ananicy-cpp start
+ExecReload=/usr/bin/ananicy-cpp --reload
+Nice=-5
+SuccessExitStatus=143
+OOMScoreAdjust=-999
+Restart=always
+RestartSec=10
+MemoryHigh=16M
+MemoryMax=64M
+ProtectSystem=full
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectClock=yes
+ProtectKernelLogs=yes
+ProtectKernelModules=yes
+ProtectKernelTunables=yes
+CapabilityBoundingSet=CAP_SYS_NICE CAP_SYS_RESOURCE CAP_DAC_READ_SEARCH CAP_SYS_ADMIN CAP_DAC_OVERRIDE
+ProcSubset=pid
+RestrictAddressFamilies=AF_UNIX AF_NETLINK
+NoNewPrivileges=yes
+RestrictSUIDSGID=yes
+RestrictNamespaces=cgroup
+ProtectHostname=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
+PrivateUsers=no
+ProtectProc=default
+PrivateNetwork=no
+ProtectControlGroups=no
+RestrictRealtime=no
+
+[Install]
+WantedBy=multi-user.target

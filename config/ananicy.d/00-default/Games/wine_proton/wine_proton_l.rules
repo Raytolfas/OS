@@ -1,0 +1,759 @@
+
+
+{ "name": "labyrinthCity.exe", "type": "Game" }
+
+{ "name": "Labyrinthine.exe", "type": "Game" }
+
+{ "name": "aetheria_win.exe", "type": "Game" }
+
+{ "name": "LabyrinthOfGalleria.exe", "type": "Game" }
+
+{ "name": "refrain.exe", "type": "Game" }
+
+{ "name": "Shinigami.exe", "type": "BG_CPUIO" }
+{ "name": "Shinigami-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "THLabyrinth3.exe", "type": "Game" }
+
+{ "name": "lacops.exe", "type": "Game" }
+
+{ "name": "Lacuna.exe", "type": "Game" }
+
+{ "name": "Laika Aged through Blood.exe", "type": "Game" }
+
+{ "name": "Lake.exe", "type": "Game" }
+
+{ "name": "Lakeburg Legacies.exe", "type": "Game" }
+
+{ "name": "Lakeside Bar.exe", "type": "Game" }
+
+{ "name": "Lakeview Cabin Collection.exe", "type": "Game" }
+
+{ "name": "lambdawars.exe", "type": "Game" }
+
+{ "name": "LaMulanaWin.exe", "type": "Game" }
+
+{ "name": "LaMulana2.exe", "type": "Game" }
+
+{ "name": "Land Drifters.exe", "type": "Game" }
+
+{ "name": "Airships 2.exe", "type": "Game" }
+
+{ "name": "LandlordsSuper.exe", "type": "Game" }
+
+{ "name": "VikingOyunu.exe", "type": "BG_CPUIO" }
+{ "name": "VikingOyunu-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Langoth.exe", "type": "Game" }
+{ "name": "Langoth-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Langoth-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Langrisser I & II.exe", "type": "Game" }
+
+{ "name": "LANoire.exe", "type": "Game" }
+
+{ "name": "LQM.exe", "type": "BG_CPUIO" }
+{ "name": "LQMSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "lcgol.exe", "type": "Game" }
+
+{ "name": "LC2.exe", "type": "Game" }
+
+{ "name": "Lara Croft GO.exe", "type": "Game" }
+
+{ "name": "LASERS.exe", "type": "Game" }
+
+{ "name": "Last Call BBS.exe", "type": "Game" }
+
+{ "name": "LastDayOfJune.exe", "type": "Game" }
+
+{ "name": "Last Epoch.exe", "type": "Game" }
+
+{ "name": "LastEvil.exe", "type": "Game" }
+
+{ "name": "Last Group Out.exe", "type": "Game" }
+
+{ "name": "LMSGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LMSGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "MistClient.exe", "type": "BG_CPUIO" }
+{ "name": "MistClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "OasisLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "Last Pirates Die Together.exe", "type": "Game" }
+
+{ "name": "LastReport.exe", "type": "Game" }
+
+{ "name": "Last Train Out Of WormTown.exe", "type": "Game" }
+
+{ "name": "LastYear.exe", "type": "BG_CPUIO" }
+{ "name": "LastYear-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LateShift.exe", "type": "Game" }
+
+{ "name": "Laundry Store Simulator.exe", "type": "Game" }
+
+{ "name": "Lawgivers II.exe", "type": "Game" }
+
+{ "name": "Lawnmowergame.exe", "type": "BG_CPUIO" }
+{ "name": "Lawnmowergame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Lawn Mowing Simulator.exe", "type": "Game" }
+
+{ "name": "LMS2.exe", "type": "Game" }
+
+{ "name": "LawSchool_S1_steam.exe", "type": "Game" }
+
+{ "name": "LayersOfFear.exe", "type": "BG_CPUIO" }
+{ "name": "LayersOfFear-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LOF2.exe", "type": "BG_CPUIO" }
+{ "name": "LOF2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Layers of FearSub.exe", "type": "Game" }
+{ "name": "Layers of Fear.exe", "type": "Game" }
+
+{ "name": "LayOfTheLand.exe", "type": "BG_CPUIO" }
+{ "name": "LayOfTheLand-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Laysara.exe", "type": "Game" }
+
+{ "name": "lazy_kickers.exe", "type": "Game" }
+
+{ "name": "lag_win32_public_dev.exe", "type": "Game" }
+
+{ "name": "LeafBlowerCo.exe", "type": "BG_CPUIO" }
+{ "name": "LeafBlowerSim-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LeafBlowerSim.exe", "type": "Game" }
+{ "name": "LeafBlowerSim-Win64-DebugGame.exe", "type": "Game" }
+
+{ "name": "Leaf it Alone.exe", "type": "Game" }
+
+{ "name": "LeafyCorner.exe", "type": "BG_CPUIO" }
+{ "name": "LeafyCorner-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "loa-hf-steam.exe", "type": "Game" }
+
+{ "name": "LOM.exe", "type": "Game" }
+
+{ "name": "LeapofFaith.exe", "type": "Game" }
+{ "name": "LeapofFaith-32.exe", "type": "Game" }
+
+{ "name": "Learn to Fly 3.exe", "type": "Game" }
+
+{ "name": "LeavingDNA.exe", "type": "Game" }
+
+{ "name": "left4dead2.exe", "type": "Game" }
+
+{ "name": "Rise_of_the_Left_Overs.exe", "type": "Game" }
+
+{ "name": "LeftToSurviveSteamLoader.exe", "type": "Game" }
+{ "name": "LeftToSurvive.exe", "type": "Game" }
+
+{ "name": "Legacy of Kain Ascendance.exe", "type": "Game" }
+
+{ "name": "kain2.exe", "type": "Game" }
+
+{ "name": "SRX.exe", "type": "Game" }
+
+{ "name": "sr2.exe", "type": "Game" }
+
+{ "name": "Legendary.exe", "type": "Game" }
+
+{ "name": "LegendaryTales.exe", "type": "Game" }
+
+{ "name": "LegendBattles-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LegendBattles.exe", "type": "BG_CPUIO" }
+
+{ "name": "win.exe", "type": "Game" }
+
+{ "name": "LegendofDungeon.exe", "type": "Game" }
+{ "name": "LegendofDungeon_DirectToRift.exe", "type": "Game" }
+
+{ "name": "grimrock.exe", "type": "Game" }
+
+{ "name": "grimrock2.exe", "type": "Game" }
+
+{ "name": "TKEditor.exe", "type": "Game" }
+
+{ "name": "LegendOfKeepers.exe", "type": "Game" }
+
+{ "name": "Legend of Mana.exe", "type": "Game" }
+
+{ "name": "Mortal.exe", "type": "Game" }
+
+{ "name": "YmirSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "YmirSteam.exe", "type": "BG_CPUIO" }
+
+{ "name": "Legends Of Dragaea Idle Dungeons.exe", "type": "Game" }
+
+{ "name": "Eisenwald.exe", "type": "Game" }
+
+{ "name": "legends.exe", "type": "Game" }
+
+{ "name": "Legends of the Round Table.exe", "type": "Game" }
+
+{ "name": "Legionbound.exe", "type": "Game" }
+
+{ "name": "Legion TD 2.exe", "type": "Game" }
+
+{ "name": "Legion Was Here.exe", "type": "Game" }
+
+{ "name": "LEGO2KDrive.exe", "type": "BG_CPUIO" }
+{ "name": "LEGO2KDrive-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LEGOBatman2.exe", "type": "Game" }
+
+{ "name": "LEGOBatman3.exe", "type": "Game" }
+{ "name": "LEGOBatman3_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOBatmanLotDK.exe", "type": "BG_CPUIO" }
+{ "name": "LEGOBatmanLotDK-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LEGOBatman.exe", "type": "Game" }
+
+{ "name": "LEGO_Bricktales.exe", "type": "Game" }
+
+{ "name": "Builder's Journey.exe", "type": "Game" }
+
+{ "name": "LEGOLCUR_DX11.exe", "type": "Game" }
+
+{ "name": "LEGO DC Super-villains_DX11.exe", "type": "Game" }
+
+{ "name": "LHPC.exe", "type": "Game" }
+{ "name": "harry1.exe", "type": "Game" }
+
+{ "name": "LEGOHarryPotter.exe", "type": "Game" }
+
+{ "name": "harry2.exe", "type": "Game" }
+
+{ "name": "LegoHorizonAdventures-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LegoHorizonAdventures.exe", "type": "BG_CPUIO" }
+
+{ "name": "LEGOIndy2.exe", "type": "Game" }
+
+{ "name": "LEGOIndy.exe", "type": "Game" }
+
+{ "name": "LEGOJurassicWorld.exe", "type": "Game" }
+{ "name": "LEGOJurassicWorld_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOMARVELAvengers.exe", "type": "Game" }
+{ "name": "LEGOMARVELAvengers_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOMARVEL.exe", "type": "Game" }
+
+{ "name": "LEGOMARVEL2.exe", "type": "Game" }
+{ "name": "LEGOMARVEL2_DX11.exe", "type": "Game" }
+
+{ "name": "LEGO Party.exe", "type": "Game" }
+
+{ "name": "LEGOPirates.exe", "type": "Game" }
+
+{ "name": "LEGOCloneWars.exe", "type": "Game" }
+
+{ "name": "LEGOStarWarsSaga.exe", "type": "Game" }
+
+{ "name": "LEGOSWTFA.exe", "type": "Game" }
+{ "name": "LEGOSWTFA_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOSTARWARSSKYWALKERSAGA_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOHobbit.exe", "type": "Game" }
+{ "name": "LEGOHobbit_DX11.exe", "type": "Game" }
+
+{ "name": "LEGO The Incredibles.exe", "type": "Game" }
+{ "name": "LEGO The Incredibles_DX11.exe", "type": "Game" }
+
+{ "name": "LEGOLOTR.exe", "type": "Game" }
+
+{ "name": "LEGO Voyagers.exe", "type": "Game" }
+
+{ "name": "LEGO_Worlds.exe", "type": "Game" }
+{ "name": "LEGO_Worlds_DX11.exe", "type": "Game" }
+
+{ "name": "larry.exe", "type": "Game" }
+
+{ "name": "Le Mans Ultimate.exe", "type": "Game" }
+
+{ "name": "Lemon.exe", "type": "Game" }
+
+{ "name": "Len's Island.exe", "type": "Game" }
+
+{ "name": "Lessaria.exe", "type": "Game" }
+
+{ "name": "Lethal Company.exe", "type": "Game" }
+
+{ "name": "lethalleague.exe", "type": "Game" }
+
+{ "name": "LLBlaze.exe", "type": "Game" }
+
+{ "name": "LethalVR.exe", "type": "BG_CPUIO" }
+{ "name": "LethalVR-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "BrgGame-Steam.exe", "type": "Game" }
+
+{ "name": "LETITDIE_INFERNO.exe", "type": "BG_CPUIO" }
+{ "name": "FLCGame.exe", "type": "Game" }
+{ "name": "FLCGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LetsBuildAZoo.exe", "type": "Game" }
+
+{ "name": "Let's Cook Together 2.exe", "type": "Game" }
+
+{ "name": "LetsGetLoot.exe", "type": "Game" }
+
+{ "name": "koreoma.exe", "type": "Game" }
+
+{ "name": "LetterLost.exe", "type": "Game" }
+
+{ "name": "Letters.exe", "type": "Game" }
+
+{ "name": "LetThemTrade.exe", "type": "BG_CPUIO" }
+{ "name": "LetThemTrade-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Level Devil.exe", "type": "Game" }
+
+{ "name": "Levelhead_Steam.exe", "type": "Game" }
+
+{ "name": "Lewdapocalypse.exe", "type": "Game" }
+
+{ "name": "LewdCup.exe", "type": "Game" }
+
+{ "name": "Lewd Dungeon Manager DEMO.exe", "type": "Game" }
+
+{ "name": "LiarGame.exe", "type": "Game" }
+
+{ "name": "Liar's Bar.exe", "type": "Game" }
+
+{ "name": "Librarian.exe", "type": "BG_CPUIO" }
+{ "name": "Librarian-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LibraryOfRuina.exe", "type": "Game" }
+
+{ "name": "LichdomBattlemage.exe", "type": "Game" }
+
+{ "name": "LiEat_Launcher.exe", "type": "Game" }
+
+{ "name": "LOP-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LOP.exe", "type": "BG_CPUIO" }
+
+{ "name": "Life Goes On.exe", "type": "Game" }
+
+{ "name": "Lifeguard Holic.exe", "type": "Game" }
+
+{ "name": "LauncherHost.exe", "type": "Game" }
+
+{ "name": "ForestVillage.exe", "type": "Game" }
+
+{ "name": "yo_cm_client.exe", "type": "Game" }
+
+{ "name": "LIS2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LIS2-Win64-Test.exe", "type": "Game" }
+{ "name": "LIS2.exe", "type": "BG_CPUIO" }
+
+{ "name": "Chronos.exe", "type": "BG_CPUIO" }
+{ "name": "LifeIsStrangeDoubleExposure.exe", "type": "BG_CPUIO" }
+{ "name": "Chronos-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LifeIsStrange.exe", "type": "Game" }
+
+{ "name": "LiS.exe", "type": "BG_CPUIO" }
+{ "name": "LiS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LifeIsStrangeReunion.exe", "type": "BG_CPUIO" }
+{ "name": "Iris-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LifeIsStrange3.exe", "type": "Game" }
+{ "name": "Siren-Win64-Test.exe", "type": "Game" }
+
+{ "name": "LifelessPlanet.exe", "type": "Game" }
+
+{ "name": "Liftoff.exe", "type": "Game" }
+
+{ "name": "Liftoff Micro Drones.exe", "type": "Game" }
+
+{ "name": "LRFF13.exe", "type": "Game" }
+
+{ "name": "LightyearFrontier.exe", "type": "BG_CPUIO" }
+{ "name": "FarMech-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "likeadragongaiden.exe", "type": "Game" }
+
+{ "name": "likeadragon8.exe", "type": "Game" }
+
+{ "name": "LikeaDragonIshin-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "likeadragonpirates.exe", "type": "Game" }
+
+{ "name": "Lil Gator Game.exe", "type": "Game" }
+
+{ "name": "LilGuardsman.exe", "type": "Game" }
+
+{ "name": "GuardianAngels.exe", "type": "Game" }
+
+{ "name": "limbo.exe", "type": "Game" }
+
+{ "name": "LimbusCompany.exe", "type": "Game" }
+
+{ "name": "Limitless Survivors.exe", "type": "Game" }
+
+{ "name": "LSGame.exe", "type": "Game" }
+{ "name": "LSGame_BE.exe", "type": "BG_CPUIO" }
+
+{ "name": "LineWarClient.exe", "type": "Game" }
+
+{ "name": "Lingo.exe", "type": "Game" }
+
+{ "name": "Lingo2.exe", "type": "Game" }
+
+{ "name": "Liquor Store Simulator.exe", "type": "Game" }
+
+{ "name": "lisa.exe", "type": "Game" }
+{ "name": "LISA The Joyful Definitive Edition.exe", "type": "Game" }
+{ "name": "LISA The Painful Definitive Edition.exe", "type": "Game" }
+
+{ "name": "LISC.exe", "type": "Game" }
+
+{ "name": "Literally_Just_Pixels_On_A_Screen.exe", "type": "Game" }
+
+{ "name": "LittleBigWorkshop.exe", "type": "Game" }
+
+{ "name": "LITBUS_WIN32.exe", "type": "Game" }
+
+{ "name": "lf2.exe", "type": "Game" }
+
+{ "name": "LGTS.exe", "type": "Game" }
+
+{ "name": "Little Incrementisle.exe", "type": "Game" }
+
+{ "name": "Little Inferno.exe", "type": "Game" }
+
+{ "name": "Little Kitty, Big City.exe", "type": "Game" }
+
+{ "name": "Little-Known Galaxy.exe", "type": "Game" }
+
+{ "name": "Little Misfortune.exe", "type": "Game" }
+
+{ "name": "Little Nemo.exe", "type": "Game" }
+
+{ "name": "LittleNightmares.exe", "type": "Game" }
+
+{ "name": "Little_Nightmares_Enhanced.exe", "type": "BG_CPUIO" }
+{ "name": "Atlas-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Little Nightmares II.exe", "type": "Game" }
+
+{ "name": "Little Nightmares II Demo.exe", "type": "BG_CPUIO" }
+{ "name": "Helios-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LittleNightmaresIII.exe", "type": "Game" }
+
+{ "name": "LittleNoah.exe", "type": "Game" }
+
+{ "name": "LittleRocketLab.exe", "type": "Game" }
+
+{ "name": "Little Sim World.exe", "type": "Game" }
+
+{ "name": "LWA.exe", "type": "Game" }
+
+{ "name": "LWIW.exe", "type": "Game" }
+
+{ "name": "LittleWitchNobeta.exe", "type": "Game" }
+
+{ "name": "Littlewood.exe", "type": "Game" }
+
+{ "name": "LIV.App.exe", "type": "Game" }
+
+{ "name": "LIVEALIVE.exe", "type": "BG_CPUIO" }
+{ "name": "LIVEALIVE-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Wallpaper.exe", "type": "BG_CPUIO" }
+
+{ "name": "Liveza-Death Of The Earth.exe", "type": "Game" }
+
+{ "name": "LivingBattle.exe", "type": "Game" }
+
+{ "name": "LivingForest.exe", "type": "BG_CPUIO" }
+{ "name": "UMSPV5-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "sister30days.exe", "type": "Game" }
+
+{ "name": "LizardsMustDie.exe", "type": "Game" }
+
+{ "name": "Lizards_Must_Die_2.exe", "type": "Game" }
+
+{ "name": "Loadout.exe", "type": "Game" }
+
+{ "name": "LoafingTown.exe", "type": "Game" }
+
+{ "name": "LobotomyCorp.exe", "type": "Game" }
+
+{ "name": "LockdownProtocol.exe", "type": "BG_CPUIO" }
+{ "name": "LockdownProtocol-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Lococycle32.exe", "type": "Game" }
+{ "name": "Lococycle64.exe", "type": "Game" }
+
+{ "name": "Locomoto.exe", "type": "Game" }
+
+{ "name": "Loddlenaut.exe", "type": "Game" }
+
+{ "name": "Logic Town.exe", "type": "Game" }
+
+{ "name": "LogisticalApp.exe", "type": "Game" }
+
+{ "name": "Log Riders.exe", "type": "Game" }
+
+{ "name": "lollipop.exe", "type": "BG_CPUIO" }
+{ "name": "lollipop-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LMD_Win_x64.exe", "type": "Game" }
+
+{ "name": "LMSR_Windows64_Steam.exe", "type": "Game" }
+
+{ "name": "LONESTAR.exe", "type": "Game" }
+
+{ "name": "LoneSurvivor.exe", "type": "Game" }
+
+{ "name": "LongLiveTheQueen.exe", "type": "Game" }
+
+{ "name": "Longvinter.exe", "type": "BG_CPUIO" }
+{ "name": "Longvinter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LookingForFael.exe", "type": "BG_CPUIO" }
+{ "name": "LookingForFael-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Loop Hero.exe", "type": "Game" }
+
+{ "name": "LoopQueen.exe", "type": "Game" }
+
+{ "name": "Loop Tower.exe", "type": "Game" }
+
+{ "name": "Lootborne.exe", "type": "Game" }
+
+{ "name": "Loot Box.exe", "type": "Game" }
+
+{ "name": "LootLoop.exe", "type": "BG_CPUIO" }
+{ "name": "LootLoop-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Loot of Baal.exe", "type": "Game" }
+
+{ "name": "umg.exe", "type": "Game" }
+
+{ "name": "Loot Tycoon.exe", "type": "Game" }
+
+{ "name": "Lootun.exe", "type": "Game" }
+
+{ "name": "witn.exe", "type": "Game" }
+
+{ "name": "Lords Mobile.exe", "type": "Game" }
+
+{ "name": "LOMLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "lomse.exe", "type": "Game" }
+
+{ "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LOTF2.exe", "type": "BG_CPUIO" }
+
+{ "name": "LordsOfTheFallen.exe", "type": "Game" }
+
+{ "name": "LOTR2Launcher.exe", "type": "Game" }
+{ "name": "Lords2.exe", "type": "Game" }
+
+{ "name": "LORED.exe", "type": "Game" }
+
+{ "name": "Lorelei and the Laser Eyes.exe", "type": "Game" }
+
+{ "name": "LornsLure.exe", "type": "Game" }
+
+{ "name": "LortGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LortGame.exe", "type": "BG_CPUIO" }
+
+{ "name": "LosslessScaling.exe", "type": "BG_CPUIO" }
+
+{ "name": "LossPrevention.exe", "type": "Game" }
+
+{ "name": "Lost.exe", "type": "Game" }
+
+{ "name": "Lost2.exe", "type": "Game" }
+
+{ "name": "Lost and Found Co.exe", "type": "Game" }
+
+{ "name": "LOSTARK.exe", "type": "Game" }
+
+{ "name": "Lost But Found.exe", "type": "Game" }
+
+{ "name": "Lost_Castle.exe", "type": "Game" }
+
+{ "name": "LostCastle2.exe", "type": "Game" }
+
+{ "name": "LostEidolons.exe", "type": "Game" }
+
+{ "name": "VOTW.exe", "type": "Game" }
+
+{ "name": "Lost in Anomaly.exe", "type": "Game" }
+
+{ "name": "Lost In Fantaland.exe", "type": "Game" }
+
+{ "name": "LostInPlay.exe", "type": "Game" }
+
+{ "name": "Lost In Random.exe", "type": "Game" }
+
+{ "name": "TheEternalDie.exe", "type": "Game" }
+
+{ "name": "LostJudgment.exe", "type": "Game" }
+
+{ "name": "LostLandsF2P.exe", "type": "Game" }
+
+{ "name": "Game_x64r.exe", "type": "Game" }
+
+{ "name": "LP3Launcher.exe", "type": "Game" }
+{ "name": "LostPlanetGame.exe", "type": "Game" }
+
+{ "name": "LostPlanetDX10.exe", "type": "Game" }
+{ "name": "LostPlanetDX9.exe", "type": "Game" }
+
+{ "name": "Bloom&Rage.exe", "type": "Game" }
+
+{ "name": "VictoriaClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "VictoriaClient.exe", "type": "BG_CPUIO" }
+
+{ "name": "LostRuins.exe", "type": "Game" }
+
+{ "name": "LostSkies.exe", "type": "Game" }
+
+{ "name": "LW1.exe", "type": "Game" }
+
+{ "name": "LW2.exe", "type": "Game" }
+
+{ "name": "Lots of Cats on an Adventure.exe", "type": "Game" }
+
+{ "name": "Lou's Lagoon.exe", "type": "Game" }
+
+{ "name": "LOVE-Classic.exe", "type": "Game" }
+{ "name": "Love.exe", "type": "Game" }
+
+{ "name": "LoSeSb-32.exe", "type": "Game" }
+{ "name": "LoSeSb.exe", "type": "Game" }
+
+{ "name": "LoveBeat.exe", "type": "Game" }
+
+{ "name": "lovebyte.exe", "type": "Game" }
+
+{ "name": "LoveChallenge.exe", "type": "Game" }
+
+{ "name": "LoveChoice.exe", "type": "Game" }
+
+{ "name": "冒險途中全員告白.exe", "type": "Game" }
+
+{ "name": "Curio.exe", "type": "Game" }
+
+{ "name": "love_curse.exe", "type": "Game" }
+{ "name": "love_curse_game.exe", "type": "Game" }
+
+{ "name": "LoveEternal.exe", "type": "Game" }
+
+{ "name": "LOVE Hotel Simulator Demo.exe", "type": "Game" }
+
+{ "name": "WD.exe", "type": "Game" }
+
+{ "name": "WDHD5.exe", "type": "Game" }
+
+{ "name": "LoveLoveMysteryClub.exe", "type": "Game" }
+
+{ "name": "Love, Money, Rock'n'Roll.exe", "type": "Game" }
+
+{ "name": "Happy Student.exe", "type": "Game" }
+
+{ "name": "Lucky Teacher.exe", "type": "Game" }
+
+{ "name": "LoversInADangerousSpacetime.exe", "type": "Game" }
+
+{ "name": "Lovish.exe", "type": "Game" }
+
+{ "name": "low_magic_age.exe", "type": "Game" }
+
+{ "name": "lucid-blocks.exe", "type": "Game" }
+
+{ "name": "Lucius.exe", "type": "Game" }
+
+{ "name": "Luck be a Landlord.exe", "type": "Game" }
+
+{ "name": "Lucky Tower Ultimate.exe", "type": "Game" }
+
+{ "name": "LGP.exe", "type": "Game" }
+
+{ "name": "Luftrausers.exe", "type": "Game" }
+
+{ "name": "Lugh World.exe", "type": "Game" }
+
+{ "name": "Luma Island.exe", "type": "Game" }
+
+{ "name": "Lumberjacked.exe", "type": "Game" }
+
+{ "name": "LumberjacksDynasty.exe", "type": "Game" }
+
+{ "name": "Lumina Veil.exe", "type": "BG_CPUIO" }
+{ "name": "EternalTerror-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LuminesArise.exe", "type": "Game" }
+
+{ "name": "Lumines-remastered.exe", "type": "Game" }
+
+{ "name": "Lumino City.exe", "type": "Game" }
+
+{ "name": "LunaAbyss.exe", "type": "BG_CPUIO" }
+{ "name": "LunaAbyss-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LUNACID.exe", "type": "Game" }
+
+{ "name": "LunarEclipse.exe", "type": "BG_CPUIO" }
+{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Lunar MirrorThe Pavilion of Desire.exe", "type": "Game" }
+
+{ "name": "lunar_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "lunar1.exe", "type": "Game" }
+{ "name": "lunar2.exe", "type": "Game" }
+
+{ "name": "ProjectCoop.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectCoop-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "LurkBait Twitch Fishing.exe", "type": "Game" }
+
+{ "name": "Lurk in the Dark Prologue.exe", "type": "Game" }
+
+{ "name": "LushfoilSim.exe", "type": "BG_CPUIO" }
+{ "name": "LushfoilSimVR.exe", "type": "BG_CPUIO" }
+{ "name": "LushfoilSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Lust-Academy-32.exe", "type": "Game" }
+
+{ "name": "Lust-Academy-2-Cordale-Pack.exe", "type": "Game" }
+{ "name": "Lust-Academy-2.exe", "type": "Game" }
+{ "name": "Lust-Academy-2-32.exe", "type": "Game" }
+
+{ "name": "LustAge.exe", "type": "Game" }
+
+{ "name": "LustArcanum.exe", "type": "Game" }
+
+{ "name": "Lust Epidemic 18+.exe", "type": "Game" }
+
+{ "name": "Lust From Beyond.exe", "type": "Game" }
+
+{ "name": "Lustful Dead.exe", "type": "Game" }
+
+{ "name": "Adult_wars.exe", "type": "Game" }
+
+{ "name": "Lustquake Legion.exe", "type": "Game" }
+
+{ "name": "LustsCupid.exe", "type": "Game" }
+
+{ "name": "LustTheoryS1.exe", "type": "Game" }
+
+{ "name": "LustTheory2.exe", "type": "Game" }
+
+{ "name": "Lyca.exe", "type": "Game" }
+
+{ "name": "LYNE.exe", "type": "Game" }
+
+{ "name": "Saturn-Win64-Shipping.exe", "type": "Game" }

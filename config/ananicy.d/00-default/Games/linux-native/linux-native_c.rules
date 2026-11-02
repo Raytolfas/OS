@@ -1,0 +1,247 @@
+
+
+{ "name": "Caliper_launcher", "type": "Game" }
+
+{ "name": "CanvasOfKings.x86_64", "type": "Game" }
+
+{ "name": "Capsized", "type": "Game" }
+
+{ "name": "Carrion", "type": "Game" }
+
+{ "name": "CarX_Street.x86_64", "type": "Game" }
+{ "name": "eac_launcher", "type": "BG_CPUIO" }
+
+{ "name": "CassetteBeasts.x86_64", "type": "Game" }
+
+{ "name": "castlestory-launcher", "type": "BG_CPUIO" }
+{ "name": "Castle Story", "type": "Game" }
+
+{ "name": "cataclysm-tiles", "type": "Game" }
+{ "name": "cataclysm-launcher", "type": "BG_CPUIO" }
+
+{ "name": "CatBait.x86_64", "type": "Game" }
+
+{ "name": "CATO.x86_64", "type": "Game" }
+
+{ "name": "CattleCountry", "type": "Game" }
+{ "name": "CattleCountry.bin.aarch64", "type": "Game" }
+
+{ "name": "Caveman World.x86", "type": "Game" }
+
+{ "name": "CoQ.x86_64", "type": "Game" }
+{ "name": "CoQ.x86", "type": "Game" }
+
+{ "name": "CaveStory+", "type": "Game" }
+
+{ "name": "Celeste.bin.x86_64", "type": "Game" }
+
+{ "name": "Chained_Echoes.x86_64", "type": "Game" }
+
+{ "name": "rolauncher_steam", "type": "Game" }
+
+{ "name": "CHANGE.x86_64", "type": "Game" }
+
+{ "name": "Deponia2", "type": "Game" }
+
+{ "name": "CharlieMurder", "type": "Game" }
+
+{ "name": "CS", "type": "Game" }
+
+{ "name": "ChasingTails", "type": "Game" }
+
+{ "name": "Chasm", "type": "Game" }
+
+{ "name": "ChildrenOfMorta", "type": "Game" }
+
+{ "name": "Cos.x86_64", "type": "Game" }
+
+{ "name": "CDWGame-Linux", "type": "Game" }
+
+{ "name": "chocolate-doom", "type": "Game" }
+
+{ "name": "The Choice of Life - Middle Ages.x86_64", "type": "Game" }
+
+{ "name": "chonkers.x86_64", "type": "Game" }
+
+{ "name": "ChristianMother", "type": "Game" }
+
+{ "name": "chromasquad.x86", "type": "Game" }
+
+{ "name": "Chronicon", "type": "Game" }
+
+{ "name": "CiniCross.x86_64", "type": "Game"}
+
+{ "name": "Circle Empires.x86_64", "type": "Game" }
+{ "name": "Circle Empires.x86", "type": "Game" }
+
+{ "name": "Circuits.x86", "type": "Game" }
+
+{ "name": "Cities In Motion.bin", "type": "Game" }
+
+{ "name": "Cities in Motion 2", "type": "Game" }
+
+{ "name": "Cities.x64", "type": "Game" }
+
+{ "name": "CityGameStudio32", "type": "Game" }
+{ "name": "CityGameStudio64", "type": "Game" }
+
+{ "name": "CityLightsandLoveBites", "type": "Game" }
+
+{ "name": "CityLightsandLoveBitesSeason1", "type": "Game" }
+
+{ "name": "BrokenDreamers", "type": "Game" }
+
+{ "name": "cividle", "type": "Game" }
+
+{ "name": "classic_marathon_launcher", "type": "BG_CPUIO" }
+
+{ "name": "ClassiCube", "type": "Game" }
+{ "name": "classicube", "type": "Game" }
+
+{ "name": "Class_Of_09", "type": "Game" }
+
+{ "name": "Class of '09 Puzzle Showdown.x86_64", "type": "Game" }
+
+{ "name": "C09FS", "type": "Game" }
+
+{ "name": "C09RU", "type": "Game" }
+
+{ "name": "Cleaning Up.x86_64", "type": "Game" }
+
+{ "name": "ClearedHot", "type": "Game" }
+
+{ "name": "ClockworkTales_OfGlassAndInk_amd64", "type": "Game" }
+{ "name": "ClockworkTales_OfGlassAndInk_i386", "type": "Game" }
+
+{ "name": "Clustertruck.x86_64", "type": "Game" }
+
+{ "name": "SS13_Launcher", "type": "Game" }
+
+{ "name": "cure_linux", "type": "Game" }
+
+{ "name": "CodenameEngine", "type": "Game" }
+
+{ "name": "Coin Pusher Casino", "type": "Game" }
+
+{ "name": "Coins.x86_64", "type": "Game" }
+
+{ "name": "Collectibles.x86_64", "type": "Game" }
+
+{ "name": "CollegeBound", "type": "Game" }
+
+{ "name": "CollegeKings2", "type": "Game" }
+
+{ "name": "CollegeKings", "type": "Game" }
+
+{ "name": "colonyclient.x86", "type": "Game" }
+{ "name": "colonyclient.x86_64", "type": "Game" }
+
+{ "name": "ColoringPixels", "type": "Game" }
+
+{ "name": "ColoringVoxels", "type": "Game" }
+
+{ "name" : "CombatMaster.x86_64","type": "Game"}
+
+{ "name": "Comedy Night.x86_64", "type": "Game" }
+
+{ "name": "ComeHome", "type": "Game" }
+
+{ "name": "Linux.x64", "type": "Game" }
+
+{ "name" : "CompanyOfHeroes2","type": "Game"}
+
+{ "name": "ConanSandboxServer", "type": "Service" }
+{ "name": "ConanSandboxServer-Linux-Shipping", "type": "Service" }
+
+{ "name": "coe5", "type": "Game" }
+
+{ "name": "ConSim2015.x86", "type": "Game" }
+{ "name": "ConSim2015.x86_64", "type": "Game" }
+
+{ "name": "ContraptionMaker", "type": "Game" }
+
+{ "name": "NEW_CSD2_PS4Steam", "type": "Game" }
+
+{ "name": "CoreKeeper", "type": "Game" }
+
+{ "name": "CoreKeeperServer", "type": "Service" }
+
+{ "name": "CorpseParty.x64", "type": "Game" }
+
+{ "name": "coc2electron", "type": "Game" }
+
+{ "name": "CortexCommandHaxLoader", "type": "Game" }
+
+{ "name": "cossacks", "type": "Game" }
+{ "name": "modman", "type": "Game" }
+{ "name": "editor", "type": "Game" }
+
+{ "name": "Cq.bin.x86", "type": "Game" }
+
+{ "name": "csgo_linux64", "type": "Game" }
+{ "name": "cs2", "type": "Game" }
+
+{ "name": "cstrike_linux64", "type": "Game" }
+
+{ "name": "CountyOfFortune", "type": "Game" }
+
+{ "name": "Crab Game.x86_64", "type": "Game" }
+
+{ "name": "Cranked.x86_64", "type": "Game" }
+
+{ "name": "Crashlands", "type": "Game" }
+
+{ "name": "Crawl.x86_64", "type": "Game" }
+{ "name": "Crawl.x86", "type": "Game" }
+
+{ "name": "Crazy Sapper 3D.x86_64", "type": "Game" }
+{ "name": "Crazy Sapper 3D.x86", "type": "Game" }
+
+{ "name": "Crea", "type": "Game" }
+
+{ "name": "CW3Launch", "type": "BG_CPUIO" }
+{ "name": "CW3.x86", "type": "Game" }
+{ "name": "CW3.x86_64", "type": "Game" }
+
+{ "name": "CreepyTale.x86_64", "type": "Game" }
+
+{ "name": "CreepyTale2.x86_64", "type": "Game" }
+
+{ "name": "crimsonland", "type": "Game" }
+
+{ "name": "Crisis.x86_64", "type": "Game" }
+
+{ "name": "CitK2.x86_64", "type": "Game" }
+
+{ "name": "crocotile3d", "type": "Game" }
+
+{ "name": "Cronos", "type": "Game" }
+{ "name": "Cronos-Linux-Shipping", "type": "Game" }
+
+{ "name": "Cropdeck.x86_64", "type": "Game" }
+
+{ "name": "CrossCode", "type": "Game" }
+
+{ "name": "Crownhold_Demo.x86_64", "type": "Game" }
+
+{ "name": "ck2", "type": "Game" }
+
+{ "name": "ck3", "type": "Game" }
+
+{ "name": "CrushCrush", "type": "Game" }
+
+{ "name": "NecroDancer", "type": "Game" }
+
+{ "name": "Crystal Project.bin.x86_64", "type": "Game" }
+
+{ "name": "CS2D", "type": "Game" }
+
+{ "name": "CubeRacer.x86", "type": "Game" }
+
+{ "name": "CS.x86_64", "type": "Game" }
+
+{ "name": "The Curious Expedition", "type": "Game" }
+
+{ "name": "CyberKnights.x86_64", "type": "Game" }
+
+{ "name": "cyberpunkdreams", "type": "Game" }

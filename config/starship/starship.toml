@@ -1,0 +1,57 @@
+add_newline = false
+
+format = """
+$directory\
+$git_branch\
+$git_status\
+$rust\
+$python\
+$nodejs\
+$c\
+$cmd_duration\
+$line_break\
+$character"""
+
+[character]
+success_symbol = "[❯](bold #00f5ff)"
+error_symbol = "[❯](bold #ef4444)"
+
+[directory]
+truncation_length = 3
+truncation_symbol = "…/"
+style = "bold #38bdf8"
+read_only = " 🔒"
+
+[git_branch]
+symbol = " "
+style = "bold #a78bfa"
+format = "[$symbol$branch]($style) "
+
+[git_status]
+style = "bold #f87171"
+format = "([$all_status$ahead_behind]($style) )"
+
+[cmd_duration]
+min_time = 2_000
+style = "bold #fbbf24"
+format = "took [$duration]($style) "
+
+[rust]
+symbol = "🦀 "
+style = "bold #f97316"
+format = "[$symbol($version )]($style)"
+
+[python]
+symbol = "🐍 "
+style = "bold #38bdf8"
+format = "[$symbol($version )]($style)"
+
+[nodejs]
+symbol = "⬢ "
+style = "bold #10b981"
+format = "[$symbol($version )]($style)"
+
+[c]
+symbol = "🅒 "
+style = "bold #60a5fa"
+format = "[$symbol($version )]($style)"

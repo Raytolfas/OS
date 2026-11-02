@@ -1,0 +1,1 @@
+{ "name": "tailscaled", "type": "LowLatency_RT", "ionice": 1 }

@@ -1,0 +1,746 @@
+
+
+{ "name": "GK1.exe", "type": "Game" }
+
+{ "name": "gcss.exe", "type": "Game" }
+
+{ "name": "Gaiadon.exe", "type": "Game" }
+
+{ "name": "GalCiv3.exe", "type": "Game" }
+
+{ "name": "GalCiv2.exe", "type": "Game" }
+
+{ "name": "GalCiv.exe", "type": "Game" }
+
+{ "name": "GalCiv4.exe", "type": "Game" }
+
+{ "name": "GalacticGlitch.exe", "type": "Game" }
+
+{ "name": "Galaxy Burger.exe", "type": "Game" }
+
+{ "name": "GalaxyIdleClicker.exe", "type": "Game" }
+
+{ "name": "GalaxyLifeUE5.exe", "type": "Game" }
+{ "name": "Galaxy Life.exe", "type": "Game" }
+
+{ "name": "GoF2Launcher.exe", "type": "Game" }
+{ "name": "GOF2.exe", "type": "Game" }
+
+{ "name": "GalGun2.exe", "type": "BG_CPUIO" }
+{ "name": "GalGun2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Gamble With Your Friends.exe", "type": "Game" }
+
+{ "name": "Gambonanza.exe", "type": "Game" }
+
+{ "name": "GameCompressor.exe", "type": "Game" }
+
+{ "name": "GameDEC-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GameDevTycoon.exe", "type": "Game" }
+
+{ "name": "GameMakerStudio.exe", "type": "Game" }
+
+{ "name": "ShippingPC-AGOTGame.exe", "type": "Game" }
+
+{ "name": "GotPC.exe", "type": "Game" }
+
+{ "name": "GamingCafeSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "GamingCafeSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Gang Beasts.exe", "type": "Game" }
+
+{ "name": "NebulaCoopProject.exe", "type": "BG_CPUIO" }
+{ "name": "NebulaCoopProject-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Hood.exe", "type": "BG_CPUIO" }
+{ "name": "Hood-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "gaokao100.exe", "type": "Game" }
+{ "name": "Gaokao100.exe", "type": "Game" }
+
+{ "name": "Garden Galaxy.exe", "type": "Game" }
+
+{ "name": "GardenLife.exe", "type": "BG_CPUIO" }
+{ "name": "GardenLife-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garden of Witches.exe", "type": "Game" }
+
+{ "name": "GardenPaws.exe", "type": "Game" }
+
+{ "name": "Garfield_Master7.exe", "type": "Game" }
+{ "name": "GarfieldKartNoMulti.exe", "type": "Game" }
+
+{ "name": "Garfield Kart Furious Racing.exe", "type": "Game" }
+
+{ "name": "GargadusasTower.exe", "type": "Game" }
+
+{ "name": "GarlicBuilder.exe", "type": "Game" }
+
+{ "name": "gmod.exe", "type": "Game" }
+
+{ "name": "Garten_of_Banban.exe", "type": "BG_CPUIO" }
+{ "name": "Garten_of_Banban_VR.exe", "type": "BG_CPUIO" }
+{ "name": "Clay-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 0.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_0-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 2.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 3.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_3-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 4.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 6.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_6-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 7.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_7-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Garten of Banban 8.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_8-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "WarInTheEast.exe", "type": "Game" }
+
+{ "name": "WarInTheEast2.exe", "type": "Game" }
+
+{ "name": "WarInTheWest.exe", "type": "Game" }
+
+{ "name": "GGDedicatedServerLauncher.exe", "type": "Service" }
+{ "name": "GasGuzzlers.exe", "type": "Game" }
+
+{ "name": "Gatekeeper.exe", "type": "Game" }
+
+{ "name": "GatoRoboto.exe", "type": "Game" }
+
+{ "name": "gauntlet.exe", "type": "Game" }
+
+{ "name": "GearBlocks.exe", "type": "Game" }
+
+{ "name": "GearCity.exe", "type": "Game" }
+{ "name": "GearCityFBS1.exe", "type": "Game" }
+{ "name": "GearCity_ModToolSuite.exe", "type": "Game" }
+{ "name": "VideoSettings.exe", "type": "Game" }
+
+{ "name": "geareo.exe", "type": "Game" }
+
+{ "name": "Gears5.exe", "type": "Game" }
+{ "name": "Gears5_EAC.exe", "type": "BG_CPUIO" }
+
+{ "name": "GOWDE-Steam.exe", "type": "Game" }
+
+{ "name": "GearsTactics.exe", "type": "Game" }
+
+{ "name": "Traktor.Amalgam.Game.App.exe", "type": "Game" }
+
+{ "name": "GeckoGods.exe", "type": "Game" }
+
+{ "name": "GeckoShop.exe", "type": "Game" }
+
+{ "name": "Gedonia.exe", "type": "Game" }
+
+{ "name": "Gedonia 2.exe", "type": "Game" }
+
+{ "name": "GemCraft Chasing Shadows.exe", "type": "Game" }
+
+{ "name": "GemCraft Frostborn Wrath.exe", "type": "Game" }
+
+{ "name": "Gemini Rue.exe", "type": "Game" }
+{ "name": "gemini_rue_pc.exe", "type": "Game" }
+{ "name": "winsetup.exe", "type": "Game" }
+
+{ "name": "Gemporium.exe", "type": "Game" }
+
+{ "name": "GemsOfWar.exe", "type": "Game" }
+
+{ "name": "D1Game.exe", "type": "BG_CPUIO" }
+{ "name": "D1Game-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GenerationZero_F.exe", "type": "Game" }
+
+{ "name": "Genesis.exe", "type": "Game" }
+
+{ "name": "GenitalJousting.exe", "type": "Game" }
+
+{ "name": "Genome Guardian 2.exe", "type": "Game" }
+
+{ "name": "YuanShen.exe", "type": "Game" }
+
+{ "name": "GenshinImpact.exe", "type": "Game" }
+
+{ "name": "GeoGuessr.exe", "type": "Game" }
+
+{ "name": "GeometryDash.exe", "type": "Game" }
+
+{ "name": "GW3.exe", "type": "Game" }
+
+{ "name": "GeometryWars.exe", "type": "Game" }
+
+{ "name": "Geronimo.exe", "type": "BG_CPUIO" }
+{ "name": "Geronimo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Gestalt.exe", "type": "Game" }
+
+{ "name": "GetEven.exe", "type": "Game" }
+
+{ "name": "goml.exe", "type": "Game" }
+{ "name": "GOML.exe", "type": "Game" }
+
+{ "name": "GettingOverIt.exe", "type": "Game" }
+
+{ "name": "Get To Work.exe", "type": "Game" }
+
+{ "name": "SwayzeGame.exe", "type": "Game" }
+
+{ "name": "GhostExile.exe", "type": "Game" }
+
+{ "name": "GoaT.exe", "type": "Game" }
+
+{ "name": "GhostOfTokyoMain.exe", "type": "Game" }
+
+{ "name": "GhostOfTsushima.exe", "type": "Game" }
+
+{ "name": "Ghostrunner2.exe", "type": "BG_CPUIO" }
+{ "name": "Ghostrunner2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "makaimura_GG_RE.exe", "type": "Game" }
+
+{ "name": "GhostsOfTabor.exe", "type": "Game" }
+{ "name": "GhostsOfTaborBE.exe", "type": "Game" }
+{ "name": "GotBootstrapper.exe", "type": "BG_CPUIO" }
+
+{ "name": "GhostSong.exe", "type": "Game" }
+
+{ "name": "Ghost Trick.exe", "type": "Game" }
+
+{ "name": "Ghost Watchers.exe", "type": "Game" }
+
+{ "name": "GWT.exe", "type": "Game" }
+
+{ "name": "GSGameExe.exe", "type": "Game" }
+{ "name": "GSGameExe_DX9.exe", "type": "Game" }
+{ "name": "GSLauncher.exe", "type": "Game" }
+
+{ "name": "GigaBash.exe", "type": "BG_CPUIO" }
+{ "name": "TitanXX-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GIGANTIC ARMY.exe", "type": "Game" }
+
+{ "name": "GirlsFrontLine.exe", "type": "Game" }
+
+{ "name": "Girls! Girls! Girls!.exe", "type": "Game" }
+
+{ "name": "GladiatorCommand.exe", "type": "Game" }
+
+{ "name": "Gladiator Manager.exe", "type": "Game" }
+
+{ "name": "Gladiators.exe", "type": "Game" }
+
+{ "name": "Glass.exe", "type": "Game" }
+
+{ "name": "Illusions.exe", "type": "Game" }
+
+{ "name": "Glass Masquerade 4.exe", "type": "Game" }
+
+{ "name": "Glimvale My Mini Overworld.exe", "type": "Game" }
+
+{ "name": "City64.exe", "type": "Game" }
+{ "name": "City.exe", "type": "Game" }
+
+{ "name": "GlobalOps.exe", "type": "Game" }
+
+{ "name": "GR.exe", "type": "Game" }
+
+{ "name": "GR_Demo.exe", "type": "Game" }
+
+{ "name": "WDlauncher.exe", "type": "Game" }
+
+{ "name": "Gloomwood.exe", "type": "Game" }
+
+{ "name": "HanXiongnuWars.exe", "type": "Game" }
+
+{ "name": "gv.exe", "type": "Game" }
+
+{ "name": "Daisenka.exe", "type": "Game" }
+
+{ "name": "GlowBall.exe", "type": "Game" }
+
+{ "name": "neosphere.exe", "type": "Game" }
+
+{ "name": "GNOG.exe", "type": "Game" }
+
+{ "name": "gnomes.exe", "type": "Game" }
+
+{ "name": "gnomoria.exe", "type": "Game" }
+
+{ "name": "Gnosia.exe", "type": "Game" }
+
+{ "name": "GOALS.exe", "type": "Game" }
+
+{ "name": "GoApeShip.exe", "type": "Game" }
+
+{ "name": "GoatGame-Win32-Shipping.exe", "type": "Game" }
+
+{ "name": "Goat2.exe", "type": "BG_CPUIO" }
+{ "name": "Goat2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Goatsim_UE4.exe", "type": "BG_CPUIO" }
+{ "name": "Goatsim_UE4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Goblin Attack-Idle Game.exe", "type": "Game" }
+
+{ "name": "GoblinCamp.exe", "type": "Game" }
+
+{ "name": "Goblin Cleanup.exe", "type": "Game" }
+
+{ "name": "GoblinCompany.exe", "type": "BG_CPUIO" }
+{ "name": "GoblinCompany-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Goblin Burrow Manager.exe", "type": "Game" }
+
+{ "name": "GoblinNest.exe", "type": "Game" }
+
+{ "name": "GoblinNestDemo_v1.08.exe", "type": "Game" }
+
+{ "name": "SushiRoguelike.exe", "type": "Game" }
+
+{ "name": "GoblinVyke.exe", "type": "Game" }
+
+{ "name": "GobZ.exe", "type": "Game" }
+
+{ "name": "Godbreakers.exe", "type": "BG_CPUIO" }
+{ "name": "Godbreakers_Steam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "nikke_launcher.exe", "type": "Launcher" }
+{ "name": "nikke.exe", "type": "Game" }
+
+{ "name": "GE2RB.exe", "type": "Game" }
+
+{ "name": "ge3.exe", "type": "Game" }
+
+{ "name": "GER.exe", "type": "Game" }
+
+{ "name": "Aperion.exe", "type": "BG_CPUIO" }
+{ "name": "Aperion-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "God For A Day.exe", "type": "Game" }
+
+{ "name": "godhood.exe", "type": "Game" }
+
+{ "name": "Godius.exe", "type": "Game" }
+
+{ "name": "Godlike Burger.exe", "type": "Game" }
+
+{ "name": "GodMode.exe", "type": "Game" }
+
+{ "name": "GoW.exe", "type": "Game" }
+
+{ "name": "GoWR.exe", "type": "Game" }
+
+{ "name": "God Of Weapons.exe", "type": "Game" }
+
+{ "name": "godot.windows.opt.tools.64.exe", "type": "Game" }
+{ "name": "godot.windows.opt.tools.32.exe", "type": "Game" }
+
+{ "name": "MZGame.exe", "type": "BG_CPUIO" }
+{ "name": "MZGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Godsbane.exe", "type": "Game" }
+
+{ "name": "gwbw.exe", "type": "Game" }
+
+{ "name": "Godsworn.exe", "type": "Game" }
+
+{ "name": "Godus.exe", "type": "Game" }
+{ "name": "godus.exe", "type": "Game" }
+
+{ "name": "GxKTitanChasers.exe", "type": "Game" }
+
+{ "name": "gogh.exe", "type": "Game" }
+
+{ "name": "ggn2015.exe", "type": "Game" }
+{ "name": "ggn2016.exe", "type": "Game" }
+
+{ "name": "Go Home Annie.exe", "type": "Game" }
+
+{ "name": "Going Medieval.exe", "type": "Game" }
+
+{ "name": "Going Under.exe", "type": "Game" }
+
+{ "name": "goldenlap.exe", "type": "Game" }
+
+{ "name": "Golden Light.exe", "type": "Game" }
+
+{ "name": "GoldGoldAdventureGold.exe", "type": "Game" }
+
+{ "name": "GoldMiningSimulator.exe", "type": "Game" }
+{ "name": "GoldRushTheGame.exe", "type": "Game" }
+
+{ "name": "Gold Rush!.exe", "type": "Game" }
+
+{ "name": "Golf Gang.exe", "type": "Game" }
+
+{ "name": "GolfIt.exe", "type": "BG_CPUIO" }
+{ "name": "GolfIt-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Golf With Your Friends.exe", "type": "Game" }
+
+{ "name": "Gomo.exe", "type": "Game" }
+
+{ "name": "GONEfishing.exe", "type": "BG_CPUIO" }
+{ "name": "GONEfishing-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GoneHome.exe", "type": "Game" }
+{ "name": "GoneHome32.exe", "type": "Game" }
+
+{ "name": "November.exe", "type": "Game" }
+
+{ "name": "Goobies_Vulkan.exe", "type": "BG_CPUIO" }
+{ "name": "Goobies_DX11.exe", "type": "BG_CPUIO" }
+{ "name": "Shooter-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GooCubelets The Void.exe", "type": "Game" }
+
+{ "name": "Deponia3.exe", "type": "Game" }
+
+{ "name": "GoodCompany.exe", "type": "Game" }
+
+{ "name": "Good Heavens.exe", "type": "Game" }
+
+{ "name": "PizzaBusiness.exe", "type": "Game" }
+
+{ "name": "Goofy.exe", "type": "BG_CPUIO" }
+{ "name": "Goofy-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Earth.exe", "type": "Game" }
+
+{ "name": "Goose Goose Duck.exe", "type": "Game" }
+
+{ "name": "Gord.exe", "type": "BG_CPUIO" }
+{ "name": "Gord-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GordianQuest.exe", "type": "Game" }
+
+{ "name": "GoreBox.exe", "type": "Game" }
+
+{ "name": "Gore Sword.exe", "type": "Game" }
+
+{ "name": "GoriCuddlyCarnage.exe", "type": "BG_CPUIO" }
+{ "name": "GoriCuddlyCarnage-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Gorilla Tag.exe", "type": "Game" }
+
+{ "name": "Gorky17.exe", "type": "Game" }
+{ "name": "puzzle.exe", "type": "Game" }
+
+{ "name": "GORN.exe", "type": "Game" }
+
+{ "name": "GORN2.exe", "type": "Game" }
+
+{ "name": "Gorogoa.exe", "type": "Game" }
+
+{ "name": "Impostors.exe", "type": "Game" }
+
+{ "name": "GothamKnights.exe", "type": "Game" }
+
+{ "name": "GOTHIC.EXE", "type": "Game" }
+{ "name": "GothicMod.exe", "type": "Game" }
+
+{ "name": "Gothic3.exe", "type": "Game" }
+
+{ "name": "Gothic III Forsaken Gods.exe", "type": "Game" }
+
+{ "name": "gothic.exe", "type": "Game" }
+
+{ "name": "GothicRemake.exe", "type": "Game" }
+
+{ "name": "Goth Obsession Touch Adventure.exe", "type": "Game" }
+
+{ "name": "windows.exe", "type": "Game" }
+
+{ "name": "GOP3.exe", "type": "Game" }
+
+{ "name": "gpbikes.exe", "type": "Game" }
+
+{ "name": "GPRO.exe", "type": "Game" }
+
+{ "name": "Era.exe", "type": "Game" }
+
+{ "name": "grail.exe", "type": "Game" }
+
+{ "name": "Helden.exe", "type": "BG_CPUIO" }
+{ "name": "Helden-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ge.exe", "type": "Game" }
+
+{ "name": "GranblueFantasy.exe", "type": "Game" }
+
+{ "name": "granblue_fantasy_relink.exe", "type": "Game" }
+
+{ "name": "granblue_fantasy_relink_endless_ragnarok_demo.exe", "type": "Game" }
+
+{ "name": "GBVS.exe", "type": "BG_CPUIO" }
+{ "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GrandChase.exe", "type": "Game" }
+
+{ "name": "grandia.exe", "type": "Game" }
+
+{ "name": "grandia2.exe", "type": "Game" }
+
+{ "name": "GrandpaV4.exe", "type": "BG_CPUIO" }
+{ "name": "GrandpaV4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Civil War (1861-1865).exe", "type": "Game" }
+
+{ "name": "Grand Theft Auto.exe", "type": "Game" }
+
+{ "name": "gta2.exe", "type": "Game" }
+
+{ "name": "LaunchEFLC.exe", "type": "Game" }
+{ "name": "EFLC.exe", "type": "Game" }
+
+{ "name": "gta3.exe", "type": "Game" }
+
+{ "name": "PlayGTA3.exe", "type": "Game" }
+{ "name": "LibertyCity.exe", "type": "Game" }
+
+{ "name": "GTAIV.exe", "type": "Game" }
+
+{ "name": "gta-sa.exe", "type": "Game" }
+{ "name": "gta_sa.exe", "type": "Game" }
+
+{ "name": "PlayGTASanAndreas.exe", "type": "Game" }
+{ "name": "SanAndreas.exe", "type": "Game" }
+
+{ "name": "GTA5_Enhanced.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced_BE.exe", "type": "Game" }
+
+{ "name": "gta-vc.exe", "type": "Game" }
+{ "name": "gta_vc.exe", "type": "Game" }
+
+{ "name": "PlayGTAViceCity.exe", "type": "Game" }
+{ "name": "ViceCity.exe", "type": "Game" }
+
+{ "name": "GTA5.exe", "type": "Game" }
+
+{ "name": "Granny 3.exe", "type": "Game" }
+
+{ "name": "Granny Chapter Two.exe", "type": "Game" }
+
+{ "name": "GrannyEscapeTogether-Win64-Shipping.exe", "type": "Game" }
+{ "name": "GrannyEscapeTogether.exe", "type": "BG_CPUIO" }
+
+{ "name": "Granny-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Granny Simulator.exe", "type": "Game" }
+
+{ "name": "Granvir.exe", "type": "Game" }
+
+{ "name": "graphwar.exe", "type": "Game" }
+
+{ "name": "Grapples Galore.exe", "type": "Game" }
+
+{ "name": "Grass Chopper.exe", "type": "Game" }
+
+{ "name": "gravel.exe", "type": "BG_CPUIO" }
+{ "name": "gravel-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Graveyard Gunslingers.exe", "type": "Game" }
+
+{ "name": "Graveyard Keeper.exe", "type": "Game" }
+
+{ "name": "starter_x64.exe", "type": "Game" }
+
+{ "name": "GravityCircuit.exe", "type": "Game" }
+
+{ "name": "GZWClientSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "GZWClientEAC.exe", "type": "BG_CPUIO" }
+
+{ "name": "GreedFall.exe", "type": "Game" }
+
+{ "name": "GreedFall2.exe", "type": "Game" }
+
+{ "name": "NewGreedland.exe", "type": "BG_CPUIO" }
+{ "name": "NewGreedland-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "RPGame.exe", "type": "BG_CPUIO" }
+{ "name": "RPGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Green Project.exe", "type": "Game" }
+
+{ "name": "Gremlins_Inc.exe", "type": "Game" }
+
+{ "name": "ClientLauncherG.exe", "type": "Game" }
+{ "name": "GooG.exe", "type": "Game" }
+
+{ "name": "Grey Hack.exe", "type": "Game" }
+
+{ "name": "grid2.exe", "type": "Game" }
+{ "name": "grid2_avx.exe", "type": "Game" }
+
+{ "name": "Grid_win64_do.exe", "type": "Game" }
+{ "name": "Grid_dx12.exe", "type": "Game" }
+{ "name": "Grid_dx12_win64_do.exe", "type": "Game" }
+{ "name": "Grid.exe", "type": "Game" }
+
+{ "name": "GRIDAutosport.exe", "type": "Game" }
+{ "name": "GRIDAutosport_avx.exe", "type": "Game" }
+
+{ "name": "GridLegends.exe", "type": "Game" }
+
+{ "name": "Griftlands.exe", "type": "Game" }
+
+{ "name": "Grim.exe", "type": "BG_CPUIO" }
+{ "name": "Grim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Grim Dawn.exe", "type": "Game" }
+
+{ "name": "GRIME.exe", "type": "Game" }
+
+{ "name": "GRIME II.exe", "type": "Game" }
+
+{ "name": "GrimFandango.exe", "type": "Game" }
+
+{ "name": "GrimLegends_SongOfTheDarkSwan.exe", "type": "Game" }
+
+{ "name": "GrimLegends_TheForsakenBride.exe", "type": "Game" }
+
+{ "name": "GrimmLauncher.exe", "type": "Game" }
+
+{ "name": "Grimshire.exe", "type": "Game" }
+
+{ "name": "Grind Hero.exe", "type": "Game" }
+
+{ "name": "GrindSurvivors.exe", "type": "BG_CPUIO" }
+{ "name": "GrindSurvivors-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Grip.exe", "type": "BG_CPUIO" }
+{ "name": "Grip-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GRIS.exe", "type": "Game" }
+
+{ "name": "Simulatorita.exe", "type": "BG_CPUIO" }
+{ "name": "Simulatorita-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GroundBranch.exe", "type": "BG_CPUIO" }
+{ "name": "GroundBranch-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "GC1Launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "GC2Launcher.exe", "type": "Game" }
+{ "name": "gcii.exe", "type": "Game" }
+
+{ "name": "Maine-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Grounded.exe", "type": "BG_CPUIO" }
+
+{ "name": "Grounded2-WinGRTS-Shipping.exe", "type": "Game" }
+{ "name": "Grounded2.exe", "type": "BG_CPUIO" }
+
+{ "name": "GroundOfAces.exe", "type": "Game" }
+
+{ "name": "GroundZero.exe", "type": "BG_CPUIO" }
+{ "name": "GroundZero-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Grow Defense.exe", "type": "Game" }
+
+{ "name": "GrowHome.exe", "type": "Game" }
+
+{ "name": "GrowingThingsUp.exe", "type": "Game" }
+
+{ "name": "Growing Up.exe", "type": "Game" }
+
+{ "name": "Grow.exe", "type": "Game" }
+
+{ "name": "Growtopia.exe", "type": "Game" }
+
+{ "name": "Grunn.exe", "type": "Game" }
+
+{ "name": "gstring.exe", "type": "Game" }
+
+{ "name": "GTFO.exe", "type": "Game" }
+
+{ "name": "Get To The Orange Door.exe", "type": "Game" }
+
+{ "name": "Guac2_x64.exe", "type": "Game" }
+{ "name": "Guac2_x86.exe", "type": "Game" }
+
+{ "name": "Guac.exe", "type": "Game" }
+
+{ "name": "GOME.exe", "type": "Game" }
+
+{ "name": "Guigui.exe", "type": "Game" }
+
+{ "name": "Guildamation.exe", "type": "Game" }
+
+{ "name": "Ultimate Dungeoneering.exe", "type": "Game" }
+
+{ "name": "Gw2-64.exe", "type": "Game" }
+
+{ "name": "StandaloneWindows64.exe", "type": "Game" }
+
+{ "name": "GGST.exe", "type": "BG_CPUIO" }
+{ "name": "GGST-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ggx2.exe", "type": "Game" }
+
+{ "name": "BootGGXrd.exe", "type": "Game" }
+
+{ "name": "GGXXACPR_Win.exe", "type": "Game" }
+
+{ "name": "Gujian3.exe", "type": "Game" }
+
+{ "name": "Gun.exe", "type": "Game" }
+
+{ "name": "GunboatGod.exe", "type": "Game" }
+
+{ "name": "GunboundM.exe", "type": "Game" }
+
+{ "name": "GunCraft.exe", "type": "Game" }
+{ "name": "Guncraft.exe", "type": "Game" }
+
+{ "name": "Gun Crazy.exe", "type": "Game" }
+
+{ "name": "GB4.exe", "type": "BG_CPUIO" }
+{ "name": "GB4-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Gun Factory.exe", "type": "Game" }
+
+{ "name": "Gunfire Reborn.exe", "type": "Game" }
+
+{ "name": "gunmetal.exe", "type": "Game" }
+{ "name": "Gunmetal.exe", "type": "Game" }
+
+{ "name": "gunner-chan.exe", "type": "Game" }
+
+{ "name": "GHPC.exe", "type": "Game"}
+
+{ "name": "Gunpoint.exe", "type": "Game" }
+
+{ "name": "Gunscape.exe", "type": "Game" }
+
+{ "name": "ggc2.exe", "type": "Game" }
+
+{ "name": "ggc.exe", "type": "Game" }
+
+{ "name": "GW_Live_STEAM.exe", "type": "Game" }
+
+{ "name": "Gunsmith Simulator.exe", "type": "Game" }
+
+{ "name": "Gunsmith Simulator Prologue.exe", "type": "Game" }
+
+{ "name": "Guns_of_Fury.exe", "type": "Game" }
+
+{ "name": "Gunz2_Steam.exe", "type": "Game" }
+
+{ "name": "Guts and Glory.exe", "type": "Game" }
+
+{ "name": "Gwent.exe", "type": "Game" }
+
+{ "name": "GymBro.exe", "type": "Game" }
+
+{ "name": "GymSimulator24.exe", "type": "Game" }

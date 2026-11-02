@@ -1,0 +1,164 @@
+
+
+{ "name": "Z.exe", "type": "Game" }
+
+{ "name": "H1Z1_BE.exe", "type": "Game" }
+{ "name": "H1Z1.exe", "type": "Game" }
+
+{ "name": "ZaccariaPinball.exe", "type": "Game" }
+
+{ "name": "ZATO.exe", "type": "Game" }
+
+{ "name": "ZDLauncher.exe", "type": "Game" }
+{ "name": "ZDSimulator.exe", "type": "Game" }
+
+{ "name": "ZEDZONE.exe", "type": "Game" }
+
+{ "name": "Zeepkist.exe", "type": "Game" }
+
+{ "name": "Zengeon.exe", "type": "Game" }
+
+{ "name": "ZenkcraftRemastered.exe", "type": "Game" }
+{ "name": "ZenkCraft.exe", "type": "Game" }
+
+{ "name": "HYP.exe", "type": "BG_CPUIO" }
+
+{ "name": "zenoclash.exe", "type": "Game" }
+{ "name": "ZenoClash.exe", "type": "Game" }
+
+{ "name": "ZC2.exe", "type": "Game" }
+
+{ "name": "Zephon.exe", "type": "Game" }
+
+{ "name": "ZeroCaliber_2.exe", "type": "BG_CPUIO" }
+{ "name": "ZeroCaliber_2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ZeroCaliber.exe", "type": "BG_CPUIO" }
+{ "name": "ZeroCaliber-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ze1.exe", "type": "Game" }
+{ "name": "ze2.exe", "type": "Game" }
+
+{ "name": "ZeroEscape-Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Zero Escape.exe", "type": "Game" }
+
+{ "name": "Zero Hour.exe", "type": "Game" }
+
+{ "name": "Zero-K.exe", "type": "Game" }
+
+{ "name": "ZeroParades.exe", "type": "Game" }
+
+{ "name": "ZeroRanger.exe", "type": "Game" }
+
+{ "name": "ZERO Sievert.exe", "type": "Game" }
+
+{ "name": "RTS.exe", "type": "BG_CPUIO" }
+{ "name": "RTS-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ZeroStressKing.exe", "type": "Game" }
+
+{ "name": "ZerowakeGATES.exe", "type": "Game" }
+
+{ "name": "Zetria.exe", "type": "Game" }
+
+{ "name": "Zet Zillions.exe", "type": "Game" }
+
+{ "name": "zeus.exe", "type": "Game" }
+
+{ "name": "zgame.exe", "type": "Game" }
+
+{ "name": "Ziggurat2.exe", "type": "Game" }
+
+{ "name": "ZNK Poslední exekuce.exe", "type": "Game" }
+
+{ "name": "ZMDesktopElfLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "zmzmjl.exe", "type": "Game" }
+{ "name": "ZMDesktopElf.exe", "type": "Game" }
+
+{ "name": "ZOMBI.exe", "type": "Game" }
+
+{ "name": "Zombidle.exe", "type": "Game" }
+
+{ "name": "za4_vulkan.exe", "type": "Game" }
+{ "name": "za4_dx12.exe", "type": "Game" }
+
+{ "name": "ZAT.exe", "type": "Game" }
+
+{ "name": "Zombie Army VR.exe", "type": "Game" }
+
+{ "name": "ZombieDefense.exe", "type": "Game" }
+
+{ "name": "ZombieDriverHD.exe", "type": "Game" }
+
+{ "name": "zgi_steam_win_x64.exe", "type": "Game" }
+
+{ "name": "znt.exe", "type": "Game" }
+
+{ "name": "zps.exe", "type": "Game" }
+
+{ "name": "ZombieShooter.exe", "type": "Game" }
+
+{ "name": "Exodus-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Exodus.exe", "type": "BG_CPUIO" }
+
+{ "name": "ZombieWarsInvasion.exe", "type": "Game" }
+
+{ "name": "Zomborg.exe", "type": "Game" }
+
+{ "name": "Zombotron.exe", "type": "Game" }
+
+{ "name": "Zombutcher.exe", "type": "BG_CPUIO" }
+{ "name": "Zombutcher-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Zomcats Invasion.exe", "type": "Game" }
+
+{ "name": "Zompiercer.exe", "type": "Game" }
+
+{ "name": "Zoe2Mars.exe", "type": "Game" }
+
+{ "name": "zoo2.exe", "type": "Game" }
+
+{ "name": "Zoochosis.exe", "type": "BG_CPUIO" }
+{ "name": "Zoo_Single-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Zoombinis.exe", "type": "Game" }
+
+{ "name": "Zoonomaly.exe", "type": "BG_CPUIO" }
+{ "name": "Zoonomaly-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ZooTycoon.exe", "type": "Game" }
+
+{ "name": "Zorro_The_Chronicles.exe", "type": "Game" }
+
+{ "name": "Zort.exe", "type": "Game" }
+
+{ "name": "Z2.exe", "type": "Game" }
+
+{ "name": "zula_BE.exe", "type": "Game" }
+{ "name": "zula_starter.exe", "type": "Game" }
+
+{ "name": "Zuma.exe", "type": "Game" }
+
+{ "name": "ZumasRevenge.exe", "type": "Game" }
+
+{ "name": "ZumbiBlocks2.exe", "type": "Game" }
+
+{ "name": "Zup!.exe", "type": "Game" }
+
+{ "name": "Zup! 2.exe", "type": "Game" }
+
+{ "name": "Zup! 3.exe", "type": "Game" }
+
+{ "name": "Zup! 4.exe", "type": "Game" }
+
+{ "name": "Zup! 5.exe", "type": "Game" }
+
+{ "name": "Zup! 8.exe", "type": "Game" }
+
+{ "name": "Zup! F.exe", "type": "Game" }
+
+{ "name": "Zup! S.exe", "type": "Game" }
+
+{ "name": "ZusiSim.64.exe", "type": "Game" }
+
+{ "name": "ZyngaPoker.exe", "type": "Game" }

@@ -1,0 +1,21 @@
+
+{ "name": "dolphin", "type": "LowLatency_RT" }
+{ "name": "spectacle", "type": "LowLatency_RT" }
+{ "name": "plasma-discover", "type": "OOM_NO_KILL" }
+{ "name": "DiscoverNotifier", "type": "BG_CPUIO" }
+{ "name": "baloo_file", "type": "BG_CPUIO" }
+{ "name": "baloorunner", "type": "BG_CPUIO" }
+{ "name": "baloo_file_extractor", "type": "BG_CPUIO" }
+{ "name": "kded6", "type": "BG_CPUIO" }
+{ "name": "kaccess", "type": "BG_CPUIO" }
+{ "name": "kclockd", "type": "Service" }
+{ "name": "knighttimed", "type": "Service" }
+{ "name": "ksmserver", "type": "BG_CPUIO" }
+{ "name": "krunner", "type": "LowLatency_RT" }
+{ "name": "kwin_wayland", "type": "LowLatency_RT" }
+{ "name": "kwin_wayland_wrapper", "type": "LowLatency_RT" }
+{ "name": "kwin_x11", "type": "LowLatency_RT" }
+{ "name": "plasmashell", "nice": -6 }
+{ "name": "org_kde_powerdevil", "type": "Service" }
+{ "name": "kwalletd6", "type": "Service" }
+{ "name": "ksecretd", "type": "Service" }

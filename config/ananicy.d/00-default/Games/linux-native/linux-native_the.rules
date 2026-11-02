@@ -1,0 +1,196 @@
+
+
+{ "name": "39stepslinux.x86", "type": "Game" }
+
+{ "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
+
+{ "name": "BardTale", "type": "Game" }
+
+{ "name": "Polytopia.x86_64", "type": "Game" }
+
+{ "name": "beginnersguide.bin", "type": "Game" }
+
+{ "name": "The Bibites.x86_64", "type": "Game" }
+
+{ "name": "isaac.i386", "type": "Game" }
+{ "name": "isaac.x64", "type": "Game" }
+
+{ "name": "startgame", "type": "Game" }
+
+{ "name": "kAGEd", "type": "Game" }
+{ "name": "kAGE", "type": "Game" }
+
+{ "name": "thebridge.x86_64", "type": "Game" }
+
+{ "name": "THE BUTTON.x86_64", "type": "Game" }
+
+{ "name": "Cave.bin.x86", "type": "Game" }
+
+{ "name": "TheColonists.x86", "type": "Game" }
+
+{ "name": "TheComa2ViciousSisters.x86_64", "type": "Game" }
+
+{ "name": "TheComaRecut.x86_64", "type": "Game" }
+
+{ "name": "Victory", "type": "Game" }
+
+{ "name": "satinav", "type": "Game" }
+
+{ "name": "The Dark Queen of Mortholme.x86_64", "type": "Game" }
+
+{ "name": "thedarksidedetective.x86_64", "type": "Game" }
+
+{ "name": "TheDeer.x86", "type": "Game" }
+{ "name": "TheDeer.x86_64", "type": "Game" }
+
+{ "name": "VampireSmile", "type": "Game" }
+
+{ "name": "DOT", "type": "Game" }
+
+{ "name": "TheDrifter.x64", "type": "Game" }
+
+{ "name": "TheEndIsNigh", "type": "Game" }
+
+{ "name": "TheEscapists2.x86", "type": "Game" }
+{ "name": "TheEscapists2.x86_64", "type": "Game" }
+
+{ "name": "TheEternalCastle", "type": "Game" }
+
+{ "name": "The Executive.x86_64", "type": "Game" }
+
+{ "name": "TheFall.x86", "type": "Game" }
+
+{ "name": "TheFarmerWasReplaced.x86_64", "type": "Game" }
+
+{ "name": "tfs.x86", "type": "Game" }
+{ "name": "tfs.x86_64", "type": "Game" }
+
+{ "name": "The Genesis Project", "type": "Game" }
+{ "name": "The Genesis Project.x86_64", "type": "Game" }
+
+{ "name": "TheGreyDream", "type": "Game" }
+
+{ "name": "TheHex.x86", "type": "Game" }
+
+{ "name": "The House of Tesla.x86_64", "type": "Game" }
+
+{ "name": "ImpossibleGame", "type": "Game" }
+
+{ "name": "galleyhouse", "type": "Game" }
+
+{ "name": "The Jackbox Megapicker", "type": "Game" }
+
+{ "name": "TJNP_Vulkan", "type": "Game" }
+{ "name": "TJNP_OpenGL", "type": "Game" }
+
+{ "name": "TJPP1_Vulkan", "type": "Game" }
+{ "name": "TJPP1_OpenGL", "type": "Game" }
+
+{ "name": "TJPP10_Vulkan", "type": "Game" }
+{ "name": "TJPP10_OpenGL", "type": "Game" }
+
+{ "name": "TJPP11_Vulkan", "type": "Game" }
+{ "name": "TJPP11_OpenGL", "type": "Game" }
+
+{ "name": "TJPP2_Vulkan", "type": "Game" }
+{ "name": "TJPP2_OpenGL", "type": "Game" }
+
+{ "name": "TJPP3_Vulkan", "type": "Game" }
+{ "name": "TJPP3_OpenGL", "type": "Game" }
+
+{ "name": "TJPP4_Vulkan", "type": "Game" }
+{ "name": "TJPP4_OpenGL", "type": "Game" }
+
+{ "name": "TJPP5_Vulkan", "type": "Game" }
+{ "name": "TJPP5_OpenGL", "type": "Game" }
+
+{ "name": "TJPP6_Vulkan", "type": "Game" }
+{ "name": "TJPP6_OpenGL", "type": "Game" }
+
+{ "name": "TJPP7_Vulkan", "type": "Game" }
+{ "name": "TJPP7_OpenGL", "type": "Game" }
+
+{ "name": "TJPP8_Vulkan", "type": "Game" }
+{ "name": "TJPP8_OpenGL", "type": "Game" }
+
+{ "name": "TJPP9_Vulkan", "type": "Game" }
+{ "name": "TJPP9_OpenGL", "type": "Game" }
+
+{ "name": "TJPS_Vulkan", "type": "Game" }
+{ "name": "TJPS_OpenGL", "type": "Game" }
+
+{ "name": "TJSS_Vulkan", "type": "Game" }
+{ "name": "TJSS_OpenGL", "type": "Game" }
+
+{ "name": "JourneyDown1", "type": "Game" }
+
+{ "name": "The Last Door CE", "type": "Game" }
+
+{ "name": "TheLastPlague.x86_64", "type": "Game" }
+
+{ "name": "the last tinker.x86", "type": "Game" }
+
+{ "name": "Zelda64Recompiled", "type": "Game" }
+
+{ "name": "tld.x86_64", "type": "Game" }
+
+{ "name": "The Longing.x86", "type": "Game" }
+
+{ "name": "TheMeanGreens-Linux-Shipping", "type": "Game" }
+
+{ "name": "TMiR", "type": "Game" }
+
+{ "name": "Mooseman.x86", "type": "Game" }
+
+{ "name": "MosquitoGang-Linux-Shipping", "type": "Game" }
+
+{ "name": "rabbit", "type": "Game" }
+
+{ "name": "The Novelist.x86", "type": "Game" }
+{ "name": "The Novelist.x86_64", "type": "Game" }
+
+{ "name": "The one who pulls out the sword will be crowned king.x86_64", "type": "Game" }
+
+{ "name": "OPERATOR", "type": "Game" }
+
+{ "name": "ThePed_Linux_64.x86_64", "type": "Game" }
+
+{ "name": "ThePirate.x86_64", "type": "Game" }
+
+{ "name": "The Plan.x86", "type": "Game" }
+
+{ "name": "powder", "type": "Game" }
+
+{ "name": "the-red-pearls-of-borneo", "type": "Game" }
+
+{ "name": "roottrees", "type": "Game" }
+
+{ "name": "the_sapling.x86_64", "type": "Game" }
+
+{ "name": "The Seance of Blake Manor.x86_64", "type": "Game" }
+
+{ "name": "TheSpellBrigade.x86_64", "type": "Game" }
+
+{ "name": "stanley_linux", "type": "Game" }
+
+{ "name": "The Stanley Parable Ultra Deluxe.x86_64", "type": "Game" }
+
+{ "name": "TheSwapper.bin.x86", "type": "Game" }
+{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
+
+{ "name": "Talos", "type": "Game" }
+{ "name": "Talos_Unrestricted", "type": "Game" }
+
+{ "name": "TTBS", "type": "Game" }
+
+{ "name": "TUE1.x86_64", "type": "Game" }
+
+{ "name": "The Universim.x86_64", "type": "Game" }
+
+{ "name": "WanderingVillage.x86_64", "type": "Game" }
+
+{ "name": "TWWSE", "type": "Game" }
+
+{ "name": "witcher2", "type": "Game" }
+
+{ "name": "TheZachtronicsSolitaireCollection", "type": "Game" }

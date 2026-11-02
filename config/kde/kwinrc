@@ -1,3 +1,9 @@
+[Compositing]
+Backend=OpenGL
+GLCore=true
+LatencyPolicy=ExtremelyLow
+WindowsBlockCompositing=true
+
 [Effect-blur]
 BlurStrength=9
 NoiseStrength=0
@@ -24,3 +30,6 @@ theme=__aurorae__svg__Fluent-round-dark
 
 [Wayland]
 AllowTearing=true
+
+[Xwayland]
+Scale=1

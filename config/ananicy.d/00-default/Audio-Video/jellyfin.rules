@@ -1,0 +1,3 @@
+{ "name": "jellyfin-desktop", "type": "Player-Video" }
+
+{ "name": "jellyfin-desktop-cef", "type": "Player-Video" }

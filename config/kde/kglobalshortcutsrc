@@ -1,25 +1,81 @@
-[org.kde.spectacle.desktop]
+[services][raytolfas-turbo.desktop]
+_launch=Meta+F1
+
+[services][raytolfas-spotlight.desktop]
+_launch=Alt+Space
+
+[services][raytolfas-control-center.desktop]
+_launch=Meta+I
+
+[services][raytolfas-console-mode.desktop]
+_launch=Meta+Shift+G
+
+[services][org.kde.dolphin.desktop]
+_launch=Meta+E
+
+[services][org.kde.konsole.desktop]
+_launch=Ctrl+Alt+T
+
+[services][org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Meta+Print
-CurrentMonitorScreenShot=
+CurrentMonitorScreenShot=none
 FullScreenScreenShot=Shift+Print
-OpenWithoutScreenshot=
+OpenWithoutScreenshot=none
 RectangularRegionScreenShot=Print\tMeta+Shift+S
 RecordRegion=Meta+Alt+R
 RecordScreen=Meta+Ctrl+R
-RecordWindow=
+RecordWindow=none
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
-_k_friendly_name=Spectacle
 _launch=Print
 
+[raytolfas-turbo.desktop]
+_k_friendly_name=Turbo Mode
+_launch=Meta+F1,Meta+F1,Toggle Turbo Mode
+
+[raytolfas-spotlight.desktop]
+_k_friendly_name=Spotlight
+_launch=Alt+Space,Alt+Space,Launch Spotlight
+
+[raytolfas-control-center.desktop]
+_k_friendly_name=Control Center
+_launch=Meta+I,Meta+I,Launch Control Center
+
+[raytolfas-console-mode.desktop]
+_k_friendly_name=Console Mode
+_launch=Meta+Shift+G,Meta+Shift+G,Launch Console Mode
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.konsole.desktop]
+_k_friendly_name=Konsole
+_launch=Ctrl+Alt+T,Ctrl+Alt+T,Konsole
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
+CurrentMonitorScreenShot=none,none,Capture Current Monitor
+FullScreenScreenShot=Shift+Print,Shift+Print,Capture Entire Desktop
+OpenWithoutScreenshot=none,none,Launch Spectacle
+RectangularRegionScreenShot=Print\tMeta+Shift+S,Print,Capture Rectangular Region
+RecordRegion=Meta+Alt+R,Meta+Alt+R,Record Rectangular Region
+RecordScreen=Meta+Ctrl+R,Meta+Ctrl+R,Record Screen
+RecordWindow=none,none,Record Window
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Capture Window Under Cursor
+_k_friendly_name=Spectacle
+_launch=Print,Print,Launch Spectacle
+
 [kwin]
-Window Quick Tile Bottom=Meta+Down
-Window Quick Tile Left=Meta+Left
-Window Quick Tile Right=Meta+Right
-Window Quick Tile Top=Meta+Up
-Window Close=Alt+F4
-Window Maximize=Meta+PgUp
-Window Minimize=Meta+PgDown
-Overview=Meta+W
-Show Desktop=Meta+D
-Walk Through Windows=Alt+Tab
-Walk Through Windows (Reverse)=Alt+Shift+Tab
+Grid View=Meta+G,Meta+G,Toggle Grid View
+ShowGrid=none,Meta+G,Show Desktop Grid
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Quick Tile Window to the Bottom
+Window Quick Tile Left=Meta+Left,Meta+Left,Quick Tile Window to the Left
+Window Quick Tile Right=Meta+Right,Meta+Right,Quick Tile Window to the Right
+Window Quick Tile Top=Meta+Up,Meta+Up,Quick Tile Window to the Top
+Window Close=Alt+F4,Alt+F4,Close Window
+Window Maximize=Meta+PgUp,Meta+PgUp,Maximize Window
+Window Minimize=Meta+PgDown,Meta+PgDown,Minimize Window
+Overview=Meta+W,Meta+W,Toggle Overview
+Show Desktop=Meta+D,Meta+D,Peek at Desktop
+Walk Through Windows=Alt+Tab,Alt+Tab,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Tab,Alt+Shift+Tab,Walk Through Windows (Reverse)

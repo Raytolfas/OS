@@ -1,0 +1,1375 @@
+
+
+{ "name": "cabal.exe", "type": "Game" }
+
+{ "name": "Cabernet.exe", "type": "Game"}
+
+{ "name": "CableGuardian.exe", "type": "Game" }
+
+{ "name": "Cadria.exe", "type": "Game" }
+
+{ "name": "c3.exe", "type": "Game" }
+
+{ "name": "C4Exec.exe", "type": "Game" }
+{ "name": "CaesarIV.exe", "type": "Game" }
+
+{ "name": "CafeBusinessManager.exe", "type": "Game" }
+
+{ "name": "Cafemart Simulator.exe", "type": "Game" }
+
+{ "name": "Cafe Owner Simulator.exe", "type": "Game" }
+
+{ "name": "CafeStella.exe", "type": "Game" }
+
+{ "name": "Cakey's Twisted Bakery.exe", "type": "Game" }
+
+{ "name": "calamity.exe", "type": "Game" }
+
+{ "name": "SARDRunner.exe", "type": "Game" }
+{ "name": "CaliberStart.exe", "type": "Game" }
+{ "name": "Caliber.exe", "type": "Game" }
+
+{ "name": "Calico.exe", "type": "Game" }
+
+{ "name": "California Escapades.exe", "type": "Game" }
+
+{ "name": "Caliper_launcher.exe", "type": "Game" }
+
+{ "name": "CallOfCthulhu.exe", "type": "Game" }
+
+{ "name": "CoCMainWin32.exe", "type": "Game" }
+
+{ "name": "Cthulhu.exe", "type": "Game" }
+
+{ "name": "cod.exe", "type": "Game" }
+
+{ "name": "CoD2MP_s.exe", "type": "Game" }
+{ "name": "CoD2SP_s.exe", "type": "Game" }
+
+{ "name": "CoDMP.exe", "type": "Game" }
+{ "name": "CoDSP.exe", "type": "Game" }
+
+{ "name": "iw3sp.exe", "type": "Game" }
+{ "name": "iw3mp.exe", "type": "Game" }
+
+{ "name": "s1_sp64_ship.exe", "type": "Game" }
+
+{ "name": "s1_mp64_ship.exe", "type": "Game" }
+
+{ "name": "BlackOps.exe", "type": "Game" }
+
+{ "name": "BlackOps4.exe", "type": "Game" }
+
+{ "name": "cod24-cod.exe", "type": "Game" }
+
+{ "name": "BlackOpsColdWar.exe", "type": "Game" }
+
+{ "name": "t6sp.exe", "type": "Game" }
+
+{ "name": "BlackOps3.exe", "type": "Game" }
+
+{ "name": "GdtDBTrayLauncher.exe", "type": "Game" }
+{ "name": "Radiant_modtools.exe", "type": "Game" }
+{ "name": "cod2map64.exe", "type": "Game" }
+
+{ "name": "iw6sp64_ship.exe", "type": "Game" }
+
+{ "name": "iw6mp64_ship.exe", "type": "Game" }
+
+{ "name": "iw7_ship.exe", "type": "Game" }
+
+{ "name": "ModernWarfare.exe", "type": "Game" }
+
+{ "name": "iw4sp.exe", "type": "Game" }
+
+{ "name": "MW2CR.exe", "type": "Game" }
+
+{ "name": "iw5mp.exe", "type": "Game" }
+
+{ "name": "iw5mp_server.exe", "type": "Service" }
+
+{ "name": "cod22-cod.exe", "type": "Game" }
+
+{ "name": "cod23-cod.exe", "type": "Game" }
+
+{ "name": "h1_sp64_ship.exe", "type": "Game" }
+
+{ "name": "h1_mp64_ship.exe", "type": "Game" }
+
+{ "name": "CoDUOMP.exe", "type": "Game" }
+{ "name": "CoDUOSP.exe", "type": "Game" }
+
+{ "name": "Vanguard.exe", "type": "Game" }
+
+{ "name": "CoDWaW.exe", "type": "Game" }
+{ "name": "CoDWaWmp.exe", "type": "Game" }
+
+{ "name": "s2_sp64_ship.exe", "type": "Game" }
+
+{ "name": "CoJ.exe", "type": "Game" }
+{ "name": "CoJ_DX10.exe", "type": "Game" }
+{ "name": "chromEd.exe", "type": "Game" }
+{ "name": "cojdx10_benchmark.exe", "type": "Game" }
+
+{ "name": "CoJBiBGame_x86.exe", "type": "Game" }
+
+{ "name": "CoJGunslinger.exe", "type": "Game" }
+
+{ "name": "COTEG.exe", "type": "BG_CPUIO" }
+{ "name": "COTEG-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "COTS.exe", "type": "BG_CPUIO"}
+{ "name": "BlueCode-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "CotWTheAngler_Steam.exe", "type": "Game" }
+{ "name": "CotWTheAngler_Steam_P.exe", "type": "Game" }
+{ "name": "CotWTheAngler_Steam_R.exe", "type": "Game" }
+
+{ "name": "Call of War.exe", "type": "Game" }
+
+{ "name": "call_to_arms_pe.exe", "type": "BG_CPUIO" }
+{ "name": "call_to_arms_pe-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Calyx.exe", "type": "BG_CPUIO"}
+{ "name": "Calyx-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "CamperVanMakeItHome.exe", "type": "Game" }
+
+{ "name": "Campfire_with_Cat.exe", "type": "Game" }
+
+{ "name": "Campsite Hustle.exe", "type": "Game" }
+
+{ "name": "CLCB.exe", "type": "Game" }
+
+{ "name": "Candy Smash VR.exe", "type": "Game" }
+
+{ "name": "Cannons-defenders.exe", "type": "Game" }
+{ "name": "Cannons-Defenders.exe", "type": "Game" }
+
+{ "name": "CanvasOfKings.exe", "type": "Game" }
+
+{ "name": "CanyonCapers.exe", "type": "Game" }
+
+{ "name": "CapcomArcade2ndStadium.exe", "type": "Game" }
+
+{ "name": "CapcomArcadeStadium.exe", "type": "Game" }
+
+{ "name": "CBEUB.exe", "type": "Game" }
+
+{ "name": "CapcomFightingCollection.exe", "type": "Game" }
+
+{ "name": "CapcomFightingCollection2.exe", "type": "Game" }
+
+{ "name": "Capsized.exe", "type": "Game" }
+
+{ "name": "CapsuleLover.exe", "type": "Game" }
+
+{ "name": "Captain Hardcore.exe", "type": "BG_CPUIO" }
+{ "name": "FluidGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Captain of Industry.exe", "type": "Game" }
+
+{ "name": "CAPTAIN TSUBASA RISE OF NEW CHAMPIONS.exe", "type": "Game" }
+
+{ "name": "CaptainWayne.exe", "type": "Game" }
+{ "name": "wad_runner.exe", "type": "Game" }
+
+{ "name": "CapybaraStorySishyphus.exe", "type": "Game" }
+
+{ "name": "Caravaneer2.exe", "type": "Game" }
+
+{ "name": "CaravanSandWitch.exe", "type": "BG_CPUIO" }
+{ "name": "CaravanSandWitch-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "Carcassonne.exe", "type": "Game" }
+
+{ "name": "Car Clicker.exe", "type": "Game" }
+
+{ "name": "card-board-town.exe", "type": "Game" }
+
+{ "name": "CardCreator.exe", "type": "Game" }
+
+{ "name": "CardCultivation.exe", "type": "Game" }
+
+{ "name": "Car Dealership Simulator 2.exe", "type": "Game" }
+
+{ "name": "CarDealerSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "CarDealerSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Card-en-Ciel.exe", "type": "Game" }
+
+{ "name": "Car Detailing Simulator.exe", "type": "Game" }
+
+{ "name": "playway-launcher.exe", "type": "Game" }
+
+{ "name": "VG2.exe", "type": "Game" }
+
+{ "name": "CardHunter.exe", "type": "Game" }
+
+{ "name": "CardRogue.exe", "type": "Game" }
+
+{ "name": "Card_shark.exe", "type": "Game" }
+
+{ "name": "Peak.exe", "type": "BG_CPUIO" }
+{ "name": "Peak-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "Card Survival - Fantasy Forest.exe", "type": "Game" }
+
+{ "name": "Card Survival - Tropical Island.exe", "type": "Game" }
+
+{ "name": "Car For Sale Simulator 2023.exe", "type": "Game" }
+
+{ "name": "CargoHunters.exe", "type": "Game"}
+
+{ "name": "Carmageddon_Max_Damage.exe", "type": "Game" }
+
+{ "name": "Carma-Win64-Shipping.exe", "type": "Game"}
+{ "name": "Carma.exe", "type": "BG_CPUIO"}
+
+{ "name": "CarManufacture.exe", "type": "Game" }
+
+{ "name": "cms.exe", "type": "Game" }
+
+{ "name": "cms2015.exe", "type": "Game" }
+
+{ "name": "cms2018.exe", "type": "Game" }
+
+{ "name": "Car Mechanic Simulator 2021.exe", "type": "Game"}
+
+{ "name": "Car Mechanic Simulator 2021 Demo.exe", "type": "Game" }
+
+{ "name": "Car Mechanic Simulator 2026 Demo.exe", "type": "Game" }
+
+{ "name": "Carnal_Instinct.exe", "type": "BG_CPUIO" }
+{ "name": "Carnal_Instinct_UE5-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CarnivalVR.exe", "type": "Game"}
+
+{ "name": "carrier_command_vr.exe", "type": "Game" }
+{ "name": "carrier_command.exe", "type": "Game" }
+
+{ "name": "carrier.exe", "type": "Game" }
+
+{ "name": "CD.exe", "type": "Game" }
+
+{ "name": "Carrion.exe", "type": "Game" }
+
+{ "name": "GlassCarriers.exe", "type": "Game" }
+
+{ "name": "Carry The Pack Rack Demo.exe", "type": "Game" }
+
+{ "name": "CarServiceTogether.exe", "type": "Game"}
+
+{ "name": "CartelTycoon.exe", "type": "BG_CPUIO" }
+{ "name": "CartelTycoon-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Cartel Tycoon Launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "Carto.exe", "type": "Game" }
+
+{ "name": "Drift Racing Online.exe", "type": "Game"}
+
+{ "name": "CarX Drift Racing Online 2.exe", "type": "Game" }
+
+{ "name": "CarX Street Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "CarX Street.exe", "type": "Game" }
+
+{ "name": "Case2.exe", "type": "Game" }
+
+{ "name": "case32.exe", "type": "Game" }
+{ "name": "case64.exe", "type": "Game" }
+
+{ "name": "CaseCracker.exe", "type": "Game" }
+
+{ "name": "CaseCracker2.exe", "type": "Game" }
+
+{ "name": "CaseCracker3.exe", "type": "Game" }
+
+{ "name": "CashCleanerSim.exe", "type": "BG_CPUIO"}
+{ "name": "CashCleanerSim-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "CassetteBeasts.exe", "type": "Game" }
+
+{ "name": "Caster.exe", "type": "Game" }
+
+{ "name": "Castleborne Survivors Demo.exe", "type": "Game" }
+
+{ "name": "CastleClicker.exe", "type": "Game" }
+
+{ "name": "CastleCraft.exe", "type": "BG_CPUIO" }
+{ "name": "CastleCraft-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "castle.exe", "type": "Game"}
+
+{ "name": "castle idler.exe", "type": "Game" }
+
+{ "name": "CastleInTheDarkness.exe", "type": "Game" }
+
+{ "name": "CastleMinerZ.exe", "type": "Game" }
+
+{ "name": "COI.exe", "type": "Game" }
+
+{ "name": "CastleStorm.exe", "type": "Game" }
+
+{ "name": "Castle Story.exe", "type": "Game" }
+{ "name": "castlestory-launcher.exe", "type": "BG_CPUIO" }
+
+{ "name": "CastlevaniaAnniversaryCollection.exe", "type": "Game" }
+
+{ "name": "CLOS2.exe", "type": "Game" }
+
+{ "name": "CMOF.exe", "type": "Game" }
+
+{ "name": "CastlevaniaLoSUE.exe", "type": "Game" }
+
+{ "name": "castnchill.exe", "type": "Game"}
+
+{ "name": "CasualtiesUnknown.exe", "type": "Game" }
+
+{ "name": "CAT.exe", "type": "Game" }
+
+{ "name": "Cataclismo.exe", "type": "Game" }
+
+{ "name": "cataclysm-tiles.exe", "type": "Game" }
+
+{ "name": "CatanUniverse.exe", "type": "Game" }
+
+{ "name": "CatBait.exe", "type": "Game" }
+{ "name": "CatBait_x32.exe", "type": "Game" }
+
+{ "name": "catcafe.exe", "type": "Game" }
+
+{ "name": "CatChess.exe", "type": "BG_CPUIO" }
+{ "name": "CatChess-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CatchMe.exe", "type": "Game" }
+
+{ "name": "catfarmpals.exe", "type": "Game" }
+
+{ "name": "CatGodRanch.exe", "type": "Game" }
+
+{ "name": "Cat Goes Fishing.exe", "type": "Game" }
+
+{ "name": "Catherine.exe", "type": "Game" }
+
+{ "name": "CATO.exe", "type": "Game" }
+
+{ "name": "Cat Quest.exe", "type": "Game" }
+
+{ "name": "Cat Quest II.exe", "type": "Game" }
+
+{ "name": "Cat Quest III.exe", "type": "Game" }
+
+{ "name": "Cats.exe", "type": "Game" }
+
+{ "name": "Cats And Cups.exe", "type": "Game" }
+
+{ "name": "Cats Organized Neatly.exe", "type": "Game" }
+
+{ "name": "Cats-Shaped.exe", "type": "Game" }
+
+{ "name": "Cattails - Wildwood Story.exe", "type": "Game" }
+
+{ "name": "Cattle Country.exe", "type": "Game" }
+
+{ "name": "CatTuber.exe", "type": "Game" }
+
+{ "name": "Catwifhat.exe", "type": "Game" }
+
+{ "name": "Cauldron.exe", "type": "Game" }
+
+{ "name": "Cave Crawlers.exe", "type": "Game" }
+
+{ "name": "Caveman World.exe", "type": "Game" }
+
+{ "name": "CoQ.exe", "type": "Game"}
+
+{ "name": "CaveStory+.exe", "type": "Game" }
+
+{ "name": "CelebrityKombat.exe", "type": "Game" }
+
+{ "name": "Celeste.exe", "type": "Game" }
+
+{ "name": "China_Builder_06.exe", "type": "BG_CPUIO" }
+{ "name": "China_Builder_06-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CellToSingularity.exe", "type": "Game" }
+
+{ "name": "CenterStationV1.exe", "type": "BG_CPUIO" }
+{ "name": "CenterStationV1-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Century-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CepheusProtocol.exe", "type": "Game" }
+
+{ "name": "Chained Echoes.exe", "type": "Game" }
+
+{ "name": "Chained in the Backrooms.exe", "type": "Game" }
+
+{ "name": "ChainedTogether.exe", "type": "BG_CPUIO" }
+{ "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ChainedVehiclesSteam.exe", "type": "BG_CPUIO" }
+{ "name": "ChainedVehiclesSteam-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CM2008.exe", "type": "Game" }
+
+{ "name": "CMLauncher.exe", "type": "Game" }
+
+{ "name": "rolaunchersteam.exe", "type": "Game" }
+{ "name": "ROLauncherSteam.exe", "type": "Game" }
+
+{ "name": "Champions Online.exe", "type": "Game" }
+
+{ "name": "CHANGE.exe", "type": "Game" }
+
+{ "name": "Chants Of Sennaar.exe", "type": "Game"}
+
+{ "name": "Game_Steam.exe", "type": "Game" }
+
+{ "name": "Deponia2.exe", "type": "Game" }
+
+{ "name": "CharlieMurder.exe", "type": "Game" }
+
+{ "name": "Chaser.exe", "type": "Game" }
+
+{ "name": "CS.exe", "type": "Game" }
+
+{ "name": "ChasingTails.exe", "type": "Game" }
+
+{ "name": "Chasm.exe", "type": "Game" }
+
+{ "name": "Fuszerka.exe", "type": "Game" }
+
+{ "name": "Auto_Fuszerka_Demo.exe", "type": "Game" }
+
+{ "name": "CarRepair_Welcome.exe", "type": "Game" }
+
+{ "name": "CheeseRolling.exe", "type": "Game" }
+
+{ "name": "Chef Knight.exe", "type": "Game" }
+
+{ "name": "Chef Life  A Restaurant Simulator.exe", "type": "Game"}
+
+{ "name": "Chef RPG.exe", "type": "Game"}
+
+{ "name": "Chernobylite2.exe", "type": "BG_CPUIO" }
+{ "name": "Chernobylite2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ChernobylGame.exe", "type": "BG_CPUIO" }
+{ "name": "ChernobylGame-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CBase16.exe", "type": "Game" }
+
+{ "name": "CEO.exe", "type": "Game" }
+
+{ "name": "Chess for idiots.exe", "type": "Game" }
+
+{ "name": "Chess2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Chess2-Win32-Shipping.exe", "type": "Game" }
+{ "name": "Chess2.exe", "type": "BG_CPUIO" }
+
+{ "name": "Chest Buster.exe", "type": "Game" }
+
+{ "name": "ChickenClicker.exe", "type": "Game" }
+
+{ "name": "CIU.exe", "type": "Game" }
+
+{ "name": "Chicory.exe", "type": "Game" }
+
+{ "name": "ChildofLight.exe", "type": "Game" }
+
+{ "name": "CDE.exe", "type": "Game" }
+
+{ "name": "ChildrenOfMorta.exe", "type": "Game" }
+
+{ "name": "ChildrenOfSilentown.exe", "type": "Game" }
+
+{ "name": "Chill Corner.exe", "type": "Game" }
+
+{ "name": "ChilloutVR.exe", "type": "Game" }
+
+{ "name": "ChillPulse.exe", "type": "Game" }
+
+{ "name": "Chillquarium.exe", "type": "Game" }
+
+{ "name": "Chill With You.exe", "type": "Game"}
+
+{ "name": "ChineseFrontiers.exe", "type": "BG_CPUIO" }
+{ "name": "ChineseFrontiers-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "MMOSimulator.exe", "type": "Game" }
+
+{ "name": "NewPAL_Release.exe", "type": "Game" }
+
+{ "name": "chip.win32.exe", "type": "Game" }
+
+{ "name": "Chips1.exe", "type": "Game" }
+{ "name": "chips1.exe", "type": "Game" }
+
+{ "name": "Chivalry2-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "CDW.exe", "type": "Game" }
+{ "name": "CMW.exe", "type": "Game" }
+
+{ "name": "Chivalry_Quest_Sword_and_Flame_CE.exe", "type": "Game"}
+
+{ "name": "The Choice of Life - Middle Ages.exe", "type": "Game" }
+
+{ "name": "chonkers.exe", "type": "Game" }
+
+{ "name": "Obscure-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Chop Chains.exe", "type": "Game" }
+
+{ "name": "ChopChopIncDemo.exe", "type": "Game" }
+
+{ "name": "Chorus-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Chorus.exe", "type": "BG_CPUIO" }
+
+{ "name": "ChristianMother.exe", "type": "Game" }
+
+{ "name": "ChromaGun2.exe", "type": "BG_CPUIO" }
+{ "name": "ChromaGun2-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "chromasquad.exe", "type": "Game" }
+
+{ "name": "Chronicon.exe", "type": "Game" }
+
+{ "name": "ChronoArk.exe", "type": "Game"}
+
+{ "name": "ChronoCCG.exe", "type": "Game" }
+
+{ "name": "CHRONOCROSS_LAUNCHER.exe", "type": "BG_CPUIO" }
+{ "name": "CHRONOCROSS.exe", "type": "Game" }
+{ "name": "RADICALDREAMERS.exe", "type": "Game" }
+
+{ "name": "Chrono Trigger.exe", "type": "Game"}
+
+{ "name": "Chuchel.exe", "type": "Game" }
+
+{ "name": "ChushpanSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "ChushpanSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Chuzzle.exe", "type": "Game" }
+
+{ "name": "Cinderia.exe", "type": "Game"}
+
+{ "name": "Cinema Simulator 2025.exe", "type": "Game" }
+
+{ "name": "Cineris Somnia.exe", "type": "Game" }
+
+{ "name": "CiniCross.exe", "type": "Game"}
+
+{ "name": "Circle Empires.exe", "type": "Game" }
+
+{ "name": "Circle Empires 2.exe", "type": "Game" }
+
+{ "name": "Circle Empires Rivals.exe", "type": "Game" }
+
+{ "name": "Circuits.exe", "type": "Game" }
+
+{ "name": "circuit-superstars.exe", "type": "Game"}
+
+{ "name": "Citadelum.exe", "type": "Game" }
+
+{ "name": "Citalis.exe", "type": "Game" }
+
+{ "name": "Cities In Motion.exe", "type": "Game" }
+
+{ "name": "CIM2.exe", "type": "Game" }
+
+{ "name": "Cities.exe", "type": "Game" }
+
+{ "name": "Cities2.exe", "type": "Game" }
+
+{ "name": "CitiesXL_2011.exe", "type": "Game"}
+{ "name": "CitiesXL_Platinum.exe", "type": "Game" }
+
+{ "name": "CitiesXXL.exe", "type": "Game"}
+
+{ "name": "Citizen Sleeper.exe", "type": "Game" }
+
+{ "name": "Citizen Sleeper 2.exe", "type": "Game"}
+
+{ "name": "CBM.exe", "type": "Game" }
+
+{ "name": "Starter.exe", "type": "Game" }
+
+{ "name": "CityCarDriving2.exe", "type": "BG_CPUIO" }
+{ "name": "CityCarDriving2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CityDriver.exe", "type": "BG_CPUIO" }
+{ "name": "CityDriver-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CityGameStudio64.exe", "type": "Game" }
+{ "name": "CityGameStudio32.exe", "type": "Game" }
+
+{ "name": "cld.exe", "type": "Game"}
+
+{ "name": "CityLightsandLoveBites.exe", "type": "Game" }
+
+{ "name": "CityLightsandLoveBitesSeason1.exe", "type": "Game" }
+
+{ "name": "BrokenDreamers.exe", "type": "Game" }
+
+{ "name": "CoG.exe", "type": "Game" }
+
+{ "name": "CitySiegeFactionIsland.exe", "type": "Game" }
+
+{ "name": "Citystate II.exe", "type": "Game" }
+
+{ "name": "City Tales.exe", "type": "Game" }
+
+{ "name": "TramSimNext.exe", "type": "BG_CPUIO" }
+{ "name": "TramSimNext-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CityTransportSim.exe", "type": "BG_CPUIO" }
+{ "name": "CityTransportSim-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CivCity Rome.exe", "type": "Game" }
+
+{ "name": "cividle.exe", "type": "Game" }
+
+{ "name": "Civ4BeyondSword.exe", "type": "Game"}
+{ "name": "Civ4BeyondSword_PitBoss.exe", "type": "Game"}
+
+{ "name": "CLADUN_X3.exe", "type": "Game" }
+
+{ "name": "Expedition33_Steam.exe", "type": "BG_CPUIO" }
+{ "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Clanfolk.exe", "type": "Game"}
+
+{ "name": "Clank.exe", "type": "Game" }
+
+{ "name": "Clash.exe", "type": "BG_CPUIO" }
+{ "name": "Clash-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Classic Marathon Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Classic Marathon Steam.exe", "type": "Game" }
+
+{ "name": "ClassiCube.exe", "type": "Game" }
+
+{ "name": "ClassifiedFrance44.exe", "type": "Game" }
+
+{ "name": "Class_Of_09.exe", "type": "Game" }
+{ "name": "Class_Of_09-32.exe", "type": "Game" }
+
+{ "name": "Class of '09 Puzzle Showdown.exe", "type": "Game" }
+
+{ "name": "C09FS.exe", "type": "Game" }
+
+{ "name": "C09RU.exe", "type": "Game" }
+
+{ "name": "Cleaning Up.exe", "type": "Game" }
+
+{ "name": "Clean Up Earth.exe", "type": "Game" }
+
+{ "name": "ClearedHot.exe", "type": "Game"}
+
+{ "name": "ClearMem.exe", "type": "BG_CPUIO" }
+
+{ "name": "Click & Cum 💘💦.exe", "type": "Game" }
+
+{ "name": "Clicker Clicker Clicker.exe", "type": "Game" }
+
+{ "name": "Clicker Heroes.exe", "type": "Game"}
+
+{ "name": "ClickerHeroes2.exe", "type": "Game"}
+
+{ "name": "Clicker Kids.exe", "type": "Game" }
+
+{ "name": "ClickMage.exe", "type": "Game" }
+
+{ "name": "Clickold.exe", "type": "Game" }
+
+{ "name": "mmf2u.exe", "type": "Game" }
+
+{ "name": "clickthechick.exe", "type": "Game" }
+
+{ "name": "PaperclipFactory.exe", "type": "Game" }
+
+{ "name": "click to ten.exe", "type": "Game" }
+
+{ "name": "Cliff Empire.exe", "type": "Game" }
+
+{ "name": "Climber Animals Together.exe", "type": "Game"}
+
+{ "name": "ClimbTheBackrooms.exe", "type": "BG_CPUIO" }
+{ "name": "ClimbTheBackrooms-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ClockTower.exe", "type": "Game" }
+
+{ "name": "Ambrosia.exe", "type": "Game" }
+{ "name": "AmbrosiaD.exe", "type": "Game" }
+
+{ "name": "ClockworkTales_OfGlassAndInk.exe", "type": "Game" }
+
+{ "name": "Clone Drone in the Danger Zone.exe", "type": "Game" }
+
+{ "name": "LAUNCHER.exe", "type": "Game" }
+
+{ "name": "Clothing.exe", "type": "Game" }
+
+{ "name": "Clothing Store Simulator.exe", "type": "Game" }
+
+{ "name": "Cloud Gardens.exe", "type": "Game" }
+
+{ "name": "CloudheimSteam.exe", "type": "BG_CPUIO"}
+{ "name": "CloudheimSteam-Win64-Shipping.exe", "type": "Game"}
+
+{ "name": "CloudheimSteamDemo.exe", "type": "BG_CPUIO" }
+{ "name": "CloudheimSteamDemo-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Cloud Meadow.exe", "type": "Game" }
+
+{ "name": "Cloudpunk - City of Ghosts.exe", "type": "Game" }
+{ "name": "Cloudpunk.exe", "type": "Game" }
+
+{ "name": "Cluckmech Oasis.exe", "type": "Game" }
+
+{ "name": "ClueCluedo.exe", "type": "Game" }
+
+{ "name": "Cluedo.exe", "type": "Game" }
+
+{ "name": "Clustertruck.exe", "type": "Game" }
+
+{ "name": "CM_Launcher.exe", "type": "Game" }
+
+{ "name": "Coal LLC.exe", "type": "Game"}
+
+{ "name": "CobaltCore.exe", "type": "Game" }
+
+{ "name": "Cock.exe", "type": "Game" }
+
+{ "name": "CoconutSimulator.exe", "type": "BG_CPUIO" }
+{ "name": "CoconutSimulator-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CoconutSimulator2.exe", "type": "BG_CPUIO" }
+{ "name": "CoconutSimulator2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "universe.exe", "type": "Game" }
+
+{ "name": "cure.exe", "type": "Game" }
+
+{ "name": "CodenameEngine.exe", "type": "Game" }
+
+{ "name": "cg.exe", "type": "Game" }
+
+{ "name": "Project_Rapid.exe", "type": "BG_CPUIO" }
+{ "name": "Project_Rapid-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CodeVein.exe", "type": "BG_CPUIO" }
+{ "name": "CodeVein-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CodeVein2.exe", "type": "BG_CPUIO" }
+{ "name": "CodeVein2-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Coffee Caravan.exe", "type": "Game" }
+
+{ "name": "CoffeeTalk.exe", "type": "Game"}
+
+{ "name": "CTHB.exe", "type": "Game"}
+
+{ "name": "CTT.exe", "type": "Game" }
+
+{ "name": "COGMIND.exe", "type": "Game" }
+
+{ "name": "Coin.exe", "type": "Game" }
+
+{ "name": "Coin Flipper.exe", "type": "Game" }
+
+{ "name": "CoinForge.exe", "type": "Game" }
+
+{ "name": "Coin Pusher Casino.exe", "type": "Game" }
+
+{ "name": "CoinPusherWorld.exe", "type": "Game" }
+
+{ "name": "Coins.exe", "type": "Game" }
+
+{ "name": "Coin Tavern.exe", "type": "Game" }
+
+{ "name": "coldfear_retail.exe", "type": "Game" }
+
+{ "name": "ColdWaters.exe", "type": "Game" }
+
+{ "name": "CMR.exe", "type": "Game" }
+
+{ "name": "Collectibles.exe", "type": "Game" }
+
+{ "name": "CollectorsCove.exe", "type": "BG_CPUIO" }
+{ "name": "CollectorsCove-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CollegeBound.exe", "type": "Game" }
+
+{ "name": "CollegeKings2.exe", "type": "Game" }
+
+{ "name": "CollegeKings.exe", "type": "Game" }
+
+{ "name": "Colony 37.exe", "type": "Game" }
+
+{ "name": "ColonyShipGame.exe", "type": "Game" }
+
+{ "name": "colonyclient.exe", "type": "Game" }
+
+{ "name": "ColoringPixels.exe", "type": "Game" }
+
+{ "name": "ColoringVoxels.exe", "type": "Game" }
+
+{ "name": "ColtCanyon.exe", "type": "Game" }
+
+{ "name": "Engine_Launcher.exe", "type": "Game" }
+{ "name": "VLauncher.exe", "type": "Game" }
+{ "name": "CombatArms.exe", "type": "Game" }
+{ "name": "CombatArmsLauncher.exe", "type": "Game" }
+
+{ "name": "Engine_BE.exe", "type": "Game" }
+{ "name": "Engine2.exe", "type": "Game" }
+
+{ "name" : "CombatMaster.exe","type": "Game"}
+
+{ "name": "CM Normandy.exe", "type": "Game" }
+
+{ "name": "CM Black Sea.exe", "type": "Game" }
+
+{ "name": "CM Shock Force 2.exe", "type": "Game" }
+
+{ "name": "Comedy Night.exe", "type": "Game" }
+
+{ "name": "ComeHome.exe", "type": "Game" }
+{ "name": "ComeHome-32.exe", "type": "Game" }
+
+{ "name": "CNC3EP1.exe", "type": "Game" }
+
+{ "name": "CNC3.exe", "type": "Game" }
+
+{ "name": "CNC4.exe", "type": "Game" }
+
+{ "name": "RA2MD.exe", "type": "Game" }
+{ "name": "Ra2.exe", "type": "Game" }
+{ "name": "FinalAlert2YR.exe", "type": "Game" }
+{ "name": "gamemd.exe", "type": "Game" }
+
+{ "name": "RA3.exe", "type": "Game" }
+{ "name": "Red Alert 3_code.exe", "type": "Game" }
+
+{ "name": "RA3EP1.exe", "type": "Game" }
+
+{ "name": "RASETUP.EXE", "type": "Game" }
+{ "name": "RA95.EXE", "type": "Game" }
+{ "name": "EDWIN.EXE", "type": "Game" }
+{ "name": "RUNGAME.EXE", "type": "Game" }
+
+{ "name": "ClientG.exe", "type": "Game" }
+
+{ "name": "Renegade.exe", "type": "Game" }
+
+{ "name": "SUN.EXE", "type": "Game" }
+{ "name": "FinalSun.exe", "type": "Game" }
+
+{ "name": "TiberiumAlliances.exe", "type": "Game" }
+
+{ "name": "KEEN1.EXE", "type": "Game" }
+{ "name": "KEEN2.EXE", "type": "Game" }
+{ "name": "KEEN3.EXE", "type": "Game" }
+{ "name": "Keen4e.exe", "type": "Game" }
+{ "name": "Keen5e.exe", "type": "Game" }
+
+{ "name": "CommanderGame.exe", "type": "Game" }
+
+{ "name": "Commandos HD.exe", "type": "Game" }
+
+{ "name": "comm2.exe", "type": "Game" }
+
+{ "name": "commandos3.exe", "type": "Game" }
+
+{ "name": "Comandos.exe", "type": "Game" }
+
+{ "name": "coman_mp.exe", "type": "Game" }
+
+{ "name": "Commandos.exe", "type": "BG_CPUIO" }
+{ "name": "Commandos-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Community Button.exe", "type": "Game" }
+
+{ "name": "RelicCoH2.exe", "type": "Game" }
+
+{ "name": "RelicCoH3.exe", "type": "Game"}
+
+{ "name": "Blitzkrieg Launcher.exe", "type": "Game" }
+
+{ "name": "CoHEF.exe", "type": "Game" }
+{ "name": "EFDaemon.exe", "type": "Game" }
+
+{ "name": "compound.exe", "type": "Game" }
+{ "name": "COMPOUND.exe", "type": "Game" }
+
+{ "name": "ConanSandboxServer.exe", "type": "Service" }
+{ "name": "ConanSandboxServer-Win64-Shipping.exe", "type": "Service" }
+
+{ "name": "ConanSandbox-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "ConanSandbox.exe", "type": "Game" }
+
+{ "name": "Concubine.exe", "type": "BG_CPUIO" }
+{ "name": "Concubine-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Condemned.exe", "type": "Game" }
+
+{ "name": "CONERU -DIMENSION GIRL-.exe", "type": "Game" }
+
+{ "name": "DesertStorm.exe", "type": "Game" }
+
+{ "name": "Conflict of Nations.exe", "type": "Game" }
+
+{ "name": "GameGuard.exe", "type": "Game"}
+
+{ "name": "Conquest Dark.exe", "type": "Game" }
+
+{ "name": "CoE5.exe", "type": "Game" }
+
+{ "name": "Conquest of Empires 2.exe", "type": "Game" }
+
+{ "name": "CONSCRIPT.exe", "type": "Game" }
+
+{ "name": "Console Shop Simulator.exe", "type": "Game" }
+
+{ "name": "consortium.exe", "type": "Game" }
+
+{ "name": "CONSTANCE.exe", "type": "Game" }
+
+{ "name": "ConSim.exe", "type": "Game" }
+
+{ "name": "ConSim2015.exe", "type": "Game" }
+
+{ "name": "contagion.exe", "type": "Game" }
+
+{ "name": "Content Warning.exe", "type": "Game"}
+
+{ "name": "C9.exe", "type": "Game" }
+
+{ "name": "Contractors.exe", "type": "Game" }
+
+{ "name": "ContractorsShowdown.exe", "type": "Game" }
+
+{ "name": "ContractVille.exe", "type": "Game" }
+
+{ "name": "ContraOG.exe", "type": "Game" }
+
+{ "name": "ContraptionMaker.exe", "type": "Game" }
+
+{ "name": "ContrastGame.exe", "type": "Game" }
+
+{ "name": "ControlCraft2.exe", "type": "Game" }
+
+{ "name": "ControlCraft3.exe", "type": "Game" }
+
+{ "name": "HOPECORE.exe", "type": "Game" }
+
+{ "name": "ControllerCompanion.exe", "type": "Game" }
+
+{ "name": "Control.exe", "type": "Game" }
+{ "name": "Control_DX11.exe", "type": "Game" }
+{ "name": "Control_DX12.exe", "type": "Game" }
+
+{ "name": "CONVRGENCE.exe", "type": "Game" }
+
+{ "name": "Cookard.exe", "type": "Game" }
+
+{ "name": "Cookie Clicker.exe", "type": "Game"}
+
+{ "name": "cc.exe", "type": "Game" }
+
+{ "name": "cl.exe", "type": "Game" }
+
+{ "name": "CookingSim.exe", "type": "Game" }
+{ "name": "烹饪模拟器.exe", "type": "Game" }
+
+{ "name": "Cooking Simulator 2.exe", "type": "Game" }
+
+{ "name": "CookingSimulatorVR.exe", "type": "Game" }
+
+{ "name": "CSDSteamBuild.exe", "type": "Game" }
+
+{ "name": "CSD2.exe", "type": "Game" }
+
+{ "name": "CSD3.exe", "type": "Game" }
+
+{ "name": "CoopRooms.exe", "type": "BG_CPUIO" }
+{ "name": "CoopRooms-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Marcas.exe", "type": "Game" }
+
+{ "name": "Copycat.exe", "type": "Game"}
+
+{ "name": "ProjectCoral-Win64-Shipping.exe", "type": "Game"}
+{ "name": "ProjectCoral.exe", "type": "BG_CPUIO"}
+
+{ "name": "CoreKeeper.exe", "type": "Game" }
+
+{ "name": "Core Keeper Patcher.exe", "type": "Service" }
+{ "name": "CoreKeeperServer.exe", "type": "Service" }
+
+{ "name": "CWLH.exe", "type": "BG_CPUIO" }
+{ "name": "CWLH-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Street Food Simulator.exe", "type": "Game" }
+
+{ "name": "Cornerpond.exe", "type": "Game" }
+
+{ "name": "coromon.exe", "type": "Game" }
+
+{ "name": "CorpseParty.exe", "type": "Game" }
+
+{ "name": "CoC II.exe", "type": "Game" }
+
+{ "name": "CorruptionTown.exe", "type": "Game" }
+
+{ "name": "CorsairCoveDemo.exe", "type": "Game" }
+
+{ "name": "Cortex Command.exe", "type": "Game" }
+
+{ "name": "CosmicBreak.exe", "type": "Game"}
+
+{ "name": "Cosmoteer.exe", "type": "Game"}
+
+{ "name": "cossacks.exe", "type": "Game" }
+
+{ "name": "HView.exe", "type": "Game" }
+{ "name": "ScenarioEditor.exe", "type": "Game" }
+{ "name": "csbtw.exe", "type": "Game" }
+{ "name": "cshlp.exe", "type": "Game" }
+
+{ "name": "Cq.exe", "type": "Game" }
+
+{ "name": "CounterSide.exe", "type": "Game"}
+
+{ "name": "csgo.exe", "type": "Game" }
+{ "name": "csgo_legacy_app.exe", "type": "Game" }
+{ "name": "csgocfg.exe", "type": "Game" }
+
+{ "name": "cstrike-online.exe", "type": "Game" }
+
+{ "name": "cstrike.exe", "type": "Game" }
+{ "name": "cstrike_win64.exe", "type": "Game" }
+
+{ "name": "CountyOfFortune.exe", "type": "Game" }
+
+{ "name": "CowBoyBeta.exe", "type": "BG_CPUIO" }
+{ "name": "CowBoyBeta-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CozyCaravan.exe", "type": "Game" }
+
+{ "name": "Cozy Cleaner.exe", "type": "Game" }
+
+{ "name": "CozyGameRestoration.exe", "type": "Game" }
+
+{ "name": "CozyGrove.exe", "type": "Game" }
+
+{ "name": "CozyGrove_CampSpirit.exe", "type": "Game" }
+
+{ "name": "CozyIsland.exe", "type": "Game" }
+
+{ "name": "CozyMining.exe", "type": "Game" }
+
+{ "name": "cpucores.exe", "type": "Game" }
+
+{ "name": "CrabChampions.exe", "type": "Game" }
+
+{ "name": "CrabDub.exe", "type": "Game" }
+
+{ "name": "Crab Game.exe", "type": "Game" }
+
+{ "name": "CRACKED.exe", "type": "Game" }
+
+{ "name": "CraftCraft.exe", "type": "Game"}
+
+{ "name": "Crafting Idle Clicker.exe", "type": "Game" }
+
+{ "name": "Craftopia.exe", "type": "Game" }
+
+{ "name": "CraftWorld.exe", "type": "Game" }
+
+{ "name": "CraftySurvivors.exe", "type": "Game" }
+
+{ "name": "Cralon.exe", "type": "BG_CPUIO" }
+{ "name": "Cralon-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Cranked.exe", "type": "Game" }
+
+{ "name": "CrashBandicoot4.exe", "type": "Game" }
+
+{ "name": "CrashBandicootNSaneTrilogy.exe", "type": "Game" }
+
+{ "name": "Crashlands.exe", "type": "Game" }
+
+{ "name": "Crashlands2.exe", "type": "Game" }
+
+{ "name": "CrashoutCrew.exe", "type": "Game" }
+
+{ "name": "Crashphalt.exe", "type": "Game" }
+
+{ "name": "BurningWheels.exe", "type": "Game" }
+
+{ "name": "Crawl.exe", "type": "Game" }
+
+{ "name": "Crazy Corn.exe", "type": "Game" }
+
+{ "name": "CRAZY FLASHER SERIES 2021.exe", "type": "Game" }
+
+{ "name": "cm3.exe", "type": "Game" }
+
+{ "name": "lycq_eng.exe", "type": "Game" }
+
+{ "name": "Crazy Sapper 3D.exe", "type": "Game" }
+
+{ "name": "AppLauncher.exe", "type": "Game" }
+
+{ "name": "crea.exe", "type": "Game" }
+
+{ "name": "Creaks.exe", "type": "Game" }
+
+{ "name": "Creativerse.exe", "type": "Game" }
+
+{ "name": "Creature Kitchen.exe", "type": "Game" }
+
+{ "name": "CreaturesOfAva.exe", "type": "BG_CPUIO" }
+{ "name": "CreaturesOfAva-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CreeperWorld2.exe", "type": "Game" }
+
+{ "name": "CW3.exe", "type": "Game" }
+
+{ "name": "CW4.exe", "type": "Game" }
+
+{ "name": "CreeperWorld.exe", "type": "Game" }
+
+{ "name": "IXE.exe", "type": "Game" }
+
+{ "name": "CreepyTale.exe", "type": "Game" }
+
+{ "name": "CreepyTale2.exe", "type": "Game" }
+
+{ "name": "CreepyTale5.exe", "type": "Game" }
+
+{ "name": "ashes.exe", "type": "Game" }
+
+{ "name": "cricket22.exe", "type": "Game" }
+
+{ "name": "cricket24.exe", "type": "Game" }
+
+{ "name": "cricket26.exe", "type": "Game" }
+
+{ "name": "CrimeBoss.exe", "type": "Game" }
+
+{ "name": "Crime Simulator.exe", "type": "Game"}
+
+{ "name": "Crime Simulator Demo.exe", "type": "Game" }
+
+{ "name": "Crime Simulator Prologue.exe", "type": "Game" }
+
+{ "name": "Crimson Capes.exe", "type": "Game"}
+
+{ "name": "CrimsonDesert.exe", "type": "Game"}
+
+{ "name": "Crimsonland-D3D11.exe", "type": "Game" }
+{ "name": "Crimsonland.exe", "type": "Game" }
+{ "name": "old-crimsonland.exe", "type": "Game" }
+
+{ "name": "CrimzonClover_WI.exe", "type": "Game" }
+
+{ "name": "CCFF7R.exe", "type": "BG_CPUIO" }
+{ "name": "CCFF7R-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CrisisintheKremlin.exe", "type": "Game" }
+
+{ "name": "CrisisInTheKremlin2.exe", "type": "Game" }
+
+{ "name": "CrisolTheaterOfIdols.exe", "type": "BG_CPUIO" }
+{ "name": "CRToiPrototype-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Critter Cove.exe", "type": "Game" }
+
+{ "name": "crocotile3d.exe", "type": "Game" }
+
+{ "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Cropdeck.exe", "type": "Game" }
+
+{ "name": "Cross Blitz.exe", "type": "Game" }
+
+{ "name": "CrossCode.exe", "type": "Game" }
+
+{ "name": "Crosshair.exe", "type": "BG_CPUIO" }
+
+{ "name": "CrosshairX.exe", "type": "Game" }
+
+{ "name": "CrosshairZero.exe", "type": "BG_CPUIO" }
+
+{ "name": "Crossout_BE.exe", "type": "Game" }
+{ "name": "Crossout-D3D12.exe", "type": "Game" }
+
+{ "name": "Crowalt Traces of the Lost Colony.exe", "type": "Game" }
+
+{ "name": "Crow Country.exe", "type": "Game" }
+
+{ "name": "CrownAndAdventure.exe", "type": "Game" }
+
+{ "name": "Crownhold_Demo.exe", "type": "Game" }
+
+{ "name": "Crown Of Greed.exe", "type": "Game" }
+
+{ "name": "CrownTrick.exe", "type": "Game"}
+
+{ "name": "CrownWars.exe", "type": "Game" }
+
+{ "name": "cuisine_royale_BE.exe", "type": "Game" }
+
+{ "name": "Cruel.exe", "type": "Game" }
+
+{ "name": "crueltysquad.exe", "type": "Game" }
+{ "name": "crueltysquad32.exe", "type": "Game" }
+
+{ "name": "CRUMB.exe", "type": "Game" }
+
+{ "name": "Crusaders.exe", "type": "Game" }
+
+{ "name": "ck2.exe", "type": "Game" }
+
+{ "name": "ck3.exe", "type": "Game" }
+
+{ "name": "Crusaders of the Lost Idols.exe", "type": "Game" }
+{ "name": "CrusadersSteam.exe", "type": "Game" }
+
+{ "name": "CQ Hero Town.exe", "type": "Game" }
+
+{ "name": "CQ MINI.exe", "type": "Game" }
+
+{ "name": "CrushCrush.exe", "type": "Game" }
+
+{ "name": "CrushedInTime.exe", "type": "Game" }
+
+{ "name": "Cryo.exe", "type": "Game" }
+
+{ "name": "CryoFall_Client.exe", "type": "Game" }
+{ "name": "CryoFall Client.exe", "type": "Game" }
+
+{ "name": "CoFLaunchApp.exe", "type": "Game" }
+
+{ "name": "CryptCustodian.exe", "type": "Game" }
+
+{ "name": "CryptMaster.exe", "type": "Game" }
+
+{ "name": "NecroDancer.exe", "type": "Game" }
+
+{ "name": "CryptoScoofTycoon.exe", "type": "Game" }
+
+{ "name": "Crysis2.exe", "type": "Game" }
+
+{ "name": "Crysis2Remastered.exe", "type": "Game" }
+
+{ "name": "Crysis3Remastered.exe", "type": "Game" }
+
+{ "name": "CrysisRemastered.exe", "type": "Game" }
+
+{ "name": "Crystalfall.exe", "type": "Game" }
+
+{ "name": "GSDKCnDemo.exe", "type": "Game" }
+{ "name": "Seria.exe", "type": "Game" }
+
+{ "name": "Crystal Project.exe", "type": "Game" }
+
+{ "name": "Crystals of Time.exe", "type": "Game" }
+
+{ "name": "CRYSTAR.exe", "type": "Game" }
+
+{ "name": "CS2D.exe", "type": "Game" }
+
+{ "name": "CSTW.exe", "type": "Game" }
+
+{ "name": "CthulhuTCA.exe", "type": "BG_CPUIO" }
+{ "name": "CthulhuTCA-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "CubeEscapeCollection.exe", "type": "Game" }
+
+{ "name": "CubeEscapeParadox.exe", "type": "Game" }
+
+{ "name": "CubeRacer.exe", "type": "Game" }
+{ "name": "CubeRacerServer.exe", "type": "Service" }
+
+{ "name": "cubeworld.exe", "type": "Game" }
+
+{ "name": "Cubic.exe", "type": "Game" }
+
+{ "name": "CubicCosmos.exe", "type": "Game" }
+
+{ "name": "CubicOdysseySteam.exe", "type": "Game" }
+
+{ "name": "Banana and Cucumber.exe", "type": "Game" }
+
+{ "name": "cueclub2.exe", "type": "Game" }
+
+{ "name": "Cuisineer.exe", "type": "Game" }
+
+{ "name": "CULTIC.exe", "type": "Game" }
+
+{ "name": "cultistsimulator.exe", "type": "Game" }
+
+{ "name": "CultivationMagicWorld.exe", "type": "Game" }
+
+{ "name": "CultivationStoryReincarnation.exe", "type": "Game" }
+
+{ "name": "Cult Of The Lamb.exe", "type": "Game" }
+
+{ "name": "GameMp.exe", "type": "Game" }
+
+{ "name": "CUM Queens.exe", "type": "Game" }
+
+{ "name": "Cuphead.exe", "type": "Game" }
+
+{ "name": "Cure.exe", "type": "BG_CPUIO" }
+{ "name": "Cure-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "The Curious Expedition.exe", "type": "Game" }
+
+{ "name": "CE2.exe", "type": "Game" }
+
+{ "name": "cursedcompanions.exe", "type": "Game" }
+
+{ "name": "Cursed Words.exe", "type": "Game" }
+
+{ "name": "Curse of the Dead Gods.exe", "type": "Game"}
+
+{ "name": "CustomCursor.exe", "type": "BG_CPUIO" }
+
+{ "name": "COM3D2x64.exe", "type": "Game" }
+{ "name": "COM3D2.exe", "type": "Game" }
+
+{ "name": "Cute Cute Cuties.exe", "type": "Game" }
+
+{ "name": "CuteDogs.exe", "type": "Game" }
+
+{ "name": "CYANBRAIN.exe", "type": "Game" }
+
+{ "name": "Cybarian.exe", "type": "Game" }
+
+{ "name": "CyberHook.exe", "type": "Game" }
+
+{ "name": "Cyberhunt - Original.exe", "type": "Game" }
+{ "name": "Cyberhunt.exe", "type": "Game" }
+
+{ "name": "CyberKnights.exe", "type": "Game" }
+
+{ "name": "Cyber Lady.exe", "type": "Game" }
+
+{ "name": "CyberManhunt.exe", "type": "Game" }
+
+{ "name": "CyberManhunt2.exe", "type": "Game" }
+
+{ "name": "CyberParanoia demo.exe", "type": "Game" }
+
+{ "name": "Cyberpunk2077.exe", "type": "Game" }
+
+{ "name": "cyberpunkdreams.exe", "type": "Game" }
+
+{ "name": "Cycle Idle RPG.exe", "type": "Game" }

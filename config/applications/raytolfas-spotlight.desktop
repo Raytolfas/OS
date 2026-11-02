@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Spotlight
+Comment=Quick command bar, application launcher, and calculator
+Exec=/usr/bin/raytolfas-spotlight
+Icon=system-search
+Terminal=false
+Categories=Utility;System;

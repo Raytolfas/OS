@@ -5,9 +5,10 @@ SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd -- "${SCRIPT_DIR}/../.." && pwd)"
 
 ISO_ROOT="${REPO_ROOT}/build/iso"
-STAGING_DIR="${ISO_ROOT}/staging"
+STAGING_DIR="/var/lib/raytolfas/iso-staging"
 ISO_FILE="${ISO_ROOT}/raytolfas-os-d1.iso"
-ISO_TMP="${ISO_ROOT}/raytolfas-os-d1.tmp.iso"
+ISO_TMP="/var/lib/raytolfas/raytolfas-os-d1.tmp.iso"
+rm -rf "${ISO_ROOT}/staging"
 
 INITRAMFS_IMAGE="${REPO_ROOT}/build/initramfs/d1-initramfs.cpio.gz"
 LIMINE_DIR="${REPO_ROOT}/build/limine"
@@ -77,8 +78,7 @@ if [[ -d "${PLASMA_ROOTFS}" && -f "${REPO_ROOT}/build/.plasma_rootfs_ready" ]]; 
     else
         echo "[iso] packing filesystem.squashfs from plasma-rootfs..."
         sudo rm -f "${STAGING_DIR}/live/filesystem.squashfs" "/var/lib/raytolfas/filesystem.squashfs"
-        sudo mksquashfs "${PLASMA_ROOTFS}" "/var/lib/raytolfas/filesystem.squashfs" -comp zstd -Xcompression-level 10 -b 256K -no-xattrs -noappend -processors 4 -mem 3G
-        sudo mv -f "/var/lib/raytolfas/filesystem.squashfs" "${STAGING_DIR}/live/filesystem.squashfs"
+        sudo mksquashfs "${PLASMA_ROOTFS}" "${STAGING_DIR}/live/filesystem.squashfs" -comp zstd -Xcompression-level 10 -b 256K -no-xattrs -noappend -processors 4 -mem 3G
     fi
 fi
 
@@ -146,13 +146,13 @@ else
     echo "[iso] NOTE: limine host tool not available — BIOS HDD boot won't work, but CD/DVD boot is fine"
 fi
 
+rm -rf "${STAGING_DIR}"
+rm -f "${ISO_ROOT}/raytolfas-os-d1-v"*.iso*
+
 if mv -f "${ISO_TMP}" "${ISO_FILE}" 2>/dev/null; then
-    cp -f "${ISO_FILE}" "${ISO_ROOT}/raytolfas-os-d1-v26.10.2.iso" 2>/dev/null || true
     echo "[iso] ready: ${ISO_FILE}"
-    echo "[iso] versioned: ${ISO_ROOT}/raytolfas-os-d1-v26.10.2.iso"
 else
+    mv -f "${ISO_TMP}" "${ISO_ROOT}/raytolfas-os-d1.tmp.iso"
     echo "[iso] NOTE: ${ISO_FILE} is locked (VirtualBox?). New ISO saved as:"
-    echo "[iso]   ${ISO_TMP}"
-    echo "[iso] Close the VM and run: mv '${ISO_TMP}' '${ISO_FILE}'"
-    echo "[iso] Or load ${ISO_TMP} directly in VirtualBox."
+    echo "[iso]   ${ISO_ROOT}/raytolfas-os-d1.tmp.iso"
 fi

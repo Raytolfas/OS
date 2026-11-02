@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+MODE="${1:-ui}"
+
+export QT_QPA_PLATFORM="wayland;xcb"
+export QT_QUICK_CONTROLS_STYLE=Basic
+export MANGOHUD="${MANGOHUD:-1}"
+export ENABLE_VKBASALT="${ENABLE_VKBASALT:-1}"
+
+if [ "${MODE}" = "session" ]; then
+    exec kwin_wayland --xwayland "python3 /usr/share/raytolfas/console-mode/main.py"
+fi
+
+if command -v gamescope >/dev/null 2>&1 && [ "${MODE}" = "gamescope" ]; then
+    exec gamescope -f -e -- python3 /usr/share/raytolfas/console-mode/main.py
+fi
+
+if [ -f "/usr/share/raytolfas/console-mode/main.py" ]; then
+    exec python3 /usr/share/raytolfas/console-mode/main.py
+fi
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+REPO_CONSOLE="${SCRIPT_DIR}/../../apps/console-mode/main.py"
+if [ -f "${REPO_CONSOLE}" ]; then
+    exec python3 "${REPO_CONSOLE}"
+fi
+
+echo "Console Mode UI not found."
+exit 1

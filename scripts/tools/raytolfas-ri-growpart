@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_SRC="$(findmnt -n -o SOURCE / || true)"
+if [ -z "${ROOT_SRC}" ]; then
+    exit 0
+fi
+
+DISK_NAME="$(lsblk -no pkname "${ROOT_SRC}" 2>/dev/null | head -n 1 || true)"
+PART_NUM="$(echo "${ROOT_SRC}" | grep -o '[0-9]*$' || true)"
+
+if [ -n "${DISK_NAME}" ] && [ -n "${PART_NUM}" ]; then
+    DISK_DEV="/dev/${DISK_NAME}"
+    if command -v growpart >/dev/null 2>&1; then
+        growpart "${DISK_DEV}" "${PART_NUM}" 2>/dev/null || true
+    elif command -v parted >/dev/null 2>&1; then
+        parted -s "${DISK_DEV}" resizepart "${PART_NUM}" 100% 2>/dev/null || true
+    fi
+    partprobe "${DISK_DEV}" 2>/dev/null || true
+    resize2fs "${ROOT_SRC}" 2>/dev/null || true
+fi
+
+systemctl disable raytolfas-ri-growpart.service 2>/dev/null || true
+exit 0

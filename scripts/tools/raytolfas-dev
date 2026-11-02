@@ -1,0 +1,124 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+DEV_TARGET="${1:-status}"
+
+install_rust() {
+    echo "Installing Rust toolchain..."
+    if ! command -v rustup >/dev/null 2>&1; then
+        curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --no-modify-path
+        export PATH="${HOME}/.cargo/bin:${PATH}"
+    fi
+    echo "Rust is ready: $(rustc --version 2>/dev/null || echo 'installed')"
+}
+
+install_python() {
+    echo "Installing Astral uv (ultra-fast Python manager)..."
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    export PATH="${HOME}/.cargo/bin:${HOME}/.local/bin:${PATH}"
+    echo "Python uv is ready: $(uv --version 2>/dev/null || echo 'installed')"
+}
+
+install_node() {
+    echo "Installing Fast Node Manager (fnm) & Node.js..."
+    curl -fsSL https://fnm.vercel.app/install | bash -s -- --skip-shell
+    export PATH="${HOME}/.local/share/fnm:${PATH}"
+    if command -v fnm >/dev/null 2>&1; then
+        fnm install --lts
+        fnm default lts-latest
+    fi
+    echo "Node.js is ready"
+}
+
+install_cpp() {
+    echo "Installing C/C++ build toolchain..."
+    if [ "$(id -u)" -ne 0 ]; then
+        exec pkexec "$0" cpp
+    fi
+    apt-get update -qq
+    apt-get install -y --no-install-recommends build-essential clang lld cmake ninja-build gdb pkg-config
+    echo "C/C++ toolchain is ready: $(clang --version | head -n 1)"
+}
+
+install_docker() {
+    echo "Installing Podman (Rootless Docker replacement)..."
+    if [ "$(id -u)" -ne 0 ]; then
+        exec pkexec "$0" docker
+    fi
+    apt-get update -qq
+    apt-get install -y --no-install-recommends podman podman-docker uidmap
+    echo "Podman / Docker is ready: $(podman --version)"
+}
+
+show_status() {
+    local r_status="Not installed"
+    local p_status="Not installed"
+    local n_status="Not installed"
+    local c_status="Not installed"
+    local d_status="Not installed"
+
+    if which rustc >/dev/null 2>&1 && rustc --version >/dev/null 2>&1; then
+        r_status="$(rustc --version 2>/dev/null | head -n 1 | awk '{print $2}')"
+    elif [ -x "${HOME}/.cargo/bin/rustc" ]; then
+        r_status="$("${HOME}/.cargo/bin/rustc" --version 2>/dev/null | head -n 1 | awk '{print $2}')"
+    fi
+
+    if which uv >/dev/null 2>&1 && uv --version >/dev/null 2>&1; then
+        p_status="uv $(uv --version 2>/dev/null | head -n 1 | awk '{print $2}')"
+    elif [ -x "${HOME}/.cargo/bin/uv" ] || [ -x "${HOME}/.local/bin/uv" ]; then
+        p_status="uv installed"
+    elif which python3 >/dev/null 2>&1 && python3 --version >/dev/null 2>&1; then
+        p_status="Python $(python3 --version 2>/dev/null | head -n 1 | awk '{print $2}')"
+    fi
+
+    if which node >/dev/null 2>&1 && node --version >/dev/null 2>&1; then
+        n_status="$(node --version 2>/dev/null | head -n 1)"
+    fi
+
+    if which clang >/dev/null 2>&1 && clang --version >/dev/null 2>&1; then
+        c_status="Clang $(clang --version 2>/dev/null | head -n 1 | awk '{print $4}')"
+    elif which gcc >/dev/null 2>&1 && gcc --version >/dev/null 2>&1; then
+        c_status="GCC $(gcc --version 2>/dev/null | head -n 1 | awk '{print $4}')"
+    fi
+
+    if which podman >/dev/null 2>&1 && podman --version >/dev/null 2>&1; then
+        d_status="Podman $(podman --version 2>/dev/null | head -n 1 | awk '{print $3}')"
+    elif which docker >/dev/null 2>&1 && docker --version >/dev/null 2>&1; then
+        d_status="Docker $(docker --version 2>/dev/null | head -n 1 | awk '{print $3}' | tr -d ',')"
+    fi
+
+    cat << EOF
+{
+  "rust": "${r_status}",
+  "python": "${p_status}",
+  "node": "${n_status}",
+  "cpp": "${c_status}",
+  "docker": "${d_status}"
+}
+EOF
+}
+
+case "${DEV_TARGET}" in
+    rust)
+        install_rust
+        ;;
+    python)
+        install_python
+        ;;
+    node)
+        install_node
+        ;;
+    cpp)
+        install_cpp
+        ;;
+    docker|podman)
+        install_docker
+        ;;
+    status)
+        show_status
+        ;;
+    *)
+        echo "Usage: $0 {rust|python|node|cpp|docker|status}"
+        exit 1
+        ;;
+esac

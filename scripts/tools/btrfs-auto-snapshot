@@ -1,0 +1,101 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ACTION="${1:-create}"
+LABEL="${2:-manual}"
+SNAP_DIR="/.snapshots"
+MAX_SNAPSHOTS=10
+
+FSTYPE="$(findmnt -n -o FSTYPE / 2>/dev/null || true)"
+if [ "${FSTYPE}" != "btrfs" ]; then
+    if [ "${ACTION}" = "list-names" ]; then
+        exit 0
+    fi
+    if [ "${ACTION}" = "manual" ] || [ "${ACTION}" = "rollback" ]; then
+        echo "Root filesystem is ${FSTYPE:-not btrfs} (Btrfs required)"
+        exit 1
+    fi
+    exit 0
+fi
+
+if ! command -v btrfs >/dev/null 2>&1; then
+    exit 0
+fi
+
+mkdir -p "${SNAP_DIR}"
+
+case "${ACTION}" in
+    create|pre|apt|manual)
+        TIMESTAMP="$(date +%Y%m%d-%H%M%S)"
+        SNAP_NAME="snap-${TIMESTAMP}-${LABEL}"
+        SNAP_PATH="${SNAP_DIR}/${SNAP_NAME}"
+        if [ ! -e "${SNAP_PATH}" ]; then
+            btrfs subvolume snapshot / "${SNAP_PATH}" >/dev/null 2>&1
+        fi
+
+        mapfile -t SNAPS < <(ls -1d "${SNAP_DIR}"/snap-* 2>/dev/null | sort || true)
+        COUNT="${#SNAPS[@]}"
+        if [ "${COUNT}" -gt "${MAX_SNAPSHOTS}" ]; then
+            REMOVE_COUNT=$(( COUNT - MAX_SNAPSHOTS ))
+            for (( i=0; i<REMOVE_COUNT; i++ )); do
+                btrfs subvolume delete "${SNAPS[$i]}" >/dev/null 2>&1 || rm -rf "${SNAPS[$i]}" 2>/dev/null || true
+            done
+        fi
+
+        if command -v limine-snapper-ext >/dev/null 2>&1; then
+            limine-snapper-ext >/dev/null 2>&1 || true
+        fi
+        echo "Created ${SNAP_NAME}"
+        ;;
+    list-names)
+        if [ -d "${SNAP_DIR}" ]; then
+            for s in $(ls -1d "${SNAP_DIR}"/snap-* 2>/dev/null | sort -r); do
+                basename "$s"
+            done
+        fi
+        ;;
+    rollback)
+        TARGET_SNAP="${LABEL}"
+        if [ "${TARGET_SNAP}" = "latest" ] || [ "${TARGET_SNAP}" = "manual" ]; then
+            TARGET_SNAP="$(ls -1d "${SNAP_DIR}"/snap-* 2>/dev/null | sort -r | head -n 1 | xargs -r basename || true)"
+        fi
+        if [ -z "${TARGET_SNAP}" ] || [ ! -d "${SNAP_DIR}/${TARGET_SNAP}" ]; then
+            echo "No snapshot found to restore"
+            exit 1
+        fi
+        SNAP_ID="$(btrfs subvolume list / | awk -v p=".snapshots/${TARGET_SNAP}" '$NF == p {print $2}' | head -n 1 || true)"
+        if [ -n "${SNAP_ID}" ]; then
+            btrfs subvolume set-default "${SNAP_ID}" /
+            if command -v limine-snapper-ext >/dev/null 2>&1; then
+                limine-snapper-ext >/dev/null 2>&1 || true
+            fi
+            echo "Set default subvolume to ${TARGET_SNAP}. Reboot to complete rollback."
+        else
+            echo "Could not resolve subvolume ID for ${TARGET_SNAP}"
+            exit 1
+        fi
+        ;;
+    delete)
+        TARGET_SNAP="${LABEL}"
+        if [ -n "${TARGET_SNAP}" ] && [ -d "${SNAP_DIR}/${TARGET_SNAP}" ]; then
+            btrfs subvolume delete "${SNAP_DIR}/${TARGET_SNAP}" >/dev/null 2>&1 || rm -rf "${SNAP_DIR}/${TARGET_SNAP}"
+            if command -v limine-snapper-ext >/dev/null 2>&1; then
+                limine-snapper-ext >/dev/null 2>&1 || true
+            fi
+            echo "Deleted ${TARGET_SNAP}"
+        fi
+        ;;
+    prune)
+        mapfile -t SNAPS < <(ls -1d "${SNAP_DIR}"/snap-* 2>/dev/null | sort || true)
+        COUNT="${#SNAPS[@]}"
+        if [ "${COUNT}" -gt "${MAX_SNAPSHOTS}" ]; then
+            REMOVE_COUNT=$(( COUNT - MAX_SNAPSHOTS ))
+            for (( i=0; i<REMOVE_COUNT; i++ )); do
+                btrfs subvolume delete "${SNAPS[$i]}" >/dev/null 2>&1 || rm -rf "${SNAPS[$i]}" 2>/dev/null || true
+            done
+        fi
+        if command -v limine-snapper-ext >/dev/null 2>&1; then
+            limine-snapper-ext >/dev/null 2>&1 || true
+        fi
+        ;;
+esac

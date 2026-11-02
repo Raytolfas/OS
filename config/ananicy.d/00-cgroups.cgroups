@@ -1,0 +1,4 @@
+
+{ "cgroup": "cpu90", "CPUQuota": 90 }
+{ "cgroup": "cpu85", "CPUQuota": 85 }
+{ "cgroup": "cpu80", "CPUQuota": 80 }

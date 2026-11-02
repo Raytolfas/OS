@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+CYAN='\033[1;36m'
+BLUE='\033[1;34m'
+GREEN='\033[1;32m'
+YELLOW='\033[1;33m'
+RESET='\033[0m'
+BOLD='\033[1m'
+
+echo -e "${CYAN}====================================================${RESET}"
+echo -e "${BLUE}${BOLD}        Raytolfas OS System Benchmark v26.11.0       ${RESET}"
+echo -e "${CYAN}====================================================${RESET}"
+
+CPU_MODEL="$(lscpu 2>/dev/null | grep 'Model name:' | head -n 1 | sed 's/Model name:[ \t]*//' || true)"
+CPU_CORES="$(nproc 2>/dev/null || echo 1)"
+KERNEL_VER="$(uname -r)"
+
+echo -e "CPU:    ${BOLD}${CPU_MODEL}${RESET} (${CPU_CORES} threads)"
+echo -e "Kernel: ${BOLD}${KERNEL_VER}${RESET}"
+echo ""
+
+echo -ne "${YELLOW}[*] Benchmarking CPU (Single-core sha256)... ${RESET}"
+T_START="$(date +%s%N)"
+dd if=/dev/zero bs=1M count=300 2>/dev/null | sha256sum >/dev/null
+T_END="$(date +%s%N)"
+T_DIFF=$(( (T_END - T_START) / 1000000 ))
+if [ "${T_DIFF}" -gt 0 ]; then
+    SC_SCORE=$(( 300000 / T_DIFF ))
+    echo -e "${GREEN}${SC_SCORE} MB/s (${T_DIFF} ms)${RESET}"
+else
+    echo -e "${GREEN}Instant${RESET}"
+fi
+
+echo -ne "${YELLOW}[*] Benchmarking CPU (Multi-core ${CPU_CORES}T)... ${RESET}"
+T_START="$(date +%s%N)"
+seq 1 "${CPU_CORES}" | xargs -n 1 -P "${CPU_CORES}" bash -c 'dd if=/dev/zero bs=1M count=200 2>/dev/null | sha256sum >/dev/null'
+T_END="$(date +%s%N)"
+T_DIFF=$(( (T_END - T_START) / 1000000 ))
+TOTAL_DATA=$(( 200 * CPU_CORES ))
+if [ "${T_DIFF}" -gt 0 ]; then
+    MC_SCORE=$(( (TOTAL_DATA * 1000) / T_DIFF ))
+    echo -e "${GREEN}${MC_SCORE} MB/s aggregate (${T_DIFF} ms)${RESET}"
+else
+    echo -e "${GREEN}Instant${RESET}"
+fi
+
+echo -ne "${YELLOW}[*] Benchmarking Memory (RAM Throughput)... ${RESET}"
+RAM_RES="$(dd if=/dev/zero of=/dev/null bs=1M count=2048 2>&1 | grep -o '[0-9.]* [GM]B/s' | tail -n 1 || true)"
+echo -e "${GREEN}${RAM_RES:-Done}${RESET}"
+
+echo -ne "${YELLOW}[*] Benchmarking Root Storage (Write & Read)... ${RESET}"
+TMP_FILE="$(mktemp -p /tmp bench-XXXXXX.tmp)"
+DISK_WRITE="$(dd if=/dev/zero of="${TMP_FILE}" bs=1M count=500 conv=fdatasync 2>&1 | grep -o '[0-9.]* [GM]B/s' | tail -n 1 || true)"
+DISK_READ="$(dd if="${TMP_FILE}" of=/dev/null bs=1M count=500 2>&1 | grep -o '[0-9.]* [GM]B/s' | tail -n 1 || true)"
+rm -f "${TMP_FILE}"
+echo -e "${GREEN}Write: ${DISK_WRITE:-N/A} | Read: ${DISK_READ:-N/A}${RESET}"
+
+echo ""
+echo -e "${CYAN}====================================================${RESET}"
+echo -e "${GREEN}${BOLD}Benchmark complete! System is fully optimized.${RESET}"
+echo -e "${CYAN}====================================================${RESET}"

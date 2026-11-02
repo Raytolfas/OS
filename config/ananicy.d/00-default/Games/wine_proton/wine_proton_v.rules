@@ -1,0 +1,305 @@
+
+
+{ "name": "VA-11 Hall A.exe", "type": "Game" }
+
+{ "name": "Vacation Simulator.exe", "type": "Game" }
+
+{ "name": "VacuumWarrior.exe", "type": "Game" }
+
+{ "name": "Exorcist-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Khan.exe", "type": "Game" }
+{ "name": "Khan-32.exe", "type": "Game" }
+
+{ "name": "vagante.exe", "type": "Game" }
+
+{ "name": "Vagrus.exe", "type": "Game" }
+
+{ "name": "VAIL.exe", "type": "BG_CPUIO" }
+{ "name": "VAIL-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Valdis_Story_AC.exe", "type": "Game" }
+
+{ "name": "MotoGPVR46.exe", "type": "Game" }
+{ "name": "MotoGPVR46X64.exe", "type": "Game" }
+
+{ "name": "Valheim.exe", "type": "Game" }
+
+{ "name": "valheim_server.exe", "type": "Service" }
+
+{ "name": "Valiant Hearts.exe", "type": "Game" }
+
+{ "name": "Valkyria.exe", "type": "Game" }
+
+{ "name": "Valkyria4_x64.exe", "type": "Game" }
+
+{ "name": "MedievalRPG.exe", "type": "BG_CPUIO" }
+{ "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ValorbornLauncher.exe", "type": "BG_CPUIO" }
+
+{ "name": "ValorMortis.exe", "type": "BG_CPUIO" }
+{ "name": "ValorMortis-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Vampire Hunters.exe", "type": "Game" }
+
+{ "name": "VBR.exe", "type": "BG_CPUIO" }
+{ "name": "VBR-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Vampire's Fall 2.exe", "type": "Game" }
+
+{ "name": "VampireSurvivors.exe", "type": "Game" }
+
+{ "name": "Tiger.exe", "type": "BG_CPUIO" }
+{ "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "vampire.exe", "type": "Game" }
+
+{ "name": "Bloodlines2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Bloodlines2.exe", "type": "BG_CPUIO" }
+
+{ "name": "Vampire.exe", "type": "Game" }
+
+{ "name": "VtM Coteries of New York.exe", "type": "Game" }
+
+{ "name": "Swansong.exe", "type": "BG_CPUIO" }
+{ "name": "Swansong-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Vampire Therapist.exe", "type": "Game" }
+
+{ "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Vampy's Big Day.exe", "type": "Game" }
+
+{ "name": "vangers.exe", "type": "Game" }
+
+{ "name": "VanguardGalaxy.exe", "type": "Game" }
+
+{ "name": "VanguardOnline.exe", "type": "Game" }
+{ "name": "vanpri.exe", "type": "Game" }
+
+{ "name": "Vanquish.exe", "type": "Game" }
+
+{ "name": "Vault of Power.exe", "type": "Game" }
+
+{ "name": "VaultoftheVoid.exe", "type": "Game" }
+
+{ "name": "VaygrenLT.exe", "type": "Game" }
+
+{ "name": "VBridger.exe", "type": "Game" }
+
+{ "name": "Vector.exe", "type": "Game" }
+
+{ "name": "VEGAConflict.exe", "type": "Game" }
+
+{ "name": "Slottist.exe", "type": "Game" }
+
+{ "name": "vmspe130_x64.exe", "type": "BG_CPUIO" }
+
+{ "name": "vegas140_x64.exe", "type": "BG_CPUIO" }
+
+{ "name": "vegas180_x64.exe", "type": "BG_CPUIO" }
+
+{ "name": "launch_vegas230.exe", "type": "Game" }
+{ "name": "VEGAS_Pro_23_steam_setup.exe", "type": "Game" }
+
+{ "name": "launch_vegas210.exe", "type": "BG_CPUIO" }
+
+{ "name": "Vein.exe", "type": "Game" }
+{ "name": "Vein-Win64-Test.exe", "type": "Game" }
+
+{ "name": "VeinDemo.exe", "type": "Game" }
+{ "name": "VeinDemo-Win64-Test.exe", "type": "Game" }
+
+{ "name": "Vellum.exe", "type": "Game" }
+
+{ "name": "replay.exe", "type": "Game" }
+
+{ "name": "Vending Machine Co.exe", "type": "Game" }
+
+{ "name": "Venetica.exe", "type": "Game" }
+
+{ "name": "Verdun.exe", "type": "Game" }
+
+{ "name": "VERGE.exe", "type": "Game" }
+
+{ "name": "Verho.exe", "type": "Game" }
+
+{ "name": "DarkCastle.exe", "type": "Game" }
+
+{ "name": "vertigo2.exe", "type": "Game" }
+
+{ "name": "VGDD2.exe", "type": "Game" }
+
+{ "name": "VHOLUME.exe", "type": "BG_CPUIO" }
+{ "name": "VHOLUME-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "VHS.exe", "type": "Game" }
+
+{ "name": "victoria3.exe", "type": "Game" }
+
+{ "name": "victoria2.exe", "type": "Game" }
+
+{ "name": "VictorVranSteam.exe", "type": "Game" }
+
+{ "name": "Video 2 Live Wallpaper.exe", "type": "BG_CPUIO" }
+
+{ "name": "Vietnam War.exe", "type": "Game" }
+
+{ "name": "Viewfinder.exe", "type": "Game" }
+
+{ "name": "vigil.exe", "type": "Game" }
+
+{ "name": "Vigor.exe", "type": "BG_CPUIO" }
+{ "name": "FlameSteamClient-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "viking.exe", "type": "Game" }
+
+{ "name": "Viking Frontiers.exe", "type": "Game" }
+
+{ "name": "VR.exe", "type": "Game" }
+
+{ "name": "village.exe", "type": "Game" }
+
+{ "name": "VillagersAndHeroes.exe", "type": "Game" }
+
+{ "name": "Villages&Dungeons.exe", "type": "Game" }
+
+{ "name": "VIractal.exe", "type": "Game" }
+
+{ "name": "Viridi.exe", "type": "Game" }
+
+{ "name": "VFREVO.exe", "type": "Game" }
+
+{ "name": "Virtual Cottage_WINDOWS.exe", "type": "Game" }
+
+{ "name": "VirtualCottage2.exe", "type": "Game" }
+
+{ "name": "Virtual Desktop.exe", "type": "BG_CPUIO" }
+
+{ "name": "VFM.exe", "type": "Game" }
+
+{ "name": "vp4S.exe", "type": "Game" }
+{ "name": "vp4onlineS.exe", "type": "Game" }
+
+{ "name": "vsf_ng_32.exe", "type": "Game" }
+{ "name": "vsf_ng.exe", "type": "Game" }
+
+{ "name": "Visage.exe", "type": "BG_CPUIO" }
+{ "name": "Visage-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "UDKLift.exe", "type": "Game" }
+
+{ "name": "VisionsofMana.exe", "type": "BG_CPUIO" }
+{ "name": "VisionsofMana-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Visseron Idle.exe", "type": "Game" }
+
+{ "name": "VitalShell.exe", "type": "Game" }
+
+{ "name": "VHConsole.exe", "type": "Game" }
+
+{ "name": "VIVIDSTASIS.exe", "type": "Game" }
+
+{ "name": "VividWorld.exe", "type": "Game" }
+
+{ "name": "VLADiK_BRUTAL.exe", "type": "BG_CPUIO" }
+{ "name": "VLADiK_BRUTAL-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "V-Lover.exe", "type": "Game" }
+
+{ "name": "Voice Of Chernobyl.exe", "type": "Game" }
+
+{ "name": "VotV.exe", "type": "Game" }
+
+{ "name": "Void Bastards.exe", "type": "Game" }
+
+{ "name": "VOIDBREAKER.exe", "type": "BG_CPUIO" }
+{ "name": "VOIDBREAKER-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Void Crew.exe", "type": "Game" }
+
+{ "name": "VOID DIVER.exe", "type": "Game" }
+
+{ "name": "voidigo.exe", "type": "Game" }
+
+{ "name": "Voidsayer.exe", "type": "Game" }
+
+{ "name": "VoidStranger.exe", "type": "Game" }
+
+{ "name": "VoidTrain.exe", "type": "BG_CPUIO" }
+{ "name": "VoidTrain-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Void War.exe", "type": "Game" }
+
+{ "name": "Voidwrought.exe", "type": "Game" }
+
+{ "name": "VOIN.exe", "type": "BG_CPUIO" }
+{ "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Volcanoids.exe", "type": "Game" }
+
+{ "name": "VolcanoPrincess.exe", "type": "Game" }
+
+{ "name": "Volgarr.exe", "type": "Game" }
+
+{ "name": "Volkolak.exe", "type": "Game" }
+
+{ "name": "VolleyCourt.exe", "type": "Game" }
+
+{ "name": "FormationSystem.exe", "type": "BG_CPUIO" }
+{ "name": "FormationSystem-Win64-Shipping.exe", "type": "Game" }
+
+{ "name": "Voxelgram.exe", "type": "Game" }
+
+{ "name": "VoxelTycoon.exe", "type": "Game" }
+
+{ "name": "vm.exe", "type": "Game" }
+
+{ "name": "BoatGame.exe", "type": "BG_CPUIO" }
+{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Service" }
+
+{ "name": "VPet-Simulator.Windows.exe", "type": "Game" }
+{ "name": "VPet-Simulator.Windows_x86.exe", "type": "Game" }
+{ "name": "VPet.Solution.exe", "type": "Game" }
+
+{ "name": "VRally4.exe", "type": "Game" }
+
+{ "name": "VRCFaceTracking.exe", "type": "Game" }
+
+{ "name": "VRChat.exe", "type": "Game" }
+
+{ "name": "vrcpro.exe", "type": "Game" }
+
+{ "name": "VRCVideoCacher.exe", "type": "BG_CPUIO" }
+
+{ "name": "VRHandsFrameProcessManager.exe", "type": "BG_CPUIO" }
+{ "name": "VRHandsFrame.exe", "type": "BG_CPUIO" }
+
+{ "name": "VR HOT.exe", "type": "Game" }
+
+{ "name": "VRising.exe", "type": "Game" }
+
+{ "name": "VrmPosingDesktop.exe", "type": "BG_CPUIO" }
+
+{ "name": "VRoidStudio.exe", "type": "BG_CPUIO" }
+
+{ "name": "VSD Craft.exe", "type": "BG_CPUIO" }
+
+{ "name": "Vs. Impostor.exe", "type": "Game" }
+{ "name": "VS Impostor.exe", "type": "Game" }
+
+{ "name": "FNF - Vs. RetroSpecter.exe", "type": "Game" }
+
+{ "name": "VTOLVR.exe", "type": "Game" }
+
+{ "name": "Mod Manager.exe", "type": "BG_CPUIO" }
+
+{ "name": "VTuber Maker.exe", "type": "Game" }
+
+{ "name": "VTube Studio.exe", "type": "BG_CPUIO" }
+
+{ "name": "vultures.exe", "type": "Game" }
+{ "name": "Vultures.exe", "type": "Game" }
+
+{ "name": "VVVVVV.exe", "type": "Game" }

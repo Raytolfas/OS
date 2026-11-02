@@ -1,25 +1,33 @@
 #!/usr/bin/env bash
 set -e
 
-WIDTH="${1:-400}"
-HEIGHT="${2:-850}"
+MODE="${1:-glass}"
+WIDTH="${2:-390}"
+HEIGHT="${3:-820}"
 
-if ! command -v startplasmamobile >/dev/null 2>&1; then
-    echo "[Raytolfas M1 Simulator] Error: plasma-mobile package is not installed."
-    echo "Please install it by running:"
-    echo "    sudo apt install -y plasma-mobile"
-    exit 1
+if [ "${MODE}" = "compositor" ] && command -v startplasmamobile >/dev/null 2>&1; then
+    export QT_QPA_PLATFORM=wayland
+    export QT_QPA_PLATFORMTHEME=kde
+    export QT_WAYLAND_DISABLE_WINDOWDECORATION=1
+    export EGL_PLATFORM=wayland
+    export QT_QUICK_CONTROLS_MOBILE=true
+    export PLASMA_INTEGRATION_USE_PORTAL=1
+    export PLASMA_PLATFORM=phone:handset
+    export PLASMA_DEFAULT_SHELL=org.kde.plasma.phoneshell
+    exec kwin_wayland --width "${WIDTH}" --height "${HEIGHT}" --xwayland startplasmamobile
 fi
 
-export QT_QPA_PLATFORM=wayland
-export QT_QPA_PLATFORMTHEME=KDE
-export QT_WAYLAND_DISABLE_WINDOWDECORATION=1
-export EGL_PLATFORM=wayland
-export QT_QUICK_CONTROLS_STYLE=org.kde.breeze
-export QT_QUICK_CONTROLS_MOBILE=true
-export PLASMA_INTEGRATION_USE_PORTAL=1
-export PLASMA_PLATFORM=phone:handset
-export PLASMA_DEFAULT_SHELL=org.kde.plasma.phoneshell
+export QT_QUICK_CONTROLS_STYLE=Basic
 
-echo "[Raytolfas M1 Simulator] Starting mobile session (${WIDTH}x${HEIGHT})..."
-exec kwin_wayland --width "${WIDTH}" --height "${HEIGHT}" --xwayland startplasmamobile
+if [ -f "/usr/share/raytolfas/m1-shell/main.py" ]; then
+    exec python3 /usr/share/raytolfas/m1-shell/main.py
+fi
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+REPO_SHELL="${SCRIPT_DIR}/../../apps/m1-shell/main.py"
+if [ -f "${REPO_SHELL}" ]; then
+    exec python3 "${REPO_SHELL}"
+fi
+
+echo "M1 Shell not found."
+exit 1

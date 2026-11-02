@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+MimeType=application/x-ms-dos-executable;application/x-msdownload;application/x-dosexec;application/vnd.microsoft.portable-executable;application/x-msi;
+Actions=runWithProton;
+X-KDE-Priority=TopLevel
+
+[Desktop Action runWithProton]
+Name=Run with Proton-GE
+Name[ru]=Запустить через Proton-GE
+Icon=wine
+Exec=raytolfas-proton %f

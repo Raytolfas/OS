@@ -1,0 +1,8 @@
+{ "name": "ags", "type": "Doc-View" }
+
+{ "name": "rofi", "type": "Doc-View" }
+{ "name": "wofi", "type": "Doc-View" }
+
+{ "name": "tofi", "type": "Doc-View" }
+{ "name": "tofi-run", "type": "Doc-View" }
+{ "name": "tofi-drun", "type": "Doc-View" }

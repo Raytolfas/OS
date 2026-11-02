@@ -1,0 +1,129 @@
+
+
+{ "name": "Wagotabi.x86_64", "type": "Game" }
+
+{ "name": "wakingmars", "type": "Game" }
+
+{ "name": "AppRun", "type": "BG_CPUIO" }
+
+{ "name": "war_brokers.x86_64", "type": "Game" }
+
+{ "name": "wflc-linux.x86_64", "type": "Game" }
+
+{ "name": "warfork.x86_64", "type": "Game" }
+
+{ "name": "WFTOGame.x86_64", "type": "Game" }
+
+{ "name": "WarGame3", "type": "Game" }
+
+{ "name": "DawnOfWar3", "type": "Game" }
+
+{ "name": "DawnOfWar2Retribution", "type": "Game" }
+
+{ "name": "Gladius", "type": "BG_CPUIO" }
+
+{ "name": "Mechanicus.x86_64", "type": "Game" }
+
+{ "name": "Warplanes.x86_64", "type": "Game" }
+
+{ "name": "SteamLauncher", "type": "Game" }
+{ "name": "GlyphEngine", "type": "Game" }
+
+{ "name": "Warside.x86_64", "type": "Game" }
+
+{ "name": "warspear_32", "type": "Game" }
+{ "name": "warspear_64", "type": "Game" }
+
+{ "name": "aces", "type": "Game" }
+{ "name": "launcher", "type": "BG_CPUIO" }
+
+{ "name": "warzone2100", "type": "Game"}
+
+{ "name": "wasteland", "type": "Game" }
+
+{ "name": "Wasteland 3.x86_64", "type": "Game" }
+
+{ "name": "Waveform", "type": "Game" }
+
+{ "name": "wax_heads.x86_64", "type": "Game" }
+
+{ "name": "wayward", "type": "Game" }
+
+{ "name": "WeaponShopFantasy.x86", "type": "Game" }
+{ "name": "WeaponShopFantasy.x86_64", "type": "Game" }
+
+{ "name": "Wedding Witch.x86_64", "type": "Game" }
+
+{ "name": "GlimpseGame", "type": "Game" }
+
+{ "name": "WelcometoFreeWill", "type": "Game" }
+
+{ "name": "WeNeedToGoDeeper", "type": "Game" }
+
+{ "name": "West of Loathing.x86", "type": "Game" }
+{ "name": "West of Loathing.x86_64", "type": "Game" }
+
+{ "name": "We.TheRevolution.x86_64", "type": "Game" }
+{ "name": "We.TheRevolution.x86", "type": "Game" }
+{ "name": "We.TheRevolution.x86_64elf", "type": "Game" }
+{ "name": "We.TheRevolution.x86elf", "type": "Game" }
+
+{ "name": "We Were Here Too.x86", "type": "Game" }
+{ "name": "We Were Here Too.x86_64", "type": "Game" }
+
+{ "name": "WHAT THE GOLF", "type": "Game" }
+
+{ "name": "WTHI_Season1", "type": "Game" }
+
+{ "name": "wtl.x86_64", "type": "Game" }
+
+{ "name": "WhisperingLedger", "type": "Game" }
+
+{ "name": "WhisperingWillows.x86", "type": "Game" }
+{ "name": "WhisperingWillows.x86_64", "type": "Game" }
+
+{ "name": "WickedWays", "type": "Game" }
+
+{ "name": "wildermyth", "type": "Game" }
+
+{ "name": "wildwest.x86", "type": "Game" }
+
+{ "name": "windowkill-linux.x86_64", "type": "Game" }
+{ "name": "godotworkshoputility.x86_64", "type": "Game" }
+
+{ "name": "Windward Horizon.x86_64", "type": "Game" }
+
+{ "name": "Wireworks.x86_64", "type": "Game" }
+
+{ "name": "WithEyesClosed", "type": "Game" }
+
+{ "name": "without_within", "type": "Game" }
+
+{ "name": "WizardOfLegend.x86", "type": "Game" }
+{ "name": "WizardOfLegend.x86_64", "type": "Game" }
+
+{ "name": "WizUp.x86_64", "type": "Game" }
+
+{ "name": "WolfQuestAE.x86_64", "type": "Game" }
+
+{ "name": "WonderBoy", "type": "Game" }
+
+{ "name": "worldbox", "type": "Game" }
+
+{ "name": "WorldOfGoo.bin.x86_64", "type": "Game" }
+
+{ "name": "disasm.x86", "type": "Game" }
+
+{ "name": "WorldsOfMagic", "type": "Game" }
+
+{ "name": "WorldWarLegion.x86_64", "type": "Game" }
+
+{ "name": "WormsClanWars.bin.x86", "type": "Game" }
+
+{ "name": "WormsReloaded.bin.x86", "type": "Game" }
+
+{ "name": "Worms W.M.Dx64", "type": "Game" }
+
+{ "name": "wrath-steam", "type": "Game" }
+
+{ "name": "WreckRunners-Linux-Shipping", "type": "Game" }

@@ -1,0 +1,35 @@
+{ "name": "konsole", "type": "Doc-View" }
+{ "name": "yakuake", "type": "Doc-View" }
+
+{ "name": "st", "type": "Doc-View" }
+
+{ "name": "alacritty", "type": "Doc-View" }
+
+{ "name": "kitty", "type": "Doc-View" }
+
+{ "name": "hyper", "type": "Doc-View" }
+
+{ "name": "mosh", "type": "Doc-View" }
+
+{ "name": "foot", "type": "Doc-View" }
+{ "name": "footclient", "type": "Doc-View" }
+
+{ "name": "gnome-terminal-server", "type": "Doc-View" }
+
+{ "name": "urxvt", "type": "Doc-View" }
+{ "name": "urxvtc", "type": "Doc-View" }
+{ "name": "urxvtd", "type": "Doc-View" }
+{ "name": "urxvt-tabbed", "type": "Doc-View" }
+
+{ "name": "wayst", "type": "Doc-View" }
+
+{ "name": "wezterm-gui", "type": "Doc-View" }
+
+{ "name": "ghostty", "type": "Doc-View" }
+
+{ "name": "rio", "type": "Doc-View" }
+
+{ "name": "ptyxis", "type": "Doc-View" }
+{ "name": "ptyxis-agent", "type": "Doc-View" }
+
+{ "name": "cosmic-term", "type": "Doc-View" }
