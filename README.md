@@ -2,12 +2,12 @@
 
 # Raytolfas OS
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
-[![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org)
-[![Wayland](https://img.shields.io/badge/Wayland-153F75?style=for-the-badge&logo=wayland&logoColor=white)](https://wayland.freedesktop.org)
-[![Waydroid](https://img.shields.io/badge/Waydroid-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://waydro.id)
-[![Proton-GE](https://img.shields.io/badge/Proton--GE-66C0F4?style=for-the-badge&logo=steam&logoColor=white)](https://github.com/GloriousEggroll/proton-ge-custom)
-[![Limine](https://img.shields.io/badge/Limine-111111?style=for-the-badge&logo=terminal&logoColor=white)](https://limine-bootloader.org/)
+[![Linux](https://badgen.net/badge/Linux/kernel?color=FCC624&icon=linux)](https://kernel.org)
+[![KDE Plasma](https://badgen.net/badge/KDE/Plasma?color=1D99F3)](https://kde.org)
+[![Wayland](https://badgen.net/badge/Display/Wayland?color=153F75)](https://wayland.freedesktop.org)
+[![Waydroid](https://badgen.net/badge/Container/Waydroid?color=3DDC84)](https://waydro.id)
+[![Proton-GE](https://badgen.net/badge/Compatibility/Proton-GE?color=66C0F4)](https://github.com/GloriousEggroll/proton-ge-custom)
+[![Limine](https://badgen.net/badge/Bootloader/Limine?color=111111)](https://limine-bootloader.org/)
 
 Desktop Linux distribution built with KDE Plasma on Wayland, featuring out-of-the-box Windows (`.exe`) and Android (`.apk`) runtime support, powered by the Limine bootloader.
 
