@@ -61,18 +61,18 @@ sudo chmod 1777 "${MOUNT_DIR}/tmp"
 
 cat << 'EOF' | sudo tee "${MOUNT_DIR}/etc/os-release" > /dev/null
 NAME="Raytolfas OS"
-PRETTY_NAME="Raytolfas OS M1 (v26.11.0)"
+PRETTY_NAME="Raytolfas OS M1 (v26.11.1)"
 ID=raytolfas
 ID_LIKE="ubuntu debian"
-VERSION="v26.11.0"
-VERSION_ID="26.11.0"
+VERSION="v26.11.1"
+VERSION_ID="26.11.1"
 VERSION_CODENAME="noble"
 HOME_URL="https://os.raytolfas.com"
 LOGO=raytolfas-logo
 EOF
 
 sudo cp -f "${MOUNT_DIR}/etc/os-release" "${MOUNT_DIR}/usr/lib/os-release" 2>/dev/null || true
-echo 'Raytolfas OS M1 (v26.11.0)' | sudo tee "${MOUNT_DIR}/etc/issue" "${MOUNT_DIR}/etc/issue.net" > /dev/null
+echo 'Raytolfas OS M1 (v26.11.1)' | sudo tee "${MOUNT_DIR}/etc/issue" "${MOUNT_DIR}/etc/issue.net" > /dev/null
 echo "m1-phone" | sudo tee "${MOUNT_DIR}/etc/hostname" > /dev/null
 sudo sed -i "s/d1-pc/m1-phone/g; s/raytolfas-pc/m1-phone/g" "${MOUNT_DIR}/etc/hosts" 2>/dev/null || true
 
@@ -105,6 +105,7 @@ EOF
 
 sudo mkdir -p "${MOUNT_DIR}/boot/efi/EFI/BOOT"
 sudo mkdir -p "${MOUNT_DIR}/boot/efi/boot"
+sudo cp -f "${REPO_ROOT}/build/limine/BOOTAA64.EFI" "${MOUNT_DIR}/boot/efi/EFI/BOOT/BOOTAA64.EFI"
 sudo cp -f "${REPO_ROOT}/build/limine/BOOTX64.EFI" "${MOUNT_DIR}/boot/efi/EFI/BOOT/BOOTX64.EFI"
 sudo cp -f "${REPO_ROOT}/build/limine/limine-bios.sys" "${MOUNT_DIR}/boot/efi/limine-bios.sys"
 sudo cp -f "${REPO_ROOT}/build/limine/limine-bios.sys" "${MOUNT_DIR}/boot/limine-bios.sys"
@@ -121,7 +122,25 @@ timeout: 2
 serial: no
 term_background: 000000
 
-/Raytolfas OS M1
+/Raytolfas OS M1 (Native Phone Display)
+    protocol: linux
+    path: boot():/boot/vmlinuz
+    module_path: boot():/boot/initrd.img
+    cmdline: root=LABEL=m1-rootfs rw quiet splash console=tty0
+
+/Raytolfas OS M1 (Phone 720x1440)
+    protocol: linux
+    path: boot():/boot/vmlinuz
+    module_path: boot():/boot/initrd.img
+    cmdline: root=LABEL=m1-rootfs rw quiet splash video=720x1440@60 console=tty0
+
+/Raytolfas OS M1 (Phone 1080x1920)
+    protocol: linux
+    path: boot():/boot/vmlinuz
+    module_path: boot():/boot/initrd.img
+    cmdline: root=LABEL=m1-rootfs rw quiet splash video=1080x1920@60 console=tty0
+
+/Raytolfas OS M1 (Emulator 540x960)
     protocol: linux
     path: boot():/boot/vmlinuz
     module_path: boot():/boot/initrd.img
